@@ -100,6 +100,8 @@ Il sito legge `notizie.json`. Se il file manca o ha più di 12 ore, per esempio 
 
 La traduzione automatica è buona ma non perfetta: nomi di aziende e termini tecnici a volte vengono resi alla lettera. Per questo l'originale resta sempre a un tocco di distanza.
 
+Lo script aiuta il modello dove sbaglierebbe di sicuro. Toglie dai nomi stranieri gli accenti che il modello non conosce e li rimette dopo la traduzione: altrimenti «Vučić» diventerebbe «Vui». Riscrive i simboli che non conosce, come «£». Nei titoli sposta l'anno in fondo: «Sparatoria della chiesa di Karak (2026)» invece di «2026 Karak chiesa sparatoria». Se cambi il modo di tradurre, aumenta `VERSIONE_TRADUZIONE` in `strumenti/notizie.py`: al giro successivo il robot ritraduce tutto invece di riusare le traduzioni salvate.
+
 Il robot salva `notizie.json` ogni 3 ore sul ramo `main`. Se lavori sul codice, prima di caricare le tue modifiche aggiorna la tua copia con `git pull --rebase`. Ogni salvataggio è una modifica vera del repository, quindi GitHub non sospende la programmazione per inattività, come fa dopo 60 giorni senza modifiche.
 
 Per provarlo sul tuo computer servono Python 3.12 e le dipendenze:

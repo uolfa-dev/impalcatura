@@ -24,6 +24,7 @@ import os
 import re
 import sys
 import time
+import unicodedata
 import urllib.parse
 import urllib.request
 
@@ -36,6 +37,8 @@ PAGINA_EVENTI = "Portal:Current_events"
 PAGINA_ITN = "Template:In_the_news"
 MODELLO = "Helsinki-NLP/opus-mt-tc-big-en-it"
 REVISIONE = "592d2cfb0797867f1dd223e49141de051faa65c7"
+# Da aumentare quando cambia il modo di tradurre: le traduzioni salvate con una versione diversa si rifanno.
+VERSIONE_TRADUZIONE = 2
 LOTTO = 8
 REPO = os.environ.get("GITHUB_REPOSITORY", "uolfa-dev/impalcatura")
 # Wikimedia chiede a chi usa le sue API di farsi riconoscere e di indicare un contatto.
@@ -159,12 +162,73 @@ def analizza_itn(html):
 
 # ---------- Traduzione ----------
 
+# Le sole lettere accentate che il modello sa leggere (misurate sul suo vocabolario): le altre (á, č, ñ, ö, É...)
+# per lui sono sconosciute e le perde, così «Vučić» diventava «Vui». Quelle parole si traducono senza accenti.
+ITALIANE = set("àèéìòùÈ")
+SPECIALI = {"ł": "l", "Ł": "L", "ø": "o", "Ø": "O", "đ": "d", "Đ": "D", "ß": "ss", "æ": "ae", "Æ": "Ae",
+            "œ": "oe", "Œ": "Oe", "ı": "i", "ð": "d", "Ð": "D", "þ": "th", "Þ": "Th"}
+
+
+def piega(parola):
+    """«Vučić» -> «Vucic»: toglie gli accenti che il modello non sa scrivere."""
+    semplice = unicodedata.normalize("NFKD", "".join(SPECIALI.get(c, c) for c in parola))
+    return "".join(c for c in semplice if not unicodedata.combining(c))
+
+
+def proteggi_nomi(testo):
+    """Scrive senza accenti le parole che il modello rovinerebbe e ricorda come rimetterli."""
+    sostituzioni = {}
+
+    def cambia(trovata):
+        parola = trovata.group(0)
+        if all(ord(c) < 128 or c in ITALIANE for c in parola):
+            return parola
+        piegata = piega(parola)
+        if piegata == parola or not piegata.isascii():
+            return parola
+        sostituzioni.setdefault(piegata, parola)
+        return piegata
+
+    return re.sub(r"\w+", cambia, testo), sostituzioni
+
+
+def ripristina_nomi(testo, sostituzioni):
+    for piegata, originale in sostituzioni.items():
+        testo = re.sub(r"(?<!\w)" + re.escape(piegata) + r"(?!\w)", originale, testo)
+    return testo
+
+
+def sposta_anno(titolo):
+    # «2026 Karak church shooting» -> «Karak church shooting (2026)»: tradotto suona meglio.
+    # «2026 in Ukraine» resta com'è: «in Ucraina (2026)» non vorrebbe dire niente.
+    anno = re.match(r"(\d{4}(?:[–-]\d{2,4})?) ([A-Z0-9].*)$", titolo)
+    return f"{anno.group(2)} ({anno.group(1)})" if anno else titolo
+
+
+def prepara_contesto(testo):
+    # Il contesto può mettere in fila più titoli: «2026 Iran war fuel crisis, Canada and the 2026 Iran war».
+    return ", ".join(sposta_anno(t) for t in testo.split(", "))
+
+
+def semplifica_simboli(testo):
+    """Riscrive i simboli che il modello non conosce e perderebbe: «£5 billion» diventava «5 miliardi»."""
+    testo = re.sub(r"\s*—\s*", " – ", testo)
+    testo = re.sub(r"(?<=\S)–(?=\S)", "-", testo)  # 2025–26, Israel–Hamas
+    return re.sub(r"£\s?(\d[\d,.]*(?:\s?(?:million|billion|trillion|bn|m)\b)?)", r"\1 pounds sterling", testo)
+
+
+def prepara(testo, titolo=False):
+    return proteggi_nomi(semplifica_simboli(prepara_contesto(testo) if titolo else testo))
+
+
 def traduzioni_precedenti(percorso):
-    """Coppie inglese -> italiano già presenti nel notizie.json precedente."""
+    """Coppie inglese -> italiano già presenti nel notizie.json precedente, se tradotte nello stesso modo."""
     try:
         with open(percorso, encoding="utf-8") as f:
             vecchio = json.load(f)
     except (OSError, ValueError):
+        return {}
+    if (vecchio.get("traduzione") or {}).get("versione") != VERSIONE_TRADUZIONE:
         return {}
     coppie = {}
     voci = list(vecchio.get("itn", [])) + [v for g in vecchio.get("giorni", []) for v in g.get("voci", [])]
@@ -181,7 +245,7 @@ def plausibile(originale, tradotto):
     return bool(tradotto) and len(tradotto) <= 3 * len(originale) + 20
 
 
-def traduci(testi):
+def traduci(testi, contesti=()):
     if not testi:
         return {}
     import torch
@@ -194,15 +258,19 @@ def traduci(testi):
     modello.eval()
     log(f"  modello caricato in {time.time() - inizio:.0f} s")
 
+    contesti = set(contesti)
     risultati = {}
     ordinati = sorted(testi, key=len)  # testi di lunghezza simile nello stesso lotto: meno spreco
     for i in range(0, len(ordinati), LOTTO):
         lotto = ordinati[i:i + LOTTO]
-        codificati = tokenizzatore(lotto, return_tensors="pt", padding=True, truncation=True, max_length=512)
+        preparati = [prepara(t, t in contesti) for t in lotto]
+        codificati = tokenizzatore([p[0] for p in preparati], return_tensors="pt", padding=True,
+                                   truncation=True, max_length=512)
         with torch.inference_mode():
-            uscite = modello.generate(**codificati, num_beams=4, max_new_tokens=512)
-        for originale, uscita in zip(lotto, uscite):
+            uscite = modello.generate(**codificati, num_beams=4, max_length=512)
+        for originale, (_, sostituzioni), uscita in zip(lotto, preparati, uscite):
             tradotto = tokenizzatore.decode(uscita, skip_special_tokens=True).strip()
+            tradotto = ripristina_nomi(tradotto, sostituzioni).replace("’", "'").replace("‘", "'")
             if plausibile(originale, tradotto):
                 risultati[originale] = tradotto
             else:
@@ -240,10 +308,11 @@ def main():
     completa = True
     if not args.senza_traduzione:
         testi = sorted({t for v in voci for t in [v["testo"], *v["contesto"]] if t})
+        contesti = {c for v in voci for c in v["contesto"]} - {v["testo"] for v in voci}
         nuovi = [t for t in testi if t not in coppie]
         log(f"Traduco {len(nuovi)} testi nuovi ({len(testi) - len(nuovi)} già tradotti)...")
         try:
-            coppie.update(traduci(nuovi))
+            coppie.update(traduci(nuovi, contesti))
         except Exception as errore:
             # Meglio notizie fresche in parte in inglese che notizie vecchie: il sito mostra l'originale.
             log(f"ATTENZIONE: traduzione non riuscita ({errore}); restano in inglese i testi nuovi.")
@@ -264,6 +333,7 @@ def main():
         "traduzione": None if args.senza_traduzione else {
             "modello": MODELLO,
             "revisione": REVISIONE,
+            "versione": VERSIONE_TRADUZIONE,
             "completa": completa and tradotte == len(voci),
         },
         "itn": itn,
