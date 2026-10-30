@@ -175,6 +175,7 @@ label { font-weight: 600; font-size: .92rem; display: block; margin: 10px 0 4px;
 .notizia .originale { font-size: .82rem; color: var(--tenue); margin: 2px 0 4px; }
 .notizia .originale > summary { font-weight: 400; display: inline-block; text-decoration: underline dotted; }
 .notizia .originale p { margin: 4px 0 0; }
+.notizia .originale .contesto { margin-top: 4px; }
 .aggancio { background: var(--accento-chiaro); border-radius: 10px; padding: 10px 12px; margin-top: 6px; font-size: .95rem; }
 .aggancio a { font-weight: 700; }
 .aggancio + .aggancio { margin-top: 6px; }

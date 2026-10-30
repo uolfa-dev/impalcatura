@@ -36,12 +36,15 @@
     notizia: function (v, abbinamenti, opzioni) {
       opzioni = opzioni || {};
       const contestoVoci = v.contesto_it && v.contesto && v.contesto_it.length === v.contesto.length ? v.contesto_it : v.contesto;
+      const contestoTradotto = contestoVoci !== v.contesto && v.contesto.length > 0;
       const contesto = contestoVoci && contestoVoci.length ? '<div class="contesto">' + U.esc(contestoVoci.join(' › ')) + '</div>' : '';
       const testo = v.testo_it
         ? '<div class="testo" lang="it">' + U.esc(v.testo_it) + '</div>'
         : '<div class="testo" lang="en">' + U.esc(v.testo) + '</div>';
-      const originale = v.testo_it
-        ? '<details class="originale"><summary>Originale in inglese</summary><p lang="en">' + U.esc(v.testo) + '</p></details>'
+      const originale = v.testo_it || contestoTradotto
+        ? '<details class="originale"><summary>Originale in inglese</summary>' +
+          (contestoTradotto ? '<div class="contesto" lang="en">' + U.esc(v.contesto.join(' › ')) + '</div>' : '') +
+          (v.testo_it ? '<p lang="en">' + U.esc(v.testo) + '</p>' : '') + '</details>'
         : '';
       const fonti = (v.fonti || []).map(function (f) {
         return '<a href="' + U.esc(f.url) + '" target="_blank" rel="noopener">' + U.esc(f.nome) + ' ↗</a>';
