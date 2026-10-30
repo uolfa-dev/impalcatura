@@ -1,0 +1,7 @@
+# Dipendenze di strumenti/notizie.py. torch si installa a parte, nella versione per CPU:
+#   pip install torch==2.15.0 --index-url https://download.pytorch.org/whl/cpu
+beautifulsoup4==4.15.0
+html5lib==1.1
+transformers==5.22.1
+sentencepiece==0.2.2
+sacremoses==0.2.0

@@ -32,9 +32,17 @@
     },
 
     // Una notizia con i suoi agganci ai mattoni (al massimo due, i più pertinenti).
+    // Se c'è la traduzione mostra l'italiano e tiene l'originale inglese a portata di tocco.
     notizia: function (v, abbinamenti, opzioni) {
       opzioni = opzioni || {};
-      const contesto = v.contesto && v.contesto.length ? '<div class="contesto">' + U.esc(v.contesto.join(' › ')) + '</div>' : '';
+      const contestoVoci = v.contesto_it && v.contesto && v.contesto_it.length === v.contesto.length ? v.contesto_it : v.contesto;
+      const contesto = contestoVoci && contestoVoci.length ? '<div class="contesto">' + U.esc(contestoVoci.join(' › ')) + '</div>' : '';
+      const testo = v.testo_it
+        ? '<div class="testo" lang="it">' + U.esc(v.testo_it) + '</div>'
+        : '<div class="testo" lang="en">' + U.esc(v.testo) + '</div>';
+      const originale = v.testo_it
+        ? '<details class="originale"><summary>Originale in inglese</summary><p lang="en">' + U.esc(v.testo) + '</p></details>'
+        : '';
       const fonti = (v.fonti || []).map(function (f) {
         return '<a href="' + U.esc(f.url) + '" target="_blank" rel="noopener">' + U.esc(f.nome) + ' ↗</a>';
       }).join('');
@@ -43,9 +51,8 @@
           ' <span class="tenue piccolo">(' + U.esc(U.periodo(a.mattone)) + ')</span><br>' + U.esc(a.perche) + '</div>';
       }).join('');
       const colore = abbinamenti && abbinamenti.length ? IMP.mappa.colore(abbinamenti[0].mattone.corsia) : 'var(--bordo)';
-      return '<div class="notizia" style="border-left-color:' + colore + '">' + contesto +
-        '<div class="testo" lang="en">' + U.esc(v.testo) + '</div>' +
-        (fonti ? '<div class="fonti">' + fonti + '</div>' : '') + agganci + '</div>';
+      return '<div class="notizia" style="border-left-color:' + colore + '">' + contesto + testo +
+        (fonti ? '<div class="fonti">' + fonti + '</div>' : '') + originale + agganci + '</div>';
     },
 
     caricamento: function (testo) {

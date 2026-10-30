@@ -3,7 +3,9 @@
   'use strict';
 
   const CHIAVE = 'impalcatura.v1';
-  const CHIAVE_NOTIZIE = 'impalcatura.notizie.v1';
+  // v2: con le notizie tradotte. La copia v1, solo in inglese, viene cancellata alla prima lettura.
+  const CHIAVE_NOTIZIE = 'impalcatura.notizie.v2';
+  const CHIAVE_NOTIZIE_VECCHIA = 'impalcatura.notizie.v1';
 
   function vuoto() {
     return {
@@ -59,6 +61,7 @@
 
     // Cache delle notizie, separata dai progressi
     leggiNotizie: function () {
+      try { localStorage.removeItem(CHIAVE_NOTIZIE_VECCHIA); } catch (e) { /* niente da pulire */ }
       try { return JSON.parse(localStorage.getItem(CHIAVE_NOTIZIE) || 'null'); } catch (e) { return null; }
     },
     scriviNotizie: function (dati) {

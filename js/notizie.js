@@ -1,7 +1,10 @@
 /*
- * Attualità: scarica le notizie da Wikipedia (Current events e In the news, in inglese)
- * e le aggancia ai mattoni con le regole «attualita» scritte in ogni mattone.
- * Le API di Wikipedia accettano richieste dal browser (CORS), quindi non serve alcun server.
+ * Attualità: legge le notizie degli ultimi giorni e le aggancia ai mattoni con le regole «attualita»
+ * scritte in ogni mattone.
+ * Di norma legge notizie.json, che strumenti/notizie.py prepara ogni 3 ore traducendo in italiano
+ * le pagine Current events e In the news di Wikipedia. Se il file manca (sito aperto come file)
+ * o è troppo vecchio, scarica le stesse pagine in inglese direttamente da Wikipedia,
+ * che accetta richieste dal browser (CORS).
  */
 (function (IMP) {
   'use strict';
@@ -10,7 +13,9 @@
   const API = 'https://en.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&origin=*&prop=text&disableeditsection=1&disablelimitreport=1&page=';
   const PAGINA_EVENTI = 'Portal:Current_events';
   const PAGINA_ITN = 'Template:In_the_news';
-  const DURATA_CACHE = 3 * 60 * 60 * 1000;
+  const FILE_TRADOTTE = 'notizie.json';
+  const FRESCHEZZA_TRADOTTE = 12 * 60 * 60 * 1000;
+  const DURATA_CACHE = 60 * 60 * 1000;
   const CONFINE_PRIMA = '(?<![\\p{L}\\p{N}])';
   const CONFINE_DOPO = '(?![\\p{L}\\p{N}])';
 
@@ -86,7 +91,7 @@
       if (li.tagName !== 'LI') return;
       const sottoliste = Array.from(li.children).filter(function (c) { return c.tagName === 'UL'; });
       const proprio = li.cloneNode(true);
-      proprio.querySelectorAll('ul').forEach(function (u) { u.remove(); });
+      proprio.querySelectorAll('ul, style, script').forEach(function (u) { u.remove(); });
       const fonti = Array.from(proprio.querySelectorAll('a.external')).map(function (a) {
         return { nome: a.textContent.replace(/[()]/g, '').trim(), url: a.getAttribute('href') };
       }).filter(function (f) { return /^https?:\/\//.test(f.url); });
@@ -116,8 +121,10 @@
       const voci = [];
       let categoria = '';
       Array.from(contenuto.children).forEach(function (el) {
-        if (el.tagName === 'P') categoria = pulisci(el.textContent);
-        else if (el.tagName === 'UL') visita(el, [], categoria, voci);
+        if (el.tagName === 'P') {
+          el.querySelectorAll('style, script').forEach(function (x) { x.remove(); });
+          categoria = pulisci(el.textContent);
+        } else if (el.tagName === 'UL') visita(el, [], categoria, voci);
       });
       giorni.push({ data: data, voci: voci });
     });
@@ -130,6 +137,7 @@
     const ul = doc.querySelector('ul');
     if (!ul) return [];
     return Array.from(ul.children).filter(function (li) { return li.tagName === 'LI'; }).map(function (li) {
+      li.querySelectorAll('style, script').forEach(function (x) { x.remove(); });
       li.querySelectorAll('i').forEach(function (i) { if (/pictured/i.test(i.textContent)) i.remove(); });
       const link = Array.from(li.querySelectorAll('a[href^="/wiki/"]')).map(function (a) { return titoloDaHref(a.getAttribute('href')); });
       const principale = li.querySelector('b a[href^="/wiki/"]');
@@ -146,12 +154,31 @@
     return j.parse.text;
   }
 
+  async function caricaTradotte() {
+    if (location.protocol.indexOf('http') !== 0) throw new Error('sito aperto come file');
+    const r = await fetch(FILE_TRADOTTE, { cache: 'no-cache' });
+    if (!r.ok) throw new Error('notizie tradotte non disponibili (' + r.status + ')');
+    const d = await r.json();
+    const generato = Date.parse(d.generato);
+    if (!d.giorni || !d.giorni.length || !(Date.now() - generato < FRESCHEZZA_TRADOTTE)) {
+      throw new Error('notizie tradotte troppo vecchie');
+    }
+    return { ts: Date.now(), generato: generato, tradotte: true, giorni: d.giorni, itn: d.itn || [] };
+  }
+
   /* ---------- API pubblica ---------- */
 
   const Notizie = {
     carica: async function (forza) {
       const cache = IMP.Store.leggiNotizie();
       if (!forza && cache && Date.now() - cache.ts < DURATA_CACHE) return cache;
+      try {
+        const tradotte = await caricaTradotte();
+        IMP.Store.scriviNotizie(tradotte);
+        return tradotte;
+      } catch (e) {
+        // Niente traduzioni recenti: si leggono le notizie originali direttamente da Wikipedia.
+      }
       const esiti = await Promise.allSettled([scarica(PAGINA_EVENTI), scarica(PAGINA_ITN)]);
       const ev = esiti[0], itn = esiti[1];
       if (ev.status !== 'fulfilled' && itn.status !== 'fulfilled') {
@@ -192,6 +219,10 @@
     abbinaVoce: function (v) {
       return Notizie.abbina(v.contesto.concat([v.testo]).join(' \n '), v.link, v.categoria);
     },
+
+    // Esposte per confrontarle con la scomposizione di strumenti/notizie.py, che deve dare lo stesso risultato.
+    analizzaEventi: analizzaEventi,
+    analizzaITN: analizzaITN,
 
     // La notizia del giorno: preferisce i mattoni che stai già imparando, così l'attualità diventa un ripasso gratuito.
     delGiorno: function (dati) {

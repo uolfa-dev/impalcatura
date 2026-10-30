@@ -20,7 +20,7 @@
 
   IMP.viste.attualita = function (el) {
     el.innerHTML = '<h1>Attualità</h1>' +
-      '<p class="tenue">Le notizie degli ultimi giorni, da <a href="https://en.wikipedia.org/wiki/Portal:Current_events" target="_blank" rel="noopener">Wikipedia</a> (in inglese), agganciate ai mattoni che le spiegano. ' +
+      '<p class="tenue">Le notizie degli ultimi giorni, da <a href="https://en.wikipedia.org/wiki/Portal:Current_events" target="_blank" rel="noopener">Wikipedia</a>, agganciate ai mattoni che le spiegano. ' +
       'Le notizie senza aggancio restano in fondo: se ne trovi una importante, forse manca un mattone.</p>' +
 
       '<div class="scheda"><h2>Aggancia tu una notizia</h2>' +
@@ -85,8 +85,9 @@
     const stato = el.querySelector('[data-stato]');
 
     function disegna(dati) {
-      const ora = new Date(dati.ts);
+      const ora = new Date(dati.generato || dati.ts);
       stato.textContent = 'Aggiornate alle ' + ora.toLocaleTimeString('it-IT', { hour: '2-digit', minute: '2-digit' }) +
+        (dati.tradotte ? ' · tradotte automaticamente dall\'inglese: in caso di dubbio apri l\'originale' : ' · in inglese: la traduzione ora non è disponibile') +
         (dati.vecchie ? ' (copia salvata: ora non riesco a collegarmi)' : '');
       let html = '';
       if (dati.itn && dati.itn.length) {

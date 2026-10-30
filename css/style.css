@@ -172,6 +172,9 @@ label { font-weight: 600; font-size: .92rem; display: block; margin: 10px 0 4px;
 .notizia .contesto { font-size: .8rem; color: var(--tenue); text-transform: uppercase; letter-spacing: .03em; }
 .notizia .testo { margin: 2px 0 6px; }
 .notizia .fonti a { font-size: .82rem; margin-right: 8px; }
+.notizia .originale { font-size: .82rem; color: var(--tenue); margin: 2px 0 4px; }
+.notizia .originale > summary { font-weight: 400; display: inline-block; text-decoration: underline dotted; }
+.notizia .originale p { margin: 4px 0 0; }
 .aggancio { background: var(--accento-chiaro); border-radius: 10px; padding: 10px 12px; margin-top: 6px; font-size: .95rem; }
 .aggancio a { font-weight: 700; }
 .aggancio + .aggancio { margin-top: 6px; }

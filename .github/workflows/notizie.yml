@@ -1,0 +1,71 @@
+# Ogni 3 ore scarica le notizie da Wikipedia, traduce in italiano quelle nuove con un modello
+# open source (strumenti/notizie.py) e salva notizie.json nel repository: il sito lo legge al posto
+# di Wikipedia in inglese.
+# Ogni salvataggio è una modifica vera del repository, quindi GitHub non sospende la programmazione
+# per inattività (lo fa dopo 60 giorni senza modifiche nei repository pubblici).
+name: Notizie in italiano
+
+on:
+  schedule:
+    - cron: "23 */3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [notizie-it]   # solo per la prova sul ramo di sviluppo: da togliere prima dell'unione
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: notizie-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  aggiorna:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: strumenti/requisiti-notizie.txt
+
+      - name: Ricorda il modello di traduzione tra un'esecuzione e l'altra
+        uses: actions/cache@v6
+        with:
+          path: ~/.cache/huggingface
+          key: opus-mt-tc-big-en-it-592d2cf
+
+      - name: Installa il traduttore
+        run: |
+          pip install torch==2.15.0 --index-url https://download.pytorch.org/whl/cpu
+          pip install -r strumenti/requisiti-notizie.txt
+
+      - name: Scarica e traduci le notizie
+        run: python strumenti/notizie.py
+
+      - name: Salva e pubblica
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RAMO_PRINCIPALE: ${{ github.event.repository.default_branch }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add notizie.json
+          if git diff --cached --quiet; then echo "Niente di nuovo"; exit 0; fi
+          git commit -m "Aggiorna le notizie in italiano"
+          # Se nel frattempo qualcuno ha caricato modifiche, si rimette in coda e riprova.
+          for tentativo in 1 2 3; do
+            if git pull --rebase origin "$GITHUB_REF_NAME" && git push origin "HEAD:$GITHUB_REF_NAME"; then
+              salvato=1
+              break
+            fi
+            sleep 15
+          done
+          [ -n "$salvato" ] || { echo "Non riesco a salvare notizie.json"; exit 1; }
+          if [ "$GITHUB_REF_NAME" = "$RAMO_PRINCIPALE" ]; then
+            gh api -X POST "repos/$GITHUB_REPOSITORY/pages/builds" --silent || echo "Pubblicazione già in corso"
+          fi
