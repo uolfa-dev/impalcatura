@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-10-30T14:25:30Z",
+ "generato": "2026-10-30T14:32:39Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -99,7 +99,7 @@
    "data": "2026-10-30",
    "voci": [
     {
-     "testo": "Novaya Gazeta announces plans to cease operations on 9 November, saying that pressure from Russian authorities has forced the newspaper to close. ()",
+     "testo": "Novaya Gazeta announces plans to cease operations on 9 November, saying that pressure from Russian authorities has forced the newspaper to close.",
      "contesto": [],
      "categoria": "Business and economy",
      "fonti": [
@@ -214,8 +214,7 @@
     {
      "testo": "14 people are killed and 14 more are injured in a Russian drone strike on a train station in Dnipro, Ukraine.",
      "contesto": [
-      "Russo–Ukrainian war",
-      "Russian attacks on civilians in the Russo–Ukrainian war"
+      "Russo–Ukrainian war"
      ],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
@@ -229,8 +228,7 @@
      ],
      "testo_it": "14 persone sono morte e altre 14 sono rimaste ferite in un attacco di droni russi su una stazione ferroviaria di Dnipro, in Ucraina.",
      "contesto_it": [
-      "Guerra russo-ucraina",
-      "Attacchi russi contro i civili nella guerra russo-ucraina"
+      "Guerra russo-ucraina"
      ]
     },
     {
@@ -755,7 +753,8 @@
       "Federal Senate (Brazil)",
       "Flávio Bolsonaro",
       "Florida",
-      "United States"
+      "United States",
+      "President-elect of Brazil"
      ],
      "testo_it": "Il senatore brasiliano Flávio Bolsonaro, dopo la sua fuga dal Brasile e l'arrivo in Florida, Stati Uniti, dopo le elezioni generali, si proclama il \"giusto\" presidente eletto del Brasile.",
      "contesto_it": [
