@@ -3,7 +3,9 @@
 **La mappa della cultura generale, mattone dopo mattone.**
 
 👉 **Apri il sito: <https://uolfa-dev.github.io/impalcatura/>**
-Su iPhone aprilo in Safari, tocca *Condividi* e poi *Aggiungi alla schermata Home*: si apre come un'app.
+Funziona su qualsiasi telefono e si può mettere nella schermata Home come un'app:
+- **iPhone:** aprilo in Safari, tocca *Condividi* e poi *Aggiungi alla schermata Home*;
+- **Android:** aprilo con Chrome e tocca *Installa* nella pagina *Oggi*, oppure usa il menu ⋮ → *Aggiungi a schermata Home*.
 
 Impalcatura è un sito open source, senza scopo di lucro, per chi vuole costruirsi una cultura generale solida e restare collegato all'attualità, anche con poca memoria.
 Lo scopo non è accumulare nozioni ma avere pochi **mattoni portanti** a cui agganciare tutto il resto.
@@ -51,7 +53,9 @@ Non serve installare nulla.
   1. Fai un fork del repository, oppure pubblica la cartella in un tuo repository.
   2. Apri *Settings → Pages → Deploy from a branch*, scegli il ramo `main` e la cartella `/ (root)`.
   3. Dopo un minuto il sito è su `https://<utente>.github.io/<repository>/`, anche dal telefono.
+  4. In `index.html` sostituisci il vecchio indirizzo nei tag `og:url` e `og:image`: servono all'anteprima del link su WhatsApp e simili, che vuole indirizzi completi.
 - **Sull'iPhone:** apri il sito in Safari, tocca *Condividi* e poi *Aggiungi alla schermata Home*. Impalcatura si apre a tutto schermo come un'app. È anche più sicuro per i progressi: Safari può cancellare i dati dei siti che non apri per 7 giorni, le app nella schermata Home no.
+- **Su Android:** apri il sito con Chrome (o con un altro browser basato su Chrome, come Samsung Internet). Quando Chrome lo permette, la pagina *Oggi* mostra il pulsante *Installa*: un tocco e Impalcatura arriva nella schermata Home. Chrome lo propone dopo almeno un tocco e mezzo minuto sulla pagina. Prima di allora, o con altri browser, la pagina spiega come fare dal menu.
 
 I progressi sono legati al browser e all'indirizzo: quelli fatti aprendo il file non si ritrovano sul sito pubblicato, e viceversa. Per spostarli usa *Esporta* e *Importa*.
 
@@ -70,6 +74,7 @@ js/srs.js                  ripetizione spaziata
 js/quiz.js                 generazione e presentazione delle domande
 js/notizie.js              notizie da Wikipedia e regole di aggancio
 js/linea.js                linea del tempo
+js/installa.js             invito a mettere il sito nella schermata Home (iPhone e Android)
 js/ui.js, js/viste-*.js    le pagine del sito
 js/app.js                  router (indirizzi con #)
 strumenti/verifica.mjs     controlli sui dati

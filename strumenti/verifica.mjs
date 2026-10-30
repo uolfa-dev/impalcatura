@@ -30,7 +30,8 @@ vm.createContext(ctx);
 
 const html = fs.readFileSync(path.join(radice, 'index.html'), 'utf8');
 const script = [...html.matchAll(/<script src="([^"]+)"><\/script>/g)].map((m) => m[1]);
-const daCaricare = script.filter((s) => !/viste-|app\.js|linea\.js|ui\.js/.test(s));
+// I moduli dell'interfaccia (viste, linea, invito all'installazione, router) servono solo nel browser.
+const daCaricare = script.filter((s) => !/viste-|app\.js|linea\.js|ui\.js|installa\.js/.test(s));
 for (const s of daCaricare) {
   const file = path.join(radice, s);
   if (!fs.existsSync(file)) { errore(`index.html carica un file che non esiste: ${s}`); continue; }

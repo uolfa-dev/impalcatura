@@ -31,15 +31,8 @@
 
     let html = '<h1 class="saluto">' + saluto() + '</h1><p class="tenue">' + U.esc(U.dataLeggibile(U.oggi())) + '</p>';
 
-    // Su iPhone e iPad, finché il sito si apre da Safari, spiega come metterlo nella schermata Home.
-    const ios = /iPhone|iPad|iPod/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
-    const standalone = window.navigator.standalone === true || (window.matchMedia && window.matchMedia('(display-mode: standalone)').matches);
-    if (ios && !standalone && !s.impostazioni.consiglioIosVisto) {
-      html += '<div class="scheda" data-consiglio-ios><h3>📱 Mettilo nella schermata Home</h3>' +
-        '<p>In Safari tocca <strong>Condividi</strong> (il quadrato con la freccia in su), poi <strong>Aggiungi alla schermata Home</strong>. Impalcatura si aprirà a tutto schermo, come un\'app.</p>' +
-        '<p class="tenue piccolo">È anche più sicuro per i progressi: Safari può cancellare i dati dei siti che non apri per 7 giorni, le app nella schermata Home no.</p>' +
-        '<button class="btn secondario piccolo" data-azione="ios-ok">Fatto</button></div>';
-    }
+    // Sul telefono, finché il sito si apre dal browser, qui compare l'invito a metterlo nella schermata Home (js/installa.js).
+    html += '<div data-consiglio-home></div>';
 
     if (studiati === 0) {
       html += '<div class="scheda"><h2>Benvenuto in Impalcatura</h2>' +
@@ -99,15 +92,7 @@
 
     html += '</div>';
     el.innerHTML = html;
-
-    const consiglio = el.querySelector('[data-azione="ios-ok"]');
-    if (consiglio) {
-      consiglio.addEventListener('click', function () {
-        s.impostazioni.consiglioIosVisto = true;
-        IMP.Store.salva();
-        el.querySelector('[data-consiglio-ios]').remove();
-      });
-    }
+    IMP.installa.aggiorna();
 
     const box = el.querySelector('#oggi-notizia');
     IMP.Notizie.carica().then(function (dati) {
