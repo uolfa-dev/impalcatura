@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-10-30T14:32:39Z",
+ "generato": "2026-10-30T14:35:04Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -174,7 +174,9 @@
        "url": "https://www.rainews.it/maratona/2026/10/sciopero-generale-del-30-ottobre-attenzione-sulle-grandi-citta-i-cortei-e-i-disagi-per-chi-viaggia-roma-milano-genova-napoli-firenze-376a3a17-fd70-4c69-8325-a376681518d8.html"
       }
      ],
-     "link": [],
+     "link": [
+      "Italy"
+     ],
      "testo_it": "Uno sciopero generale e diverse proteste si svolgono in tutta Italia.",
      "contesto_it": [
       "Insurrezioni europee (2026)",
