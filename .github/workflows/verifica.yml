@@ -1,0 +1,16 @@
+# Controlla i dati a ogni modifica: una pull request con un mattone scritto male fa fallire questa verifica.
+name: Verifica dei dati
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  verifica:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+      - run: node strumenti/verifica.mjs

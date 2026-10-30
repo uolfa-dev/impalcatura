@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Impalcatura · la mappa della cultura generale</title>
+  <meta name="description" content="Pochi mattoni portanti di cultura generale, una linea del tempo, il ripasso a intervalli e l'attualità agganciata alla storia.">
+  <meta name="theme-color" content="#1f2a44">
+  <!-- iPhone: aggiunto alla schermata Home si apre a tutto schermo, come un'app -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Impalcatura">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="apple-touch-icon" href="icone/icona-180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="icone/icona-192.png">
+  <script>
+    // Il manifest serve solo quando il sito è pubblicato: aperto come file, il browser lo rifiuterebbe.
+    (function () {
+      if (location.protocol.indexOf('http') !== 0) return;
+      var l = document.createElement('link');
+      l.rel = 'manifest';
+      l.href = 'manifest.webmanifest';
+      document.head.appendChild(l);
+    })();
+  </script>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <a class="salta" href="#app">Vai al contenuto</a>
+  <header class="testata">
+    <a class="marchio" href="#/oggi" aria-label="Impalcatura, pagina iniziale">
+      <span class="marchio-icona" aria-hidden="true">▦</span> Impalcatura
+    </a>
+    <nav class="menu" aria-label="Sezioni">
+      <a href="#/oggi" data-rotta="oggi">Oggi</a>
+      <a href="#/linea" data-rotta="linea">Linea del tempo</a>
+      <a href="#/mattoni" data-rotta="mattoni">Mattoni</a>
+      <a href="#/attualita" data-rotta="attualita">Attualità</a>
+      <a href="#/progressi" data-rotta="progressi">Progressi</a>
+    </nav>
+  </header>
+
+  <main id="app" tabindex="-1">
+    <noscript>
+      <p class="avviso">Impalcatura ha bisogno di JavaScript per funzionare.</p>
+    </noscript>
+  </main>
+
+  <footer class="piede">
+    <p>
+      Impalcatura è un progetto open source senza scopo di lucro. Codice: licenza MIT. Contenuti: CC BY-SA 4.0.
+      Le notizie vengono da <a href="https://en.wikipedia.org/wiki/Portal:Current_events" target="_blank" rel="noopener">Wikipedia, Current events</a>.
+      I tuoi progressi restano solo in questo browser.
+    </p>
+  </footer>
+
+  <!-- Dati: un file per epoca, l'ordine di caricamento non conta tranne corsie.js per primo -->
+  <script src="dati/corsie.js"></script>
+  <script src="dati/mattoni-antichita.js"></script>
+  <script src="dati/mattoni-medioevo.js"></script>
+  <script src="dati/mattoni-moderna.js"></script>
+  <script src="dati/mattoni-ottocento.js"></script>
+  <script src="dati/mattoni-primo-novecento.js"></script>
+  <script src="dati/mattoni-dopoguerra.js"></script>
+  <script src="dati/mattoni-fine-novecento.js"></script>
+  <script src="dati/percorso.js"></script>
+
+  <script src="js/util.js"></script>
+  <script src="js/store.js"></script>
+  <script src="js/mappa.js"></script>
+  <script src="js/srs.js"></script>
+  <script src="js/notizie.js"></script>
+  <script src="js/quiz.js"></script>
+  <script src="js/linea.js"></script>
+  <script src="js/ui.js"></script>
+  <script src="js/viste-studio.js"></script>
+  <script src="js/viste-mappa.js"></script>
+  <script src="js/viste-altre.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

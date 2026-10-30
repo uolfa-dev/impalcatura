@@ -1,0 +1,16 @@
+{
+  "name": "Impalcatura · la mappa della cultura generale",
+  "short_name": "Impalcatura",
+  "description": "Pochi mattoni portanti di cultura generale, una linea del tempo, il ripasso a intervalli e l'attualità agganciata alla storia.",
+  "lang": "it",
+  "start_url": "./#/oggi",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f4ee",
+  "theme_color": "#1f2a44",
+  "icons": [
+    { "src": "icone/icona-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icone/icona-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icone/icona-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
