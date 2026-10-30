@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-10-30T14:35:04Z",
+ "generato": "2026-10-30T19:58:24Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -99,7 +99,7 @@
    "data": "2026-10-30",
    "voci": [
     {
-     "testo": "Novaya Gazeta announces plans to cease operations on 9 November, saying that pressure from Russian authorities has forced the newspaper to close.",
+     "testo": "Russian independent newspaper Novaya Gazeta announces plans to cease operations on 9 November, citing pressure from Russian authorities.",
      "contesto": [],
      "categoria": "Business and economy",
      "fonti": [
@@ -109,10 +109,44 @@
       }
      ],
      "link": [
+      "Russia",
       "Novaya Gazeta",
       "Government of Russia"
      ],
-     "testo_it": "Novaya Gazeta annuncia l'intenzione di cessare le operazioni il 9 novembre, dicendo che la pressione delle autorità russe ha costretto il giornale a chiudere."
+     "testo_it": "Il quotidiano indipendente russo Novaya Gazeta annuncia l'intenzione di cessare le operazioni il 9 novembre, citando le pressioni delle autorità russe."
+    },
+    {
+     "testo": "At least five people, including four children, are killed, seven people are injured, and five others are missing in flash floods caused by heavy rainfall across Syria.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "SANA",
+       "url": "https://sana.sy/en/syria/2354607/"
+      }
+     ],
+     "link": [
+      "Flash flood",
+      "Syria"
+     ],
+     "testo_it": "Almeno cinque persone, tra cui quattro bambini, sono state uccise, sette sono rimaste ferite e altre cinque sono scomparse in inondazioni causate da forti piogge in tutta la Siria."
+    },
+    {
+     "testo": "Six people are killed when their helicopter crashes near Joshimath, Uttarakhand, India.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "Yeni Şafak",
+       "url": "https://en.yenisafak.com/world/six-killed-in-northern-india-helicopter-crash-3725007"
+      }
+     ],
+     "link": [
+      "Joshimath",
+      "Uttarakhand",
+      "India"
+     ],
+     "testo_it": "Sei persone vengono uccise quando il loro elicottero si schianta vicino a Joshimath, Uttarakhand, India."
     },
     {
      "testo": "The Court of Appeal of Victoria, Australia, rejects Erin Patterson's appeal against her murder convictions and removes her 33-year parole eligibility, effectively imposing life imprisonment without parole for killing three relatives with death cap mushrooms in 2023.",
@@ -156,13 +190,16 @@
       }
      ],
      "link": [
+      "Cryptocurrency",
+      "Cryptocurrency exchange",
       "Binance",
-      "United States dollar"
+      "United States dollar",
+      "2026 Binance hack"
      ],
      "testo_it": "L'exchange di criptovalute Binance conferma che asset del valore di 6,3 miliardi di dollari sono stati rubati, rendendolo il più grande furto di criptovaluta nella storia."
     },
     {
-     "testo": "A general strike and multiple protests are held across Italy.",
+     "testo": "A general strike and multiple protests are held across Italy. Clashes break out in multiple cities.",
      "contesto": [
       "2026 European unrest",
       "2026 Italian unrest"
@@ -177,7 +214,7 @@
      "link": [
       "Italy"
      ],
-     "testo_it": "Uno sciopero generale e diverse proteste si svolgono in tutta Italia.",
+     "testo_it": "Uno sciopero generale e diverse proteste si svolgono in tutta Italia. Scontri scoppiano in più città.",
      "contesto_it": [
       "Insurrezioni europee (2026)",
       "Insurrezione italiana (2026)"
@@ -188,6 +225,33 @@
   {
    "data": "2026-10-29",
    "voci": [
+    {
+     "testo": "The Salvadoran government deploys 2,000 troops to Haiti in response to the kidnapping of four Salvadoran Gang Suppression Force members that occurred earlier this month.",
+     "contesto": [
+      "Haitian conflict, El Salvador–Haiti relations",
+      "Salvadoran military intervention in Haiti"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "BBC News",
+       "url": "https://www.bbc.com/news/articles/ck0e075n79j5o"
+      }
+     ],
+     "link": [
+      "El Salvador",
+      "Government of El Salvador",
+      "Armed Forces of El Salvador",
+      "Haiti",
+      "2026 Croix-des-Bouquets kidnapping",
+      "Gang Suppression Force"
+     ],
+     "testo_it": "Il governo salvadoregno schiera 2.000 soldati ad Haiti in risposta al rapimento di quattro membri della Forza di Soppressione delle Gange salvadoregne avvenuto all'inizio di questo mese.",
+     "contesto_it": [
+      "Conflitto haitiano, relazioni El Salvador-Haiti",
+      "Intervento militare salvadoregno ad Haiti"
+     ]
+    },
     {
      "testo": "Saudi Arabia launches airstrikes against two residential buildings in Taiz, Yemen, killing 12 civilians and wounding three more.",
      "contesto": [
@@ -216,7 +280,8 @@
     {
      "testo": "14 people are killed and 14 more are injured in a Russian drone strike on a train station in Dnipro, Ukraine.",
      "contesto": [
-      "Russo–Ukrainian war"
+      "Russo–Ukrainian war",
+      "Russian attacks on civilians"
      ],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
@@ -230,32 +295,8 @@
      ],
      "testo_it": "14 persone sono morte e altre 14 sono rimaste ferite in un attacco di droni russi su una stazione ferroviaria di Dnipro, in Ucraina.",
      "contesto_it": [
-      "Guerra russo-ucraina"
-     ]
-    },
-    {
-     "testo": "The Salvadoran government deploys 2,000 troops to Haiti in response to the kidnapping of four Salvadoran Gang Suppression Force members that occurred earlier this month.",
-     "contesto": [
-      "Salvadoran military intervention in Haiti, Haitian conflict, El Salvador–Haiti relations"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "BBC News",
-       "url": "https://www.bbc.com/news/articles/ck0e075n79j5o"
-      }
-     ],
-     "link": [
-      "El Salvador",
-      "Government of El Salvador",
-      "Armed Forces of El Salvador",
-      "Haiti",
-      "2026 Croix-des-Bouquets kidnapping",
-      "Gang Suppression Force"
-     ],
-     "testo_it": "Il governo salvadoregno schiera 2.000 soldati ad Haiti in risposta al rapimento di quattro membri della Forza di Soppressione delle Gange salvadoregne avvenuto all'inizio di questo mese.",
-     "contesto_it": [
-      "Intervento militare salvadoregno ad Haiti, conflitto haitiano, relazioni El Salvador-Haiti"
+      "Guerra russo-ucraina",
+      "Attacchi russi contro i civili"
      ]
     },
     {
@@ -295,7 +336,7 @@
      ]
     },
     {
-     "testo": "KuCoin ends services for customers in Russia and Belarus, citing sanctions.",
+     "testo": "Seychelles-based cryptocurrency exchange KuCoin ends services for customers in Russia and Belarus, citing ongoing sanctions.",
      "contesto": [
       "Boycott of Russia and Belarus"
      ],
@@ -307,11 +348,13 @@
       }
      ],
      "link": [
+      "Seychelles",
+      "Cryptocurrency exchange",
       "KuCoin",
       "Russia",
       "Belarus"
      ],
-     "testo_it": "KuCoin termina i servizi per i clienti in Russia e Bielorussia, citando sanzioni.",
+     "testo_it": "L'exchange di criptovalute con sede alle Seychelles KuCoin termina i servizi per i clienti in Russia e Bielorussia, citando sanzioni in corso.",
      "contesto_it": [
       "Boicottaggio di Russia e Bielorussia"
      ]
