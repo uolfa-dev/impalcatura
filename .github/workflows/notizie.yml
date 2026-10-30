@@ -9,8 +9,6 @@ on:
   schedule:
     - cron: "23 */3 * * *"
   workflow_dispatch:
-  push:
-    branches: [notizie-it]   # solo per la prova sul ramo di sviluppo: da togliere prima dell'unione
 
 permissions:
   contents: write
