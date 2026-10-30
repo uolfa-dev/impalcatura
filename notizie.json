@@ -1,10 +1,11 @@
 {
  "versione": 1,
- "generato": "2026-10-30T14:04:01Z",
+ "generato": "2026-10-30T14:25:30Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
   "revisione": "592d2cfb0797867f1dd223e49141de051faa65c7",
+  "versione": 2,
   "completa": true
  },
  "itn": [
@@ -72,7 +73,7 @@
     "2026 Brazilian general election",
     "President of Brazil"
    ],
-   "testo_it": "Luiz Incio Lula da Silva è rieletto Presidente del Brasile."
+   "testo_it": "Luiz Inácio Lula da Silva è rieletto Presidente del Brasile."
   },
   {
    "testo": "In the Serbian parliamentary election, the Student List wins a majority of seats, defeating former president Aleksandar Vučić and his Serbian Progressive Party.",
@@ -90,7 +91,7 @@
     "Aleksandar Vučić",
     "Serbian Progressive Party"
    ],
-   "testo_it": "Nelle elezioni parlamentari serbe, la lista degli studenti vince la maggioranza dei seggi, sconfiggendo l'ex presidente Aleksandar Vui e il suo partito progressista serbo."
+   "testo_it": "Nelle elezioni parlamentari serbe, la lista degli studenti vince la maggioranza dei seggi, sconfiggendo l'ex presidente Aleksandar Vučić e il suo partito progressista serbo."
   }
  ],
  "giorni": [
@@ -111,7 +112,7 @@
       "Novaya Gazeta",
       "Government of Russia"
      ],
-     "testo_it": "Novaya Gazeta annuncia l’intenzione di cessare le operazioni il 9 novembre, dicendo che la pressione delle autorità russe ha costretto il giornale a chiudere."
+     "testo_it": "Novaya Gazeta annuncia l'intenzione di cessare le operazioni il 9 novembre, dicendo che la pressione delle autorità russe ha costretto il giornale a chiudere."
     },
     {
      "testo": "The Court of Appeal of Victoria, Australia, rejects Erin Patterson's appeal against her murder convictions and removes her 33-year parole eligibility, effectively imposing life imprisonment without parole for killing three relatives with death cap mushrooms in 2023.",
@@ -158,7 +159,7 @@
       "Binance",
       "United States dollar"
      ],
-     "testo_it": "L’exchange di criptovalute Binance conferma che asset del valore di 6,3 miliardi di dollari sono stati rubati, rendendolo il più grande furto di criptovaluta nella storia."
+     "testo_it": "L'exchange di criptovalute Binance conferma che asset del valore di 6,3 miliardi di dollari sono stati rubati, rendendolo il più grande furto di criptovaluta nella storia."
     },
     {
      "testo": "A general strike and multiple protests are held across Italy.",
@@ -176,8 +177,8 @@
      "link": [],
      "testo_it": "Uno sciopero generale e diverse proteste si svolgono in tutta Italia.",
      "contesto_it": [
-      "2026 Insurrezioni europee",
-      "2026 I disordini italiani"
+      "Insurrezioni europee (2026)",
+      "Insurrezione italiana (2026)"
      ]
     }
    ]
@@ -204,10 +205,10 @@
       "Taiz",
       "Yemen"
      ],
-     "testo_it": "L’Arabia Saudita lancia attacchi aerei contro due edifici residenziali a Taiz, Yemen, uccidendo 12 civili e ferendone altri tre.",
+     "testo_it": "L'Arabia Saudita lancia attacchi aerei contro due edifici residenziali a Taiz, Yemen, uccidendo 12 civili e ferendone altri tre.",
      "contesto_it": [
       "Crisi del Medio Oriente",
-      "Conflitto Houthi-Saudi, guerra civile yemenita"
+      "Conflitto Houthi-saudita, guerra civile yemenita"
      ]
     },
     {
@@ -252,7 +253,7 @@
       "2026 Croix-des-Bouquets kidnapping",
       "Gang Suppression Force"
      ],
-     "testo_it": "Il governo salvadoregno schiera 2.000 soldati ad Haiti in risposta al rapimento di quattro membri della Forza di Soppressione delle Gange salvadoregne avvenuto all’inizio di questo mese.",
+     "testo_it": "Il governo salvadoregno schiera 2.000 soldati ad Haiti in risposta al rapimento di quattro membri della Forza di Soppressione delle Gange salvadoregne avvenuto all'inizio di questo mese.",
      "contesto_it": [
       "Intervento militare salvadoregno ad Haiti, conflitto haitiano, relazioni El Salvador-Haiti"
      ]
@@ -373,7 +374,7 @@
       "Sindh",
       "Pakistan"
      ],
-     "testo_it": "Un cilindro di ossigeno esplode all’interno di un’ambulanza parcheggiata in una struttura medica a Tharparkar, nella provincia del Sindh, in Pakistan, uccidendo dieci persone."
+     "testo_it": "Un cilindro di ossigeno esplode all'interno di un'ambulanza parcheggiata in una struttura medica a Tharparkar, nella provincia del Sindh, in Pakistan, uccidendo dieci persone."
     },
     {
      "testo": "Three people are killed and five more injured during the collapse of a hoodoo at Göreme's Open Air Museum in the Nevşehir District, Turkey. It is suspected to be caused by heavy rainfall over the preceding days.",
@@ -391,7 +392,7 @@
       "Nevşehir District",
       "Turkey"
      ],
-     "testo_it": "Tre persone vengono uccise e altre cinque ferite durante il crollo di un hoodoo al Museo all'aperto di Greme nel distretto di Nevehir, in Turchia. Si sospetta che sia causato da forti piogge nei giorni precedenti."
+     "testo_it": "Tre persone vengono uccise e altre cinque ferite durante il crollo di un hoodoo al Museo all'aperto di Göreme nel distretto di Nevşehir, in Turchia. Si sospetta che sia causato da forti piogge nei giorni precedenti."
     },
     {
      "testo": "Four people are killed and eleven more are injured after an Italian Air Force Boeing CH-47 Chinook crashes near Brčko, Bosnia and Herzegovina.",
@@ -409,7 +410,7 @@
       "Brčko",
       "Bosnia and Herzegovina"
      ],
-     "testo_it": "Quattro persone sono morte e altre undici sono rimaste ferite dopo che un Boeing CH-47 Chinook dell’Aeronautica Militare italiana si è schiantato vicino a Brko, in Bosnia-Erzegovina."
+     "testo_it": "Quattro persone sono morte e altre undici sono rimaste ferite dopo che un Boeing CH-47 Chinook dell'Aeronautica Militare italiana si è schiantato vicino a Brčko, in Bosnia-Erzegovina."
     },
     {
      "testo": "Andreas Norlén, speaker of the Swedish parliament, announces a second vote to elect the next prime minister. He proposes a coalition led by the Center Party's leader, Elisabeth Thand Ringqvist, alongside the Social Democrats, Greens, Christian Democrats, and the Moderates.",
@@ -439,7 +440,7 @@
      ],
      "testo_it": "Andreas Norlén, presidente del parlamento svedese, annuncia un secondo voto per eleggere il prossimo primo ministro. Propone una coalizione guidata dal leader del Partito Centrale, Elisabeth Thand Ringqvist, insieme ai socialdemocratici, verdi, democratici cristiani e moderati.",
      "contesto_it": [
-      "2026 Formazione del governo svedese"
+      "Formazione del governo svedese (2026)"
      ]
     },
     {
@@ -465,7 +466,7 @@
      ],
      "testo_it": "Il Consiglio elettorale provvisorio di Haiti fissa il primo turno delle elezioni presidenziali e legislative per il 29 agosto 2027, con un secondo turno previsto per il 5 dicembre, mentre il paese si prepara per le sue prime elezioni nazionali dal 2017.",
      "contesto_it": [
-      "2027 Elezioni generali di Haiti"
+      "Elezioni generali in Haiti (2027)"
      ]
     }
    ]
@@ -497,10 +498,10 @@
       "Al-Jawf Governorate",
       "Yemen"
      ],
-     "testo_it": "L’Arabia Saudita lancia un attacco aereo contro un mercato in Al Hazm, Governatorato di Al-Jawf, Yemen, uccidendo 14 civili e ferendone altri dieci.",
+     "testo_it": "L'Arabia Saudita lancia un attacco aereo contro un mercato in Al Hazm, Governatorato di Al-Jawf, Yemen, uccidendo 14 civili e ferendone altri dieci.",
      "contesto_it": [
       "Crisi del Medio Oriente",
-      "Conflitto Houthi-Saudi, guerra civile yemenita"
+      "Conflitto Houthi-saudita, guerra civile yemenita"
      ]
     },
     {
@@ -547,9 +548,9 @@
       "Natural gas in Canada",
       "2026 Iran war"
      ],
-     "testo_it": "La Banca del Canada alza il suo tasso di interesse di 25 punti base al 2,5%, il suo primo aumento dal luglio 2023, citando l’inflazione persistente guidata in parte da un aumento dei prezzi del petrolio e della benzina legati alla guerra in Iran.",
+     "testo_it": "La Banca del Canada alza il suo tasso di interesse di 25 punti base al 2,5%, il suo primo aumento dal luglio 2023, citando l'inflazione persistente guidata in parte da un aumento dei prezzi del petrolio e della benzina legati alla guerra in Iran.",
      "contesto_it": [
-      "2026 Crisi dei combustibili da guerra in Iran, il Canada e la guerra in Iran del 2026"
+      "Crisi del combustibile da guerra in Iran (2026), il Canada e la guerra in Iran del 2026"
      ]
     },
     {
@@ -570,7 +571,7 @@
       "Stock market",
       "Bombay Stock Exchange"
      ],
-     "testo_it": "Jio Platforms raccoglie 3,2 miliardi di dollari nella più grande offerta pubblica iniziale (IPO) dell’India, attirando circa 77 miliardi di dollari in offerte e diventando l’IPO più sottoscritta del paese prima del suo debutto sul mercato azionario a Mumbai."
+     "testo_it": "Jio Platforms raccoglie 3,2 miliardi di dollari nella più grande offerta pubblica iniziale (IPO) dell'India, attirando circa 77 miliardi di dollari in offerte e diventando l'IPO più sottoscritta del paese prima del suo debutto sul mercato azionario a Mumbai."
     },
     {
      "testo": "At least 69 people are killed and 179 injured during a collision between two high speed trains carrying a total of 544 passengers between Los Yébenes and Urda, in the Province of Toledo, Spain.",
@@ -593,7 +594,7 @@
      ],
      "testo_it": "Almeno 69 persone vengono uccise e 179 ferite durante una collisione tra due treni ad alta velocità che trasportano un totale di 544 passeggeri tra Los Yébenes e Urda, nella provincia di Toledo, in Spagna.",
      "contesto_it": [
-      "2026 collisione treno Toledo"
+      "Collisione del treno di Toledo (2026)"
      ]
     },
     {
@@ -618,9 +619,9 @@
       "Andhra Pradesh",
       "India"
      ],
-     "testo_it": "Almeno tre persone vengono uccise mentre il ciclone Arnab sbarca nell’Andhra Pradesh, in India.",
+     "testo_it": "Almeno tre persone vengono uccise mentre il ciclone Arnab sbarca nell'Andhra Pradesh, in India.",
      "contesto_it": [
-      "2026 Stagione ciclone dell'Oceano Indiano Settentrionale"
+      "Stagione ciclone dell'Oceano Indiano del Nord (2026)"
      ]
     },
     {
@@ -637,7 +638,7 @@
       "Sarapiquí (canton)",
       "Costa Rica"
      ],
-     "testo_it": "Un autobus che trasporta turisti locali si rovescia a Sarapiqu, in Costa Rica, uccidendo tre persone e ferendone altre 39, di cui sette seriamente."
+     "testo_it": "Un autobus che trasporta turisti locali si rovescia a Sarapiquí, in Costa Rica, uccidendo tre persone e ferendone altre 39, di cui sette seriamente."
     },
     {
      "testo": "The United States imposes sanctions on the Rwandan ministry of defence over its role in the conflict in eastern Democratic Republic of the Congo, alleging that Rwanda is backing the M23 rebels to fight against Congolese forces.",
@@ -663,7 +664,7 @@
      ],
      "testo_it": "Gli Stati Uniti impongono sanzioni al ministero della difesa ruandese per il suo ruolo nel conflitto nella Repubblica Democratica del Congo orientale, sostenendo che il Ruanda sta sostenendo i ribelli M23 per combattere contro le forze congolesi.",
      "contesto_it": [
-      "Relazioni Ruanda-Stati Uniti, Repubblica democratica del Congo-Conflitto Rwanda"
+      "Relazioni Ruanda-Stati Uniti, Repubblica democratica del Congo-Rwanda conflitto"
      ]
     },
     {
@@ -707,7 +708,7 @@
       "Belgrade",
       "Serbia"
      ],
-     "testo_it": "Un giovane armato di due coltelli ferisce un agente di polizia fuori dall’ambasciata israeliana a Belgrado, in Serbia, prima di essere colpito e ucciso.",
+     "testo_it": "Un giovane armato di due coltelli ferisce un agente di polizia fuori dall'ambasciata israeliana a Belgrado, in Serbia, prima di essere colpito e ucciso.",
      "contesto_it": [
       "Attacchi alle ambasciate israeliane"
      ]
@@ -732,7 +733,7 @@
       "Harassment",
       "Mass media in the United Kingdom"
      ],
-     "testo_it": "L’attivista britannico di estrema destra Tommy Robinson è condannato per aver molestato due giornalisti e averli fatti temere dalla violenza."
+     "testo_it": "L'attivista britannico di estrema destra Tommy Robinson è condannato per aver molestato due giornalisti e averli fatti temere dalla violenza."
     },
     {
      "testo": "Brazilian senator Flávio Bolsonaro, following his escape from Brazil and arrival in Florida, United States, after the general election, proclaims himself the \"rightful\" president-elect of Brazil.",
@@ -756,9 +757,9 @@
       "Florida",
       "United States"
      ],
-     "testo_it": "Il senatore brasiliano Flvio Bolsonaro, in seguito alla sua fuga dal Brasile e all'arrivo in Florida, Stati Uniti, dopo le elezioni generali, si proclama il \"giusto\" presidente eletto del Brasile.",
+     "testo_it": "Il senatore brasiliano Flávio Bolsonaro, dopo la sua fuga dal Brasile e l'arrivo in Florida, Stati Uniti, dopo le elezioni generali, si proclama il \"giusto\" presidente eletto del Brasile.",
      "contesto_it": [
-      "2026 Elezioni generali brasiliane"
+      "Elezioni generali in Brasile (2026)"
      ]
     },
     {
@@ -778,9 +779,9 @@
       "Luiz Inácio Lula da Silva",
       "U.S. government"
      ],
-     "testo_it": "Il presidente brasiliano Luiz Incio Lula da Silva risponde accusando il governo degli Stati Uniti di collusione con Bolsonaro per installarlo come presidente.",
+     "testo_it": "Il presidente brasiliano Luiz Inácio Lula da Silva risponde accusando il governo degli Stati Uniti di collusione con Bolsonaro per installarlo come presidente.",
      "contesto_it": [
-      "2026 Elezioni generali brasiliane"
+      "Elezioni generali in Brasile (2026)"
      ]
     },
     {
@@ -804,7 +805,7 @@
      ],
      "testo_it": "Il primo ministro Benjamin Netanyahu e la sua coalizione di governo guidata dal partito Likud vincono una pluralità di seggi alla Knesset, anche se nessuna alleanza vince la maggioranza, lasciando la formazione del governo poco chiara.",
      "contesto_it": [
-      "2026 Elezioni legislative israeliane"
+      "Elezioni legislative israeliane (2026)"
      ]
     },
     {
@@ -827,7 +828,7 @@
      ],
      "testo_it": "Nel baseball, i Fukuoka SoftBank Hawks sconfiggono i Yokohama DeNA BayStars in quattro partite per vincere il loro tredicesimo campionato della Japan Series.",
      "contesto_it": [
-      "Serie 2026 Giappone"
+      "Serie Giappone (2026)"
      ]
     },
     {
@@ -851,7 +852,7 @@
      ],
      "testo_it": "Nella Major League Baseball, i Milwaukee Brewers sconfiggono i Tampa Bay Rays in cinque partite per vincere il loro primo campionato delle World Series nella storia della franchigia.",
      "contesto_it": [
-      "2026 World Series"
+      "Serie Mondiali (2026)"
      ]
     }
    ]
@@ -878,11 +879,11 @@
       "South Korea",
       "Complaint"
      ],
-     "testo_it": "L’Autorità dello Stretto del Golfo Persico afferma che le navi appartenenti alla compagnia di navigazione sudcoreana Sinokor dovranno affrontare un’azione legale a partire dal 1 ° novembre.",
+     "testo_it": "L'Autorità dello Stretto del Golfo Persico afferma che le navi appartenenti alla compagnia di navigazione sudcoreana Sinokor dovranno affrontare un'azione legale a partire dal 1 ° novembre.",
      "contesto_it": [
       "Crisi del Medio Oriente",
       "Guerra in Iran",
-      "2026 Stretto di Hormuz crisi"
+      "Stretto di Hormuz (2026)"
      ]
     },
     {
@@ -933,7 +934,7 @@
       "Venezuela",
       "National Police of Colombia"
      ],
-     "testo_it": "Una bomba esplode vicino a un ponte a Ccuta, in Colombia, al confine con il Venezuela, ferendo quattro agenti di polizia.",
+     "testo_it": "Una bomba esplode vicino a un ponte a Cúcuta, in Colombia, al confine con il Venezuela, ferendo quattro agenti di polizia.",
      "contesto_it": [
       "Guerra alla droga",
       "Conflitto colombiano"
@@ -982,7 +983,7 @@
       "Oromia",
       "Ethiopia"
      ],
-     "testo_it": "La Chiesa ortodossa etiope di Tewahedo riferisce che almeno 60 cristiani sono stati uccisi negli attacchi a Oromia, in Etiopia, nell’ultima settimana.",
+     "testo_it": "La Chiesa ortodossa etiope di Tewahedo riferisce che almeno 60 cristiani sono stati uccisi negli attacchi a Oromia, in Etiopia, nell'ultima settimana.",
      "contesto_it": [
       "Conflitto civile etiope"
      ]
@@ -1026,7 +1027,7 @@
       "South Darfur",
       "Sudan"
      ],
-     "testo_it": "Il bilancio delle vittime dell’attacco dei droni di ieri in un mercato a Nyala, Sud Darfur, Sudan, aumenta a oltre 100 persone uccise e 112 feriti.",
+     "testo_it": "Il bilancio delle vittime dell'attacco dei droni di ieri in un mercato a Nyala, Sud Darfur, Sudan, aumenta a oltre 100 persone uccise e 112 feriti.",
      "contesto_it": [
       "Guerra civile sudanese"
      ]
@@ -1078,7 +1079,7 @@
      ],
      "testo_it": "Villa Vie Residences sospende le operazioni dell'Odissea a Sihanoukville, in Cambogia, dopo aver esaurito i soldi a causa dei costi del carburante nettamente più elevati, costringendo 203 passeggeri a sbarcare con un preavviso di sette ore.",
      "contesto_it": [
-      "2026 Crisi dei combustibili da guerra in Iran"
+      "Crisi dei combustibili da guerra in Iran (2026)"
      ]
     },
     {
@@ -1098,7 +1099,7 @@
       "Shanghai Stock Exchange STAR Market",
       "Science and technology in China"
      ],
-     "testo_it": "L’indice cinese di Shanghai Stock Exchange STAR Market, che si concentra sulle società scientifiche e tecnologiche, precipita del 40% in meno di quattro mesi.",
+     "testo_it": "L'indice cinese di Shanghai Stock Exchange STAR Market, che si concentra sulle società scientifiche e tecnologiche, precipita del 40% in meno di quattro mesi.",
      "contesto_it": [
       "bolla di AI"
      ]
@@ -1124,9 +1125,9 @@
       "Landfall",
       "List of very severe cyclonic storms"
      ],
-     "testo_it": "Le autorità indiane ordinano a quasi 100.000 persone di evacuare parti dell’Andhra Pradesh e dell’Odisha mentre il ciclone Arnab si avvicina, con il Dipartimento meteorologico indiano che prevede la caduta di terra come una tempesta ciclonica molto grave.",
+     "testo_it": "Le autorità indiane ordinano a quasi 100.000 persone di evacuare parti dell'Andhra Pradesh e dell'Odisha mentre il ciclone Arnab si avvicina, con il Dipartimento meteorologico indiano che prevede la caduta di terra come una tempesta ciclonica molto grave.",
      "contesto_it": [
-      "2026 Stagione ciclone dell'Oceano Indiano Settentrionale"
+      "Stagione ciclone dell'Oceano Indiano del Nord (2026)"
      ]
     },
     {
@@ -1235,7 +1236,7 @@
       "Campus protest",
       "United States federal judge"
      ],
-     "testo_it": "L’attivista algerino-palestinese Mahmoud Khalil torna alla Columbia University di New York, negli Stati Uniti, dopo che le autorità dell’immigrazione lo hanno arrestato per più di tre mesi per il suo ruolo nelle proteste del campus pro-palestinese prima che un giudice federale ordinasse il suo rilascio.",
+     "testo_it": "L'attivista algerino-palestinese Mahmoud Khalil torna alla Columbia University di New York, negli Stati Uniti, dopo che le autorità dell'immigrazione lo hanno arrestato per più di tre mesi per il suo ruolo nelle proteste del campus pro-palestinese prima che un giudice federale ordinasse il suo rilascio.",
      "contesto_it": [
       "Proteste di guerra a Gaza alla Columbia University"
      ]
@@ -1292,7 +1293,7 @@
       "Federal government of Brazil",
       "Visa policy of the United States"
      ],
-     "testo_it": "Il senatore brasiliano Flvio Bolsonaro lascia il Brasile per gli Stati Uniti, nonostante l'ordine di consegnare i suoi passaporti alla polizia federale, due giorni dopo la sua sconfitta nelle elezioni presidenziali contro il presidente in carica Luiz Incio Lula da Silva. Il governo successivamente annulla i passaporti di Bolsonaro, mentre gli Stati Uniti concede a lui e alla sua famiglia visti."
+     "testo_it": "Il senatore brasiliano Flávio Bolsonaro lascia il Brasile per gli Stati Uniti, nonostante gli ordini di consegnare i suoi passaporti alla polizia federale, due giorni dopo la sua sconfitta nelle elezioni presidenziali contro il presidente in carica Luiz Inácio Lula da Silva. Il governo successivamente annulla i passaporti di Bolsonaro, mentre gli Stati Uniti concede a lui e alla sua famiglia visti."
     },
     {
      "testo": "An Egyptian court orders independent news website Mada Masr to close after convicting editor-in-chief Lina Attalah of operating without a licence. The court also fines her E£3,000,000 (US$53,500) and orders the outlet's equipment confiscated.",
@@ -1314,7 +1315,7 @@
       "Egyptian pound",
       "US$"
      ],
-     "testo_it": "Un tribunale egiziano ordina al sito di notizie indipendente Mada Masr di chiudere dopo aver condannato il caporedattore Lina Attalah di operare senza licenza. Il tribunale multa anche la sua E  3.000.000 (US $ 53.500) e ordina la confisca delle attrezzature dello sbocco."
+     "testo_it": "Un tribunale egiziano ordina al sito di notizie indipendente Mada Masr di chiudere dopo aver condannato il caporedattore Lina Attalah di operare senza licenza. Il tribunale multa anche la sua E3.000.000 sterline (US $ 53.500) e ordina che l'attrezzatura dello sbocco venga confiscata."
     },
     {
      "testo": "The French Senate passes a bill that would make people who knowingly participate in violent protest groups jointly liable for up to €10,000 (US$11,118) in damage and allow authorities to seize certain welfare payments. The bill heads to the National Assembly for a vote.",
@@ -1341,7 +1342,7 @@
      ],
      "testo_it": "Il Senato francese approva un disegno di legge che renderebbe le persone che partecipano consapevolmente a gruppi di protesta violenti congiuntamente responsabili fino a € 10.000 (US $ 1118) in danni e consentire alle autorità di sequestrare alcuni pagamenti di welfare.",
      "contesto_it": [
-      "2026 Proteste francesi per il carburante, 2026 Proteste studentesche francesi"
+      "Proteste francesi di carburante (2026), proteste studentesche francesi (2026)"
      ]
     },
     {
@@ -1366,7 +1367,7 @@
      ],
      "testo_it": "Gli israeliani votano per eleggere i 120 membri della Knesset.",
      "contesto_it": [
-      "2026 Elezioni legislative israeliane"
+      "Elezioni legislative israeliane (2026)"
      ]
     }
    ]
@@ -1410,10 +1411,10 @@
       "2026 Iran war",
       "Yemeni civil war (2014–present)"
      ],
-     "testo_it": "Gli alti funzionari che rappresentano i membri della Mecca Defense Alliance, tra cui il capo militare pakistano Asim Munir, il ministro della difesa saudita Khalid bin Salman Al Saud e il direttore dell’intelligence turca brahim Kaln, si incontrano con la leadership iraniana, tra cui il presidente Masoud Pezeshkian, a Teheran per discutere gli sforzi per de-escalation della guerra in Iran del 2026 e della guerra civile yemenita.",
+     "testo_it": "Gli alti funzionari che rappresentano i membri della Mecca Defense Alliance, tra cui il capo militare pakistano Asim Munir, il ministro della difesa saudita Khalid bin Salman Al Saud e il direttore dell'intelligence turca İbrahim Kalın, si incontrano con la leadership iraniana, tra cui il presidente Masoud Pezeshkian, a Teheran per discutere gli sforzi per de-escalation della guerra in Iran del 2026 e della guerra civile yemenita.",
      "contesto_it": [
       "Crisi del Medio Oriente",
-      "2026 Guerra in Iran, guerra civile yemenita",
+      "Guerra in Iran (2026), guerra civile yemenita",
       "Pakistan nella guerra in Iran del 2026, Arabia Saudita nella guerra in Iran del 2026, intervento a guida saudita nella guerra civile yemenita"
      ]
     },
@@ -1494,11 +1495,11 @@
       "Saudi Arabia",
       "Houthis"
      ],
-     "testo_it": "Il parlamento egiziano autorizza il presidente Abdel Fattah el-Sisi a fornire supporto militare all’Arabia Saudita se richiesto tra gli attacchi Houthi in territorio saudita.",
+     "testo_it": "Il parlamento egiziano autorizza il presidente Abdel Fattah el-Sisi a fornire supporto militare all'Arabia Saudita se richiesto tra gli attacchi Houthi in territorio saudita.",
      "contesto_it": [
       "Crisi del Medio Oriente",
       "Relazioni Egitto-Arabia Saudita, conflitto Houthi-Arabia Saudita, guerra civile yemenita",
-      "2026 Attacchi Houthi agli aeroporti sauditi"
+      "Attacchi Houthi agli aeroporti sauditi (2026)"
      ]
     },
     {
@@ -1595,7 +1596,7 @@
      ],
      "testo_it": "I tre uomini armati che hanno effettuato una sparatoria di massa contro una chiesa greco-ortodossa nel governatorato di Karak, in Giordania, sono feriti e arrestati dopo una sparatoria con le forze di sicurezza in un edificio abbandonato.",
      "contesto_it": [
-      "2026 Karak chiesa sparatoria"
+      "Sparatoria della chiesa di Karak (2026)"
      ]
     },
     {
@@ -1621,9 +1622,9 @@
       "Daraa Governorate",
       "Suwayda Governorate"
      ],
-     "testo_it": "Le forze armate giordane annunciano di aver effettuato attacchi aerei contro presunte posizioni dello Stato islamico in varie aree del governatorato siriano di Daraa e del governatorato di Suwayda, riportando che gli uomini armati sono legati al gruppo, rivendicando l’uccisione di 20 militanti. Sette civili sono confermati uccisi, tra cui tre bambini e un uomo anziano.",
+     "testo_it": "Le forze armate giordane annunciano di aver effettuato attacchi aerei contro presunte posizioni dello Stato islamico in varie aree del governatorato siriano di Daraa e del governatorato di Suwayda, riportando che gli uomini armati sono legati al gruppo, rivendicando l'uccisione di 20 militanti. Sette civili sono confermati uccisi, tra cui tre bambini e un uomo anziano.",
      "contesto_it": [
-      "2026 Karak chiesa sparatoria"
+      "Sparatoria della chiesa di Karak (2026)"
      ]
     },
     {
@@ -1644,7 +1645,7 @@
      ],
      "testo_it": "Il governo di transizione siriano annuncia la chiusura del valico di frontiera Nasib con la Giordania, sospendendo il traffico passeggeri e commerciale in entrambe le direzioni, dopo aver riferito che gli attacchi aerei non sono stati coordinati.",
      "contesto_it": [
-      "2026 Karak chiesa sparatoria"
+      "Sparatoria della chiesa di Karak (2026)"
      ]
     },
     {
@@ -1685,7 +1686,7 @@
      ],
      "testo_it": "Due persone vengono uccise e circa 90.000 sono rimaste senza elettricità dopo l'impatto di Storm Boelo in Scozia, parti dell'Irlanda del Nord e dell'Inghilterra settentrionale.",
      "contesto_it": [
-      "202627 Stagione europea delle tempeste di vento"
+      "Stagione europea delle tempeste (2026-27)"
      ]
     },
     {
@@ -1715,7 +1716,7 @@
       "President of Brazil",
       "Luiz Inácio Lula da Silva"
      ],
-     "testo_it": "La polizia brasiliana ordina al senatore Flvio Bolsonaro di consegnare i suoi passaporti dopo che il giudice della Corte Suprema Federale Alexandre de Moraes gli ha impedito di lasciare il Brasile, un giorno dopo che Bolsonaro ha perso il ballottaggio delle elezioni generali al presidente in carica Luiz Incio Lula da Silva."
+     "testo_it": "La polizia brasiliana ordina al senatore Flávio Bolsonaro di consegnare i suoi passaporti dopo che il giudice della Corte Suprema Federale Alexandre de Moraes gli ha impedito di lasciare il Brasile, un giorno dopo che Bolsonaro ha perso il ballottaggio delle elezioni generali al presidente in carica Luiz Inácio Lula da Silva."
     },
     {
      "testo": "A Swiss court convicts former Belarusian security officer Yuri Harauski over the 1999 abduction of businessman Anatol Krasouski, later killed, and gives him a two-year suspended sentence. He is acquitted over Yury Zacharanka's enforced disappearance.",
@@ -1754,7 +1755,7 @@
       "Scam center",
       "Organised crime in Nigeria"
      ],
-     "testo_it": "Il Federal Bureau of Investigation degli Stati Uniti annuncia di aver arrestato nove persone coinvolte in centri di truffa nigeriani, come parte di un’operazione internazionale che ha preso di mira la criminalità organizzata in Nigeria, individuando 11 milioni di dollari in fondi spesi dai truffatori."
+     "testo_it": "Il Federal Bureau of Investigation degli Stati Uniti annuncia di aver arrestato nove persone coinvolte in centri di truffa nigeriani, come parte di un'operazione internazionale che ha preso di mira la criminalità organizzata in Nigeria, individuando 11 milioni di dollari in fondi spesi dai truffatori."
     },
     {
      "testo": "Protests and riots are held in Bilbao, Spain, after and during a political event hosted by far-right commentator Vito Quiles. At least nine people are arrested.",
@@ -1778,8 +1779,8 @@
      ],
      "testo_it": "Proteste e rivolte si svolgono a Bilbao, in Spagna, dopo e durante un evento politico ospitato dal commentatore di estrema destra Vito Quiles. Almeno nove persone vengono arrestate.",
      "contesto_it": [
-      "2026 Insurrezioni europee",
-      "2026 Proteste immobiliari spagnole"
+      "Insurrezioni europee (2026)",
+      "Proteste immobiliari spagnole (2026)"
      ]
     },
     {
@@ -1805,7 +1806,7 @@
      ],
      "testo_it": "Nel calcio associativo, il giocatore inglese Harry Kane vince per la prima volta il Pallone d'Oro maschile, mentre il giocatore spagnolo Alexia Putellas riceve il premio femminile per la terza volta da record.",
      "contesto_it": [
-      "2026 Ballon d'Or"
+      "Ballon d'Or (2026)"
      ]
     }
    ]
@@ -1835,11 +1836,11 @@
       "Riyadh Province",
       "King Khalid International Airport"
      ],
-     "testo_it": "Le difese aeree della coalizione a guida saudita intercettano un missile balistico Houthi e due droni che prendono di mira la provincia di Riyadh mentre l’aeroporto internazionale King Khalid riprende le operazioni limitate dopo una chiusura di due settimane causata da precedenti attacchi Houthi.",
+     "testo_it": "Le difese aeree della coalizione a guida saudita intercettano un missile balistico Houthi e due droni che prendono di mira la provincia di Riyadh mentre l'aeroporto internazionale King Khalid riprende le operazioni limitate dopo una chiusura di due settimane causata da precedenti attacchi Houthi.",
      "contesto_it": [
       "Crisi del Medio Oriente",
-      "Conflitto Houthi-Saudi, guerra civile yemenita",
-      "2026 Attacchi Houthi agli aeroporti sauditi"
+      "Conflitto Houthi-saudita, guerra civile yemenita",
+      "Attacchi Houthi agli aeroporti sauditi (2026)"
      ]
     },
     {
@@ -1864,7 +1865,7 @@
       "Palestinians",
       "Gaza Strip"
      ],
-     "testo_it": "Tre membri dello staff vengono uccisi e otto studenti feriti in un attacco aereo israeliano contro l’Università islamica di Gaza a Gaza City. Altri quattro palestinesi vengono uccisi anche in altri attacchi aerei nella Striscia di Gaza.",
+     "testo_it": "Tre membri dello staff vengono uccisi e otto studenti feriti in un attacco aereo israeliano contro l'Università islamica di Gaza a Gaza City. Altri quattro palestinesi vengono uccisi anche in altri attacchi aerei nella Striscia di Gaza.",
      "contesto_it": [
       "Crisi del Medio Oriente",
       "Guerra di Gaza",
@@ -1973,7 +1974,7 @@
       "Catalonia",
       "Spain"
      ],
-     "testo_it": "Ottantatré persone sono rimaste ferite, di cui sette gravemente, in un incidente d'autobus a Fogars de Montcls, Catalogna, Spagna."
+     "testo_it": "Ottantatré persone sono rimaste ferite, di cui sette gravemente, in un incidente d'autobus a Fogars de Montclús, Catalogna, Spagna."
     },
     {
      "testo": "The Nigerian health ministry expands contact tracing after confirming an imported Bundibugyo Ebola case in Abuja, identifying at least 44 contacts while investigating additional people who may have been exposed and strengthening infection-control measures.",
@@ -1997,7 +1998,7 @@
      ],
      "testo_it": "Il ministero della Sanità nigeriano espande il tracciamento dei contatti dopo la conferma di un caso importato di Bundibugyo Ebola ad Abuja, identificando almeno 44 contatti mentre indaga su altre persone che potrebbero essere state esposte e rafforzando le misure di controllo delle infezioni.",
      "contesto_it": [
-      "2026 epidemia di Ebola"
+      "Epidemia di Ebola (2026)"
      ]
     },
     {
@@ -2027,9 +2028,9 @@
       "Flávio Bolsonaro",
       "Liberal Party (Brazil)"
      ],
-     "testo_it": "I brasiliani votano al secondo turno delle elezioni presidenziali tra l'attuale presidente di sinistra Luiz Incio Lula da Silva del Partito dei Lavoratori e lo sfidante di destra Flvio Bolsonaro del Partito Liberale.",
+     "testo_it": "I brasiliani votano al secondo turno delle elezioni presidenziali tra l'attuale presidente di sinistra Luiz Inácio Lula da Silva del Partito dei Lavoratori e lo sfidante di destra Flávio Bolsonaro del Partito Liberale.",
      "contesto_it": [
-      "2026 Elezioni generali brasiliane"
+      "Elezioni generali in Brasile (2026)"
      ]
     },
     {
@@ -2047,7 +2048,7 @@
      "link": [],
      "testo_it": "Con un voto del 52% al 48%, Lula sconfigge Bolsonaro per vincere la rielezione per un quarto mandato non consecutivo.",
      "contesto_it": [
-      "2026 Elezioni generali brasiliane"
+      "Elezioni generali in Brasile (2026)"
      ]
     },
     {
@@ -2075,7 +2076,7 @@
      ],
      "testo_it": "I bulgari votano nel primo turno delle elezioni presidenziali. Incumbent Iliana Iotova vince e dovrà affrontare l'ex primo ministro ad interim Andrey Gyurov in un secondo turno a causa della bassa affluenza record e nessun candidato che ha la maggioranza dei voti.",
      "contesto_it": [
-      "2026 Elezioni presidenziali bulgare"
+      "Elezioni presidenziali bulgare (2026)"
      ]
     },
     {
@@ -2097,9 +2098,9 @@
       "2024–present Serbian anti-corruption protests",
       "United Serbia (2026 coalition)"
      ],
-     "testo_it": "I serbi votano per tutti i seggi all’Assemblea Nazionale in elezioni anticipate, tra le proteste guidate dagli studenti contro il governo in carica della Serbia Unita.",
+     "testo_it": "I serbi votano per tutti i seggi all'Assemblea Nazionale in elezioni anticipate, tra le proteste guidate dagli studenti contro il governo in carica della Serbia Unita.",
      "contesto_it": [
-      "2026 Elezioni parlamentari serbe"
+      "Elezioni parlamentari serbe (2026)"
      ]
     },
     {
@@ -2124,9 +2125,9 @@
       "Aleksandar Vučić",
       "Concession (politics)"
      ],
-     "testo_it": "La lista degli studenti vince le elezioni con il 53% dei voti, con l'ex presidente Aleksandar Vui che concede la sconfitta.",
+     "testo_it": "La lista degli studenti vince le elezioni con il 53% dei voti, con l'ex presidente Aleksandar Vučić che concede la sconfitta.",
      "contesto_it": [
-      "2026 Elezioni parlamentari serbe"
+      "Elezioni parlamentari serbe (2026)"
      ]
     },
     {
@@ -2150,7 +2151,7 @@
      ],
      "testo_it": "La politica francese Marine Le Pen, leader del partito di estrema destra National Rally, annuncia la sua campagna presidenziale.",
      "contesto_it": [
-      "2027 Elezioni presidenziali francesi"
+      "Elezioni presidenziali francesi (2027)"
      ]
     },
     {
@@ -2171,7 +2172,7 @@
       "Nobel Peace Prize",
       "María Corina Machado"
      ],
-     "testo_it": "La leader dell’opposizione venezuelana e premio Nobel per la pace Mara Corina Machado annuncia di essere tornata in Venezuela dall’esilio.",
+     "testo_it": "La leader dell'opposizione venezuelana e premio Nobel per la pace María Corina Machado annuncia di essere tornata in Venezuela dall'esilio.",
      "contesto_it": [
       "Crisi in Venezuela"
      ]
@@ -2201,8 +2202,8 @@
      ],
      "testo_it": "Nelle corse automobilistiche, il pilota americano Kyle Larson di Hendrick Motorsports vince la YellaWood 500 al Talladega Superspeedway in Alabama, vincendo la sua prima gara NASCAR Cup Series sul circuito.",
      "contesto_it": [
-      "2026 NASCAR Cup Series",
-      "2026 YellaWood 500"
+      "NASCAR Cup Series (2026)",
+      "YellaWood 500 (2026)"
      ]
     },
     {
@@ -2224,9 +2225,9 @@
       "Houthi–Saudi conflict",
       "Houthis"
      ],
-     "testo_it": "Nel raid di rally, gli organizzatori del Rally Dakar spostano l’evento 2027 dall’Arabia Saudita a causa delle preoccupazioni per la sicurezza riguardanti il conflitto con gli Houthi.",
+     "testo_it": "Nel raid di rally, gli organizzatori del Rally Dakar spostano l'evento 2027 dall'Arabia Saudita a causa delle preoccupazioni per la sicurezza riguardanti il conflitto con gli Houthi.",
      "contesto_it": [
-      "2027 Dakar Rally"
+      "Dakar Rally (2027)"
      ]
     },
     {
@@ -2255,7 +2256,7 @@
      ],
      "testo_it": "Nel golf, il giapponese Yuri Yoshida vince il suo primo titolo LPGA Tour al BMW Ladies Championship nella provincia di South Jeolla, in Corea del Sud, finendo davanti al australiano Minjee Lee e al sudcoreano Kim Sei-young.",
      "contesto_it": [
-      "2026 LPGA Tour"
+      "Tour LPGA (2026)"
      ]
     },
     {
@@ -2310,10 +2311,10 @@
       "Hamdan district",
       "Yemen"
      ],
-     "testo_it": "L’Arabia Saudita lancia attacchi aerei contro un edificio residenziale e una fabbrica di cemento nel distretto di Hamdan, Yemen, uccidendo dieci persone e ferendone molte altre.",
+     "testo_it": "L'Arabia Saudita lancia attacchi aerei contro un edificio residenziale e una fabbrica di cemento nel distretto di Hamdan, Yemen, uccidendo dieci persone e ferendone molte altre.",
      "contesto_it": [
       "Crisi del Medio Oriente",
-      "Conflitto Houthi-Saudi, guerra civile yemenita"
+      "Conflitto Houthi-saudita, guerra civile yemenita"
      ]
     },
     {
@@ -2339,10 +2340,10 @@
       "Palestinians",
       "Hebron"
      ],
-     "testo_it": "L’esercito israeliano fa irruzione in 15 città della Cisgiordania occupata, arrestando diversi palestinesi, costringendo oltre 2.000 persone a lasciare le loro case e distruggendo un edificio di tre piani a Hebron.",
+     "testo_it": "L'esercito israeliano fa irruzione in 15 città della Cisgiordania occupata, arrestando diversi palestinesi, costringendo oltre 2.000 persone a lasciare le loro case e distruggendo un edificio di tre piani a Hebron.",
      "contesto_it": [
       "Guerra di Gaza",
-      "2026 Lockdown in Cisgiordania"
+      "Blocco della Cisgiordania (2026)"
      ]
     },
     {
@@ -2387,7 +2388,7 @@
      ],
      "testo_it": "Due persone soccombono alle loro ferite subite il giorno prima durante una sparatoria di massa contro una chiesa greco-ortodossa nel governatorato di Karak, in Giordania, portando il bilancio a nove morti e 40 feriti.",
      "contesto_it": [
-      "2026 Karak chiesa sparatoria"
+      "Sparatoria della chiesa di Karak (2026)"
      ]
     },
     {
@@ -2427,7 +2428,7 @@
      ],
      "testo_it": "Almeno una persona viene uccisa e altre 527 sono ferite mentre il tifone Champi spazzato vicino a Taiwan.",
      "contesto_it": [
-      "Stagione del tifone del Pacifico 2026"
+      "Stagione del tifone del Pacifico (2026)"
      ]
     },
     {
@@ -2501,7 +2502,7 @@
      ],
      "testo_it": "Undici persone, tra cui sei bambini, sono rimasti feriti in una sparatoria di massa al Bragg Memorial Stadium della Florida A&M University di Tallahassee, Florida, Stati Uniti.",
      "contesto_it": [
-      "2026 Florida A & M University sparatoria"
+      "Florida A & M University tiro (2026)"
      ]
     },
     {
@@ -2572,8 +2573,8 @@
      ],
      "testo_it": "I Gilet Gialli tengono una seconda ondata di manifestazioni di massa in tutta la Francia. Circa 410.000 persone partecipano e oltre 1.000 persone vengono arrestate.",
      "contesto_it": [
-      "2026 Insurrezioni europee",
-      "2026 Proteste francesi sul carburante"
+      "Insurrezioni europee (2026)",
+      "Proteste francesi di carburante (2026)"
      ]
     },
     {
@@ -2595,8 +2596,8 @@
      ],
      "testo_it": "Circa 110.000 manifestanti marciano a Parigi, in Francia.",
      "contesto_it": [
-      "2026 Insurrezioni europee",
-      "2026 Proteste francesi sul carburante"
+      "Insurrezioni europee (2026)",
+      "Proteste francesi di carburante (2026)"
      ]
     },
     {
@@ -2620,8 +2621,8 @@
      ],
      "testo_it": "I rivoltosi a Parigi attaccano la polizia con proiettili, ma sono dispersi con gas lacrimogeni e cannoni ad acqua. Un elicottero della gendarmeria è schierato per individuare i rivoltosi rimanenti.",
      "contesto_it": [
-      "2026 Insurrezioni europee",
-      "2026 Proteste francesi sul carburante"
+      "Insurrezioni europee (2026)",
+      "Proteste francesi di carburante (2026)"
      ]
     },
     {
@@ -2650,8 +2651,8 @@
      ],
      "testo_it": "Il leader del partito Marine Le Pen tiene il congresso del raduno nazionale a Orléans, in Francia. I manifestanti, compresi i politici di sinistra, hanno marciato in opposizione.",
      "contesto_it": [
-      "2026 Insurrezioni europee",
-      "2026 Proteste francesi sul carburante"
+      "Insurrezioni europee (2026)",
+      "Proteste francesi di carburante (2026)"
      ]
     },
     {
@@ -2680,8 +2681,8 @@
      ],
      "testo_it": "Una nuova ondata di proteste si svolge in tutta Italia. Gli scontri sono segnalati a Bologna, Torino, Roma e Firenze. Le proteste si tengono anche a Milano, Napoli, Padova e Bari.",
      "contesto_it": [
-      "2026 Insurrezioni europee",
-      "2026 I disordini italiani"
+      "Insurrezioni europee (2026)",
+      "Insurrezione italiana (2026)"
      ]
     },
     {
@@ -2703,7 +2704,7 @@
      ],
      "testo_it": "Le proteste antigovernative scoppiano a Tirana, in Albania. Vari edifici governativi sono attaccati.",
      "contesto_it": [
-      "2026 Insurrezioni europee",
+      "Insurrezioni europee (2026)",
       "Rivoluzione Flamingo"
      ]
     },
@@ -2727,7 +2728,7 @@
      ],
      "testo_it": "Almeno 25.000 persone si riuniscono a Madrid, in Spagna, a sostegno del fondo pensionistico statale del paese durante le elezioni generali di novembre.",
      "contesto_it": [
-      "2026 Insurrezioni europee"
+      "Insurrezioni europee (2026)"
      ]
     },
     {
@@ -2748,7 +2749,7 @@
      ],
      "testo_it": "Una protesta studentesca a Barcellona, in Spagna, si conclude con rivolte, saccheggi e scontri con la polizia, con 128 arresti.",
      "contesto_it": [
-      "2026 Insurrezioni europee"
+      "Insurrezioni europee (2026)"
      ]
     },
     {
@@ -2779,7 +2780,7 @@
      ],
      "testo_it": "Il Partito Conservatore della Columbia Britannica vince le elezioni anticipate provinciali in Canada, tornando al governo per la prima volta in quasi un secolo e ponendo fine a nove anni di governo del New Democratic Party (NDP).",
      "contesto_it": [
-      "2026 Elezioni generali della Columbia Britannica"
+      "Elezioni generali della Columbia Britannica (2026)"
      ]
     },
     {
