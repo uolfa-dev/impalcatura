@@ -2,6 +2,9 @@
 
 **La mappa della cultura generale, mattone dopo mattone.**
 
+👉 **Apri il sito: <https://uolfa-dev.github.io/impalcatura/>**
+Su iPhone aprilo in Safari, tocca *Condividi* e poi *Aggiungi alla schermata Home*: si apre come un'app.
+
 Impalcatura è un sito open source, senza scopo di lucro, per chi vuole costruirsi una cultura generale solida e restare collegato all'attualità, anche con poca memoria.
 Lo scopo non è accumulare nozioni ma avere pochi **mattoni portanti** a cui agganciare tutto il resto.
 
@@ -44,10 +47,11 @@ I progressi restano **solo nel tuo browser** (localStorage). Dalla pagina *Progr
 Non serve installare nulla.
 
 - **Sul tuo computer:** apri `index.html` con un doppio clic. Per le notizie serve la connessione.
-- **Online, gratis, con GitHub Pages:**
-  1. Pubblica questa cartella in un repository GitHub.
+- **Online, gratis, con GitHub Pages:** questo repository è già pubblicato su <https://uolfa-dev.github.io/impalcatura/>. Ogni modifica caricata sul ramo `main` va online in circa un minuto. Per pubblicare una tua copia:
+  1. Fai un fork del repository, oppure pubblica la cartella in un tuo repository.
   2. Apri *Settings → Pages → Deploy from a branch*, scegli il ramo `main` e la cartella `/ (root)`.
   3. Dopo un minuto il sito è su `https://<utente>.github.io/<repository>/`, anche dal telefono.
+- **Sull'iPhone:** apri il sito in Safari, tocca *Condividi* e poi *Aggiungi alla schermata Home*. Impalcatura si apre a tutto schermo come un'app. È anche più sicuro per i progressi: Safari può cancellare i dati dei siti che non apri per 7 giorni, le app nella schermata Home no.
 
 I progressi sono legati al browser e all'indirizzo: quelli fatti aprendo il file non si ritrovano sul sito pubblicato, e viceversa. Per spostarli usa *Esporta* e *Importa*.
 
@@ -127,6 +131,8 @@ Prima di proporre una modifica, esegui la verifica (serve [Node.js](https://node
 node strumenti/verifica.mjs            # dati, collegamenti, regole, domande
 node strumenti/verifica.mjs --online   # in più controlla le voci di Wikipedia e gli ID Wikidata
 ```
+
+La stessa verifica (senza `--online`) è anche un controllo automatico di GitHub Actions ([.github/workflows/verifica.yml](.github/workflows/verifica.yml)), che parte a ogni modifica e a ogni pull request quando è attivo. Si accende e si spegne da *Actions → Verifica dei dati → Enable workflow*.
 
 ## Licenze
 
