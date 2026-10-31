@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-10-30T19:58:24Z",
+ "generato": "2026-10-31T00:52:46Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -96,16 +96,113 @@
  ],
  "giorni": [
   {
+   "data": "2026-10-31",
+   "voci": []
+  },
+  {
    "data": "2026-10-30",
    "voci": [
+    {
+     "testo": "Oman rescues 25 crew members from a burning Panamanian-flagged oil tanker in the Strait of Hormuz. The Iranian military confirms it was a result of attempting to pass through an unauthorised route.",
+     "contesto": [
+      "2026 Iran war",
+      "2026 Strait of Hormuz crisis"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz"
+      }
+     ],
+     "link": [
+      "Oman",
+      "Panama",
+      "Oil tanker",
+      "Strait of Hormuz",
+      "Iran"
+     ],
+     "testo_it": "L'Oman salva 25 membri dell'equipaggio da una petroliera battente bandiera panamense in fiamme nello Stretto di Hormuz. L'esercito iraniano conferma che è stato il risultato del tentativo di attraversare una rotta non autorizzata.",
+     "contesto_it": [
+      "Guerra in Iran (2026)",
+      "Stretto di Hormuz (2026)"
+     ]
+    },
+    {
+     "testo": "Hundreds evacuate the Ukrainian city of Oleshky as part of the ceasefire brokered by U.S. First Lady Melania Trump.",
+     "contesto": [
+      "Russo-Ukrainian war",
+      "Peace negotiations in the Russo-Ukrainian war, Blockade of Oleshky, United States and the Russo-Ukrainian war"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "The Guardian",
+       "url": "https://www.theguardian.com/world/2026/oct/30/evacuation-besieged-ukrainian-city-oleshky"
+      }
+     ],
+     "link": [
+      "Ukraine",
+      "Oleshky",
+      "Ceasefire",
+      "First Lady of the United States",
+      "Melania Trump"
+     ],
+     "testo_it": "Centinaia di persone evacuano la città ucraina di Oleshky come parte del cessate il fuoco mediato dalla First Lady degli Stati Uniti Melania Trump.",
+     "contesto_it": [
+      "Guerra russo-ucraina",
+      "Negoziati di pace nella guerra russo-ucraina, nel blocco di Oleshky, negli Stati Uniti e nella guerra russo-ucraina"
+     ]
+    },
+    {
+     "testo": "The Saudi Arabia-led coalition announces it intercepted a drone alleged launched by the Houthis towards the Mecca region, which the Houthis deny.",
+     "contesto": [
+      "Houthi–Saudi conflict, Saudi-led intervention in the Yemeni civil war"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/10/30/saudi-arabia-reports-interception-of-houthi-drone-targeting-mecca"
+      }
+     ],
+     "link": [
+      "Saudi Arabia",
+      "Drone warfare",
+      "Houthis",
+      "Mecca Province"
+     ],
+     "testo_it": "La coalizione guidata dall'Arabia Saudita annuncia di aver intercettato un drone presumibilmente lanciato dagli Houthi verso la regione della Mecca, che gli Houthi negano.",
+     "contesto_it": [
+      "Conflitto Houthi-saudita, intervento saudita nella guerra civile yemenita"
+     ]
+    },
+    {
+     "testo": "Pope Leo XIV votes in the upcoming U.S. midterm elections, becoming the first pontiff to vote in a American election.",
+     "contesto": [],
+     "categoria": "Arts and culture",
+     "fonti": [
+      {
+       "nome": "Axios",
+       "url": "https://www.axios.com/2026/10/30/pope-leo-mail-in-ballot-midterms"
+      }
+     ],
+     "link": [
+      "Pope Leo XIV",
+      "2026 United States elections",
+      "Pope",
+      "Elections in the United States"
+     ],
+     "testo_it": "Papa Leone XIV vota nelle prossime elezioni di medio termine degli Stati Uniti, diventando il primo pontefice a votare nelle elezioni americane."
+    },
     {
      "testo": "Russian independent newspaper Novaya Gazeta announces plans to cease operations on 9 November, citing pressure from Russian authorities.",
      "contesto": [],
      "categoria": "Business and economy",
      "fonti": [
       {
-       "nome": "Le Monde",
-       "url": "https://www.lemonde.fr/en/international/article/2026/10/30/russia-s-last-free-newspaper-novaya-gazeta-closes-as-press-freedom-faces-its-swan-song_6767422_4.html"
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/business/media-telecom/russian-investigative-newspaper-novaya-gazeta-says-it-is-shutting-down-after-2026-10-30/"
       }
      ],
      "link": [
@@ -137,8 +234,8 @@
      "categoria": "Disasters and accidents",
      "fonti": [
       {
-       "nome": "Yeni Şafak",
-       "url": "https://en.yenisafak.com/world/six-killed-in-northern-india-helicopter-crash-3725007"
+       "nome": "The Times of India",
+       "url": "https://timesofindia.indiatimes.com/city/dehradun/uttarakhands-skies-turn-deadly-again-5-crashes-in-39-days-last-year-now-6-feared-dead-in-joshimath-tragedy/amp_articleshow/135358474.cms"
       }
      ],
      "link": [
@@ -176,10 +273,38 @@
      ]
     },
     {
+     "testo": "Police Scotland carries out an investigation into what Andrew Mountbatten-Windsor, Jeffrey Epstein, and Ghislaine Maxwell did during visits to Balmoral Castle over the years.",
+     "contesto": [
+      "Relationship of Prince Andrew and Jeffrey Epstein"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "BBC News",
+       "url": "https://www.bbc.com/news/articles/cqglwp088532o"
+      }
+     ],
+     "link": [
+      "Police Scotland",
+      "Andrew Mountbatten-Windsor",
+      "Jeffrey Epstein",
+      "Ghislaine Maxwell",
+      "Balmoral Castle"
+     ],
+     "testo_it": "La polizia scozzese conduce un'indagine su ciò che Andrew Mountbatten-Windsor, Jeffrey Epstein e Ghislaine Maxwell hanno fatto durante le visite al castello di Balmoral nel corso degli anni.",
+     "contesto_it": [
+      "Il principe Andrew e Jeffrey Epstein"
+     ]
+    },
+    {
      "testo": "Cryptocurrency exchange Binance confirms that assets worth US$6.3 billion were stolen, making it the largest cryptocurrency theft in history.",
      "contesto": [],
      "categoria": "Law and crime",
      "fonti": [
+      {
+       "nome": "Bloomberg",
+       "url": "https://www.bloomberg.com/news/articles/2026-10-29/binance-founder-says-possible-hack-of-exchange-bitcoin-falls"
+      },
       {
        "nome": "Reuters",
        "url": "https://www.reuters.com/legal/transactional/tether-circle-freeze-238-billion-after-binance-reports-security-incident-2026-10-29/"
@@ -199,26 +324,167 @@
      "testo_it": "L'exchange di criptovalute Binance conferma che asset del valore di 6,3 miliardi di dollari sono stati rubati, rendendolo il più grande furto di criptovaluta nella storia."
     },
     {
-     "testo": "A general strike and multiple protests are held across Italy. Clashes break out in multiple cities.",
+     "testo": "The Swiss supreme court upholds a 20-year jail sentence for former Liberian rebel commander Alieu Kosiah after he was found guilty in 2021 for atrocities committed during the First Liberian Civil War, but overturns a conviction for crimes against humanity.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/10/30/swiss-supreme-court-upholds-liberian-ex-rebel-commanders-20-year-sentence"
+      }
+     ],
+     "link": [
+      "Switzerland",
+      "Federal Criminal Court of Switzerland",
+      "Liberia",
+      "United Liberation Movement of Liberia for Democracy",
+      "Alieu Kosiah",
+      "First Liberian Civil War",
+      "Crimes against humanity"
+     ],
+     "testo_it": "La corte suprema svizzera sostiene una condanna a 20 anni di carcere per l'ex comandante dei ribelli liberiani Alieu Kosiah dopo essere stato riconosciuto colpevole nel 2021 per le atrocità commesse durante la prima guerra civile liberiana, ma ribalta una condanna per crimini contro l'umanità."
+    },
+    {
+     "testo": "Polish police enter the Constitutional Tribunal following the suspension of its president Bogdan Święczkowski, announced by judge Anna Korwin-Piotrowska. The tribunal describes the suspension as a coup d'état, while three protesters in support of PiS are detained after breaching the tribunal's fence.",
      "contesto": [
-      "2026 European unrest",
+      "Polish constitutional crisis",
+      "Polish Constitutional Tribunal crisis",
+      "2026 Polish coup attempt, Suspension of Bogdan Święczkowski"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "Euronews",
+       "url": "https://www.euronews.com/2026/10/30/polish-president-turns-back-mid-flight-amid-coup-detat-allegations"
+      }
+     ],
+     "link": [
+      "Poland",
+      "Police of Poland",
+      "Constitutional Tribunal (Poland)",
+      "Bogdan Święczkowski",
+      "Coup d'état",
+      "Law and Justice"
+     ],
+     "testo_it": "La polizia polacca entra nel Tribunale costituzionale dopo la sospensione del suo presidente Bogdan Święczkowski, annunciata dalla giudice Anna Korwin-Piotrowska. Il tribunale descrive la sospensione come un colpo di stato, mentre tre manifestanti a sostegno del PiS sono detenuti dopo aver violato la recinzione del tribunale.",
+     "contesto_it": [
+      "Crisi costituzionale polacca",
+      "La crisi del Tribunale costituzionale polacco",
+      "Tentativo di colpo di stato polacco (2026), Sospensione di Bogdan Święczkowski"
+     ]
+    },
+    {
+     "testo": "Polish justice minister Waldemar Żurek requests stripping the tribunal's president and vice president Bartłomiej Sochański of their immunity from prosecution in order to charge them. President Karol Nawrocki turns his flight towards Senegal around due to the situation and lands back in Poland.",
+     "contesto": [
+      "Polish constitutional crisis",
+      "Polish Constitutional Tribunal crisis",
+      "2026 Polish coup attempt, Suspension of Bogdan Święczkowski"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/poland-european-union-justice-protests-police-tribunal-67eda2e3a151e00038d85a5e894a2a72"
+      },
+      {
+       "nome": "BBC News",
+       "url": "https://www.bbc.com/news/articles/crz9824d5e88o"
+      }
+     ],
+     "link": [
+      "Ministry of Justice (Poland)",
+      "Waldemar Żurek",
+      "President of Poland",
+      "Karol Nawrocki",
+      "Senegal"
+     ],
+     "testo_it": "Il ministro della giustizia polacco Waldemar Żurek chiede di privare il presidente del tribunale e il vicepresidente Bartłomiej Sochański della loro immunità dall'accusa al fine di incriminarli. Il presidente Karol Nawrocki gira il suo volo verso il Senegal a causa della situazione e atterra in Polonia.",
+     "contesto_it": [
+      "Crisi costituzionale polacca",
+      "La crisi del Tribunale costituzionale polacco",
+      "Tentativo di colpo di stato polacco (2026), Sospensione di Bogdan Święczkowski"
+     ]
+    },
+    {
+     "testo": "A general strike and multiple protests are held across Italy against the rising cost of living and prime minister Giorgia Meloni's government, with clashes breaking out in multiple cities.",
+     "contesto": [
+      "2026 European unrest, Cost of living crisis",
       "2026 Italian unrest"
      ],
      "categoria": "Politics and elections",
      "fonti": [
       {
-       "nome": "Rai News",
-       "url": "https://www.rainews.it/maratona/2026/10/sciopero-generale-del-30-ottobre-attenzione-sulle-grandi-citta-i-cortei-e-i-disagi-per-chi-viaggia-roma-milano-genova-napoli-firenze-376a3a17-fd70-4c69-8325-a376681518d8.html"
+       "nome": "CNN",
+       "url": "https://edition.cnn.com/2026/10/30/europe/italy-protests-anti-government-meloni-intl"
+      },
+      {
+       "nome": "DW",
+       "url": "https://www.dw.com/en/italy-students-and-workers-rally-over-living-costs/a-79807668"
       }
      ],
      "link": [
-      "Italy"
+      "Italy",
+      "Cost of living",
+      "Prime Minister of Italy",
+      "Giorgia Meloni",
+      "Meloni government"
      ],
-     "testo_it": "Uno sciopero generale e diverse proteste si svolgono in tutta Italia. Scontri scoppiano in più città.",
+     "testo_it": "In tutta Italia si tengono uno sciopero generale e molteplici proteste contro il crescente costo della vita e contro il governo del primo ministro Giorgia Meloni, con scontri scoppiati in più città.",
      "contesto_it": [
-      "Insurrezioni europee (2026)",
+      "Insurrezioni europee (2026), Crisi del costo della vita",
       "Insurrezione italiana (2026)"
      ]
+    },
+    {
+     "testo": "In thoroughbred horse racing, race horse Sun Goddess dominates the Juvenile Fillies Turf at the Keeneland racetrack in Lexington, Kentucky, United States during the Breeders' Cup. Additionally, Emphatic wins the Juvenile Fillies.",
+     "contesto": [
+      "2026 Breeders' Cup"
+     ],
+     "categoria": "Sports",
+     "fonti": [
+      {
+       "nome": "The Blood-Horse",
+       "url": "https://www.bloodhorse.com/horse-racing/articles/295716/emphatic-stays-undefeated-in-bc-juvenile-fillies"
+      },
+      {
+       "nome": "Sky Sports",
+       "url": "https://www.skysports.com/racing/video/13605939/sun-goddess-dazzles-in-the-breeders-cup-juvenile-fillies-turf"
+      }
+     ],
+     "link": [
+      "Thoroughbred racing",
+      "Horse racing",
+      "Breeders' Cup Juvenile Fillies Turf",
+      "Keeneland",
+      "Lexington, Kentucky",
+      "Kentucky",
+      "United States",
+      "Breeders' Cup",
+      "Breeders' Cup Juvenile Fillies"
+     ],
+     "testo_it": "Nelle corse di cavalli purosangue, il cavallo da corsa Sun Goddess domina il giovane Fillies Turf sull'ippodromo Keeneland a Lexington, Kentucky, Stati Uniti durante la Breeders' Cup. Inoltre, Emphatic vince i giovani Fillies.",
+     "contesto_it": [
+      "Coppa degli Allevatori (2026)"
+     ]
+    },
+    {
+     "testo": "In ice hockey, the Court of Arbitration for Sports rules that Russian teams must be allowed to take part in all international tournaments, overturning previous International Ice Hockey Federation decisions.",
+     "contesto": [],
+     "categoria": "Sports",
+     "fonti": [
+      {
+       "nome": "DW",
+       "url": "https://www.dw.com/en/iihf-ordered-to-allow-russia-back-into-world-championships/a-79805650"
+      }
+     ],
+     "link": [
+      "Ice hockey",
+      "Court of Arbitration for Sport",
+      "Sport in Russia",
+      "Ice hockey in Russia",
+      "International Ice Hockey Federation"
+     ],
+     "testo_it": "Nell'hockey su ghiaccio, la Corte Arbitrale dello Sport regola che le squadre russe devono essere autorizzate a partecipare a tutti i tornei internazionali, ribaltando le precedenti decisioni della Federazione Internazionale di Hockey su Ghiaccio."
     }
    ]
   },
@@ -401,6 +667,29 @@
      "testo_it": "La società americana DoorDash annuncia l'intenzione di acquisire la società di consegna di generi alimentari Instacart per 17 miliardi di dollari alla fine del 2027."
     },
     {
+     "testo": "Four people are killed and eleven more are injured after an Italian Air Force Boeing CH-47 Chinook crashes near Brčko, Bosnia and Herzegovina.",
+     "contesto": [
+      "2026 Brčko helicopter crash"
+     ],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/bosnia-eufor-crash-helicopter-2eb085d8dcc0347ecd4f287d396091c4"
+      }
+     ],
+     "link": [
+      "Italian Air Force",
+      "Boeing CH-47 Chinook",
+      "Brčko",
+      "Bosnia and Herzegovina"
+     ],
+     "testo_it": "Quattro persone sono morte e altre undici sono rimaste ferite dopo che un Boeing CH-47 Chinook dell'Aeronautica Militare italiana si è schiantato vicino a Brčko, in Bosnia-Erzegovina.",
+     "contesto_it": [
+      "incidente elicottero Brčko (2026)"
+     ]
+    },
+    {
      "testo": "An oxygen cylinder explodes inside an ambulance parked at a medical facility in Tharparkar, Sindh Province, Pakistan, killing ten people.",
      "contesto": [],
      "categoria": "Disasters and accidents",
@@ -436,24 +725,6 @@
       "Turkey"
      ],
      "testo_it": "Tre persone vengono uccise e altre cinque ferite durante il crollo di un hoodoo al Museo all'aperto di Göreme nel distretto di Nevşehir, in Turchia. Si sospetta che sia causato da forti piogge nei giorni precedenti."
-    },
-    {
-     "testo": "Four people are killed and eleven more are injured after an Italian Air Force Boeing CH-47 Chinook crashes near Brčko, Bosnia and Herzegovina.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/bosnia-eufor-crash-helicopter-2eb085d8dcc0347ecd4f287d396091c4"
-      }
-     ],
-     "link": [
-      "Italian Air Force",
-      "Boeing CH-47 Chinook",
-      "Brčko",
-      "Bosnia and Herzegovina"
-     ],
-     "testo_it": "Quattro persone sono morte e altre undici sono rimaste ferite dopo che un Boeing CH-47 Chinook dell'Aeronautica Militare italiana si è schiantato vicino a Brčko, in Bosnia-Erzegovina."
     },
     {
      "testo": "Andreas Norlén, speaker of the Swedish parliament, announces a second vote to elect the next prime minister. He proposes a coalition led by the Center Party's leader, Elisabeth Thand Ringqvist, alongside the Social Democrats, Greens, Christian Democrats, and the Moderates.",
@@ -511,6 +782,24 @@
      "contesto_it": [
       "Elezioni generali in Haiti (2027)"
      ]
+    },
+    {
+     "testo": "Teghaza 001, a Martian meteorite discovered in 2022 in the Sahara in Mali is reported to be 4.1 billion years old.",
+     "contesto": [],
+     "categoria": "Science and technology",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/science/martian-meteorite-found-sahara-is-41-billion-years-old-2026-10-29/"
+      }
+     ],
+     "link": [
+      "Martian meteorite",
+      "2022 in Mali",
+      "Sahara",
+      "Mali"
+     ],
+     "testo_it": "Teghaza 001, un meteorite marziano scoperto nel 2022 nel Sahara in Mali, ha 4,1 miliardi di anni."
     }
    ]
   },
@@ -2329,525 +2618,6 @@
      "contesto_it": [
       "Sanzioni sportive internazionali durante l'invasione russa dell'Ucraina"
      ]
-    }
-   ]
-  },
-  {
-   "data": "2026-10-24",
-   "voci": [
-    {
-     "testo": "Saudi Arabia launches airstrikes against a residential building and a cement factory in Hamdan district, Yemen, killing ten people and wounding many more.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "Houthi–Saudi conflict, Yemeni civil war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Tempo",
-       "url": "https://en.tempo.co/read/2122301/more-than-10-killed-in-saudi-led-coalition-airstrikes-in-yemen"
-      }
-     ],
-     "link": [
-      "Saudi Arabia",
-      "Airstrike",
-      "Cement",
-      "Hamdan district",
-      "Yemen"
-     ],
-     "testo_it": "L'Arabia Saudita lancia attacchi aerei contro un edificio residenziale e una fabbrica di cemento nel distretto di Hamdan, Yemen, uccidendo dieci persone e ferendone molte altre.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Conflitto Houthi-saudita, guerra civile yemenita"
-     ]
-    },
-    {
-     "testo": "The Israeli military raids 15 cities in the occupied West Bank, arresting several Palestinians, forcing over 2,000 from their homes, and destroying a three-storey building in Hebron.",
-     "contesto": [
-      "Gaza war",
-      "2026 West Bank lockdown"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/10/24/israel-raids-towns-detains-dozens-of-palestinians-in-occupied-west-bank"
-      },
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids"
-      }
-     ],
-     "link": [
-      "Israeli military",
-      "West Bank",
-      "Palestinians",
-      "Hebron"
-     ],
-     "testo_it": "L'esercito israeliano fa irruzione in 15 città della Cisgiordania occupata, arrestando diversi palestinesi, costringendo oltre 2.000 persone a lasciare le loro case e distruggendo un edificio di tre piani a Hebron.",
-     "contesto_it": [
-      "Guerra di Gaza",
-      "Blocco della Cisgiordania (2026)"
-     ]
-    },
-    {
-     "testo": "Unknown gunmen attack a village in Taraba State, Nigeria, killing at least ten people. Locals place the death toll at 20, while Amnesty International claims at least 40.",
-     "contesto": [
-      "Nigerian bandit conflict"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say"
-      }
-     ],
-     "link": [
-      "Taraba State",
-      "Nigeria",
-      "Amnesty International"
-     ],
-     "testo_it": "Uomini armati sconosciuti attaccano un villaggio nello Stato di Taraba, in Nigeria, uccidendo almeno dieci persone. I locali mettono il bilancio delle vittime a 20, mentre Amnesty International ne rivendica almeno 40.",
-     "contesto_it": [
-      "Conflitto bandito nigeriano"
-     ]
-    },
-    {
-     "testo": "Two people succumb to their injuries sustained the day before during a mass shooting at a Greek Orthodox Church in Karak Governorate, Jordan, bringing the toll to nine killed and 40 injured.",
-     "contesto": [
-      "2026 Karak church shooting"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "CNN",
-       "url": "https://www.cnn.com/2026/10/23/middleeast/church-shooting-jordan-intl"
-      }
-     ],
-     "link": [
-      "Mass shooting",
-      "Greek Orthodox Patriarchate of Jerusalem",
-      "Karak Governorate",
-      "Jordan"
-     ],
-     "testo_it": "Due persone soccombono alle loro ferite subite il giorno prima durante una sparatoria di massa contro una chiesa greco-ortodossa nel governatorato di Karak, in Giordania, portando il bilancio a nove morti e 40 feriti.",
-     "contesto_it": [
-      "Sparatoria della chiesa di Karak (2026)"
-     ]
-    },
-    {
-     "testo": "Unknown gunmen open fire against a group of medics in Bafwasende, Democratic Republic of the Congo, while responding to an Ebola case amid the ongoing emergency, killing a nurse and injuring a health worker.",
-     "contesto": [],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/congo-ebola-b739277681b530aef772cf66be7e41f0"
-      }
-     ],
-     "link": [
-      "Bafwasende",
-      "Democratic Republic of the Congo",
-      "Ebola",
-      "2026 Ebola epidemic",
-      "Nurse"
-     ],
-     "testo_it": "Uomini armati sconosciuti aprono il fuoco contro un gruppo di medici a Bafwasende, nella Repubblica Democratica del Congo, mentre rispondono a un caso di Ebola durante l'emergenza in corso, uccidendo un'infermiera e ferendo un operatore sanitario."
-    },
-    {
-     "testo": "At least one person is killed and 527 others are injured as Typhoon Champi swept near Taiwan.",
-     "contesto": [
-      "2026 Pacific typhoon season"
-     ],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "DW",
-       "url": "https://www.dw.com/en/typhoon-champi-taiwan/a-79748221"
-      }
-     ],
-     "link": [
-      "Typhoon Champi (2026)",
-      "Taiwan"
-     ],
-     "testo_it": "Almeno una persona viene uccisa e altre 527 sono ferite mentre il tifone Champi spazzato vicino a Taiwan.",
-     "contesto_it": [
-      "Stagione del tifone del Pacifico (2026)"
-     ]
-    },
-    {
-     "testo": "Six people are killed and another is injured when a passenger train collides with a minibus in Jewish Autonomous Oblast, Russia.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/train-hits-minibus-russias-far-east-killing-six-2026-10-24/"
-      }
-     ],
-     "link": [
-      "Minibus",
-      "Jewish Autonomous Oblast",
-      "Russia"
-     ],
-     "testo_it": "Sei persone vengono uccise e un altro viene ferito quando un treno passeggeri si scontra con un minibus nell'Oblast' autonoma ebraica, in Russia."
-    },
-    {
-     "testo": "Five people are killed in a fire at the market place of Sorsogon City, Philippines.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "PNA",
-       "url": "https://www.pna.gov.ph/article/5-dead-in-sorsogon-public-market-fire"
-      }
-     ],
-     "link": [
-      "Sorsogon City",
-      "Philippines"
-     ],
-     "testo_it": "Cinque persone sono state uccise in un incendio nella piazza del mercato di Sorsogon City, nelle Filippine."
-    },
-    {
-     "testo": "Two people are killed and over 2,000 others are displaced by flooding in Chaco and Corrientes, Argentina.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AA",
-       "url": "https://aa.com.tr/en/world/floods-in-argentina-kill-2-displace-over-2-000-amid-el-nino/4099759"
-      }
-     ],
-     "link": [
-      "Chaco Province",
-      "Corrientes Province",
-      "Argentina"
-     ],
-     "testo_it": "Due persone sono morte e oltre 2.000 sono sfollate a causa delle inondazioni a Chaco e Corrientes, in Argentina."
-    },
-    {
-     "testo": "Eleven people, including six children, are injured in a mass shooting at Bragg Memorial Stadium at Florida A&M University in Tallahassee, Florida, United States.",
-     "contesto": [
-      "2026 Florida A&M University shooting"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "CNN",
-       "url": "https://edition.cnn.com/2026/10/25/us/11-shot-florida-tallahassee-shooting-hnk"
-      }
-     ],
-     "link": [
-      "Bragg Memorial Stadium",
-      "Florida A&M University",
-      "Tallahassee, Florida",
-      "Florida",
-      "United States"
-     ],
-     "testo_it": "Undici persone, tra cui sei bambini, sono rimasti feriti in una sparatoria di massa al Bragg Memorial Stadium della Florida A&M University di Tallahassee, Florida, Stati Uniti.",
-     "contesto_it": [
-      "Florida A & M University tiro (2026)"
-     ]
-    },
-    {
-     "testo": "Survivors of sexual abuse by Catholic clergy reach a settlement with the Archdiocese of New York in the United States, which will see the archdiocese paying at least $250,000 to around 1,300 plaintiffs, totaling over $800 million.",
-     "contesto": [
-      "Catholic Church sex abuse cases in the United States"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "DW",
-       "url": "https://www.dw.com/en/new-york-archdiocese-to-pay-800-million-to-sex-abuse-survivors/a-79753347"
-      }
-     ],
-     "link": [
-      "Sexual abuse",
-      "Catholic Church in the United States",
-      "Catholic priest",
-      "Settlement (litigation)",
-      "Archdiocese of New York",
-      "United States",
-      "Plaintiff"
-     ],
-     "testo_it": "I sopravvissuti agli abusi sessuali da parte del clero cattolico raggiungono un accordo con l'arcidiocesi di New York negli Stati Uniti, che vedrà l'arcidiocesi pagare almeno $ 250.000 a circa 1.300 querelanti, per un totale di oltre $ 800 milioni.",
-     "contesto_it": [
-      "Chiesa cattolica casi di abuso sessuale negli Stati Uniti"
-     ]
-    },
-    {
-     "testo": "Five people are killed and three more are injured in a suspected gang-related mass shooting at a residence in Lavender Hill, Cape Flats, South Africa.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "Smile 90.4FM",
-       "url": "https://smilefm.co.za/anti-gang-unit-deployed-in-lavender-hill-after-five-killed-three-wounded/"
-      }
-     ],
-     "link": [
-      "Gangs in South Africa",
-      "List of mass shootings in South Africa",
-      "Lavender Hill, Cape Town",
-      "Cape Flats",
-      "South Africa"
-     ],
-     "testo_it": "Cinque persone sono morte e altre tre sono rimaste ferite in una presunta sparatoria di massa in una residenza a Lavender Hill, Cape Flats, in Sudafrica."
-    },
-    {
-     "testo": "The Yellow vests hold a second wave of mass demonstrations across France. About 410,000 people participate and over 1,000 people are arrested.",
-     "contesto": [
-      "2026 European unrest",
-      "2026 French fuel protests"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "The Guardian",
-       "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news#top-of-blog"
-      },
-      {
-       "nome": "France 24",
-       "url": "https://www.france24.com/en/france/20261024-live-hundreds-of-protests-expected-in-france-amid-high-tensions-and-heavy-police-presence#post=U0UXw9tBzJKh9utyIIRy"
-      }
-     ],
-     "link": [
-      "Yellow vests protests",
-      "France"
-     ],
-     "testo_it": "I Gilet Gialli tengono una seconda ondata di manifestazioni di massa in tutta la Francia. Circa 410.000 persone partecipano e oltre 1.000 persone vengono arrestate.",
-     "contesto_it": [
-      "Insurrezioni europee (2026)",
-      "Proteste francesi di carburante (2026)"
-     ]
-    },
-    {
-     "testo": "About 110,000 protesters march in Paris, France.",
-     "contesto": [
-      "2026 European unrest",
-      "2026 French fuel protests"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "France 24",
-       "url": "https://www.france24.com/en/france/20261024-live-hundreds-of-protests-expected-in-france-amid-high-tensions-and-heavy-police-presence#post=U0UXw9tBzJKh9utyIIRy"
-      }
-     ],
-     "link": [
-      "Paris",
-      "France"
-     ],
-     "testo_it": "Circa 110.000 manifestanti marciano a Parigi, in Francia.",
-     "contesto_it": [
-      "Insurrezioni europee (2026)",
-      "Proteste francesi di carburante (2026)"
-     ]
-    },
-    {
-     "testo": "Rioters in Paris attack police with projectiles, but are dispersed with tear gas and water cannons. A gendarmerie helicopter is deployed to locate remaining rioters.",
-     "contesto": [
-      "2026 European unrest",
-      "2026 French fuel protests"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "France 24",
-       "url": "https://www.france24.com/en/france/20261024-live-hundreds-of-protests-expected-in-france-amid-high-tensions-and-heavy-police-presence#post=U0UXw9tBzJKh9utyIIRy"
-      }
-     ],
-     "link": [
-      "Paris",
-      "Tear gas",
-      "Water cannon",
-      "Gendarmerie"
-     ],
-     "testo_it": "I rivoltosi a Parigi attaccano la polizia con proiettili, ma sono dispersi con gas lacrimogeni e cannoni ad acqua. Un elicottero della gendarmeria è schierato per individuare i rivoltosi rimanenti.",
-     "contesto_it": [
-      "Insurrezioni europee (2026)",
-      "Proteste francesi di carburante (2026)"
-     ]
-    },
-    {
-     "testo": "Party leader Marine Le Pen holds the National Rally congress in Orléans, France. Protesters, including left-wing politicians, marched in opposition.",
-     "contesto": [
-      "2026 European unrest",
-      "2026 French fuel protests"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "CBS",
-       "url": "https://www.cbsnews.com/news/paris-france-new-protests-riots-museums-shops/"
-      },
-      {
-       "nome": "Euronews",
-       "url": "https://www.euronews.com/2026/10/24/thousands-protest-against-far-right-national-rally-congress-in-france"
-      }
-     ],
-     "link": [
-      "Marine Le Pen",
-      "National Rally",
-      "Orléans",
-      "France",
-      "French Left"
-     ],
-     "testo_it": "Il leader del partito Marine Le Pen tiene il congresso del raduno nazionale a Orléans, in Francia. I manifestanti, compresi i politici di sinistra, hanno marciato in opposizione.",
-     "contesto_it": [
-      "Insurrezioni europee (2026)",
-      "Proteste francesi di carburante (2026)"
-     ]
-    },
-    {
-     "testo": "A new wave of protests is held across Italy. Clashes are reported in Bologna, Turin, Rome and Florence. Protests are also held in Milan, Naples, Padua and Bari.",
-     "contesto": [
-      "2026 European unrest",
-      "2026 Italian unrest"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "Rai News",
-       "url": "https://www.rainews.it/maratona/2026/10/caro-vita-secondo-giorno-di-guerriglia-a-milano-nuovi-saccheggi-in-centro-dopo-gli-scontri-di-ieri-f03a282c-8ad7-411b-826e-f50b88ca9ebe.html"
-      }
-     ],
-     "link": [
-      "Italy",
-      "Bologna",
-      "Turin",
-      "Rome",
-      "Florence",
-      "Milan",
-      "Naples",
-      "Padua",
-      "Bari"
-     ],
-     "testo_it": "Una nuova ondata di proteste si svolge in tutta Italia. Gli scontri sono segnalati a Bologna, Torino, Roma e Firenze. Le proteste si tengono anche a Milano, Napoli, Padova e Bari.",
-     "contesto_it": [
-      "Insurrezioni europee (2026)",
-      "Insurrezione italiana (2026)"
-     ]
-    },
-    {
-     "testo": "Anti-government protests break out in Tirana, Albania. Various government buildings are attacked.",
-     "contesto": [
-      "2026 European unrest",
-      "Flamingo Revolution"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "The Guardian",
-       "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news#top-of-blog"
-      }
-     ],
-     "link": [
-      "Tirana",
-      "Albania"
-     ],
-     "testo_it": "Le proteste antigovernative scoppiano a Tirana, in Albania. Vari edifici governativi sono attaccati.",
-     "contesto_it": [
-      "Insurrezioni europee (2026)",
-      "Rivoluzione Flamingo"
-     ]
-    },
-    {
-     "testo": "At least 25,000 people gather in Madrid, Spain, in support of the country's state pension fund amid the general election in November.",
-     "contesto": [
-      "2026 European unrest"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme"
-      }
-     ],
-     "link": [
-      "Madrid",
-      "Spain",
-      "Social Security Reserve Fund (Spain)",
-      "2026 Spanish general election"
-     ],
-     "testo_it": "Almeno 25.000 persone si riuniscono a Madrid, in Spagna, a sostegno del fondo pensionistico statale del paese durante le elezioni generali di novembre.",
-     "contesto_it": [
-      "Insurrezioni europee (2026)"
-     ]
-    },
-    {
-     "testo": "A student protest in Barcelona, Spain, ends in riots, looting and clashes with the police, resulting in 128 arrests.",
-     "contesto": [
-      "2026 European unrest"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "Euronews",
-       "url": "https://www.euronews.com/2026/10/25/100-arrested-after-night-of-unrest-and-looting-in-barcelona"
-      }
-     ],
-     "link": [
-      "Barcelona",
-      "Mossos d'Esquadra"
-     ],
-     "testo_it": "Una protesta studentesca a Barcellona, in Spagna, si conclude con rivolte, saccheggi e scontri con la polizia, con 128 arresti.",
-     "contesto_it": [
-      "Insurrezioni europee (2026)"
-     ]
-    },
-    {
-     "testo": "The Conservative Party of British Columbia wins the provincial snap election in Canada, returning to government for the first time in nearly a century and ending nine years of New Democratic Party (NDP) rule. Premier David Eby resigns as NDP leader.",
-     "contesto": [
-      "2026 British Columbia general election"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "CBC",
-       "url": "https://www.cbc.ca/news/canada/british-columbia/livestory/bc-provincial-election-results-live-updates-2026-9.7389208"
-      },
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/legal/litigation/conservative-party-wins-first-election-nearly-century-british-columbia-2026-10-25/"
-      }
-     ],
-     "link": [
-      "Conservative Party of British Columbia",
-      "British Columbia",
-      "Snap election",
-      "Canada",
-      "Government of British Columbia",
-      "New Democratic Party",
-      "Premier of British Columbia",
-      "David Eby"
-     ],
-     "testo_it": "Il Partito Conservatore della Columbia Britannica vince le elezioni anticipate provinciali in Canada, tornando al governo per la prima volta in quasi un secolo e ponendo fine a nove anni di governo del New Democratic Party (NDP).",
-     "contesto_it": [
-      "Elezioni generali della Columbia Britannica (2026)"
-     ]
-    },
-    {
-     "testo": "Thousands of Israelis rally in Hostages Square in Tel Aviv to protest against the government, prime minister Benjamin Netanyahu's cabinet, and the continuation of the Gaza war.",
-     "contesto": [],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election"
-      }
-     ],
-     "link": [
-      "Israel",
-      "Hostages Square",
-      "Tel Aviv",
-      "Israeli government",
-      "Prime Minister of Israel",
-      "Benjamin Netanyahu",
-      "Thirty-seventh government of Israel",
-      "Gaza war"
-     ],
-     "testo_it": "Migliaia di israeliani si radunano in piazza Hostages a Tel Aviv per protestare contro il governo, il gabinetto del primo ministro Benjamin Netanyahu e la continuazione della guerra di Gaza."
     }
    ]
   }
