@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-10-31T17:17:09Z",
+ "generato": "2026-10-31T21:42:48Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -21,6 +21,7 @@
    ],
    "link": [
     "2026 Binance hack",
+    "Cryptocurrency",
     "Binance"
    ],
    "testo_it": "6,3 miliardi di dollari sono stati rubati dall'exchange di criptovalute Binance."
@@ -95,7 +96,7 @@
    "data": "2026-10-31",
    "voci": [
     {
-     "testo": "Polish Ambassador to Romania Paweł Soloch and Polish Ambassador to China Jakub Kumoch resign from their positions in protest of the suspension of Polish Constitutional Tribunal president Bogdan Święczkowski.",
+     "testo": "Polish ambassador to Romania Paweł Soloch and ambassador to China Jakub Kumoch resign from their positions in protest of the suspension of Polish Constitutional Tribunal president Bogdan Święczkowski.",
      "contesto": [
       "Polish constitutional crisis, China–Poland relations, Poland–Romania relations",
       "Polish Constitutional Tribunal crisis",
@@ -104,19 +105,18 @@
      "categoria": "International relations",
      "fonti": [
       {
-       "nome": "Wiadomości",
+       "nome": "Wiadomości in Polish",
        "url": "https://wiadomosci.wp.pl/prezydent-karol-nawrocki-przyjechal-do-trybunalu-konstytucyjnego-relacja-na-zywo-7345695014824384l"
       }
      ],
      "link": [
-      "Poland–Romania relations",
+      "Poland",
       "Paweł Soloch",
-      "List of ambassadors of Poland to China",
       "Jakub Kumoch",
       "Constitutional Tribunal (Poland)",
       "Bogdan Święczkowski"
      ],
-     "testo_it": "L'ambasciatore polacco in Romania Paweł Soloch e l'ambasciatore polacco in Cina Jakub Kumoch si dimettono dalle loro posizioni per protestare contro la sospensione del presidente del Tribunale costituzionale polacco Bogdan Święczkowski.",
+     "testo_it": "L'ambasciatore polacco in Romania Paweł Soloch e l'ambasciatore in Cina Jakub Kumoch si dimettono dalle loro posizioni per protestare contro la sospensione del presidente del Tribunale costituzionale polacco Bogdan Święczkowski.",
      "contesto_it": [
       "Crisi costituzionale polacca, relazioni Cina-Polonia, relazioni Polonia-Romania",
       "La crisi del Tribunale costituzionale polacco",
@@ -124,9 +124,9 @@
      ]
     },
     {
-     "testo": "The Malagasy justice ministry reports they have raided people involved in 13 scam centers previously based in Cambodia, and that 148 Chinese nationals in Madagascar linked to scam centers in Cambodia have been extradited to China. They also claim evidence that some African workers were victims of human trafficking in Madagascar, coerced into participating in fraudulent schemes.",
+     "testo": "The Ministry of Justice of Madagascar reports they have raided people involved in over a dozen scam centers previously based in Cambodia, and that 148 Chinese people in Madagascar linked to scam centers in Cambodia have been extradited to China. They also suggest that some African scam center employees were there as a result of human trafficking to Madagascar, then coerced into participating in fraudulent schemes.",
      "contesto": [
-      "Trafficking of Chinese nationals to scam centers abroad"
+      "Trafficking of Chinese nationals to scam centers abroad, Human trafficking in Madagascar"
      ],
      "categoria": "Law and crime",
      "fonti": [
@@ -136,56 +136,27 @@
       }
      ],
      "link": [
+      "Ministry of Justice",
       "Madagascar",
-      "Justice ministry",
       "Scam center",
       "Cambodia",
       "Chinese people in Madagascar",
       "Scam centers in Cambodia",
+      "Extradited",
       "China",
+      "Scam center",
       "Human trafficking in Madagascar",
       "Fraud"
      ],
-     "testo_it": "Il ministero della giustizia malgascio riferisce di aver fatto irruzione in 13 centri di truffa precedentemente con sede in Cambogia, e che 148 cittadini cinesi in Madagascar legati a centri di truffa in Cambogia sono stati estradati in Cina. Sostengono anche prove che alcuni lavoratori africani sono stati vittime di traffico di esseri umani in Madagascar, costretti a partecipare a schemi fraudolenti.",
+     "testo_it": "Il Ministero della Giustizia del Madagascar riferisce di aver fatto irruzione in oltre una dozzina di centri di truffa precedentemente con sede in Cambogia, e che 148 persone cinesi in Madagascar legate a centri di truffa in Cambogia sono state estradate in Cina. Suggeriscono anche che alcuni dipendenti africani del centro di truffa erano lì a causa del traffico di esseri umani in Madagascar, poi costretti a partecipare a schemi fraudolenti.",
      "contesto_it": [
-      "Traffico di cittadini cinesi verso centri di truffa all'estero"
+      "Traffico di cittadini cinesi verso centri di truffa all'estero, tratta di esseri umani in Madagascar"
      ]
     },
     {
-     "testo": "United Nations is closing its political mission in Somalia, concluding more than three decades of sequential political and peacebuilding operations aimed at helping the country rebuild after civil war.",
+     "testo": "Protests are held across France for the third consecutive weekend.",
      "contesto": [
-      "Constitutional crisis in Somalia"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/10/31/un-closes-somalia-mission-ending-three-decades-of-political-engagement"
-      },
-      {
-       "nome": "UN news",
-       "url": "https://news.un.org/en/story/2026/10/1168714"
-      },
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/somalia-united-nations-elections-political-mediation-2233dfcc55bac4c8c3a374712bc5706e"
-      }
-     ],
-     "link": [
-      "United Nations",
-      "United Nations Assistance Mission in Somalia",
-      "United Nations Department of Political and Peacebuilding Affairs",
-      "Somali Civil War"
-     ],
-     "testo_it": "Le Nazioni Unite stanno chiudendo la loro missione politica in Somalia, concludendo più di tre decenni di operazioni politiche sequenziali e di costruzione della pace volte ad aiutare il paese a ricostruire dopo la guerra civile.",
-     "contesto_it": [
-      "Crisi costituzionale in Somalia"
-     ]
-    },
-    {
-     "testo": "Protests are held across France.",
-     "contesto": [
-      "2026 European unrest",
+      "2026 European unrest, Cost-of-living crisis",
       "2026 French student protests"
      ],
      "categoria": "Politics and elections",
@@ -198,16 +169,16 @@
      "link": [
       "France"
      ],
-     "testo_it": "Le proteste si svolgono in tutta la Francia.",
+     "testo_it": "Le proteste si svolgono in tutta la Francia per il terzo fine settimana consecutivo.",
      "contesto_it": [
-      "Insurrezioni europee (2026)",
+      "Insurrezioni europee (2026), crisi del costo della vita",
       "Proteste studentesche francesi (2026)"
      ]
     },
     {
-     "testo": "Youth-led protests are held across more than thirty cities in Germany. The protests are against the rising cost of living, education sector issues, and opposition to military conscription.",
+     "testo": "Youth-led protests are held across 34 cities in Germany. The protests are against the rising cost of living, education sector issues, and opposition to military conscription.",
      "contesto": [
-      "2026 European unrest"
+      "2026 European unrest, Cost-of-living crisis"
      ],
      "categoria": "Politics and elections",
      "fonti": [
@@ -217,11 +188,13 @@
       }
      ],
      "link": [
-      "Germany"
+      "Germany",
+      "Cost of living",
+      "Education in Germany"
      ],
-     "testo_it": "Le proteste guidate dai giovani si svolgono in più di trenta città in Germania. Le proteste sono contro l'aumento del costo della vita, le questioni del settore dell'istruzione e l'opposizione alla coscrizione militare.",
+     "testo_it": "Le proteste guidate dai giovani si svolgono in 34 città in Germania. Le proteste sono contro l'aumento del costo della vita, le questioni del settore dell'istruzione e l'opposizione alla coscrizione militare.",
      "contesto_it": [
-      "Insurrezioni europee (2026)"
+      "Insurrezioni europee (2026), crisi del costo della vita"
      ]
     }
    ]
@@ -356,7 +329,7 @@
      ]
     },
     {
-     "testo": "Five children and two adults are killed, five others are injured and four missing after flash floods caused by heavy rainfall in eastern Syria.",
+     "testo": "Five children and two adults are killed, five other people are injured, and four are missing after flash floods caused by heavy rainfall in eastern Syria.",
      "contesto": [],
      "categoria": "Disasters and accidents",
      "fonti": [
@@ -369,7 +342,7 @@
       "Flash flood",
       "Syria"
      ],
-     "testo_it": "Cinque bambini e due adulti vengono uccisi, altri cinque feriti e quattro dispersi dopo inondazioni causate da forti piogge nella Siria orientale."
+     "testo_it": "Cinque bambini e due adulti sono stati uccisi, altre cinque persone sono rimaste ferite e quattro sono scomparse dopo inondazioni causate da forti piogge nella Siria orientale."
     },
     {
      "testo": "The Court of Appeal of Victoria, Australia, rejects Erin Patterson's appeal against her murder convictions and removes her 33-year parole eligibility, effectively imposing life imprisonment without parole for killing three relatives with death cap mushrooms in 2023.",
@@ -404,7 +377,7 @@
      "categoria": "Law and crime",
      "fonti": [
       {
-       "nome": "Bloomberg",
+       "nome": "Bloomberg News",
        "url": "https://www.bloomberg.com/news/articles/2026-10-29/binance-founder-says-possible-hack-of-exchange-bitcoin-falls"
       },
       {
@@ -477,7 +450,7 @@
      ]
     },
     {
-     "testo": "Polish justice minister Waldemar Żurek requests stripping the tribunal's president and vice president Bartłomiej Sochański of their immunity from prosecution in order to charge them. President Karol Nawrocki cuts short his visit to Senegal due to the situation and lands back in Poland.",
+     "testo": "Polish justice minister Waldemar Żurek requests stripping the tribunal's president and vice president Bartłomiej Sochański of their immunity from prosecution in order to charge them. President Karol Nawrocki cancels his trip to Senegal due to the situation and lands back in Poland.",
      "contesto": [
       "Polish constitutional crisis",
       "Polish Constitutional Tribunal crisis",
@@ -503,7 +476,7 @@
       "List of international presidential trips made by Karol Nawrocki",
       "Senegal"
      ],
-     "testo_it": "Il ministro della giustizia polacco Waldemar Żurek chiede di privare il presidente del tribunale e il vicepresidente Bartłomiej Sochański della loro immunità dall'accusa al fine di incriminarli. Il presidente Karol Nawrocki interrompe la sua visita in Senegal a causa della situazione e atterra in Polonia.",
+     "testo_it": "Il ministro della giustizia polacco Waldemar Żurek chiede di privare il presidente del tribunale e il vicepresidente Bartłomiej Sochański della loro immunità dall'accusa al fine di incriminarli. Il presidente Karol Nawrocki annulla il suo viaggio in Senegal a causa della situazione e atterra in Polonia.",
      "contesto_it": [
       "Crisi costituzionale polacca",
       "La crisi del Tribunale costituzionale polacco",
