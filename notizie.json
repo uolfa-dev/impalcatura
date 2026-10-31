@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-10-31T09:46:05Z",
+ "generato": "2026-10-31T17:17:09Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -9,6 +9,37 @@
   "completa": true
  },
  "itn": [
+  {
+   "testo": "US$6.3 billion is stolen from cryptocurrency exchange Binance.",
+   "contesto": [],
+   "categoria": "In primo piano",
+   "fonti": [
+    {
+     "nome": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2026_Binance_hack"
+    }
+   ],
+   "link": [
+    "2026 Binance hack",
+    "Binance"
+   ],
+   "testo_it": "6,3 miliardi di dollari sono stati rubati dall'exchange di criptovalute Binance."
+  },
+  {
+   "testo": "Mexican politician Cuauhtémoc Cárdenas dies at the age of 92.",
+   "contesto": [],
+   "categoria": "In primo piano",
+   "fonti": [
+    {
+     "nome": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Cuauht%C3%A9moc_C%C3%A1rdenas"
+    }
+   ],
+   "link": [
+    "Cuauhtémoc Cárdenas"
+   ],
+   "testo_it": "Il politico messicano Cuauhtémoc Cárdenas muore all'età di 92 anni."
+  },
   {
    "testo": "British actor Patrick Stewart dies at the age of 86.",
    "contesto": [],
@@ -57,41 +88,6 @@
     "Province of Toledo"
    ],
    "testo_it": "Almeno 69 persone sono morte in uno scontro tra due treni ad alta velocità nella provincia di Toledo, in Spagna."
-  },
-  {
-   "testo": "Luiz Inácio Lula da Silva is re-elected President of Brazil.",
-   "contesto": [],
-   "categoria": "In primo piano",
-   "fonti": [
-    {
-     "nome": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/2026_Brazilian_general_election"
-    }
-   ],
-   "link": [
-    "Luiz Inácio Lula da Silva",
-    "2026 Brazilian general election",
-    "President of Brazil"
-   ],
-   "testo_it": "Luiz Inácio Lula da Silva è rieletto Presidente del Brasile."
-  },
-  {
-   "testo": "In the Serbian parliamentary election, the Student List wins a majority of seats, defeating former president Aleksandar Vučić and his Serbian Progressive Party.",
-   "contesto": [],
-   "categoria": "In primo piano",
-   "fonti": [
-    {
-     "nome": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/2026_Serbian_parliamentary_election"
-    }
-   ],
-   "link": [
-    "2026 Serbian parliamentary election",
-    "Student List",
-    "Aleksandar Vučić",
-    "Serbian Progressive Party"
-   ],
-   "testo_it": "Nelle elezioni parlamentari serbe, la lista degli studenti vince la maggioranza dei seggi, sconfiggendo l'ex presidente Aleksandar Vučić e il suo partito progressista serbo."
   }
  ],
  "giorni": [
@@ -101,11 +97,11 @@
     {
      "testo": "Polish Ambassador to Romania Paweł Soloch and Polish Ambassador to China Jakub Kumoch resign from their positions in protest of the suspension of Polish Constitutional Tribunal president Bogdan Święczkowski.",
      "contesto": [
-      "Polish constitutional crisis",
+      "Polish constitutional crisis, China–Poland relations, Poland–Romania relations",
       "Polish Constitutional Tribunal crisis",
       "Suspension of Bogdan Święczkowski"
      ],
-     "categoria": "Politics and elections",
+     "categoria": "International relations",
      "fonti": [
       {
        "nome": "Wiadomości",
@@ -122,9 +118,110 @@
      ],
      "testo_it": "L'ambasciatore polacco in Romania Paweł Soloch e l'ambasciatore polacco in Cina Jakub Kumoch si dimettono dalle loro posizioni per protestare contro la sospensione del presidente del Tribunale costituzionale polacco Bogdan Święczkowski.",
      "contesto_it": [
-      "Crisi costituzionale polacca",
+      "Crisi costituzionale polacca, relazioni Cina-Polonia, relazioni Polonia-Romania",
       "La crisi del Tribunale costituzionale polacco",
       "Sospensione di Bogdan Święczkowski"
+     ]
+    },
+    {
+     "testo": "The Malagasy justice ministry reports they have raided people involved in 13 scam centers previously based in Cambodia, and that 148 Chinese nationals in Madagascar linked to scam centers in Cambodia have been extradited to China. They also claim evidence that some African workers were victims of human trafficking in Madagascar, coerced into participating in fraudulent schemes.",
+     "contesto": [
+      "Trafficking of Chinese nationals to scam centers abroad"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/scam-centres-relocated-cambodia-operate-madagascar"
+      }
+     ],
+     "link": [
+      "Madagascar",
+      "Justice ministry",
+      "Scam center",
+      "Cambodia",
+      "Chinese people in Madagascar",
+      "Scam centers in Cambodia",
+      "China",
+      "Human trafficking in Madagascar",
+      "Fraud"
+     ],
+     "testo_it": "Il ministero della giustizia malgascio riferisce di aver fatto irruzione in 13 centri di truffa precedentemente con sede in Cambogia, e che 148 cittadini cinesi in Madagascar legati a centri di truffa in Cambogia sono stati estradati in Cina. Sostengono anche prove che alcuni lavoratori africani sono stati vittime di traffico di esseri umani in Madagascar, costretti a partecipare a schemi fraudolenti.",
+     "contesto_it": [
+      "Traffico di cittadini cinesi verso centri di truffa all'estero"
+     ]
+    },
+    {
+     "testo": "United Nations is closing its political mission in Somalia, concluding more than three decades of sequential political and peacebuilding operations aimed at helping the country rebuild after civil war.",
+     "contesto": [
+      "Constitutional crisis in Somalia"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/10/31/un-closes-somalia-mission-ending-three-decades-of-political-engagement"
+      },
+      {
+       "nome": "UN news",
+       "url": "https://news.un.org/en/story/2026/10/1168714"
+      },
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/somalia-united-nations-elections-political-mediation-2233dfcc55bac4c8c3a374712bc5706e"
+      }
+     ],
+     "link": [
+      "United Nations",
+      "United Nations Assistance Mission in Somalia",
+      "United Nations Department of Political and Peacebuilding Affairs",
+      "Somali Civil War"
+     ],
+     "testo_it": "Le Nazioni Unite stanno chiudendo la loro missione politica in Somalia, concludendo più di tre decenni di operazioni politiche sequenziali e di costruzione della pace volte ad aiutare il paese a ricostruire dopo la guerra civile.",
+     "contesto_it": [
+      "Crisi costituzionale in Somalia"
+     ]
+    },
+    {
+     "testo": "Protests are held across France.",
+     "contesto": [
+      "2026 European unrest",
+      "2026 French student protests"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "France24",
+       "url": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response"
+      }
+     ],
+     "link": [
+      "France"
+     ],
+     "testo_it": "Le proteste si svolgono in tutta la Francia.",
+     "contesto_it": [
+      "Insurrezioni europee (2026)",
+      "Proteste studentesche francesi (2026)"
+     ]
+    },
+    {
+     "testo": "Youth-led protests are held across more than thirty cities in Germany. The protests are against the rising cost of living, education sector issues, and opposition to military conscription.",
+     "contesto": [
+      "2026 European unrest"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "DW",
+       "url": "https://www.dw.com/en/massive-gen-z-protests-set-to-sweep-cities-across-germany/live-79814694"
+      }
+     ],
+     "link": [
+      "Germany"
+     ],
+     "testo_it": "Le proteste guidate dai giovani si svolgono in più di trenta città in Germania. Le proteste sono contro l'aumento del costo della vita, le questioni del settore dell'istruzione e l'opposizione alla coscrizione militare.",
+     "contesto_it": [
+      "Insurrezioni europee (2026)"
      ]
     }
    ]
@@ -233,26 +330,6 @@
      "testo_it": "Il quotidiano indipendente russo Novaya Gazeta annuncia l'intenzione di cessare le operazioni il 9 novembre, citando le pressioni delle autorità russe."
     },
     {
-     "testo": "At least five people, including four children, are killed, seven people are injured, and five others are missing in flash floods caused by heavy rainfall across Syria.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AFP via Borneo Bulletin",
-       "url": "https://borneobulletin.com.bn/flash-floods-kill-five-in-syria/"
-      },
-      {
-       "nome": "SANA",
-       "url": "https://sana.sy/en/syria/2354607/"
-      }
-     ],
-     "link": [
-      "Flash flood",
-      "Syria"
-     ],
-     "testo_it": "Almeno cinque persone, tra cui quattro bambini, sono state uccise, sette sono rimaste ferite e altre cinque sono scomparse in inondazioni causate da forti piogge in tutta la Siria."
-    },
-    {
      "testo": "Six people are killed when their helicopter crashes near Joshimath, Uttarakhand, India.",
      "contesto": [
       "2026 Uttarakhand helicopter crash"
@@ -277,6 +354,22 @@
      "contesto_it": [
       "Uttarakhand elicottero crash (2026)"
      ]
+    },
+    {
+     "testo": "Five children and two adults are killed, five others are injured and four missing after flash floods caused by heavy rainfall in eastern Syria.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/business/environment/five-children-among-seven-dead-eastern-syria-floods-2026-10-30/"
+      }
+     ],
+     "link": [
+      "Flash flood",
+      "Syria"
+     ],
+     "testo_it": "Cinque bambini e due adulti vengono uccisi, altri cinque feriti e quattro dispersi dopo inondazioni causate da forti piogge nella Siria orientale."
     },
     {
      "testo": "The Court of Appeal of Victoria, Australia, rejects Erin Patterson's appeal against her murder convictions and removes her 33-year parole eligibility, effectively imposing life imprisonment without parole for killing three relatives with death cap mushrooms in 2023.",
@@ -796,7 +889,7 @@
      ]
     },
     {
-     "testo": "Teghaza 001, a Martian meteorite discovered in 2022 in the Sahara in Mali is reported to be 4.1 billion years old.",
+     "testo": "Teghaza 001, a Martian meteorite discovered in 2022 in the Sahara in Mali, is reported to be 4.1 billion years old.",
      "contesto": [],
      "categoria": "Science and technology",
      "fonti": [
@@ -811,7 +904,7 @@
       "Sahara",
       "Mali"
      ],
-     "testo_it": "Teghaza 001, un meteorite marziano scoperto nel 2022 nel Sahara in Mali, ha 4,1 miliardi di anni."
+     "testo_it": "Teghaza 001, un meteorite marziano scoperto nel 2022 nel Sahara in Mali, si dice abbia 4,1 miliardi di anni."
     }
    ]
   },
