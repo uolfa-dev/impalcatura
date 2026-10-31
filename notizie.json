@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-10-31T00:52:46Z",
+ "generato": "2026-10-31T09:46:05Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -97,7 +97,37 @@
  "giorni": [
   {
    "data": "2026-10-31",
-   "voci": []
+   "voci": [
+    {
+     "testo": "Polish Ambassador to Romania Paweł Soloch and Polish Ambassador to China Jakub Kumoch resign from their positions in protest of the suspension of Polish Constitutional Tribunal president Bogdan Święczkowski.",
+     "contesto": [
+      "Polish constitutional crisis",
+      "Polish Constitutional Tribunal crisis",
+      "Suspension of Bogdan Święczkowski"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "Wiadomości",
+       "url": "https://wiadomosci.wp.pl/prezydent-karol-nawrocki-przyjechal-do-trybunalu-konstytucyjnego-relacja-na-zywo-7345695014824384l"
+      }
+     ],
+     "link": [
+      "Poland–Romania relations",
+      "Paweł Soloch",
+      "List of ambassadors of Poland to China",
+      "Jakub Kumoch",
+      "Constitutional Tribunal (Poland)",
+      "Bogdan Święczkowski"
+     ],
+     "testo_it": "L'ambasciatore polacco in Romania Paweł Soloch e l'ambasciatore polacco in Cina Jakub Kumoch si dimettono dalle loro posizioni per protestare contro la sospensione del presidente del Tribunale costituzionale polacco Bogdan Święczkowski.",
+     "contesto_it": [
+      "Crisi costituzionale polacca",
+      "La crisi del Tribunale costituzionale polacco",
+      "Sospensione di Bogdan Święczkowski"
+     ]
+    }
+   ]
   },
   {
    "data": "2026-10-30",
@@ -105,6 +135,7 @@
     {
      "testo": "Oman rescues 25 crew members from a burning Panamanian-flagged oil tanker in the Strait of Hormuz. The Iranian military confirms it was a result of attempting to pass through an unauthorised route.",
      "contesto": [
+      "Middle Eastern crisis",
       "2026 Iran war",
       "2026 Strait of Hormuz crisis"
      ],
@@ -120,44 +151,21 @@
       "Panama",
       "Oil tanker",
       "Strait of Hormuz",
-      "Iran"
+      "Iran",
+      "Iranian Armed Forces"
      ],
      "testo_it": "L'Oman salva 25 membri dell'equipaggio da una petroliera battente bandiera panamense in fiamme nello Stretto di Hormuz. L'esercito iraniano conferma che è stato il risultato del tentativo di attraversare una rotta non autorizzata.",
      "contesto_it": [
+      "Crisi del Medio Oriente",
       "Guerra in Iran (2026)",
       "Stretto di Hormuz (2026)"
      ]
     },
     {
-     "testo": "Hundreds evacuate the Ukrainian city of Oleshky as part of the ceasefire brokered by U.S. First Lady Melania Trump.",
+     "testo": "The Saudi Arabia-led coalition announces it intercepted a drone allegedly launched by the Houthis towards the Mecca region, which the Houthis deny.",
      "contesto": [
-      "Russo-Ukrainian war",
-      "Peace negotiations in the Russo-Ukrainian war, Blockade of Oleshky, United States and the Russo-Ukrainian war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "The Guardian",
-       "url": "https://www.theguardian.com/world/2026/oct/30/evacuation-besieged-ukrainian-city-oleshky"
-      }
-     ],
-     "link": [
-      "Ukraine",
-      "Oleshky",
-      "Ceasefire",
-      "First Lady of the United States",
-      "Melania Trump"
-     ],
-     "testo_it": "Centinaia di persone evacuano la città ucraina di Oleshky come parte del cessate il fuoco mediato dalla First Lady degli Stati Uniti Melania Trump.",
-     "contesto_it": [
-      "Guerra russo-ucraina",
-      "Negoziati di pace nella guerra russo-ucraina, nel blocco di Oleshky, negli Stati Uniti e nella guerra russo-ucraina"
-     ]
-    },
-    {
-     "testo": "The Saudi Arabia-led coalition announces it intercepted a drone alleged launched by the Houthis towards the Mecca region, which the Houthis deny.",
-     "contesto": [
-      "Houthi–Saudi conflict, Saudi-led intervention in the Yemeni civil war"
+      "Middle Eastern crisis",
+      "Houthi–Saudi conflict, Saudi-led intervention in the Yemeni civil war, Yemeni civil war"
      ],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
@@ -174,26 +182,38 @@
      ],
      "testo_it": "La coalizione guidata dall'Arabia Saudita annuncia di aver intercettato un drone presumibilmente lanciato dagli Houthi verso la regione della Mecca, che gli Houthi negano.",
      "contesto_it": [
-      "Conflitto Houthi-saudita, intervento saudita nella guerra civile yemenita"
+      "Crisi del Medio Oriente",
+      "Conflitto Houthi-saudita, intervento saudita nella guerra civile yemenita, guerra civile yemenita"
      ]
     },
     {
-     "testo": "Pope Leo XIV votes in the upcoming U.S. midterm elections, becoming the first pontiff to vote in a American election.",
-     "contesto": [],
-     "categoria": "Arts and culture",
+     "testo": "Civilian evacuations commence in Oleshky, Ukraine, as a humanitarian convoy arrives in the Russian-held and besieged city, as part of a local ceasefire that U.S. first lady Melania Trump says she brokered.",
+     "contesto": [
+      "Russo-Ukrainian war",
+      "Peace negotiations in the Russo-Ukrainian war, Blockade of Oleshky, United States and the Russo-Ukrainian war"
+     ],
+     "categoria": "Armed conflicts and attacks",
      "fonti": [
       {
-       "nome": "Axios",
-       "url": "https://www.axios.com/2026/10/30/pope-leo-mail-in-ballot-midterms"
+       "nome": "The Guardian",
+       "url": "https://www.theguardian.com/world/2026/oct/30/evacuation-besieged-ukrainian-city-oleshky"
       }
      ],
      "link": [
-      "Pope Leo XIV",
-      "2026 United States elections",
-      "Pope",
-      "Elections in the United States"
+      "Oleshky",
+      "Ukraine",
+      "Humanitarian impact of the Russo-Ukrainian war (2022–present)",
+      "Russia",
+      "Russian occupation of Ukraine",
+      "Ceasefire",
+      "First Lady of the United States",
+      "Melania Trump"
      ],
-     "testo_it": "Papa Leone XIV vota nelle prossime elezioni di medio termine degli Stati Uniti, diventando il primo pontefice a votare nelle elezioni americane."
+     "testo_it": "Le evacuazioni civili iniziano a Oleshky, in Ucraina, mentre un convoglio umanitario arriva nella città controllata e assediata dalla Russia, come parte di un cessate il fuoco locale che la first lady statunitense Melania Trump dice di aver mediato.",
+     "contesto_it": [
+      "Guerra russo-ucraina",
+      "Negoziati di pace nella guerra russo-ucraina, nel blocco di Oleshky, negli Stati Uniti e nella guerra russo-ucraina"
+     ]
     },
     {
      "testo": "Russian independent newspaper Novaya Gazeta announces plans to cease operations on 9 November, citing pressure from Russian authorities.",
@@ -218,6 +238,10 @@
      "categoria": "Disasters and accidents",
      "fonti": [
       {
+       "nome": "AFP via Borneo Bulletin",
+       "url": "https://borneobulletin.com.bn/flash-floods-kill-five-in-syria/"
+      },
+      {
        "nome": "SANA",
        "url": "https://sana.sy/en/syria/2354607/"
       }
@@ -230,9 +254,15 @@
     },
     {
      "testo": "Six people are killed when their helicopter crashes near Joshimath, Uttarakhand, India.",
-     "contesto": [],
+     "contesto": [
+      "2026 Uttarakhand helicopter crash"
+     ],
      "categoria": "Disasters and accidents",
      "fonti": [
+      {
+       "nome": "AFP via Daily Sun",
+       "url": "https://www.daily-sun.com/index.php/world/906308/report-2"
+      },
       {
        "nome": "The Times of India",
        "url": "https://timesofindia.indiatimes.com/city/dehradun/uttarakhands-skies-turn-deadly-again-5-crashes-in-39-days-last-year-now-6-feared-dead-in-joshimath-tragedy/amp_articleshow/135358474.cms"
@@ -243,7 +273,10 @@
       "Uttarakhand",
       "India"
      ],
-     "testo_it": "Sei persone vengono uccise quando il loro elicottero si schianta vicino a Joshimath, Uttarakhand, India."
+     "testo_it": "Sei persone vengono uccise quando il loro elicottero si schianta vicino a Joshimath, Uttarakhand, India.",
+     "contesto_it": [
+      "Uttarakhand elicottero crash (2026)"
+     ]
     },
     {
      "testo": "The Court of Appeal of Victoria, Australia, rejects Erin Patterson's appeal against her murder convictions and removes her 33-year parole eligibility, effectively imposing life imprisonment without parole for killing three relatives with death cap mushrooms in 2023.",
@@ -270,30 +303,6 @@
      "testo_it": "La Corte d'Appello di Victoria, in Australia, respinge l'appello di Erin Patterson contro le sue condanne per omicidio e rimuove la sua ammissibilità alla libertà condizionale di 33 anni, imponendo di fatto l'ergastolo senza libertà condizionale per aver ucciso tre parenti con funghi cap morte nel 2023.",
      "contesto_it": [
       "Omicidi di funghi Leongatha"
-     ]
-    },
-    {
-     "testo": "Police Scotland carries out an investigation into what Andrew Mountbatten-Windsor, Jeffrey Epstein, and Ghislaine Maxwell did during visits to Balmoral Castle over the years.",
-     "contesto": [
-      "Relationship of Prince Andrew and Jeffrey Epstein"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "BBC News",
-       "url": "https://www.bbc.com/news/articles/cqglwp088532o"
-      }
-     ],
-     "link": [
-      "Police Scotland",
-      "Andrew Mountbatten-Windsor",
-      "Jeffrey Epstein",
-      "Ghislaine Maxwell",
-      "Balmoral Castle"
-     ],
-     "testo_it": "La polizia scozzese conduce un'indagine su ciò che Andrew Mountbatten-Windsor, Jeffrey Epstein e Ghislaine Maxwell hanno fatto durante le visite al castello di Balmoral nel corso degli anni.",
-     "contesto_it": [
-      "Il principe Andrew e Jeffrey Epstein"
      ]
     },
     {
@@ -349,7 +358,7 @@
      "contesto": [
       "Polish constitutional crisis",
       "Polish Constitutional Tribunal crisis",
-      "2026 Polish coup attempt, Suspension of Bogdan Święczkowski"
+      "Suspension of Bogdan Święczkowski"
      ],
      "categoria": "Politics and elections",
      "fonti": [
@@ -363,6 +372,7 @@
       "Police of Poland",
       "Constitutional Tribunal (Poland)",
       "Bogdan Święczkowski",
+      "Anna Korwin-Piotrowska",
       "Coup d'état",
       "Law and Justice"
      ],
@@ -370,15 +380,15 @@
      "contesto_it": [
       "Crisi costituzionale polacca",
       "La crisi del Tribunale costituzionale polacco",
-      "Tentativo di colpo di stato polacco (2026), Sospensione di Bogdan Święczkowski"
+      "Sospensione di Bogdan Święczkowski"
      ]
     },
     {
-     "testo": "Polish justice minister Waldemar Żurek requests stripping the tribunal's president and vice president Bartłomiej Sochański of their immunity from prosecution in order to charge them. President Karol Nawrocki turns his flight towards Senegal around due to the situation and lands back in Poland.",
+     "testo": "Polish justice minister Waldemar Żurek requests stripping the tribunal's president and vice president Bartłomiej Sochański of their immunity from prosecution in order to charge them. President Karol Nawrocki cuts short his visit to Senegal due to the situation and lands back in Poland.",
      "contesto": [
       "Polish constitutional crisis",
       "Polish Constitutional Tribunal crisis",
-      "2026 Polish coup attempt, Suspension of Bogdan Święczkowski"
+      "Suspension of Bogdan Święczkowski"
      ],
      "categoria": "Politics and elections",
      "fonti": [
@@ -394,15 +404,17 @@
      "link": [
       "Ministry of Justice (Poland)",
       "Waldemar Żurek",
+      "Bartłomiej Sochański",
       "President of Poland",
       "Karol Nawrocki",
+      "List of international presidential trips made by Karol Nawrocki",
       "Senegal"
      ],
-     "testo_it": "Il ministro della giustizia polacco Waldemar Żurek chiede di privare il presidente del tribunale e il vicepresidente Bartłomiej Sochański della loro immunità dall'accusa al fine di incriminarli. Il presidente Karol Nawrocki gira il suo volo verso il Senegal a causa della situazione e atterra in Polonia.",
+     "testo_it": "Il ministro della giustizia polacco Waldemar Żurek chiede di privare il presidente del tribunale e il vicepresidente Bartłomiej Sochański della loro immunità dall'accusa al fine di incriminarli. Il presidente Karol Nawrocki interrompe la sua visita in Senegal a causa della situazione e atterra in Polonia.",
      "contesto_it": [
       "Crisi costituzionale polacca",
       "La crisi del Tribunale costituzionale polacco",
-      "Tentativo di colpo di stato polacco (2026), Sospensione di Bogdan Święczkowski"
+      "Sospensione di Bogdan Święczkowski"
      ]
     },
     {
@@ -436,7 +448,7 @@
      ]
     },
     {
-     "testo": "In thoroughbred horse racing, race horse Sun Goddess dominates the Juvenile Fillies Turf at the Keeneland racetrack in Lexington, Kentucky, United States during the Breeders' Cup. Additionally, Emphatic wins the Juvenile Fillies.",
+     "testo": "In thoroughbred horse racing, race horse Sun Goddess dominates the Juvenile Fillies Turf at the Keeneland racetrack in Lexington, Kentucky, United States, during the Breeders' Cup. Additionally, Emphatic wins the Juvenile Fillies.",
      "contesto": [
       "2026 Breeders' Cup"
      ],
@@ -462,7 +474,7 @@
       "Breeders' Cup",
       "Breeders' Cup Juvenile Fillies"
      ],
-     "testo_it": "Nelle corse di cavalli purosangue, il cavallo da corsa Sun Goddess domina il giovane Fillies Turf sull'ippodromo Keeneland a Lexington, Kentucky, Stati Uniti durante la Breeders' Cup. Inoltre, Emphatic vince i giovani Fillies.",
+     "testo_it": "Nelle corse di cavalli purosangue, il cavallo da corsa Sun Goddess domina il giovane Fillies Turf sull'ippodromo Keeneland a Lexington, Kentucky, Stati Uniti, durante la Breeders' Cup. Inoltre, Emphatic vince i giovani Fillies.",
      "contesto_it": [
       "Coppa degli Allevatori (2026)"
      ]
