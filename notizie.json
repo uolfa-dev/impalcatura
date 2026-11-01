@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-10-31T21:42:48Z",
+ "generato": "2026-11-01T06:18:28Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -93,10 +93,14 @@
  ],
  "giorni": [
   {
+   "data": "2026-11-01",
+   "voci": []
+  },
+  {
    "data": "2026-10-31",
    "voci": [
     {
-     "testo": "Polish ambassador to Romania Paweł Soloch and ambassador to China Jakub Kumoch resign from their positions in protest of the suspension of Polish Constitutional Tribunal president Bogdan Święczkowski.",
+     "testo": "Poland's ambassador to Romania, Paweł Soloch, and ambassador to China, Jakub Kumoch, resign from their positions in protest of the suspension of Polish Constitutional Tribunal president Bogdan Święczkowski.",
      "contesto": [
       "Polish constitutional crisis, China–Poland relations, Poland–Romania relations",
       "Polish Constitutional Tribunal crisis",
@@ -116,7 +120,7 @@
       "Constitutional Tribunal (Poland)",
       "Bogdan Święczkowski"
      ],
-     "testo_it": "L'ambasciatore polacco in Romania Paweł Soloch e l'ambasciatore in Cina Jakub Kumoch si dimettono dalle loro posizioni per protestare contro la sospensione del presidente del Tribunale costituzionale polacco Bogdan Święczkowski.",
+     "testo_it": "L'ambasciatore polacco in Romania, Paweł Soloch, e l'ambasciatore in Cina, Jakub Kumoch, si dimettono dalle loro posizioni per protestare contro la sospensione del presidente del Tribunale costituzionale polacco Bogdan Święczkowski.",
      "contesto_it": [
       "Crisi costituzionale polacca, relazioni Cina-Polonia, relazioni Polonia-Romania",
       "La crisi del Tribunale costituzionale polacco",
@@ -124,7 +128,7 @@
      ]
     },
     {
-     "testo": "The Ministry of Justice of Madagascar reports they have raided people involved in over a dozen scam centers previously based in Cambodia, and that 148 Chinese people in Madagascar linked to scam centers in Cambodia have been extradited to China. They also suggest that some African scam center employees were there as a result of human trafficking to Madagascar, then coerced into participating in fraudulent schemes.",
+     "testo": "The Malagasy justice ministry reports that 13 Chinese-run scam centers linked to networks previously operating in Cambodia were dismantled and that 148 Chinese nationals were extradited to China. Officials say some African workers may have been trafficked and coerced into fraud.",
      "contesto": [
       "Trafficking of Chinese nationals to scam centers abroad, Human trafficking in Madagascar"
      ],
@@ -136,33 +140,51 @@
       }
      ],
      "link": [
-      "Ministry of Justice",
       "Madagascar",
-      "Scam center",
-      "Cambodia",
-      "Chinese people in Madagascar",
-      "Scam centers in Cambodia",
-      "Extradited",
+      "Justice ministry",
       "China",
       "Scam center",
-      "Human trafficking in Madagascar",
+      "Scam centers in Cambodia",
+      "Cambodia",
+      "Chinese people in Madagascar",
+      "Extradited",
+      "Human trafficking",
       "Fraud"
      ],
-     "testo_it": "Il Ministero della Giustizia del Madagascar riferisce di aver fatto irruzione in oltre una dozzina di centri di truffa precedentemente con sede in Cambogia, e che 148 persone cinesi in Madagascar legate a centri di truffa in Cambogia sono state estradate in Cina. Suggeriscono anche che alcuni dipendenti africani del centro di truffa erano lì a causa del traffico di esseri umani in Madagascar, poi costretti a partecipare a schemi fraudolenti.",
+     "testo_it": "Il ministero della giustizia malgascio riferisce che 13 centri di truffa gestiti dalla Cina, collegati a reti precedentemente operanti in Cambogia, sono stati smantellati e che 148 cittadini cinesi sono stati estradati in Cina.",
      "contesto_it": [
       "Traffico di cittadini cinesi verso centri di truffa all'estero, tratta di esseri umani in Madagascar"
      ]
     },
     {
+     "testo": "A pregnant woman is shot dead and six others are injured in a Spirit Halloween store in Fairfield, Solano County, California, United States. Another person is shot and killed in another Spirit Halloween store near Detroit.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "NBC",
+       "url": "https://www.nbcnews.com/news/us-news/manhunt-california-spirit-halloween-shooting-dead-injured-police-rcna606673"
+      }
+     ],
+     "link": [
+      "Spirit Halloween",
+      "Fairfield",
+      "Solano County",
+      "California",
+      "United States"
+     ],
+     "testo_it": "Una donna incinta viene uccisa e altre sei sono ferite in un negozio Spirit Halloween a Fairfield, Solano County, California, Stati Uniti. Un'altra persona viene uccisa in un altro negozio Spirit Halloween vicino a Detroit."
+    },
+    {
      "testo": "Protests are held across France for the third consecutive weekend.",
      "contesto": [
-      "2026 European unrest, Cost-of-living crisis",
+      "2026 European unrest",
       "2026 French student protests"
      ],
      "categoria": "Politics and elections",
      "fonti": [
       {
-       "nome": "France24",
+       "nome": "France 24",
        "url": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response"
       }
      ],
@@ -171,14 +193,14 @@
      ],
      "testo_it": "Le proteste si svolgono in tutta la Francia per il terzo fine settimana consecutivo.",
      "contesto_it": [
-      "Insurrezioni europee (2026), crisi del costo della vita",
+      "Insurrezioni europee (2026)",
       "Proteste studentesche francesi (2026)"
      ]
     },
     {
      "testo": "Youth-led protests are held across 34 cities in Germany. The protests are against the rising cost of living, education sector issues, and opposition to military conscription.",
      "contesto": [
-      "2026 European unrest, Cost-of-living crisis"
+      "2026 European unrest"
      ],
      "categoria": "Politics and elections",
      "fonti": [
@@ -194,7 +216,68 @@
      ],
      "testo_it": "Le proteste guidate dai giovani si svolgono in 34 città in Germania. Le proteste sono contro l'aumento del costo della vita, le questioni del settore dell'istruzione e l'opposizione alla coscrizione militare.",
      "contesto_it": [
-      "Insurrezioni europee (2026), crisi del costo della vita"
+      "Insurrezioni europee (2026)"
+     ]
+    },
+    {
+     "testo": "In thoroughbred horse racing, thoroughbred racehorse Sovereignty wins the Breeders' Cup classic at the Keeneland racetrack in Lexington, Kentucky, U.S.",
+     "contesto": [
+      "2026 Breeders' Cup",
+      "2026 Breeders' Cup Classic"
+     ],
+     "categoria": "Sports",
+     "fonti": [
+      {
+       "nome": "ESPN",
+       "url": "https://www.espn.com/horse-racing/story/_/id/50342162/sovereignty-wins-breeders-cup-classic-year-missing-race"
+      },
+      {
+       "nome": "The Blood-Horse",
+       "url": "https://www.bloodhorse.com/horse-racing/articles/295752/sovereignty-caps-career-with-breeders-cup-classic-win"
+      }
+     ],
+     "link": [
+      "Thoroughbred racing",
+      "Horse racing",
+      "Thoroughbred",
+      "Horse racing",
+      "Sovereignty (horse)",
+      "2026 Breeders' Cup Classic",
+      "Breeders' Cup",
+      "Breeders' Cup Classic",
+      "Keeneland",
+      "Lexington, Kentucky",
+      "Kentucky",
+      "United States"
+     ],
+     "testo_it": "Nelle corse di cavalli purosangue, il cavallo purosangue Sovranità vince il classico Breeders' Cup all'ippodromo Keeneland di Lexington, Kentucky, Stati Uniti",
+     "contesto_it": [
+      "Coppa degli Allevatori (2026)",
+      "Coppa degli Allevatori Classic (2026)"
+     ]
+    },
+    {
+     "testo": "The 2026 Summer Youth Olympics opens in Dakar, Senegal, marking the first IOC event in Africa.",
+     "contesto": [
+      "2026 Summer Youth Olympics"
+     ],
+     "categoria": "Sports",
+     "fonti": [
+      {
+       "nome": "AFP via France 24",
+       "url": "https://www.france24.com/en/live-news/20261031-senegal-kicks-off-youth-games-africa-s-first-ever-olympics"
+      }
+     ],
+     "link": [
+      "Summer Youth Olympics",
+      "Dakar",
+      "Senegal",
+      "IOC",
+      "Africa"
+     ],
+     "testo_it": "Il 2026 Summer Youth Olympics apre a Dakar, in Senegal, segnando il primo evento del CIO in Africa.",
+     "contesto_it": [
+      "Olimpiadi estive della gioventù (2026)"
      ]
     }
    ]
@@ -2218,483 +2301,6 @@
      "testo_it": "Nel calcio associativo, il giocatore inglese Harry Kane vince per la prima volta il Pallone d'Oro maschile, mentre il giocatore spagnolo Alexia Putellas riceve il premio femminile per la terza volta da record.",
      "contesto_it": [
       "Ballon d'Or (2026)"
-     ]
-    }
-   ]
-  },
-  {
-   "data": "2026-10-25",
-   "voci": [
-    {
-     "testo": "Saudi-led coalition air defences intercept a Houthi ballistic missile and two drones targeting Riyadh Province as King Khalid International Airport resumes limited operations after a two-week closure caused by earlier Houthi attacks.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "Houthi–Saudi conflict, Yemeni civil war",
-      "2026 Houthi attacks on Saudi airports"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AFP via ABS-CBN News",
-       "url": "https://www.abs-cbn.com/news/world/2026/10/25/explosions-heard-in-saudi-capital-as-airport-due-to-reopen-1753"
-      }
-     ],
-     "link": [
-      "Saudi Arabia",
-      "Royal Saudi Air Defence Force",
-      "Houthis",
-      "Ballistic missile",
-      "Riyadh Province",
-      "King Khalid International Airport"
-     ],
-     "testo_it": "Le difese aeree della coalizione a guida saudita intercettano un missile balistico Houthi e due droni che prendono di mira la provincia di Riyadh mentre l'aeroporto internazionale King Khalid riprende le operazioni limitate dopo una chiusura di due settimane causata da precedenti attacchi Houthi.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Conflitto Houthi-saudita, guerra civile yemenita",
-      "Attacchi Houthi agli aeroporti sauditi (2026)"
-     ]
-    },
-    {
-     "testo": "Three staff members are killed and eight students are wounded in an Israeli airstrike against the Islamic University of Gaza in Gaza City. Four other Palestinians are also killed in more airstrikes in the Gaza Strip.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "Gaza war",
-      "Israeli bombing of the Gaza Strip"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AFP via Dawn",
-       "url": "https://www.dawn.com/news/2039736/israeli-strike-on-university-in-gaza-city-kills-3-another-4-palestinians-killed-in-separate-airstrikes"
-      }
-     ],
-     "link": [
-      "Israel",
-      "Airstrike",
-      "Islamic University of Gaza",
-      "Gaza City",
-      "Palestinians",
-      "Gaza Strip"
-     ],
-     "testo_it": "Tre membri dello staff vengono uccisi e otto studenti feriti in un attacco aereo israeliano contro l'Università islamica di Gaza a Gaza City. Altri quattro palestinesi vengono uccisi anche in altri attacchi aerei nella Striscia di Gaza.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Guerra di Gaza",
-      "Bombardamento israeliano della Striscia di Gaza"
-     ]
-    },
-    {
-     "testo": "The Colombian government announces that a military operation in El Tambo, Cauca, in the previous days resulted in the killing of ten National Liberation Army's members, including two key leaders.",
-     "contesto": [
-      "Colombian conflict"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/colombia-eln-army-guerrilla-killed-leaders-marcos-7ad9b570a1b6a12ddfd3d50dbcd1cbc4"
-      }
-     ],
-     "link": [
-      "Colombia",
-      "Government of Colombia",
-      "Military Forces of Colombia",
-      "El Tambo, Cauca",
-      "Cauca Department",
-      "National Liberation Army (Colombia)"
-     ],
-     "testo_it": "Il governo colombiano annuncia che un'operazione militare a El Tambo, Cauca, nei giorni precedenti ha provocato l'uccisione di dieci membri dell'Esercito di Liberazione Nazionale, tra cui due leader chiave.",
-     "contesto_it": [
-      "Conflitto colombiano"
-     ]
-    },
-    {
-     "testo": "Algeria's parliament approves the deployment of army units to Madama, Niger, to protect energy infrastructure, marking Algeria's first foreign military deployment since 1973.",
-     "contesto": [
-      "Islamist insurgency in Niger, Foreign relations of Algeria, Foreign relations of Niger"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "BBC News",
-       "url": "https://www.bbc.com/news/articles/cm4g14n1e5wko"
-      }
-     ],
-     "link": [
-      "Algeria",
-      "Parliament of Algeria",
-      "Algerian People's National Army",
-      "Madama",
-      "Niger",
-      "Energy in Niger",
-      "Military deployment"
-     ],
-     "testo_it": "Il parlamento algerino approva il dispiegamento di unità militari a Madama, in Niger, per proteggere le infrastrutture energetiche, segnando il primo dispiegamento militare straniero dell'Algeria dal 1973.",
-     "contesto_it": [
-      "Insurrezione islamista in Niger, Relazioni estere dell'Algeria, Relazioni estere del Niger"
-     ]
-    },
-    {
-     "testo": "Western Sydney Airport in New South Wales, Australia, commences passenger operations as Greater Sydney's second airport.",
-     "contesto": [],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "The Guardian",
-       "url": "https://www.theguardian.com/australia-news/2026/oct/25/western-sydney-international-airport-wsi-open-airlines-flights-cost-transport-history"
-      }
-     ],
-     "link": [
-      "Western Sydney Airport",
-      "New South Wales",
-      "Australia",
-      "Greater Sydney",
-      "Proposals for a second Sydney airport"
-     ],
-     "testo_it": "L'aeroporto di Western Sydney nel Nuovo Galles del Sud, in Australia, inizia le operazioni passeggeri come secondo aeroporto di Greater Sydney."
-    },
-    {
-     "testo": "Twenty-four people are killed and 24 more are injured after a bus collides with a truck on a highway in Makueni County, Kenya.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/kenya-bus-crash-mombasa-road-879107e49e932de208f47caeb04904cb"
-      }
-     ],
-     "link": [
-      "Makueni County",
-      "Kenya"
-     ],
-     "testo_it": "Ventiquattro persone sono morte e altre 24 sono rimaste ferite dopo che un autobus si è scontrato con un camion su un'autostrada nella contea di Makueni, in Kenya."
-    },
-    {
-     "testo": "Eighty-three people are injured, including seven seriously, in a bus crash in Fogars de Montclús, Catalonia, Spain.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/spain-bus-crash-injured-barcelona-catalonia-c731feec49bd7feb77ab44c57ba2e57b"
-      }
-     ],
-     "link": [
-      "Bus crash",
-      "Fogars de Montclús",
-      "Catalonia",
-      "Spain"
-     ],
-     "testo_it": "Ottantatré persone sono rimaste ferite, di cui sette gravemente, in un incidente d'autobus a Fogars de Montclús, Catalogna, Spagna."
-    },
-    {
-     "testo": "The Nigerian health ministry expands contact tracing after confirming an imported Bundibugyo Ebola case in Abuja, identifying at least 44 contacts while investigating additional people who may have been exposed and strengthening infection-control measures.",
-     "contesto": [
-      "2026 Ebola epidemic"
-     ],
-     "categoria": "Health and environment",
-     "fonti": [
-      {
-       "nome": "AFP via RFI",
-       "url": "https://www.rfi.fr/en/international-news/20261025-nigeria-widens-hunt-for-possible-ebola-cases"
-      }
-     ],
-     "link": [
-      "Nigeria",
-      "Federal Ministry of Health and Social Welfare",
-      "Contact tracing",
-      "Bundibugyo ebolavirus",
-      "Abuja",
-      "Infection prevention and control"
-     ],
-     "testo_it": "Il ministero della Sanità nigeriano espande il tracciamento dei contatti dopo la conferma di un caso importato di Bundibugyo Ebola ad Abuja, identificando almeno 44 contatti mentre indaga su altre persone che potrebbero essere state esposte e rafforzando le misure di controllo delle infezioni.",
-     "contesto_it": [
-      "Epidemia di Ebola (2026)"
-     ]
-    },
-    {
-     "testo": "Brazilians vote in the second round of presidential elections between incumbent left-wing president Luiz Inácio Lula da Silva of the Workers' Party and right-wing challenger Flávio Bolsonaro of the Liberal Party.",
-     "contesto": [
-      "2026 Brazilian general election"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/brazil-election-lula-bolsonaro-runoff-vote-president-e2c9fe8fc4aa3e3675b9a8ec15405d93"
-      },
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/americas/brazil-heads-polls-runoff-between-leftist-lula-bolsonaro-jr-2026-10-25/"
-      }
-     ],
-     "link": [
-      "Brazilians",
-      "Two-round system",
-      "President of Brazil",
-      "Left-wing politics",
-      "Luiz Inácio Lula da Silva",
-      "Workers' Party (Brazil)",
-      "Right-wing",
-      "Flávio Bolsonaro",
-      "Liberal Party (Brazil)"
-     ],
-     "testo_it": "I brasiliani votano al secondo turno delle elezioni presidenziali tra l'attuale presidente di sinistra Luiz Inácio Lula da Silva del Partito dei Lavoratori e lo sfidante di destra Flávio Bolsonaro del Partito Liberale.",
-     "contesto_it": [
-      "Elezioni generali in Brasile (2026)"
-     ]
-    },
-    {
-     "testo": "In a vote of 52% to 48%, Lula defeats Bolsonaro to win re-election for a fourth non-consecutive term.",
-     "contesto": [
-      "2026 Brazilian general election"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/"
-      }
-     ],
-     "link": [],
-     "testo_it": "Con un voto del 52% al 48%, Lula sconfigge Bolsonaro per vincere la rielezione per un quarto mandato non consecutivo.",
-     "contesto_it": [
-      "Elezioni generali in Brasile (2026)"
-     ]
-    },
-    {
-     "testo": "Bulgarians vote in the first round of the presidential election. Incumbent Iliana Iotova wins and will face former acting prime minister Andrey Gyurov in a second round due to record low turnout and no candidate having a majority of the vote.",
-     "contesto": [
-      "2026 Bulgarian presidential election"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "AP via CNN",
-       "url": "https://www.cnn.com/2026/10/25/europe/bulgaria-presidential-race-heads-to-runoff-latam-intl"
-      },
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/bulgaria-votes-president-wake-deadly-black-sea-drone-strikes-2026-10-25/"
-      }
-     ],
-     "link": [
-      "Bulgarians",
-      "President of Bulgaria",
-      "Iliana Iotova",
-      "Prime Minister of Bulgaria",
-      "Andrey Gyurov"
-     ],
-     "testo_it": "I bulgari votano nel primo turno delle elezioni presidenziali. Incumbent Iliana Iotova vince e dovrà affrontare l'ex primo ministro ad interim Andrey Gyurov in un secondo turno a causa della bassa affluenza record e nessun candidato che ha la maggioranza dei voti.",
-     "contesto_it": [
-      "Elezioni presidenziali bulgare (2026)"
-     ]
-    },
-    {
-     "testo": "Serbians vote for all seats in the National Assembly in a snap election, amid the student-led protests against the incumbent United Serbia government.",
-     "contesto": [
-      "2026 Serbian parliamentary election"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/serbia-election-students-vucic-fdf5def8a20aebc8ae139fd719478775"
-      }
-     ],
-     "link": [
-      "Serbians",
-      "National Assembly (Serbia)",
-      "Snap election",
-      "2024–present Serbian anti-corruption protests",
-      "United Serbia (2026 coalition)"
-     ],
-     "testo_it": "I serbi votano per tutti i seggi all'Assemblea Nazionale in elezioni anticipate, tra le proteste guidate dagli studenti contro il governo in carica della Serbia Unita.",
-     "contesto_it": [
-      "Elezioni parlamentari serbe (2026)"
-     ]
-    },
-    {
-     "testo": "The Student List wins the election with 53% of the vote, with former president Aleksandar Vučić conceding defeat.",
-     "contesto": [
-      "2026 Serbian parliamentary election"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "RFE/RL",
-       "url": "https://www.rferl.org/a/serbia-vote-election-parliament-vucic-student-corruption/33883844.html"
-      },
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/"
-      }
-     ],
-     "link": [
-      "Student List",
-      "President of Serbia",
-      "Aleksandar Vučić",
-      "Concession (politics)"
-     ],
-     "testo_it": "La lista degli studenti vince le elezioni con il 53% dei voti, con l'ex presidente Aleksandar Vučić che concede la sconfitta.",
-     "contesto_it": [
-      "Elezioni parlamentari serbe (2026)"
-     ]
-    },
-    {
-     "testo": "French politician Marine Le Pen, leader of the far-right National Rally party, announces her presidential campaign.",
-     "contesto": [
-      "2027 French presidential election"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/frances-le-pen-launches-presidential-bid-protests-rattle-nation-2026-10-25/"
-      }
-     ],
-     "link": [
-      "France",
-      "Marine Le Pen",
-      "Far-right politics in France",
-      "National Rally",
-      "President of France"
-     ],
-     "testo_it": "La politica francese Marine Le Pen, leader del partito di estrema destra National Rally, annuncia la sua campagna presidenziale.",
-     "contesto_it": [
-      "Elezioni presidenziali francesi (2027)"
-     ]
-    },
-    {
-     "testo": "Venezuelan opposition leader and Nobel Peace Prize laureate María Corina Machado announces she has returned to Venezuela from exile.",
-     "contesto": [
-      "Crisis in Venezuela"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "CNN",
-       "url": "https://edition.cnn.com/2026/10/25/americas/machado-returns-venezuela-latam-intl"
-      }
-     ],
-     "link": [
-      "Venezuela",
-      "Venezuelan opposition",
-      "Nobel Peace Prize",
-      "María Corina Machado"
-     ],
-     "testo_it": "La leader dell'opposizione venezuelana e premio Nobel per la pace María Corina Machado annuncia di essere tornata in Venezuela dall'esilio.",
-     "contesto_it": [
-      "Crisi in Venezuela"
-     ]
-    },
-    {
-     "testo": "In auto racing, American driver Kyle Larson of Hendrick Motorsports wins the YellaWood 500 at the Talladega Superspeedway in Alabama, winning his first NASCAR Cup Series race at the circuit.",
-     "contesto": [
-      "2026 NASCAR Cup Series",
-      "2026 YellaWood 500"
-     ],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "ESPN",
-       "url": "https://www.espn.com/racing/nascar/story/_/id/50281784/kyle-larson-extends-chase-points-lead-first-nascar-win-talladega-last-lap-scramble"
-      }
-     ],
-     "link": [
-      "Auto racing",
-      "United States",
-      "Kyle Larson",
-      "Hendrick Motorsports",
-      "YellaWood 500",
-      "Talladega Superspeedway",
-      "Alabama",
-      "NASCAR Cup Series"
-     ],
-     "testo_it": "Nelle corse automobilistiche, il pilota americano Kyle Larson di Hendrick Motorsports vince la YellaWood 500 al Talladega Superspeedway in Alabama, vincendo la sua prima gara NASCAR Cup Series sul circuito.",
-     "contesto_it": [
-      "NASCAR Cup Series (2026)",
-      "YellaWood 500 (2026)"
-     ]
-    },
-    {
-     "testo": "In rally raid, Dakar Rally organizers move the 2027 event from Saudi Arabia due to security concerns regarding the conflict with the Houthis.",
-     "contesto": [
-      "2027 Dakar Rally"
-     ],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "AFP via France 24",
-       "url": "https://www.france24.com/en/live-news/20261025-2027-dakar-rally-to-be-moved-from-saudi-arabia"
-      }
-     ],
-     "link": [
-      "Rally raid",
-      "Dakar Rally",
-      "Saudi Arabia",
-      "Houthi–Saudi conflict",
-      "Houthis"
-     ],
-     "testo_it": "Nel raid di rally, gli organizzatori del Rally Dakar spostano l'evento 2027 dall'Arabia Saudita a causa delle preoccupazioni per la sicurezza riguardanti il conflitto con gli Houthi.",
-     "contesto_it": [
-      "Dakar Rally (2027)"
-     ]
-    },
-    {
-     "testo": "In golf, Japan's Yuri Yoshida wins her first LPGA Tour title at the BMW Ladies Championship in South Jeolla Province, South Korea, finishing ahead of Australia's Minjee Lee and South Korea's Kim Sei-young.",
-     "contesto": [
-      "2026 LPGA Tour"
-     ],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "AFP",
-       "url": "https://www.afp.com/en/japans-yoshida-wins-first-lpga-tour-title-south-korea-win"
-      }
-     ],
-     "link": [
-      "Golf",
-      "Japan",
-      "Yuri Yoshida",
-      "LPGA Tour",
-      "BMW Ladies Championship",
-      "South Jeolla Province",
-      "South Korea",
-      "Australia",
-      "Minjee Lee",
-      "Kim Sei-young"
-     ],
-     "testo_it": "Nel golf, il giapponese Yuri Yoshida vince il suo primo titolo LPGA Tour al BMW Ladies Championship nella provincia di South Jeolla, in Corea del Sud, finendo davanti al australiano Minjee Lee e al sudcoreano Kim Sei-young.",
-     "contesto_it": [
-      "Tour LPGA (2026)"
-     ]
-    },
-    {
-     "testo": "The International Weightlifting Federation awards Moscow, Russia, the hosting rights to the 2030 World Weightlifting Championships, making it the first IOC-recognised sports federation to grant Russia hosting rights for a world championship since the 2022 Russian invasion of Ukraine.",
-     "contesto": [
-      "International sporting sanctions during the Russian invasion of Ukraine"
-     ],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "AFP via The Straits Times",
-       "url": "https://www.straitstimes.com/sport/russia-to-host-2030-world-weightlifting-champs-in-olympic-federation-first"
-      }
-     ],
-     "link": [
-      "International Weightlifting Federation",
-      "Moscow",
-      "Russia",
-      "World Weightlifting Championships",
-      "International Olympic Committee",
-      "List of international sports federations",
-      "List of world sports championships",
-      "2022 Russian invasion of Ukraine"
-     ],
-     "testo_it": "La Federazione internazionale di sollevamento pesi assegna a Mosca, in Russia, i diritti di hosting per i Campionati mondiali di sollevamento pesi 2030, rendendola la prima federazione sportiva riconosciuta dal CIO a concedere alla Russia i diritti di hosting per un campionato mondiale dall'invasione russa dell'Ucraina del 2022.",
-     "contesto_it": [
-      "Sanzioni sportive internazionali durante l'invasione russa dell'Ucraina"
      ]
     }
    ]
