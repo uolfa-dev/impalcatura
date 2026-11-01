@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-01T06:18:28Z",
+ "generato": "2026-11-01T13:34:09Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -10,7 +10,7 @@
  },
  "itn": [
   {
-   "testo": "US$6.3 billion is stolen from cryptocurrency exchange Binance.",
+   "testo": "US$6.3 billion worth of digital assets is stolen from cryptocurrency exchange Binance.",
    "contesto": [],
    "categoria": "In primo piano",
    "fonti": [
@@ -20,11 +20,12 @@
     }
    ],
    "link": [
+    "Digital asset",
     "2026 Binance hack",
     "Cryptocurrency",
     "Binance"
    ],
-   "testo_it": "6,3 miliardi di dollari sono stati rubati dall'exchange di criptovalute Binance."
+   "testo_it": "6,3 miliardi di dollari di asset digitali vengono rubati dall'exchange di criptovalute Binance."
   },
   {
    "testo": "Mexican politician Cuauhtémoc Cárdenas dies at the age of 92.",
@@ -94,13 +95,39 @@
  "giorni": [
   {
    "data": "2026-11-01",
-   "voci": []
+   "voci": [
+    {
+     "testo": "Bulgarians vote in the second round of presidential elections, deciding between incumbent Iliana Iotova and former acting prime minister Andrey Gyurov.",
+     "contesto": [
+      "2026 Bulgarian presidential election"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "DW",
+       "url": "https://www.dw.com/en/bulgarians-vote-in-highly-polarized-presidential-runoff-overshadowed-by-ukraine-war/a-79820449"
+      }
+     ],
+     "link": [
+      "Bulgaria",
+      "President of Bulgaria",
+      "Iliana Iotova",
+      "Acting (law)",
+      "Prime Minister of Bulgaria",
+      "Andrey Gyurov"
+     ],
+     "testo_it": "I bulgari votano al secondo turno delle elezioni presidenziali, decidendo tra l'incumbente Iliana Iotova e l'ex primo ministro ad interim Andrey Gyurov.",
+     "contesto_it": [
+      "Elezioni presidenziali bulgare (2026)"
+     ]
+    }
+   ]
   },
   {
    "data": "2026-10-31",
    "voci": [
     {
-     "testo": "Poland's ambassador to Romania, Paweł Soloch, and ambassador to China, Jakub Kumoch, resign from their positions in protest of the suspension of Polish Constitutional Tribunal president Bogdan Święczkowski.",
+     "testo": "Poland's ambassador to Romania, Paweł Soloch, and Poland's ambassador to China, Jakub Kumoch, resign from their positions in protest of the suspension of Polish Constitutional Tribunal president Bogdan Święczkowski.",
      "contesto": [
       "Polish constitutional crisis, China–Poland relations, Poland–Romania relations",
       "Polish Constitutional Tribunal crisis",
@@ -109,18 +136,25 @@
      "categoria": "International relations",
      "fonti": [
       {
-       "nome": "Wiadomości in Polish",
-       "url": "https://wiadomosci.wp.pl/prezydent-karol-nawrocki-przyjechal-do-trybunalu-konstytucyjnego-relacja-na-zywo-7345695014824384l"
+       "nome": "24 Kanal",
+       "url": "https://24tv.ua/geopolitics/en/polish-ambassador-romania-pawe-solok-has-resigned-amid-the-judicial_n3171202"
+      },
+      {
+       "nome": "Firstpost",
+       "url": "https://www.firstpost.com/world/polish-envoy-to-china-resigns-on-x-foreign-minister-accepts-departure-amid-ongoing-political-turmoil-14056805.html"
       }
      ],
      "link": [
       "Poland",
+      "List of ambassadors of Poland",
+      "Romania",
       "Paweł Soloch",
+      "China",
       "Jakub Kumoch",
       "Constitutional Tribunal (Poland)",
       "Bogdan Święczkowski"
      ],
-     "testo_it": "L'ambasciatore polacco in Romania, Paweł Soloch, e l'ambasciatore in Cina, Jakub Kumoch, si dimettono dalle loro posizioni per protestare contro la sospensione del presidente del Tribunale costituzionale polacco Bogdan Święczkowski.",
+     "testo_it": "L'ambasciatore polacco in Romania, Paweł Soloch, e l'ambasciatore polacco in Cina, Jakub Kumoch, si dimettono dalle loro posizioni per protestare contro la sospensione del presidente del Tribunale costituzionale polacco Bogdan Święczkowski.",
      "contesto_it": [
       "Crisi costituzionale polacca, relazioni Cina-Polonia, relazioni Polonia-Romania",
       "La crisi del Tribunale costituzionale polacco",
@@ -128,7 +162,7 @@
      ]
     },
     {
-     "testo": "The Malagasy justice ministry reports that 13 Chinese-run scam centers linked to networks previously operating in Cambodia were dismantled and that 148 Chinese nationals were extradited to China. Officials say some African workers may have been trafficked and coerced into fraud.",
+     "testo": "Madagascar's justice ministry announces dismantling 13 Chinese-run scam centers since August, linked to 148 Chinese nationals who had previously operated scam centers in Cambodia, and who might have been involved in trafficking Africans to commit fraud. The 148 Chinese are extradited to China.",
      "contesto": [
       "Trafficking of Chinese nationals to scam centers abroad, Human trafficking in Madagascar"
      ],
@@ -142,38 +176,63 @@
      "link": [
       "Madagascar",
       "Justice ministry",
-      "China",
       "Scam center",
-      "Scam centers in Cambodia",
-      "Cambodia",
       "Chinese people in Madagascar",
-      "Extradited",
+      "Scam centers in Cambodia",
       "Human trafficking",
-      "Fraud"
+      "Extradited"
      ],
-     "testo_it": "Il ministero della giustizia malgascio riferisce che 13 centri di truffa gestiti dalla Cina, collegati a reti precedentemente operanti in Cambogia, sono stati smantellati e che 148 cittadini cinesi sono stati estradati in Cina.",
+     "testo_it": "Il ministero della giustizia del Madagascar annuncia lo smantellamento di 13 centri di truffa gestiti dalla Cina da agosto, collegati a 148 cittadini cinesi che avevano precedentemente gestito centri di truffa in Cambogia e che potrebbero essere stati coinvolti nel traffico di africani per commettere frodi.",
      "contesto_it": [
       "Traffico di cittadini cinesi verso centri di truffa all'estero, tratta di esseri umani in Madagascar"
      ]
     },
     {
-     "testo": "A pregnant woman is shot dead and six others are injured in a Spirit Halloween store in Fairfield, Solano County, California, United States. Another person is shot and killed in another Spirit Halloween store near Detroit.",
+     "testo": "Police arrest 139 people outside the United States embassy in London, United Kingdom, during a protest supporting Palestine Action, which the UK banned as a terrorist organisation in 2025. Police say most arrests involve support for a proscribed organisation.",
+     "contesto": [
+      "Gaza war protests in the United Kingdom"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/uk-palestine-action-us-embassy-protest-arrests-181ab108a671bcabf5433863608949bc"
+      }
+     ],
+     "link": [
+      "Metropolitan Police",
+      "Embassy of the United States, London",
+      "London",
+      "United Kingdom",
+      "Palestine Action",
+      "Terrorism in the United Kingdom",
+      "Proscribed organisation"
+     ],
+     "testo_it": "La polizia ha arrestato 139 persone al di fuori dell'ambasciata degli Stati Uniti a Londra, nel Regno Unito, durante una protesta a sostegno dell'azione per la Palestina, che il Regno Unito ha vietato come organizzazione terroristica nel 2025.",
+     "contesto_it": [
+      "Proteste di guerra a Gaza nel Regno Unito"
+     ]
+    },
+    {
+     "testo": "A pregnant woman is shot dead and six other people are injured in a mass shooting at a Spirit Halloween store in Fairfield, California, United States. Another person is shot and killed in another Spirit Halloween store near Detroit, Michigan.",
      "contesto": [],
      "categoria": "Law and crime",
      "fonti": [
       {
-       "nome": "NBC",
+       "nome": "NBC News",
        "url": "https://www.nbcnews.com/news/us-news/manhunt-california-spirit-halloween-shooting-dead-injured-police-rcna606673"
       }
      ],
      "link": [
+      "Mass shooting",
       "Spirit Halloween",
-      "Fairfield",
-      "Solano County",
+      "Fairfield, California",
       "California",
-      "United States"
+      "United States",
+      "Detroit",
+      "Michigan"
      ],
-     "testo_it": "Una donna incinta viene uccisa e altre sei sono ferite in un negozio Spirit Halloween a Fairfield, Solano County, California, Stati Uniti. Un'altra persona viene uccisa in un altro negozio Spirit Halloween vicino a Detroit."
+     "testo_it": "Una donna incinta viene uccisa e altre sei persone sono ferite in una sparatoria di massa in un negozio Spirit Halloween a Fairfield, California, Stati Uniti. Un'altra persona viene uccisa in un altro negozio Spirit Halloween vicino a Detroit, Michigan."
     },
     {
      "testo": "Protests are held across France for the third consecutive weekend.",
@@ -183,6 +242,10 @@
      ],
      "categoria": "Politics and elections",
      "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/protests-europe-youth-france-germany-spain-362a7cb69871ab21bd894290dad639f5"
+      },
       {
        "nome": "France 24",
        "url": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response"
@@ -198,7 +261,7 @@
      ]
     },
     {
-     "testo": "Youth-led protests are held across 34 cities in Germany. The protests are against the rising cost of living, education sector issues, and opposition to military conscription.",
+     "testo": "Protests are held in dozens of German cities.",
      "contesto": [
       "2026 European unrest"
      ],
@@ -210,11 +273,9 @@
       }
      ],
      "link": [
-      "Germany",
-      "Cost of living",
-      "Education in Germany"
+      "Germany"
      ],
-     "testo_it": "Le proteste guidate dai giovani si svolgono in 34 città in Germania. Le proteste sono contro l'aumento del costo della vita, le questioni del settore dell'istruzione e l'opposizione alla coscrizione militare.",
+     "testo_it": "Le proteste si svolgono in decine di città tedesche.",
      "contesto_it": [
       "Insurrezioni europee (2026)"
      ]
@@ -257,6 +318,36 @@
      ]
     },
     {
+     "testo": "In figure skating, France's Kevin Aymoz wins the men's singles title at Skate Canada in Kelowna, British Columbia, overtaking Japan's Rio Nakata and becoming the second-oldest men's Grand Prix champion at age 29.",
+     "contesto": [
+      "2026–27 ISU Grand Prix of Figure Skating",
+      "2026 Skate Canada International"
+     ],
+     "categoria": "Sports",
+     "fonti": [
+      {
+       "nome": "NBC Sports",
+       "url": "https://www.nbcsports.com/olympics/news/skate-canada-figure-skating-2026-grand-prix-rio-nakata"
+      }
+     ],
+     "link": [
+      "Figure skating",
+      "France",
+      "Kevin Aymoz",
+      "Skate Canada International",
+      "Kelowna",
+      "British Columbia",
+      "Japan",
+      "Rio Nakata",
+      "ISU Grand Prix of Figure Skating"
+     ],
+     "testo_it": "Nel pattinaggio di figura, il francese Kevin Aymoz vince il titolo maschile a Skate Canada a Kelowna, British Columbia, superando il giapponese Rio Nakata e diventando il secondo campione del Gran Premio degli uomini all'età di 29 anni.",
+     "contesto_it": [
+      "ISU Gran Premio di pattinaggio di figura (2026-27)",
+      "Skate Canada Internazionale (2026)"
+     ]
+    },
+    {
      "testo": "The 2026 Summer Youth Olympics opens in Dakar, Senegal, marking the first IOC event in Africa.",
      "contesto": [
       "2026 Summer Youth Olympics"
@@ -278,6 +369,32 @@
      "testo_it": "Il 2026 Summer Youth Olympics apre a Dakar, in Senegal, segnando il primo evento del CIO in Africa.",
      "contesto_it": [
       "Olimpiadi estive della gioventù (2026)"
+     ]
+    },
+    {
+     "testo": "In women's basketball, the Golden State Valkyries defeat the Atlanta Dream in game seven to win their first WNBA championship. Gabby Williams is named MVP.",
+     "contesto": [
+      "2026 WNBA Finals"
+     ],
+     "categoria": "Sports",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/valkyries-defeat-dream-capture-first-wnba-crown"
+      }
+     ],
+     "link": [
+      "Women's basketball",
+      "Golden State Valkyries",
+      "Atlanta Dream",
+      "Game seven",
+      "Women's National Basketball Association",
+      "Gabby Williams",
+      "WNBA Finals Most Valuable Player"
+     ],
+     "testo_it": "Nel basket femminile, i Golden State Valkyries sconfiggono l'Atlanta Dream in partita sette per vincere il loro primo campionato WNBA. Gabby Williams è nominato MVP.",
+     "contesto_it": [
+      "Finale WNBA (2026)"
      ]
     }
    ]
@@ -615,6 +732,7 @@
      "link": [
       "Thoroughbred racing",
       "Horse racing",
+      "Sun Goddess (horse)",
       "Breeders' Cup Juvenile Fillies Turf",
       "Keeneland",
       "Lexington, Kentucky",
