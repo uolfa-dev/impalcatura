@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-01T13:34:09Z",
+ "generato": "2026-11-01T19:45:44Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -10,7 +10,7 @@
  },
  "itn": [
   {
-   "testo": "US$6.3 billion worth of digital assets is stolen from cryptocurrency exchange Binance.",
+   "testo": "Digital assets worth US$6.3 billion are stolen from cryptocurrency exchange Binance.",
    "contesto": [],
    "categoria": "In primo piano",
    "fonti": [
@@ -25,7 +25,7 @@
     "Cryptocurrency",
     "Binance"
    ],
-   "testo_it": "6,3 miliardi di dollari di asset digitali vengono rubati dall'exchange di criptovalute Binance."
+   "testo_it": "Gli asset digitali del valore di 6,3 miliardi di dollari vengono rubati dall'exchange di criptovalute Binance."
   },
   {
    "testo": "Mexican politician Cuauhtémoc Cárdenas dies at the age of 92.",
@@ -97,7 +97,180 @@
    "data": "2026-11-01",
    "voci": [
     {
-     "testo": "Bulgarians vote in the second round of presidential elections, deciding between incumbent Iliana Iotova and former acting prime minister Andrey Gyurov.",
+     "testo": "Five civil police officers are killed in an Israeli airstrike in al-Mawasi, Rafah, Gaza Strip. Separately, three more Palestinians, including a four-year-old child, are killed in an airstrike against a building in Gaza City.",
+     "contesto": [
+      "Gaza war, Gaza genocide"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza"
+      }
+     ],
+     "link": [
+      "Palestinian Civil Police Force (Hamas)",
+      "Israel",
+      "Airstrike",
+      "Al-Mawasi, Rafah",
+      "Rafah",
+      "Gaza Strip",
+      "Palestinians",
+      "Gaza City"
+     ],
+     "testo_it": "Cinque agenti di polizia civile sono uccisi in un attacco aereo israeliano ad al-Mawasi, Rafah, nella Striscia di Gaza. Separatamente, altri tre palestinesi, tra cui un bambino di quattro anni, vengono uccisi in un attacco aereo contro un edificio a Gaza City.",
+     "contesto_it": [
+      "Guerra di Gaza, genocidio di Gaza"
+     ]
+    },
+    {
+     "testo": "Bolivian president Rodrigo Paz declares a national state of emergency to mobilize resources before the super El Niño event peaks in November or December.",
+     "contesto": [
+      "2026–2027 El Niño event"
+     ],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "DW",
+       "url": "https://www.dw.com/en/bolivia-declares-emergency-as-el-nino-intensifies-threatens-severe-weather/a-79820253"
+      }
+     ],
+     "link": [
+      "Bolivia",
+      "President of Bolivia",
+      "Rodrigo Paz",
+      "State of emergency",
+      "Super El Niño events",
+      "El Niño–Southern Oscillation"
+     ],
+     "testo_it": "Il presidente boliviano Rodrigo Paz dichiara lo stato di emergenza nazionale per mobilitare le risorse prima che il super evento di El Niño raggiunga i picchi di novembre o dicembre.",
+     "contesto_it": [
+      "Evento El Niño (2026-2027)"
+     ]
+    },
+    {
+     "testo": "Four people are killed after entering a food waste tank at a hotel in Ujjain, Madhya Pradesh, India.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "Xinhua",
+       "url": "https://indianexpress.com/article/india/ujjain-hote-deaths-suffocation-cleaning-waste-chamber-10945636/?ref=archive_pg"
+      }
+     ],
+     "link": [
+      "Ujjain",
+      "Madhya Pradesh",
+      "India"
+     ],
+     "testo_it": "Quattro persone vengono uccise dopo essere entrate in un serbatoio di rifiuti alimentari in un hotel a Ujjain, Madhya Pradesh, India."
+    },
+    {
+     "testo": "A Learjet 60 crashed in Palm Beach, Florida. A mass casualty incident was declared.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "ASN",
+       "url": "https://aviation-safety.net/wikibase/584122"
+      }
+     ],
+     "link": [
+      "Learjet 60",
+      "Palm Beach"
+     ],
+     "testo_it": "Un Learjet 60 si è schiantato a Palm Beach, in Florida. Un incidente di massa è stato dichiarato."
+    },
+    {
+     "testo": "Portuguese riot police dismantle protest camps in Lisbon's Rossio Square and Porto, arresting 13 people for refusing orders to disperse. Thirteen officers are injured, while activists say more than 30 protesters are also injured.",
+     "contesto": [
+      "2026 European unrest",
+      "2026 Portuguese housing protests"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/portuguese-police-clash-housing-protesters-arrest-13"
+      },
+      {
+       "nome": "Lianhe Zaobao",
+       "url": "https://www.zaobao.com.sg/en/news/world/clashes-erupt-portugal-housing-protests-police-dismantle-camps-arrest-13"
+      }
+     ],
+     "link": [
+      "Portugal",
+      "Special Operations Group (Portugal)",
+      "Protest camp",
+      "Lisbon",
+      "Rossio Square",
+      "Porto"
+     ],
+     "testo_it": "La polizia antisommossa portoghese smantella i campi di protesta in Piazza Rossio e Porto di Lisbona, arrestando 13 persone per aver rifiutato l'ordine di disperdersi. Tredici agenti sono feriti, mentre gli attivisti dicono che anche più di 30 manifestanti sono feriti.",
+     "contesto_it": [
+      "Insurrezioni europee (2026)",
+      "Proteste abitative portoghesi (2026)"
+     ]
+    },
+    {
+     "testo": "The United States Federal Bureau of Investigation accuses North Korea of orchestrating the hack and theft of over $6 billion of cryptocurrency from exchange Binance, facilitated through the Lazarus Group, which also hacked Dubai-based exchange Bybit last year.",
+     "contesto": [
+      "2026 Binance hack"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "DW",
+       "url": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998"
+      }
+     ],
+     "link": [
+      "United States",
+      "Federal Bureau of Investigation",
+      "North Korea",
+      "Cryptocurrency",
+      "Cryptocurrency exchange",
+      "Binance",
+      "Lazarus Group",
+      "Dubai",
+      "Bybit"
+     ],
+     "testo_it": "Il Federal Bureau of Investigation degli Stati Uniti accusa la Corea del Nord di aver orchestrato l'hack e il furto di oltre 6 miliardi di dollari di criptovaluta dallo scambio Binance, facilitato attraverso il Gruppo Lazarus, che ha anche violato l'exchange Bybit con sede a Dubai lo scorso anno.",
+     "contesto_it": [
+      "Binance hack (2026)"
+     ]
+    },
+    {
+     "testo": "Thousands of people protest in New Delhi, India, to call for chief election commissioner Gyanesh Kumar to resign due to changes to voter lists that allegedly disproportionately affect opposition parties.",
+     "contesto": [
+      "2026 anti-CEC protests"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "AFP via France 24",
+       "url": "https://www.france24.com/en/live-news/20261101-tens-of-thousands-protest-in-india-s-capital-against-voter-roll-revision"
+      },
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-delhi-demanding-indias-election-chief-resign"
+      }
+     ],
+     "link": [
+      "New Delhi",
+      "India",
+      "Chief Election Commissioner of India",
+      "Gyanesh Kumar",
+      "Voter list",
+      "List of political parties in India"
+     ],
+     "testo_it": "Migliaia di persone protestano a Nuova Delhi, in India, per chiedere le dimissioni del commissario elettorale Gyanesh Kumar a causa di modifiche alle liste elettorali che presumibilmente influenzano in modo sproporzionato i partiti di opposizione.",
+     "contesto_it": [
+      "2026 proteste anti-CEC"
+     ]
+    },
+    {
+     "testo": "Bulgarians vote in the second round of presidential elections between incumbent Iliana Iotova and former acting prime minister Andrey Gyurov.",
      "contesto": [
       "2026 Bulgarian presidential election"
      ],
@@ -116,16 +289,59 @@
       "Prime Minister of Bulgaria",
       "Andrey Gyurov"
      ],
-     "testo_it": "I bulgari votano al secondo turno delle elezioni presidenziali, decidendo tra l'incumbente Iliana Iotova e l'ex primo ministro ad interim Andrey Gyurov.",
+     "testo_it": "I bulgari votano al secondo turno delle elezioni presidenziali tra l'incumbente Iliana Iotova e l'ex primo ministro ad interim Andrey Gyurov.",
      "contesto_it": [
       "Elezioni presidenziali bulgare (2026)"
      ]
+    },
+    {
+     "testo": "Garment workers clash with police in Dhaka, Bangladesh, over low pay and the rising cost of living.",
+     "contesto": [],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/amp/video/newsfeed/2026/11/1/bangladesh-workers-clash-with-police-in-protests-over-low-pay"
+      }
+     ],
+     "link": [
+      "Clothing",
+      "Dhaka",
+      "Bangladesh"
+     ],
+     "testo_it": "I lavoratori dell'abbigliamento si scontrano con la polizia a Dhaka, in Bangladesh, per la bassa retribuzione e l'aumento del costo della vita."
     }
    ]
   },
   {
    "data": "2026-10-31",
    "voci": [
+    {
+     "testo": "The Dutch military police and coast guard rescue 38 people from a rubber boat adrift off the coast of Breskens, Zeeland, and detain two people on suspicion of people smuggling.",
+     "contesto": [
+      "Human trafficking in the Netherlands"
+     ],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/netherlands-boat-rescue-migration-f9541a0b4a67d8bcc26034f7a4302183"
+      }
+     ],
+     "link": [
+      "Netherlands",
+      "Royal Marechaussee",
+      "Netherlands Coastguard",
+      "Inflatable boat",
+      "Breskens",
+      "Zeeland",
+      "People smuggling"
+     ],
+     "testo_it": "La polizia militare olandese e la guardia costiera salvano 38 persone da un gommone alla deriva al largo della costa di Breskens, in Zelanda, e arrestano due persone sospettate di traffico di esseri umani.",
+     "contesto_it": [
+      "La tratta di esseri umani nei Paesi Bassi"
+     ]
+    },
     {
      "testo": "Poland's ambassador to Romania, Paweł Soloch, and Poland's ambassador to China, Jakub Kumoch, resign from their positions in protest of the suspension of Polish Constitutional Tribunal president Bogdan Święczkowski.",
      "contesto": [
@@ -162,6 +378,32 @@
      ]
     },
     {
+     "testo": "Metropolitan Police arrest 139 people outside the United States embassy in London, United Kingdom, during a protest supporting Palestine Action, which is designated as a proscribed terrorist organisation.",
+     "contesto": [
+      "Gaza war protests in the United Kingdom"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/uk-palestine-action-us-embassy-protest-arrests-181ab108a671bcabf5433863608949bc"
+      }
+     ],
+     "link": [
+      "Metropolitan Police",
+      "Embassy of the United States, London",
+      "London",
+      "United Kingdom",
+      "Palestine Action",
+      "Proscribed organisation",
+      "Terrorism in the United Kingdom"
+     ],
+     "testo_it": "La polizia metropolitana ha arrestato 139 persone al di fuori dell'ambasciata degli Stati Uniti a Londra, nel Regno Unito, durante una protesta a sostegno di Palestine Action, che è stata designata come un'organizzazione terroristica proibita.",
+     "contesto_it": [
+      "Proteste di guerra a Gaza nel Regno Unito"
+     ]
+    },
+    {
      "testo": "Madagascar's justice ministry announces dismantling 13 Chinese-run scam centers since August, linked to 148 Chinese nationals who had previously operated scam centers in Cambodia, and who might have been involved in trafficking Africans to commit fraud. The 148 Chinese are extradited to China.",
      "contesto": [
       "Trafficking of Chinese nationals to scam centers abroad, Human trafficking in Madagascar"
@@ -186,53 +428,6 @@
      "contesto_it": [
       "Traffico di cittadini cinesi verso centri di truffa all'estero, tratta di esseri umani in Madagascar"
      ]
-    },
-    {
-     "testo": "Police arrest 139 people outside the United States embassy in London, United Kingdom, during a protest supporting Palestine Action, which the UK banned as a terrorist organisation in 2025. Police say most arrests involve support for a proscribed organisation.",
-     "contesto": [
-      "Gaza war protests in the United Kingdom"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/uk-palestine-action-us-embassy-protest-arrests-181ab108a671bcabf5433863608949bc"
-      }
-     ],
-     "link": [
-      "Metropolitan Police",
-      "Embassy of the United States, London",
-      "London",
-      "United Kingdom",
-      "Palestine Action",
-      "Terrorism in the United Kingdom",
-      "Proscribed organisation"
-     ],
-     "testo_it": "La polizia ha arrestato 139 persone al di fuori dell'ambasciata degli Stati Uniti a Londra, nel Regno Unito, durante una protesta a sostegno dell'azione per la Palestina, che il Regno Unito ha vietato come organizzazione terroristica nel 2025.",
-     "contesto_it": [
-      "Proteste di guerra a Gaza nel Regno Unito"
-     ]
-    },
-    {
-     "testo": "A pregnant woman is shot dead and six other people are injured in a mass shooting at a Spirit Halloween store in Fairfield, California, United States. Another person is shot and killed in another Spirit Halloween store near Detroit, Michigan.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "NBC News",
-       "url": "https://www.nbcnews.com/news/us-news/manhunt-california-spirit-halloween-shooting-dead-injured-police-rcna606673"
-      }
-     ],
-     "link": [
-      "Mass shooting",
-      "Spirit Halloween",
-      "Fairfield, California",
-      "California",
-      "United States",
-      "Detroit",
-      "Michigan"
-     ],
-     "testo_it": "Una donna incinta viene uccisa e altre sei persone sono ferite in una sparatoria di massa in un negozio Spirit Halloween a Fairfield, California, Stati Uniti. Un'altra persona viene uccisa in un altro negozio Spirit Halloween vicino a Detroit, Michigan."
     },
     {
      "testo": "Protests are held across France for the third consecutive weekend.",
@@ -261,23 +456,101 @@
      ]
     },
     {
-     "testo": "Protests are held in dozens of German cities.",
+     "testo": "Protests are held in 34 cities of Germany against the high cost of livings and wars. Clashes erupts in Frankfurt, Berlin, Cologne and Hamburg. In Frankfurt, shops are looted, with several people being arrested.",
      "contesto": [
       "2026 European unrest"
      ],
      "categoria": "Politics and elections",
      "fonti": [
       {
-       "nome": "DW",
-       "url": "https://www.dw.com/en/massive-gen-z-protests-set-to-sweep-cities-across-germany/live-79814694"
+       "nome": "BBC News",
+       "url": "https://www.bbc.com/news/articles/cqj34gnd3n30o"
       }
      ],
      "link": [
-      "Germany"
+      "Germany",
+      "Frankfurt",
+      "Berlin",
+      "Cologne",
+      "Hamburg",
+      "Looting"
      ],
-     "testo_it": "Le proteste si svolgono in decine di città tedesche.",
+     "testo_it": "Le proteste si svolgono in 34 città della Germania contro l'alto costo della vita e delle guerre. Scontri scoppiano a Francoforte, Berlino, Colonia e Amburgo. A Francoforte, i negozi sono saccheggiati, con diverse persone arrestate.",
      "contesto_it": [
       "Insurrezioni europee (2026)"
+     ]
+    },
+    {
+     "testo": "Riots erupt in Zurich and Basel, Switzerland, with fires reported.",
+     "contesto": [
+      "2026 European unrest"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "Swiss Info",
+       "url": "https://www.swissinfo.ch/eng/swiss-politics/zurich-and-basel-protests-turn-violent/92308905"
+      }
+     ],
+     "link": [
+      "Zurich",
+      "Basel",
+      "Switzerland"
+     ],
+     "testo_it": "Le rivolte scoppiano a Zurigo e Basilea, in Svizzera, con incendi segnalati.",
+     "contesto_it": [
+      "Insurrezioni europee (2026)"
+     ]
+    },
+    {
+     "testo": "Clashes erupt in The Hague, Netherlands, in a youth-led protest, with 34 people arrested.",
+     "contesto": [
+      "2026 European unrest"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "NL Times",
+       "url": "https://nltimes.nl/2026/11/01/gen-z-protest-hague-ends-without-major-incidents-34-arrested-mostly-teens"
+      }
+     ],
+     "link": [
+      "The Hague",
+      "Netherlands"
+     ],
+     "testo_it": "Gli scontri scoppiano a L'Aia, nei Paesi Bassi, in una protesta guidata dai giovani, con 34 persone arrestate.",
+     "contesto_it": [
+      "Insurrezioni europee (2026)"
+     ]
+    },
+    {
+     "testo": "In figure skating, France's Kevin Aymoz wins the men's singles title at Skate Canada in Kelowna, British Columbia, overtaking Japan's Rio Nakata and becoming the second-oldest men's Grand Prix champion at age 29.",
+     "contesto": [
+      "2026–27 ISU Grand Prix of Figure Skating",
+      "2026 Skate Canada International"
+     ],
+     "categoria": "Sports",
+     "fonti": [
+      {
+       "nome": "NBC Sports",
+       "url": "https://www.nbcsports.com/olympics/news/skate-canada-figure-skating-2026-grand-prix-rio-nakata"
+      }
+     ],
+     "link": [
+      "Figure skating",
+      "France",
+      "Kevin Aymoz",
+      "Skate Canada International",
+      "Kelowna",
+      "British Columbia",
+      "Japan",
+      "Rio Nakata",
+      "ISU Grand Prix of Figure Skating"
+     ],
+     "testo_it": "Nel pattinaggio di figura, il francese Kevin Aymoz vince il titolo maschile a Skate Canada a Kelowna, British Columbia, superando il giapponese Rio Nakata e diventando il secondo campione del Gran Premio degli uomini all'età di 29 anni.",
+     "contesto_it": [
+      "ISU Gran Premio di pattinaggio di figura (2026-27)",
+      "Skate Canada Internazionale (2026)"
      ]
     },
     {
@@ -318,36 +591,6 @@
      ]
     },
     {
-     "testo": "In figure skating, France's Kevin Aymoz wins the men's singles title at Skate Canada in Kelowna, British Columbia, overtaking Japan's Rio Nakata and becoming the second-oldest men's Grand Prix champion at age 29.",
-     "contesto": [
-      "2026–27 ISU Grand Prix of Figure Skating",
-      "2026 Skate Canada International"
-     ],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "NBC Sports",
-       "url": "https://www.nbcsports.com/olympics/news/skate-canada-figure-skating-2026-grand-prix-rio-nakata"
-      }
-     ],
-     "link": [
-      "Figure skating",
-      "France",
-      "Kevin Aymoz",
-      "Skate Canada International",
-      "Kelowna",
-      "British Columbia",
-      "Japan",
-      "Rio Nakata",
-      "ISU Grand Prix of Figure Skating"
-     ],
-     "testo_it": "Nel pattinaggio di figura, il francese Kevin Aymoz vince il titolo maschile a Skate Canada a Kelowna, British Columbia, superando il giapponese Rio Nakata e diventando il secondo campione del Gran Premio degli uomini all'età di 29 anni.",
-     "contesto_it": [
-      "ISU Gran Premio di pattinaggio di figura (2026-27)",
-      "Skate Canada Internazionale (2026)"
-     ]
-    },
-    {
      "testo": "The 2026 Summer Youth Olympics opens in Dakar, Senegal, marking the first IOC event in Africa.",
      "contesto": [
       "2026 Summer Youth Olympics"
@@ -372,7 +615,7 @@
      ]
     },
     {
-     "testo": "In women's basketball, the Golden State Valkyries defeat the Atlanta Dream in game seven to win their first WNBA championship. Gabby Williams is named MVP.",
+     "testo": "In women's basketball, the Golden State Valkyries defeat the Atlanta Dream 68–63 in game seven to win their first WNBA championship. Gabby Williams is named MVP.",
      "contesto": [
       "2026 WNBA Finals"
      ],
@@ -381,6 +624,10 @@
       {
        "nome": "AFP",
        "url": "https://www.afp.com/en/valkyries-defeat-dream-capture-first-wnba-crown"
+      },
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/wnba-finals-game-7-valkyries-dream-189aa4b8ecb1d1fd8ddfacde3a9d6ac4"
       }
      ],
      "link": [
@@ -392,7 +639,7 @@
       "Gabby Williams",
       "WNBA Finals Most Valuable Player"
      ],
-     "testo_it": "Nel basket femminile, i Golden State Valkyries sconfiggono l'Atlanta Dream in partita sette per vincere il loro primo campionato WNBA. Gabby Williams è nominato MVP.",
+     "testo_it": "Nel basket femminile, i Golden State Valkyries sconfiggono l'Atlanta Dream 68-63 in partita sette per vincere il loro primo campionato WNBA. Gabby Williams è nominato MVP.",
      "contesto_it": [
       "Finale WNBA (2026)"
      ]
@@ -1932,6 +2179,7 @@
     {
      "testo": "The French Senate passes a bill that would make people who knowingly participate in violent protest groups jointly liable for up to €10,000 (US$11,118) in damage and allow authorities to seize certain welfare payments. The bill heads to the National Assembly for a vote.",
      "contesto": [
+      "2026 European unrest",
       "2026 French fuel protests, 2026 French student protests"
      ],
      "categoria": "Politics and elections",
@@ -1954,7 +2202,30 @@
      ],
      "testo_it": "Il Senato francese approva un disegno di legge che renderebbe le persone che partecipano consapevolmente a gruppi di protesta violenti congiuntamente responsabili fino a € 10.000 (US $ 1118) in danni e consentire alle autorità di sequestrare alcuni pagamenti di welfare.",
      "contesto_it": [
+      "Insurrezioni europee (2026)",
       "Proteste francesi di carburante (2026), proteste studentesche francesi (2026)"
+     ]
+    },
+    {
+     "testo": "Thirteen youth organizations protest outside the Hôtel de la Chambre in Luxembourg City, Luxembourg, denouncing the house crisis and the high costs of living.",
+     "contesto": [
+      "2026 European unrest"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "Luxembourg Times",
+       "url": "https://www.luxtimes.lu/luxembourg/young-people-protest-luxembourg-housing-crisis-outside-parliament/163696719.html"
+      }
+     ],
+     "link": [
+      "Hôtel de la Chambre",
+      "Luxembourg City",
+      "Luxembourg"
+     ],
+     "testo_it": "Tredici organizzazioni giovanili protestano davanti all'Hôtel de la Chambre di Lussemburgo, denunciando la crisi della casa e gli elevati costi della vita.",
+     "contesto_it": [
+      "Insurrezioni europee (2026)"
      ]
     },
     {
