@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-02T00:49:55Z",
+ "generato": "2026-11-02T11:22:03Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -95,15 +95,40 @@
  "giorni": [
   {
    "data": "2026-11-02",
-   "voci": []
+   "voci": [
+    {
+     "testo": "A truck loaded with bombs explodes near a military base in Planadas, Tolima Department, Colombia, killing four people and wounding several more.",
+     "contesto": [
+      "Colombian conflict"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Infobae",
+       "url": "https://www.infobae.com/colombia/2026/11/02/atentado-con-volqueta-bomba-en-planadas-tolima-deja-cuatro-muertos-en-balance-preliminar-entre-las-victimas-hay-una-bebe/?outputType=amp-type"
+      }
+     ],
+     "link": [
+      "Car bomb",
+      "Planadas",
+      "Tolima Department",
+      "Colombia"
+     ],
+     "testo_it": "Un camion carico di bombe esplode vicino a una base militare a Planadas, Dipartimento di Tolima, Colombia, uccidendo quattro persone e ferendone molte altre.",
+     "contesto_it": [
+      "Conflitto colombiano"
+     ]
+    }
+   ]
   },
   {
    "data": "2026-11-01",
    "voci": [
     {
-     "testo": "Five civil police officers are killed in an Israeli airstrike in al-Mawasi, Rafah, Gaza Strip. Separately, three more Palestinians, including a four-year-old child, are killed in an airstrike against a building in Gaza City.",
+     "testo": "Five civil police officers are killed in an Israeli airstrike in al-Mawasi, Rafah, Gaza Strip. Separately, three more Palestinians, including a four-year-old child, are killed in an airstrike on a building in Gaza City.",
      "contesto": [
-      "Gaza war, Gaza genocide"
+      "Gaza war",
+      "Israeli bombing of the Gaza Strip"
      ],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
@@ -122,9 +147,10 @@
       "Palestinians",
       "Gaza City"
      ],
-     "testo_it": "Cinque agenti di polizia civile sono uccisi in un attacco aereo israeliano ad al-Mawasi, Rafah, nella Striscia di Gaza. Separatamente, altri tre palestinesi, tra cui un bambino di quattro anni, vengono uccisi in un attacco aereo contro un edificio a Gaza City.",
+     "testo_it": "Cinque agenti di polizia civile sono uccisi in un attacco aereo israeliano ad al-Mawasi, Rafah, nella Striscia di Gaza. Separatamente, altri tre palestinesi, tra cui un bambino di quattro anni, vengono uccisi in un attacco aereo su un edificio a Gaza City.",
      "contesto_it": [
-      "Guerra di Gaza, genocidio di Gaza"
+      "Guerra di Gaza",
+      "Bombardamento israeliano della Striscia di Gaza"
      ]
     },
     {
@@ -153,29 +179,31 @@
      ]
     },
     {
-     "testo": "At least nine people are killed after a Learjet 60 aircraft bound for the Bahamas crashes in Greenacres, Florida.",
+     "testo": "Nine people are killed after a Learjet 60 business jet bound for The Bahamas crashes in Greenacres, Florida, United States.",
      "contesto": [
-      "2026 Greenacres Learjet 60 crash"
+      "2026 Palm Beach County Learjet 60 crash"
      ],
      "categoria": "Disasters and accidents",
      "fonti": [
       {
-       "nome": "BocaNewsNow",
-       "url": "https://bocanewsnow.com/2026/11/01/plane-crash-in-palm-beach-county/"
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/business/aerospace-defense/nine-people-dead-learjet-crash-south-florida-officials-say-2026-11-01/"
       }
      ],
      "link": [
       "Learjet 60",
       "The Bahamas",
-      "Greenacres, Florida"
+      "Greenacres, Florida",
+      "Florida",
+      "United States"
      ],
-     "testo_it": "Almeno nove persone sono morte dopo che un aereo Learjet 60 diretto alle Bahamas si è schiantato a Greenacres, in Florida.",
+     "testo_it": "Nove persone vengono uccise dopo che un business jet Learjet 60 diretto alle Bahamas si schianta a Greenacres, Florida, Stati Uniti.",
      "contesto_it": [
-      "Greenacres Learjet 60 crash (2026)"
+      "Palm Beach County Learjet 60 crash (2026)"
      ]
     },
     {
-     "testo": "Four people are killed after entering a food waste tank at a hotel in Ujjain, Madhya Pradesh, India.",
+     "testo": "Four workers are killed after entering a food waste tank at a hotel in Ujjain, Madhya Pradesh, India.",
      "contesto": [],
      "categoria": "Disasters and accidents",
      "fonti": [
@@ -189,7 +217,35 @@
       "Madhya Pradesh",
       "India"
      ],
-     "testo_it": "Quattro persone vengono uccise dopo essere entrate in un serbatoio di rifiuti alimentari in un hotel a Ujjain, Madhya Pradesh, India."
+     "testo_it": "Quattro lavoratori vengono uccisi dopo essere entrati in un serbatoio di rifiuti alimentari in un hotel a Ujjain, Madhya Pradesh, India."
+    },
+    {
+     "testo": "The government of Delhi, India, introduces stricter pollution controls, including double parking fees, remote work arrangements, restrictions on high-emission vehicles, and bans on dust-producing construction, as PM2.5 levels reach 201 micrograms per cubic metre.",
+     "contesto": [
+      "Air pollution in Delhi"
+     ],
+     "categoria": "Health and environment",
+     "fonti": [
+      {
+       "nome": "AFP via The Manila Times",
+       "url": "https://www.manilatimes.net/2026/11/02/world/asia-oceania/new-restrictions-kick-in-as-delhi-battles-pollution/2458971"
+      }
+     ],
+     "link": [
+      "Government of Delhi",
+      "Delhi",
+      "India",
+      "Pollution control",
+      "Double parking",
+      "Remote work",
+      "Emission standards in India",
+      "Construction industry in India",
+      "PM2.5"
+     ],
+     "testo_it": "Il governo di Delhi, in India, introduce controlli più severi sull'inquinamento, tra cui doppie tasse di parcheggio, accordi di lavoro a distanza, restrizioni sui veicoli ad alte emissioni e divieti sulla costruzione di produzione di polvere, poiché i livelli di PM2,5 raggiungono 201 microgrammi per metro cubo.",
+     "contesto_it": [
+      "Inquinamento atmosferico a Delhi"
+     ]
     },
     {
      "testo": "Portuguese riot police dismantle protest camps in Lisbon's Rossio Square and Porto, arresting 13 people for refusing orders to disperse. Thirteen officers are injured, while activists say more than 30 protesters are also injured.",
@@ -223,7 +279,7 @@
      ]
     },
     {
-     "testo": "The United States Federal Bureau of Investigation accuses North Korea of orchestrating the hack and theft of over $6 billion of cryptocurrency from exchange Binance, facilitated through the Lazarus Group, which also hacked Dubai-based exchange Bybit last year.",
+     "testo": "The United States Federal Bureau of Investigation says North Korea orchestrated the hack and theft of over $6 billion of cryptocurrency from exchange Binance, facilitated through the Lazarus Group, which also hacked Dubai-based exchange Bybit last year.",
      "contesto": [
       "2026 Binance hack"
      ],
@@ -245,10 +301,35 @@
       "Dubai",
       "Bybit"
      ],
-     "testo_it": "Il Federal Bureau of Investigation degli Stati Uniti accusa la Corea del Nord di aver orchestrato l'hack e il furto di oltre 6 miliardi di dollari di criptovaluta dallo scambio Binance, facilitato attraverso il Gruppo Lazarus, che ha anche violato l'exchange Bybit con sede a Dubai lo scorso anno.",
+     "testo_it": "Il Federal Bureau of Investigation degli Stati Uniti afferma che la Corea del Nord ha orchestrato l'hack e il furto di oltre 6 miliardi di dollari di criptovaluta dallo scambio Binance, facilitato attraverso il Gruppo Lazarus, che ha anche violato l'exchange Bybit con sede a Dubai lo scorso anno.",
      "contesto_it": [
       "Binance hack (2026)"
      ]
+    },
+    {
+     "testo": "Garment workers clash with police in Dhaka, Bangladesh, over low pay and the rising cost of living. In response, the government forms a wage board.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/amp/video/newsfeed/2026/11/1/bangladesh-workers-clash-with-police-in-protests-over-low-pay"
+      },
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/business/world-at-work/bangladesh-form-wage-board-after-garment-protests-shut-factories-2026-11-01/"
+      }
+     ],
+     "link": [
+      "Textile industry in Bangladesh",
+      "Bangladesh Police",
+      "Dhaka",
+      "Bangladesh",
+      "Cost of living",
+      "Government of Bangladesh",
+      "Wage board"
+     ],
+     "testo_it": "I lavoratori dell'abbigliamento si scontrano con la polizia a Dhaka, in Bangladesh, per la bassa retribuzione e l'aumento del costo della vita. In risposta, il governo forma un comitato salariale."
     },
     {
      "testo": "Thousands of people protest in New Delhi, India, to call for chief election commissioner Gyanesh Kumar to resign due to changes to voter lists that allegedly disproportionately affect opposition parties.",
@@ -310,24 +391,36 @@
      ]
     },
     {
-     "testo": "Garment workers clash with police in Dhaka, Bangladesh, over low pay and the rising cost of living.",
-     "contesto": [],
-     "categoria": "Politics and elections",
+     "testo": "In figure skating, Japan's Mao Shimada wins the women's singles title at Skate Canada in her senior Grand Prix debut, finishing ahead of South Korea's Kim Chae-yeon and Japan's Rion Sumiyoshi.",
+     "contesto": [
+      "2026–27 ISU Grand Prix of Figure Skating",
+      "2026 Skate Canada International"
+     ],
+     "categoria": "Sports",
      "fonti": [
       {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/amp/video/newsfeed/2026/11/1/bangladesh-workers-clash-with-police-in-protests-over-low-pay"
+       "nome": "AFP via France 24",
+       "url": "https://www.france24.com/en/live-news/20261101-japan-s-shimada-wins-skate-canada-in-grand-prix-debut"
       }
      ],
      "link": [
-      "Clothing",
-      "Dhaka",
-      "Bangladesh"
+      "Figure skating",
+      "Japan",
+      "Mao Shimada",
+      "Skate Canada International",
+      "ISU Grand Prix of Figure Skating",
+      "South Korea",
+      "Kim Chae-yeon (figure skater)",
+      "Rion Sumiyoshi"
      ],
-     "testo_it": "I lavoratori dell'abbigliamento si scontrano con la polizia a Dhaka, in Bangladesh, per la bassa retribuzione e l'aumento del costo della vita."
+     "testo_it": "Nel pattinaggio di figura, il giapponese Mao Shimada vince il titolo di single femminile a Skate Canada nel suo debutto al Gran Premio senior, finendo davanti al sudcoreano Kim Chae-yeon e al giapponese Rion Sumiyoshi.",
+     "contesto_it": [
+      "ISU Gran Premio di pattinaggio di figura (2026-27)",
+      "Skate Canada Internazionale (2026)"
+     ]
     },
     {
-     "testo": "Kimi Antonelli clinched the Formula One World Drivers' Championship after finishing third at the Mexico City Grand Prix, becoming the youngest Drivers' Champion at the age of 20 years, 68 days.",
+     "testo": "In open-wheel racing, Italian driver Kimi Antonelli, driving for Mercedes, wins the Formula One World Drivers' Championship after finishing third at the Mexico City Grand Prix, becoming the youngest Drivers' Champion at the age of 20 years, 68 days.",
      "contesto": [
       "2026 Formula One World Championship"
      ],
@@ -339,14 +432,40 @@
       }
      ],
      "link": [
+      "Open-wheel racing",
+      "Italy",
       "Kimi Antonelli",
+      "Mercedes-Benz in Formula One",
       "Formula One",
       "World Drivers' Championship",
       "2026 Mexico City Grand Prix"
      ],
-     "testo_it": "Kimi Antonelli si è aggiudicato il Campionato Mondiale Piloti di Formula Uno dopo essere arrivato terzo al Gran Premio di Città del Messico, diventando il più giovane Campione Piloti all'età di 20 anni, 68 giorni.",
+     "testo_it": "Nelle gare a ruota aperta, il pilota italiano Kimi Antonelli, guidando per la Mercedes, vince il Campionato Mondiale Piloti di Formula Uno dopo aver concluso terzo al Gran Premio di Città del Messico, diventando il più giovane Campione Piloti all'età di 20 anni, 68 giorni.",
      "contesto_it": [
       "Campionato del Mondo di Formula 1 (2026)"
+     ]
+    },
+    {
+     "testo": "In motorcycle racing, Yamaha withdraws from the Qatar Grand Prix next week, citing company-wide travel restrictions following its assessment of the Middle Eastern crisis.",
+     "contesto": [
+      "2026 MotoGP World Championship"
+     ],
+     "categoria": "Sports",
+     "fonti": [
+      {
+       "nome": "AFP via The Manila Times",
+       "url": "https://www.manilatimes.net/2026/11/01/sports/yamaha-pulls-out-of-qatar-motogp-over-middle-east-situation/2458965"
+      }
+     ],
+     "link": [
+      "Motorcycle racing",
+      "Yamaha Motor Racing",
+      "Qatar motorcycle Grand Prix",
+      "Middle Eastern crisis (2023–present)"
+     ],
+     "testo_it": "Nelle corse motociclistiche, Yamaha si ritira dal Gran Premio del Qatar la prossima settimana, citando restrizioni di viaggio a livello aziendale in seguito alla sua valutazione della crisi mediorientale.",
+     "contesto_it": [
+      "Campionato del Mondo MotoGP (2026)"
      ]
     }
    ]
@@ -416,7 +535,7 @@
      ]
     },
     {
-     "testo": "Metropolitan Police arrest 139 people outside the United States embassy in London, United Kingdom, during a protest supporting Palestine Action, which is designated as a proscribed terrorist organisation.",
+     "testo": "Metropolitan Police arrest 139 people outside the United States embassy in London, United Kingdom, during a protest supporting Palestine Action, which is allegedly designated as a “proscribed terrorist organisation.”",
      "contesto": [
       "Gaza war protests in the United Kingdom"
      ],
@@ -436,7 +555,7 @@
       "Proscribed organisation",
       "Terrorism in the United Kingdom"
      ],
-     "testo_it": "La polizia metropolitana ha arrestato 139 persone al di fuori dell'ambasciata degli Stati Uniti a Londra, nel Regno Unito, durante una protesta a sostegno di Palestine Action, che è stata designata come un'organizzazione terroristica proibita.",
+     "testo_it": "La polizia metropolitana arresta 139 persone al di fuori dell'ambasciata degli Stati Uniti a Londra, nel Regno Unito, durante una protesta a sostegno dell'azione per la Palestina, che sarebbe stata designata come “organizzazione terroristica proibita”.",
      "contesto_it": [
       "Proteste di guerra a Gaza nel Regno Unito"
      ]
