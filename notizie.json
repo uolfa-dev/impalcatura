@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-01T19:45:44Z",
+ "generato": "2026-11-02T00:49:55Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -94,6 +94,10 @@
  ],
  "giorni": [
   {
+   "data": "2026-11-02",
+   "voci": []
+  },
+  {
    "data": "2026-11-01",
    "voci": [
     {
@@ -149,12 +153,34 @@
      ]
     },
     {
+     "testo": "At least nine people are killed after a Learjet 60 aircraft bound for the Bahamas crashes in Greenacres, Florida.",
+     "contesto": [
+      "2026 Greenacres Learjet 60 crash"
+     ],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "BocaNewsNow",
+       "url": "https://bocanewsnow.com/2026/11/01/plane-crash-in-palm-beach-county/"
+      }
+     ],
+     "link": [
+      "Learjet 60",
+      "The Bahamas",
+      "Greenacres, Florida"
+     ],
+     "testo_it": "Almeno nove persone sono morte dopo che un aereo Learjet 60 diretto alle Bahamas si è schiantato a Greenacres, in Florida.",
+     "contesto_it": [
+      "Greenacres Learjet 60 crash (2026)"
+     ]
+    },
+    {
      "testo": "Four people are killed after entering a food waste tank at a hotel in Ujjain, Madhya Pradesh, India.",
      "contesto": [],
      "categoria": "Disasters and accidents",
      "fonti": [
       {
-       "nome": "Xinhua",
+       "nome": "Indian Express",
        "url": "https://indianexpress.com/article/india/ujjain-hote-deaths-suffocation-cleaning-waste-chamber-10945636/?ref=archive_pg"
       }
      ],
@@ -164,22 +190,6 @@
       "India"
      ],
      "testo_it": "Quattro persone vengono uccise dopo essere entrate in un serbatoio di rifiuti alimentari in un hotel a Ujjain, Madhya Pradesh, India."
-    },
-    {
-     "testo": "A Learjet 60 crashed in Palm Beach, Florida. A mass casualty incident was declared.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "ASN",
-       "url": "https://aviation-safety.net/wikibase/584122"
-      }
-     ],
-     "link": [
-      "Learjet 60",
-      "Palm Beach"
-     ],
-     "testo_it": "Un Learjet 60 si è schiantato a Palm Beach, in Florida. Un incidente di massa è stato dichiarato."
     },
     {
      "testo": "Portuguese riot police dismantle protest camps in Lisbon's Rossio Square and Porto, arresting 13 people for refusing orders to disperse. Thirteen officers are injured, while activists say more than 30 protesters are also injured.",
@@ -270,12 +280,16 @@
      ]
     },
     {
-     "testo": "Bulgarians vote in the second round of presidential elections between incumbent Iliana Iotova and former acting prime minister Andrey Gyurov.",
+     "testo": "Bulgarians vote in the second round of presidential elections between incumbent Iliana Iotova and former acting prime minister Andrey Gyurov. Gyurov concedes to Iotova after polls close.",
      "contesto": [
       "2026 Bulgarian presidential election"
      ],
      "categoria": "Politics and elections",
      "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/bulgaria-president-runoff-yotova-gyrov-radev-russia-cc540e5540a7a268da15aa72c5ec033e"
+      },
       {
        "nome": "DW",
        "url": "https://www.dw.com/en/bulgarians-vote-in-highly-polarized-presidential-runoff-overshadowed-by-ukraine-war/a-79820449"
@@ -287,9 +301,10 @@
       "Iliana Iotova",
       "Acting (law)",
       "Prime Minister of Bulgaria",
-      "Andrey Gyurov"
+      "Andrey Gyurov",
+      "Concession (politics)"
      ],
-     "testo_it": "I bulgari votano al secondo turno delle elezioni presidenziali tra l'incumbente Iliana Iotova e l'ex primo ministro ad interim Andrey Gyurov.",
+     "testo_it": "I bulgari votano al secondo turno delle elezioni presidenziali tra l'incumbente Iliana Iotova e l'ex primo ministro Andrey Gyurov. Gyurov concede a Iotova dopo la chiusura dei sondaggi.",
      "contesto_it": [
       "Elezioni presidenziali bulgare (2026)"
      ]
@@ -310,6 +325,29 @@
       "Bangladesh"
      ],
      "testo_it": "I lavoratori dell'abbigliamento si scontrano con la polizia a Dhaka, in Bangladesh, per la bassa retribuzione e l'aumento del costo della vita."
+    },
+    {
+     "testo": "Kimi Antonelli clinched the Formula One World Drivers' Championship after finishing third at the Mexico City Grand Prix, becoming the youngest Drivers' Champion at the age of 20 years, 68 days.",
+     "contesto": [
+      "2026 Formula One World Championship"
+     ],
+     "categoria": "Sports",
+     "fonti": [
+      {
+       "nome": "ESPN",
+       "url": "https://www.espn.com/f1/story/_/id/50250037/kimi-antonelli-youngest-f1-world-champion-2026-mexico-city-grand-prix"
+      }
+     ],
+     "link": [
+      "Kimi Antonelli",
+      "Formula One",
+      "World Drivers' Championship",
+      "2026 Mexico City Grand Prix"
+     ],
+     "testo_it": "Kimi Antonelli si è aggiudicato il Campionato Mondiale Piloti di Formula Uno dopo essere arrivato terzo al Gran Premio di Città del Messico, diventando il più giovane Campione Piloti all'età di 20 anni, 68 giorni.",
+     "contesto_it": [
+      "Campionato del Mondo di Formula 1 (2026)"
+     ]
     }
    ]
   },
@@ -456,7 +494,7 @@
      ]
     },
     {
-     "testo": "Protests are held in 34 cities of Germany against the high cost of livings and wars. Clashes erupts in Frankfurt, Berlin, Cologne and Hamburg. In Frankfurt, shops are looted, with several people being arrested.",
+     "testo": "Protests are held in 34 cities across Germany against the high cost of livings and wars. Clashes with the police erupt in Frankfurt, Berlin, Cologne and Hamburg. In Frankfurt, shops are looted, with several people being arrested.",
      "contesto": [
       "2026 European unrest"
      ],
@@ -475,7 +513,7 @@
       "Hamburg",
       "Looting"
      ],
-     "testo_it": "Le proteste si svolgono in 34 città della Germania contro l'alto costo della vita e delle guerre. Scontri scoppiano a Francoforte, Berlino, Colonia e Amburgo. A Francoforte, i negozi sono saccheggiati, con diverse persone arrestate.",
+     "testo_it": "In 34 città di tutta la Germania si tengono proteste contro l'alto costo della vita e delle guerre. Scontri con la polizia scoppiano a Francoforte, Berlino, Colonia e Amburgo. A Francoforte, i negozi sono saccheggiati, con diverse persone arrestate.",
      "contesto_it": [
       "Insurrezioni europee (2026)"
      ]
@@ -1090,6 +1128,27 @@
       "Guerra russo-ucraina",
       "Attacchi russi contro i civili"
      ]
+    },
+    {
+     "testo": "Non-profit fanfiction repository website Archive of Our Own is targeted in a cybersecurity incident, going offline. The Organization of Transformative Works states user information and submissions have not been compromised, and projects restoring the website in 2 to 4 weeks.",
+     "contesto": [],
+     "categoria": "Arts and culture",
+     "fonti": [
+      {
+       "nome": "NY Times",
+       "url": "https://www.nytimes.com/2026/10/30/arts/ao3-fan-fiction-site-down.html"
+      },
+      {
+       "nome": "People",
+       "url": "https://people.com/ao3-fanfiction-website-could-be-down-for-weeks-12202852"
+      }
+     ],
+     "link": [
+      "Fanfiction",
+      "Archive of Our Own",
+      "Organization of Transformative Works"
+     ],
+     "testo_it": "Il sito Web di repository di fanfiction senza scopo di lucro Archive of Our Own è preso di mira in un incidente di sicurezza informatica, andando offline. L'Organizzazione dei Lavori Trasformativi afferma che le informazioni e le presentazioni degli utenti non sono state compromesse e i progetti di ripristino del sito Web in 2 o 4 settimane."
     },
     {
      "testo": "Canada's federal government invests up to C$1.6 billion (US$1.1 billion) in Toronto-based artificial intelligence company Cohere, taking an equity stake as part of a C$7 billion (US$5 billion) funding round intended to expand domestic computing infrastructure and AI development.",
@@ -2251,445 +2310,6 @@
      "testo_it": "Gli israeliani votano per eleggere i 120 membri della Knesset.",
      "contesto_it": [
       "Elezioni legislative israeliane (2026)"
-     ]
-    }
-   ]
-  },
-  {
-   "data": "2026-10-26",
-   "voci": [
-    {
-     "testo": "Senior officials representing the members of the Mecca Defence Alliance, including Pakistani military chief Asim Munir, Saudi defense minister Khalid bin Salman Al Saud, and Turkish intelligence director İbrahim Kalın, meet with Iranian leadership, including President Masoud Pezeshkian, in Tehran to discuss efforts to de-escalate the 2026 Iran war and the Yemeni civil war.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "2026 Iran war, Yemeni civil war",
-      "Pakistan in the 2026 Iran war, Saudi Arabia in the 2026 Iran war, Saudi-led intervention in the Yemeni civil war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/10/26/mecca-defence-alliance-members-in-tehran-to-defuse-iran-us-yemen-tensions"
-      },
-      {
-       "nome": "France 24",
-       "url": "https://www.france24.com/en/middle-east/20261026-iran-talks-mecca-pact-nations-war"
-      }
-     ],
-     "link": [
-      "Mecca Defence Alliance",
-      "Pakistan",
-      "Chief of Defence Forces (Pakistan)",
-      "Asim Munir",
-      "Saudi Arabia",
-      "Ministry of Defense (Saudi Arabia)",
-      "Khalid bin Salman Al Saud",
-      "Turkey",
-      "National Intelligence Organization",
-      "İbrahim Kalın",
-      "Iran",
-      "President of Iran",
-      "Masoud Pezeshkian",
-      "Tehran",
-      "2026 Iran war",
-      "Yemeni civil war (2014–present)"
-     ],
-     "testo_it": "Gli alti funzionari che rappresentano i membri della Mecca Defense Alliance, tra cui il capo militare pakistano Asim Munir, il ministro della difesa saudita Khalid bin Salman Al Saud e il direttore dell'intelligence turca İbrahim Kalın, si incontrano con la leadership iraniana, tra cui il presidente Masoud Pezeshkian, a Teheran per discutere gli sforzi per de-escalation della guerra in Iran del 2026 e della guerra civile yemenita.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Guerra in Iran (2026), guerra civile yemenita",
-      "Pakistan nella guerra in Iran del 2026, Arabia Saudita nella guerra in Iran del 2026, intervento a guida saudita nella guerra civile yemenita"
-     ]
-    },
-    {
-     "testo": "Israel launches an airstrike against a tent for displaced people in Khan Yunis, Gaza Strip, killing four Palestinians, including a child, and wounding many more.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "Gaza war",
-      "Israeli bombing of the Gaza Strip"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/10/26/israeli-forces-kill-at-least-five-people-in-gaza-including-7-year-old-girl"
-      }
-     ],
-     "link": [
-      "Israel",
-      "Airstrike",
-      "Tent city",
-      "Khan Yunis",
-      "Gaza Strip",
-      "Palestinians"
-     ],
-     "testo_it": "Israele lancia un attacco aereo contro una tenda per sfollati a Khan Yunis, nella Striscia di Gaza, uccidendo quattro palestinesi, tra cui un bambino, e ferendone molti altri.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Guerra di Gaza",
-      "Bombardamento israeliano della Striscia di Gaza"
-     ]
-    },
-    {
-     "testo": "The Israel Defense Forces says that they have killed four Hamas and Palestinian Islamic Jihad militants in the Gaza Strip over the weekend.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "Gaza war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "The Jerusalem Post",
-       "url": "https://www.jpost.com/israel-news/defense-news/article-912959"
-      }
-     ],
-     "link": [
-      "Israel Defense Forces",
-      "Hamas",
-      "Palestinian Islamic Jihad",
-      "Gaza Strip"
-     ],
-     "testo_it": "Le forze di difesa israeliane dicono di aver ucciso quattro militanti di Hamas e della Jihad islamica palestinese nella Striscia di Gaza durante il fine settimana.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Guerra di Gaza"
-     ]
-    },
-    {
-     "testo": "Egypt's parliament authorizes President Abdel Fattah el-Sisi to provide military support to Saudi Arabia if requested amid Houthi attacks in Saudi territory.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "Egypt–Saudi Arabia relations, Houthi–Saudi conflict, Yemeni civil war",
-      "2026 Houthi attacks on Saudi airports"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AFP via France 24",
-       "url": "https://www.france24.com/en/live-news/20261026-egypt-parliament-authorises-military-support-to-saudi-arabia"
-      }
-     ],
-     "link": [
-      "Egypt",
-      "Parliament of Egypt",
-      "President of Egypt",
-      "Abdel Fattah el-Sisi",
-      "Egyptian Armed Forces",
-      "Saudi Arabia",
-      "Houthis"
-     ],
-     "testo_it": "Il parlamento egiziano autorizza il presidente Abdel Fattah el-Sisi a fornire supporto militare all'Arabia Saudita se richiesto tra gli attacchi Houthi in territorio saudita.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Relazioni Egitto-Arabia Saudita, conflitto Houthi-Arabia Saudita, guerra civile yemenita",
-      "Attacchi Houthi agli aeroporti sauditi (2026)"
-     ]
-    },
-    {
-     "testo": "The United Nations (UN) announces it will conclude its support for the Transitional Assistance Mission to support the Somali federal government by October 31. The UN will continue supporting Somalia through other smaller agencies.",
-     "contesto": [
-      "Somali Civil War",
-      "Diplomatic and humanitarian efforts in the Somali Civil War"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AA",
-       "url": "https://www.aa.com.tr/en/americas/un-mission-in-somalia-to-end-operations-on-oct-31-after-decades-of-support/4101656"
-      }
-     ],
-     "link": [
-      "United Nations",
-      "United Nations Assistance Mission in Somalia",
-      "Somalia",
-      "Federal Government of Somalia",
-      "List of specialized agencies of the United Nations"
-     ],
-     "testo_it": "Le Nazioni Unite annunciano che concluderanno il loro sostegno alla missione di assistenza transitoria per sostenere il governo federale somalo entro il 31 ottobre. Le Nazioni Unite continueranno a sostenere la Somalia attraverso altre agenzie più piccole.",
-     "contesto_it": [
-      "Guerra civile somala",
-      "Gli sforzi diplomatici e umanitari nella guerra civile somala"
-     ]
-    },
-    {
-     "testo": "Twenty-one people are killed and 40 more injured in a drone strike in Nyala, Sudan.",
-     "contesto": [
-      "Sudanese civil war",
-      "War crimes in the Sudanese civil war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/10/27/drone-strike-kills-at-least-21-and-injures-40-in-sudans-nyala"
-      }
-     ],
-     "link": [
-      "Drone warfare",
-      "Nyala",
-      "Sudan"
-     ],
-     "testo_it": "Ventuno persone vengono uccise e altre 40 ferite in un attacco drone a Nyala, in Sudan.",
-     "contesto_it": [
-      "Guerra civile sudanese",
-      "Crimini di guerra nella guerra civile sudanese"
-     ]
-    },
-    {
-     "testo": "More drone strikes by the Rapid Support Forces are reported across power stations in southeast Sudan, cutting power across the region.",
-     "contesto": [
-      "Sudanese civil war",
-      "War crimes in the Sudanese civil war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/business/energy/drone-strikes-cut-power-across-southeast-sudan-operator-says-2026-10-26/"
-      }
-     ],
-     "link": [
-      "Rapid Support Forces"
-     ],
-     "testo_it": "Altri attacchi di droni da parte delle forze di supporto rapido sono segnalati in tutte le centrali elettriche nel sud-est del Sudan, tagliando il potere in tutta la regione.",
-     "contesto_it": [
-      "Guerra civile sudanese",
-      "Crimini di guerra nella guerra civile sudanese"
-     ]
-    },
-    {
-     "testo": "The three gunmen who carried out a mass shooting at a Greek Orthodox Church in Karak Governorate, Jordan, are wounded and arrested after a shootout with security forces at an abandoned building.",
-     "contesto": [
-      "2026 Karak church shooting"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "BBC News",
-       "url": "https://www.bbc.com/news/articles/cm4g17qq8wz4o"
-      }
-     ],
-     "link": [
-      "Mass shooting",
-      "Greek Orthodox Church",
-      "Karak Governorate",
-      "Jordan",
-      "Shootout",
-      "Public Security Directorate"
-     ],
-     "testo_it": "I tre uomini armati che hanno effettuato una sparatoria di massa contro una chiesa greco-ortodossa nel governatorato di Karak, in Giordania, sono feriti e arrestati dopo una sparatoria con le forze di sicurezza in un edificio abbandonato.",
-     "contesto_it": [
-      "Sparatoria della chiesa di Karak (2026)"
-     ]
-    },
-    {
-     "testo": "The Jordanian Armed Forces announces that it has carried out airstrikes against alleged positions of the Islamic State in various areas of Syria's Daraa Governorate and Suwayda Governorate, reporting that the gunmen are linked to the group, claiming the killing of 20 militants. Seven civilians are confirmed killed, including three children and an elderly man.",
-     "contesto": [
-      "2026 Karak church shooting"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/amp/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting"
-      },
-      {
-       "nome": "Internazionale",
-       "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/27/jordan-says-it-killed-more-than-20-islamic-state-militants-in-airstrikes-on-syria"
-      }
-     ],
-     "link": [
-      "Jordanian Armed Forces",
-      "Islamic State",
-      "Syria",
-      "Daraa Governorate",
-      "Suwayda Governorate"
-     ],
-     "testo_it": "Le forze armate giordane annunciano di aver effettuato attacchi aerei contro presunte posizioni dello Stato islamico in varie aree del governatorato siriano di Daraa e del governatorato di Suwayda, riportando che gli uomini armati sono legati al gruppo, rivendicando l'uccisione di 20 militanti. Sette civili sono confermati uccisi, tra cui tre bambini e un uomo anziano.",
-     "contesto_it": [
-      "Sparatoria della chiesa di Karak (2026)"
-     ]
-    },
-    {
-     "testo": "The Syrian transitional government announces the closure of the Nasib Border Crossing with Jordan, suspending passenger and commercial traffic in both directions, after reporting that the airstrikes were not coordinated.",
-     "contesto": [
-      "2026 Karak church shooting"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AA",
-       "url": "https://www.aa.com.tr/en/middle-east/syria-closes-border-crossing-with-jordan-to-passengers-trade/4101844"
-      }
-     ],
-     "link": [
-      "Syrian transitional government",
-      "Nasib Border Crossing"
-     ],
-     "testo_it": "Il governo di transizione siriano annuncia la chiusura del valico di frontiera Nasib con la Giordania, sospendendo il traffico passeggeri e commerciale in entrambe le direzioni, dopo aver riferito che gli attacchi aerei non sono stati coordinati.",
-     "contesto_it": [
-      "Sparatoria della chiesa di Karak (2026)"
-     ]
-    },
-    {
-     "testo": "Dictionary.com says maxxing has been named its Word of the Year for 2026 following a surge in its use across social media.",
-     "contesto": [],
-     "categoria": "Arts and culture",
-     "fonti": [
-      {
-       "nome": "BBC News",
-       "url": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo"
-      }
-     ],
-     "link": [
-      "Dictionary.com",
-      "-maxxing",
-      "Word of the year",
-      "Social media"
-     ],
-     "testo_it": "Dictionary.com dice che il maxxing è stato nominato la sua parola dell'anno per il 2026 a seguito di un aumento nel suo uso attraverso i social media."
-    },
-    {
-     "testo": "Two people are killed and around 90,000 more are left without electricity after the impact of Storm Boelo in Scotland, parts of Northern Ireland, and northern England.",
-     "contesto": [
-      "2026–27 European windstorm season"
-     ],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AA",
-       "url": "https://www.aa.com.tr/en/europe/2-killed-as-storm-boelo-batters-uk-leaves-90-000-without-electricity/4100972"
-      }
-     ],
-     "link": [
-      "Scotland",
-      "Northern Ireland",
-      "Northern England",
-      "England"
-     ],
-     "testo_it": "Due persone vengono uccise e circa 90.000 sono rimaste senza elettricità dopo l'impatto di Storm Boelo in Scozia, parti dell'Irlanda del Nord e dell'Inghilterra settentrionale.",
-     "contesto_it": [
-      "Stagione europea delle tempeste (2026-27)"
-     ]
-    },
-    {
-     "testo": "Brazilian police orders senator Flávio Bolsonaro to surrender his passports after Supreme Federal Court justice Alexandre de Moraes barred him from leaving Brazil, one day after Bolsonaro lost the runoff of the general election to incumbent president Luiz Inácio Lula da Silva.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "Firstpost",
-       "url": "https://www.firstpost.com/world/defeated-flavio-bolsonaro-hands-over-passports-calls-travel-ban-attempt-to-intimidate-14055559.html"
-      },
-      {
-       "nome": "SBS News",
-       "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008816547"
-      }
-     ],
-     "link": [
-      "Brazil",
-      "Federal Police of Brazil",
-      "Federal Senate (Brazil)",
-      "Flávio Bolsonaro",
-      "Brazilian passport",
-      "Supreme Federal Court",
-      "Alexandre de Moraes",
-      "Two-round system",
-      "2026 Brazilian general election",
-      "President of Brazil",
-      "Luiz Inácio Lula da Silva"
-     ],
-     "testo_it": "La polizia brasiliana ordina al senatore Flávio Bolsonaro di consegnare i suoi passaporti dopo che il giudice della Corte Suprema Federale Alexandre de Moraes gli ha impedito di lasciare il Brasile, un giorno dopo che Bolsonaro ha perso il ballottaggio delle elezioni generali al presidente in carica Luiz Inácio Lula da Silva."
-    },
-    {
-     "testo": "A Swiss court convicts former Belarusian security officer Yuri Harauski over the 1999 abduction of businessman Anatol Krasouski, later killed, and gives him a two-year suspended sentence. He is acquitted over Yury Zacharanka's enforced disappearance.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/swiss-court-finds-belarusian-man-guilty-over-disappearance-lukashenko-opponent-2026-10-26/"
-      }
-     ],
-     "link": [
-      "Switzerland",
-      "Federal courts of Switzerland",
-      "Belarus",
-      "Anatol Krasouski",
-      "Yury Zacharanka",
-      "Enforced disappearances in Belarus"
-     ],
-     "testo_it": "Un tribunale svizzero condanna l'ex ufficiale di sicurezza bielorusso Yuri Harausski per il rapimento del 1999 dell'uomo d'affari Anatol Krasouski, poi ucciso, e gli concede una condanna a due anni di sospensione della pena."
-    },
-    {
-     "testo": "The United States Federal Bureau of Investigation announces they have arrested nine people involved in Nigerian scam centers, as part of an international operation targeting organised crime in Nigeria, locating $11 million in funds purloined by the scammers.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "OCCRP",
-       "url": "https://www.occrp.org/en/news/fbi-cybercrime-operation-nets-nine-arrests-in-nigeria"
-      }
-     ],
-     "link": [
-      "United States",
-      "Federal Bureau of Investigation",
-      "Nigeria",
-      "Scam center",
-      "Organised crime in Nigeria"
-     ],
-     "testo_it": "Il Federal Bureau of Investigation degli Stati Uniti annuncia di aver arrestato nove persone coinvolte in centri di truffa nigeriani, come parte di un'operazione internazionale che ha preso di mira la criminalità organizzata in Nigeria, individuando 11 milioni di dollari in fondi spesi dai truffatori."
-    },
-    {
-     "testo": "Protests and riots are held in Bilbao, Spain, after and during a political event hosted by far-right commentator Vito Quiles. At least nine people are arrested.",
-     "contesto": [
-      "2026 European unrest",
-      "2026 Spanish housing protests"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "El Constitucional",
-       "url": "https://www.elconstitucional.es/en/communities/basque-country/riots-in-bilbao-after-the-failed-call-of-ultra-agitator-vito-quiles-at-least-nine-arrested-and-cars-burned_9424_102.html"
-      }
-     ],
-     "link": [
-      "Bilbao",
-      "Spain",
-      "Politics of Spain",
-      "History of the far-right in Spain",
-      "Vito Quiles"
-     ],
-     "testo_it": "Proteste e rivolte si svolgono a Bilbao, in Spagna, dopo e durante un evento politico ospitato dal commentatore di estrema destra Vito Quiles. Almeno nove persone vengono arrestate.",
-     "contesto_it": [
-      "Insurrezioni europee (2026)",
-      "Proteste immobiliari spagnole (2026)"
-     ]
-    },
-    {
-     "testo": "In association football, English player Harry Kane wins the men's Ballon d'Or for the first time, while Spanish player Alexia Putellas receives the women's award for a record-tying third time.",
-     "contesto": [
-      "2026 Ballon d'Or"
-     ],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "CNN",
-       "url": "https://edition.cnn.com/2026/10/26/sport/ballon-dor-winners-harry-kane-alexia-putellas"
-      }
-     ],
-     "link": [
-      "Association football",
-      "Football in England",
-      "Harry Kane",
-      "Ballon d'Or",
-      "Football in Spain",
-      "Alexia Putellas",
-      "Ballon d'Or Féminin"
-     ],
-     "testo_it": "Nel calcio associativo, il giocatore inglese Harry Kane vince per la prima volta il Pallone d'Oro maschile, mentre il giocatore spagnolo Alexia Putellas riceve il premio femminile per la terza volta da record.",
-     "contesto_it": [
-      "Ballon d'Or (2026)"
      ]
     }
    ]
