@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-02T11:22:03Z",
+ "generato": "2026-11-02T21:46:33Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -10,7 +10,7 @@
  },
  "itn": [
   {
-   "testo": "Digital assets worth US$6.3 billion are stolen from cryptocurrency exchange Binance.",
+   "testo": "Digital currency worth US$6.3 billion is stolen from cryptocurrency exchange Binance.",
    "contesto": [],
    "categoria": "In primo piano",
    "fonti": [
@@ -20,12 +20,30 @@
     }
    ],
    "link": [
-    "Digital asset",
+    "Digital currency",
     "2026 Binance hack",
     "Cryptocurrency",
     "Binance"
    ],
-   "testo_it": "Gli asset digitali del valore di 6,3 miliardi di dollari vengono rubati dall'exchange di criptovalute Binance."
+   "testo_it": "La valuta digitale del valore di 6,3 miliardi di dollari viene rubata dall'exchange di criptovalute Binance."
+  },
+  {
+   "testo": "In baseball, the Milwaukee Brewers defeat the Tampa Bay Rays to win the World Series.",
+   "contesto": [],
+   "categoria": "In primo piano",
+   "fonti": [
+    {
+     "nome": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2026_World_Series"
+    }
+   ],
+   "link": [
+    "Baseball",
+    "Milwaukee Brewers",
+    "Tampa Bay Rays",
+    "2026 World Series"
+   ],
+   "testo_it": "Nel baseball, i Milwaukee Brewers sconfiggono i Tampa Bay Rays per vincere le World Series."
   },
   {
    "testo": "Mexican politician Cuauhtémoc Cárdenas dies at the age of 92.",
@@ -58,24 +76,6 @@
    "testo_it": "L'attore britannico Patrick Stewart muore all'età di 86 anni."
   },
   {
-   "testo": "In baseball, the Milwaukee Brewers defeat the Tampa Bay Rays to win the World Series.",
-   "contesto": [],
-   "categoria": "In primo piano",
-   "fonti": [
-    {
-     "nome": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/2026_World_Series"
-    }
-   ],
-   "link": [
-    "Baseball",
-    "Milwaukee Brewers",
-    "Tampa Bay Rays",
-    "2026 World Series"
-   ],
-   "testo_it": "Nel baseball, i Milwaukee Brewers sconfiggono i Tampa Bay Rays per vincere le World Series."
-  },
-  {
    "testo": "At least 69 people are killed in a collision between two high-speed trains in Toledo province, Spain.",
    "contesto": [],
    "categoria": "In primo piano",
@@ -97,27 +97,148 @@
    "data": "2026-11-02",
    "voci": [
     {
-     "testo": "A truck loaded with bombs explodes near a military base in Planadas, Tolima Department, Colombia, killing four people and wounding several more.",
+     "testo": "Israeli forces withdraw from areas around Hebron in the occupied West Bank after a multi-day operation following the killing of two Israeli soldiers at a checkpoint.",
+     "contesto": [
+      "Gaza war",
+      "2026 West Bank lockdown"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "AFP via RFI",
+       "url": "https://www.rfi.fr/en/international-news/20261102-israel-army-withdraws-after-hebron-operation"
+      }
+     ],
+     "link": [
+      "Israel",
+      "Israel Defense Forces",
+      "Hebron",
+      "Israeli occupation of the West Bank",
+      "West Bank",
+      "Israeli soldiers"
+     ],
+     "testo_it": "Le forze israeliane si ritirano dalle aree intorno a Hebron, nella Cisgiordania occupata, dopo un'operazione di più giorni in seguito all'uccisione di due soldati israeliani a un checkpoint.",
+     "contesto_it": [
+      "Guerra di Gaza",
+      "Blocco della Cisgiordania (2026)"
+     ]
+    },
+    {
+     "testo": "At least 24 people are killed, five others are injured, and 27 are missing during Russian bombing on an aid distribution centre in Komyshuvakha, Zaporizhzhia Oblast. Ukraine.",
+     "contesto": [
+      "Russo-Ukrainian war",
+      "Russian attacks on civilians in the Russo-Ukrainian war"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "BBC News",
+       "url": "https://www.bbc.com/news/articles/cjy56dndlyz0o"
+      }
+     ],
+     "link": [
+      "Russian Air Force",
+      "Komyshuvakha, Zaporizhzhia Oblast",
+      "Zaporizhzhia Oblast",
+      "Ukraine"
+     ],
+     "testo_it": "Almeno 24 persone sono morte, altre cinque sono rimaste ferite e 27 sono scomparse durante i bombardamenti russi in un centro di distribuzione di aiuti a Komyshuvakha, nell'Oblast' di Zaporizhzhia.",
+     "contesto_it": [
+      "Guerra russo-ucraina",
+      "Attacchi russi contro i civili nella guerra russo-ucraina"
+     ]
+    },
+    {
+     "testo": "A truck bomb explodes near a military base in Planadas, Tolima Department, Colombia, killing four people, including a baby, and wounding several others.",
      "contesto": [
       "Colombian conflict"
      ],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
       {
-       "nome": "Infobae",
-       "url": "https://www.infobae.com/colombia/2026/11/02/atentado-con-volqueta-bomba-en-planadas-tolima-deja-cuatro-muertos-en-balance-preliminar-entre-las-victimas-hay-una-bebe/?outputType=amp-type"
+       "nome": "BBC News",
+       "url": "https://www.bbc.com/news/articles/cqn06n30l406o"
       }
      ],
      "link": [
       "Car bomb",
+      "National Army of Colombia",
       "Planadas",
       "Tolima Department",
       "Colombia"
      ],
-     "testo_it": "Un camion carico di bombe esplode vicino a una base militare a Planadas, Dipartimento di Tolima, Colombia, uccidendo quattro persone e ferendone molte altre.",
+     "testo_it": "Un camion bomba esplode vicino a una base militare a Planadas, Dipartimento di Tolima, Colombia, uccidendo quattro persone, tra cui un bambino, e ferendone molte altre.",
      "contesto_it": [
       "Conflitto colombiano"
      ]
+    },
+    {
+     "testo": "The United States Food and Drug Administration approves the first generic version of lenacapavir, a twice-yearly HIV prevention injection expected to cost about US$40 annually in 120 low- and middle-income countries.",
+     "contesto": [],
+     "categoria": "Health and environment",
+     "fonti": [
+      {
+       "nome": "AFP via France 24",
+       "url": "https://www.france24.com/en/live-news/20261102-us-approves-cheap-generic-of-breakthrough-hiv-shot-for-poorer-countries"
+      }
+     ],
+     "link": [
+      "United States",
+      "Food and Drug Administration",
+      "Generic version",
+      "Lenacapavir",
+      "HIV prevention",
+      "US$",
+      "Least developed countries",
+      "Newly industrialized country"
+     ],
+     "testo_it": "La Food and Drug Administration degli Stati Uniti approva la prima versione generica di lenacapavir, un'iniezione di prevenzione dell'HIV due volte all'anno che dovrebbe costare circa $ 40 all'anno in 120 paesi a basso e medio reddito."
+    },
+    {
+     "testo": "A second wave of cyberattacks target freezers and refrigerators in supermarkets in multiple European countries, causing them to overheat and spoil.",
+     "contesto": [
+      "2026 French supermarket refrigerator hack"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/business/retail-consumer/temperature-soars-swedish-grocery-store-freezers-one-store-blames-hackers-2026-11-02/"
+      }
+     ],
+     "link": [
+      "Cyberattack",
+      "Europe",
+      "Food spoilage"
+     ],
+     "testo_it": "Una seconda ondata di attacchi informatici ha preso di mira congelatori e frigoriferi nei supermercati di diversi paesi europei, causando loro il surriscaldamento e il deterioramento.",
+     "contesto_it": [
+      "francese supermercato frigorifero hack (2026)"
+     ]
+    },
+    {
+     "testo": "The Spanish interior ministry reportedly deports 16 migrants, including those from Bangladesh, Cameroon, Nigeria, Senegal, and Yemen, from Ceuta to Morocco following the migrant crisis in July. Amnesty International raises concerns with the move given Morocco's human rights violations.",
+     "contesto": [],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "The New Arab",
+       "url": "https://www.newarab.com/news/spain-deports-ceuta-african-asian-asylum-seekers-morocco"
+      }
+     ],
+     "link": [
+      "Spain",
+      "Bangladeshis",
+      "Demographics of Cameroon",
+      "Nigerian people in Spain",
+      "Demographics of Senegal",
+      "Yemenis",
+      "Ceuta",
+      "Morocco",
+      "2026 Ceuta migrant crisis",
+      "Human rights in Morocco"
+     ],
+     "testo_it": "Secondo quanto riferito, il ministero dell'Interno spagnolo deporta 16 migranti, compresi quelli provenienti da Bangladesh, Camerun, Nigeria, Senegal e Yemen, da Ceuta al Marocco a seguito della crisi migratoria di luglio."
     }
    ]
   },
@@ -361,7 +482,7 @@
      ]
     },
     {
-     "testo": "Bulgarians vote in the second round of presidential elections between incumbent Iliana Iotova and former acting prime minister Andrey Gyurov. Gyurov concedes to Iotova after polls close.",
+     "testo": "Bulgarians vote in the second round of presidential elections between incumbent Iliana Iotova and former acting prime minister Andrey Gyurov. Iotova is re-elected and Gyurov concedes after polls close.",
      "contesto": [
       "2026 Bulgarian presidential election"
      ],
@@ -385,13 +506,13 @@
       "Andrey Gyurov",
       "Concession (politics)"
      ],
-     "testo_it": "I bulgari votano al secondo turno delle elezioni presidenziali tra l'incumbente Iliana Iotova e l'ex primo ministro Andrey Gyurov. Gyurov concede a Iotova dopo la chiusura dei sondaggi.",
+     "testo_it": "I bulgari votano al secondo turno delle elezioni presidenziali tra l'incumbente Iliana Iotova e l'ex primo ministro Andrey Gyurov. Iotova viene rieletto e Gyurov concede dopo la chiusura dei sondaggi.",
      "contesto_it": [
       "Elezioni presidenziali bulgare (2026)"
      ]
     },
     {
-     "testo": "In figure skating, Japan's Mao Shimada wins the women's singles title at Skate Canada in her senior Grand Prix debut, finishing ahead of South Korea's Kim Chae-yeon and Japan's Rion Sumiyoshi.",
+     "testo": "In figure skating, Japan's figure skater Mao Shimada wins the women's singles title at Skate Canada in her senior Grand Prix debut, finishing ahead of Estonia's Niina Petrõkina and America's Isabeau Levito",
      "contesto": [
       "2026–27 ISU Grand Prix of Figure Skating",
       "2026 Skate Canada International"
@@ -409,18 +530,19 @@
       "Mao Shimada",
       "Skate Canada International",
       "ISU Grand Prix of Figure Skating",
-      "South Korea",
-      "Kim Chae-yeon (figure skater)",
-      "Rion Sumiyoshi"
+      "Estonia",
+      "Niina Petrõkina",
+      "United States",
+      "Isabeau Levito"
      ],
-     "testo_it": "Nel pattinaggio di figura, il giapponese Mao Shimada vince il titolo di single femminile a Skate Canada nel suo debutto al Gran Premio senior, finendo davanti al sudcoreano Kim Chae-yeon e al giapponese Rion Sumiyoshi.",
+     "testo_it": "Nel pattinaggio di figura, il pattinatore giapponese Mao Shimada vince il titolo di single femminile a Skate Canada nel suo debutto al Gran Premio senior, finendo davanti a Niina Petrõkina e a Isabeau Levito in Estonia.",
      "contesto_it": [
       "ISU Gran Premio di pattinaggio di figura (2026-27)",
       "Skate Canada Internazionale (2026)"
      ]
     },
     {
-     "testo": "In open-wheel racing, Italian driver Kimi Antonelli, driving for Mercedes, wins the Formula One World Drivers' Championship after finishing third at the Mexico City Grand Prix, becoming the youngest Drivers' Champion at the age of 20 years, 68 days.",
+     "testo": "In open-wheel racing, Italian driver Kimi Antonelli, driving for Mercedes, wins the Formula One World Drivers' Championship after finishing third at the Mexico City Grand Prix, becoming the youngest Drivers' Champion at the age of 20 years and 68 days.",
      "contesto": [
       "2026 Formula One World Championship"
      ],
@@ -440,7 +562,7 @@
       "World Drivers' Championship",
       "2026 Mexico City Grand Prix"
      ],
-     "testo_it": "Nelle gare a ruota aperta, il pilota italiano Kimi Antonelli, guidando per la Mercedes, vince il Campionato Mondiale Piloti di Formula Uno dopo aver concluso terzo al Gran Premio di Città del Messico, diventando il più giovane Campione Piloti all'età di 20 anni, 68 giorni.",
+     "testo_it": "Nelle gare a ruota aperta, il pilota italiano Kimi Antonelli, guidando per la Mercedes, vince il Campionato Mondiale Piloti di Formula Uno dopo aver concluso terzo al Gran Premio di Città del Messico, diventando il più giovane Campione Piloti all'età di 20 anni e 68 giorni.",
      "contesto_it": [
       "Campionato del Mondo di Formula 1 (2026)"
      ]
@@ -535,7 +657,7 @@
      ]
     },
     {
-     "testo": "Metropolitan Police arrest 139 people outside the United States embassy in London, United Kingdom, during a protest supporting Palestine Action, which is allegedly designated as a “proscribed terrorist organisation.”",
+     "testo": "Metropolitan Police arrest 139 people outside the United States embassy in London, United Kingdom, during a protest supporting Palestine Action, which is designated as a proscribed terrorist organisation.",
      "contesto": [
       "Gaza war protests in the United Kingdom"
      ],
@@ -555,7 +677,7 @@
       "Proscribed organisation",
       "Terrorism in the United Kingdom"
      ],
-     "testo_it": "La polizia metropolitana arresta 139 persone al di fuori dell'ambasciata degli Stati Uniti a Londra, nel Regno Unito, durante una protesta a sostegno dell'azione per la Palestina, che sarebbe stata designata come “organizzazione terroristica proibita”.",
+     "testo_it": "La polizia metropolitana ha arrestato 139 persone al di fuori dell'ambasciata degli Stati Uniti a Londra, nel Regno Unito, durante una protesta a sostegno di Palestine Action, che è stata designata come un'organizzazione terroristica proibita.",
      "contesto_it": [
       "Proteste di guerra a Gaza nel Regno Unito"
      ]
@@ -1227,25 +1349,36 @@
      ]
     },
     {
-     "testo": "14 people are killed and 14 more are injured in a Russian drone strike on a train station in Dnipro, Ukraine.",
+     "testo": "Fifteen people are killed and 14 others are injured in a Russian drone strike on Dnipro railway station in Dnipro, Ukraine. Two teenage girls are also killed in a ballistic missile strike on central Chernihiv with eight others being hospitalized. A local day of mourning is declared.",
      "contesto": [
       "Russo–Ukrainian war",
-      "Russian attacks on civilians"
+      "Russian attacks on civilians, Dnipro strikes"
      ],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
+      {
+       "nome": "The Kyiv Independnent",
+       "url": "https://kyivindependent.com/russian-attacks-across-ukraine-kill-27-injure-128-over-past-day-as-horrific-attack-strikes-dnipro-train-station/"
+      },
       {
        "nome": "The Guardian",
        "url": "https://www.theguardian.com/world/2026/oct/30/ukraine-war-briefing-russian-drone-attack-dnipro-rail-platform"
       }
      ],
      "link": [
-      "Dnipro"
+      "Russian Armed Forces",
+      "Drone warfare",
+      "Dnipro railway station",
+      "Dnipro",
+      "Ukraine",
+      "Ballistic missile",
+      "Chernihiv",
+      "Day of mourning"
      ],
-     "testo_it": "14 persone sono morte e altre 14 sono rimaste ferite in un attacco di droni russi su una stazione ferroviaria di Dnipro, in Ucraina.",
+     "testo_it": "Quindici persone vengono uccise e altre 14 sono ferite in un attacco drone russo sulla stazione ferroviaria di Dnipro a Dnipro, Ucraina. Due ragazze adolescenti vengono uccise anche in un attacco missilistico balistico sul centro di Chernihiv con altre otto ricoverate in ospedale. Viene dichiarato un giorno di lutto locale.",
      "contesto_it": [
       "Guerra russo-ucraina",
-      "Attacchi russi contro i civili"
+      "Attacchi russi su civili, attacchi di Dnipro"
      ]
     },
     {
