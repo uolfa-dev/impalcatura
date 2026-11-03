@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-03T17:09:41Z",
+ "generato": "2026-11-03T23:29:37Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -26,6 +26,21 @@
     "Binance"
    ],
    "testo_it": "La valuta digitale del valore di 6,3 miliardi di dollari viene rubata dall'exchange di criptovalute Binance."
+  },
+  {
+   "testo": "American labor activist Dolores Huerta dies aged 96.",
+   "contesto": [],
+   "categoria": "In primo piano",
+   "fonti": [
+    {
+     "nome": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Dolores_Huerta"
+    }
+   ],
+   "link": [
+    "Dolores Huerta"
+   ],
+   "testo_it": "L'attivista laburista statunitense Dolores Huerta muore all'età di 96 anni."
   },
   {
    "testo": "In baseball, the Milwaukee Brewers defeat the Tampa Bay Rays to win the World Series.",
@@ -74,22 +89,6 @@
     "Patrick Stewart"
    ],
    "testo_it": "L'attore britannico Patrick Stewart muore all'età di 86 anni."
-  },
-  {
-   "testo": "At least 69 people are killed in a collision between two high-speed trains in Toledo province, Spain.",
-   "contesto": [],
-   "categoria": "In primo piano",
-   "fonti": [
-    {
-     "nome": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/2026_Toledo_train_collision"
-    }
-   ],
-   "link": [
-    "2026 Toledo train collision",
-    "Province of Toledo"
-   ],
-   "testo_it": "Almeno 69 persone sono morte in uno scontro tra due treni ad alta velocità nella provincia di Toledo, in Spagna."
   }
  ],
  "giorni": [
@@ -99,6 +98,7 @@
     {
      "testo": "The Indian external ministry reports an attack on a commercial vessel near Musandam Governorate, Oman, that killed one Indian national, while 13 others are rescued.",
      "contesto": [
+      "2026 Iran war",
       "2026 Strait of Hormuz crisis"
      ],
      "categoria": "Armed conflicts and attacks",
@@ -117,6 +117,7 @@
      ],
      "testo_it": "Il ministero degli Esteri indiano riferisce di un attacco a una nave commerciale vicino al Governatorato di Musandam, in Oman, che ha ucciso un cittadino indiano, mentre altri 13 sono stati salvati.",
      "contesto_it": [
+      "Guerra in Iran (2026)",
       "Stretto di Hormuz (2026)"
      ]
     },
@@ -143,6 +144,22 @@
      "contesto_it": [
       "Conflitti comuni in Nigeria"
      ]
+    },
+    {
+     "testo": "Spanish author Cristina Fernández Cubas is awarded the Cervantes Prize.",
+     "contesto": [],
+     "categoria": "Art and culture",
+     "fonti": [
+      {
+       "nome": "Cadena SER",
+       "url": "https://cadenaser.com/nacional/2026/11/03/cristina-fernandez-cubas-premio-cervantes-2026-cadena-ser/"
+      }
+     ],
+     "link": [
+      "Cristina Fernández Cubas",
+      "Cervantes Prize"
+     ],
+     "testo_it": "L'autrice spagnola Cristina Fernández Cubas riceve il Premio Cervantes."
     },
     {
      "testo": "The Reserve Bank of Australia raises its benchmark interest rate by 0.25 percentage points to 4.85%, its highest level since 2008, citing persistent inflation and rising energy costs associated with the Iran war.",
@@ -199,7 +216,7 @@
      "fonti": [
       {
        "nome": "AFP via South China Morning Post",
-       "url": "https://www.scmp.com/news/asia/southeast-asia/article/3373180/indonesian-police-arrest-3-tapping-prabowos-phone?module=perpetual_scroll_0&pgtype=article"
+       "url": "https://www.scmp.com/news/asia/southeast-asia/article/3373180/indonesian-police-arrest-3-tapping-prabowos-phone"
       }
      ],
      "link": [
@@ -209,6 +226,41 @@
       "Prabowo Subianto"
      ],
      "testo_it": "Tre persone sono state arrestate per aver intercettato il telefono del presidente indonesiano Prabowo Subianto."
+    },
+    {
+     "testo": "False bomb threats target seven flights from several European countries.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "BBC",
+       "url": "https://www.bbc.com/news/articles/c6x2wd4v04eeo"
+      }
+     ],
+     "link": [
+      "Bomb threats",
+      "Europe"
+     ],
+     "testo_it": "Le minacce di false bombe colpiscono sette voli da diversi paesi europei."
+    },
+    {
+     "testo": "The Israeli MS Crown Iris cruise ship is targeted by a false bomb threat, and is searched on the Greek island of Syros.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/middle-east/bomb-threat-prompts-checks-israel-bound-cruise-ship-greek-port-2026-11-03/"
+      }
+     ],
+     "link": [
+      "Israel",
+      "MS Crown Iris",
+      "Cruise ship",
+      "Bomb threat",
+      "Syros"
+     ],
+     "testo_it": "La nave da crociera israeliana MS Crown Iris è presa di mira da una falsa minaccia di bomba e viene perquisita sull'isola greca di Syros."
     },
     {
      "testo": "The United States holds midterm elections for 435 members and five non-voting delegates of the House of Representatives, 35 members of the Senate (including special elections in Florida and Ohio), 39 state and territorial governors, and numerous other state, territorial, tribal, and local officials.",
@@ -244,6 +296,29 @@
      "testo_it": "Gli Stati Uniti tengono elezioni di medio termine per 435 membri e cinque delegati non votanti della Camera dei Rappresentanti, 35 membri del Senato (comprese le elezioni speciali in Florida e Ohio), 39 governatori statali e territoriali e numerosi altri funzionari statali, territoriali, tribali e locali.",
      "contesto_it": [
       "Elezioni negli Stati Uniti (2026)"
+     ]
+    },
+    {
+     "testo": "In association football, CD Tenerife striker Jesús de Miguel dies following an in-game collision with FC Andorra goalkeeper Jesús Owono the previous day.",
+     "contesto": [
+      "2026–27 Segunda División"
+     ],
+     "categoria": "Sports",
+     "fonti": [
+      {
+       "nome": "CNN",
+       "url": "https://www.cnn.com/2026/11/03/sport/jesus-de-miguel-spain-dies-after-on-pitch-collision"
+      }
+     ],
+     "link": [
+      "CD Tenerife",
+      "Jesús de Miguel",
+      "FC Andorra",
+      "Jesús Owono"
+     ],
+     "testo_it": "In associazione a calcio, l'attaccante del CD Tenerife Jesús de Miguel muore a seguito di uno scontro in partita con il portiere dell'FC Andorra Jesús Owono il giorno precedente.",
+     "contesto_it": [
+      "Divisione Segunda (2026-27)"
      ]
     },
     {
@@ -570,6 +645,22 @@
      "contesto_it": [
       "Relazioni Ruanda-Stati Uniti d'America, relazioni Sud Africa-Stati Uniti d'America"
      ]
+    },
+    {
+     "testo": "Eight people are killed after they were electrocuted when a vehicle came into contact with a high-voltage power line in Rajasthan, India.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "Xinhua",
+       "url": "https://english.news.cn/20261102/0a5788a4c490493781903b35adfa486a/c.html"
+      }
+     ],
+     "link": [
+      "Rajasthan",
+      "India"
+     ],
+     "testo_it": "Otto persone vengono uccise dopo essere state elettrificate quando un veicolo è entrato in contatto con una linea elettrica ad alta tensione nel Rajasthan, in India."
     },
     {
      "testo": "The United States Food and Drug Administration approves the first generic version of lenacapavir, a twice-yearly HIV prevention injection expected to cost about US$40 annually in 120 low- and middle-income countries.",
@@ -1840,7 +1931,7 @@
      "categoria": "Arts and culture",
      "fonti": [
       {
-       "nome": "NY Times",
+       "nome": "The New York Times",
        "url": "https://www.nytimes.com/2026/10/30/arts/ao3-fan-fiction-site-down.html"
       },
       {
