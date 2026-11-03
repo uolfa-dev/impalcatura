@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-03T06:56:07Z",
+ "generato": "2026-11-03T17:09:41Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -97,6 +97,120 @@
    "data": "2026-11-03",
    "voci": [
     {
+     "testo": "The Indian external ministry reports an attack on a commercial vessel near Musandam Governorate, Oman, that killed one Indian national, while 13 others are rescued.",
+     "contesto": [
+      "2026 Strait of Hormuz crisis"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/india/one-indian-killed-attack-ship-near-oman-indian-foreign-ministry-says-2026-11-03/"
+      }
+     ],
+     "link": [
+      "India",
+      "Ministry of External Affairs (India)",
+      "Musandam Governorate",
+      "Oman",
+      "Indians in Oman"
+     ],
+     "testo_it": "Il ministero degli Esteri indiano riferisce di un attacco a una nave commerciale vicino al Governatorato di Musandam, in Oman, che ha ucciso un cittadino indiano, mentre altri 13 sono stati salvati.",
+     "contesto_it": [
+      "Stretto di Hormuz (2026)"
+     ]
+    },
+    {
+     "testo": "Unidentified attackers ambush a police convoy near Gidan-Giye village in Zamfara State, Nigeria, killing at least five police officers and three members of the Zamfara Community Protection Guard, injuring two officers, and abducting an unspecified number of personnel.",
+     "contesto": [
+      "Communal conflicts in Nigeria"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/africa/attackers-ambush-police-nigerias-zamfara-killing-least-eight-officials-say-2026-11-03/"
+      }
+     ],
+     "link": [
+      "Ambush",
+      "Nigeria Police Force",
+      "Zamfara State",
+      "Nigeria",
+      "Kidnapping in Nigeria"
+     ],
+     "testo_it": "Gli aggressori non identificati hanno teso un'imboscata a un convoglio di polizia vicino al villaggio di Gidan-Giye nello stato di Zamfara, in Nigeria, uccidendo almeno cinque agenti di polizia e tre membri della guardia di protezione della comunità di Zamfara, ferendo due ufficiali e rapendo un numero imprecisato di personale.",
+     "contesto_it": [
+      "Conflitti comuni in Nigeria"
+     ]
+    },
+    {
+     "testo": "The Reserve Bank of Australia raises its benchmark interest rate by 0.25 percentage points to 4.85%, its highest level since 2008, citing persistent inflation and rising energy costs associated with the Iran war.",
+     "contesto": [
+      "2026 Iran war fuel crisis"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "AFP via France 24",
+       "url": "https://www.france24.com/en/live-news/20261103-australian-central-bank-lifts-key-interest-rate-to-18-year-high"
+      }
+     ],
+     "link": [
+      "Reserve Bank of Australia",
+      "Australia",
+      "Interest rate",
+      "Inflation",
+      "Energy in Australia",
+      "2026 Iran war"
+     ],
+     "testo_it": "La Reserve Bank of Australia alza il suo tasso di interesse di riferimento di 0,25 punti percentuali al 4,85%, il suo livello più alto dal 2008, citando l'inflazione persistente e l'aumento dei costi energetici associati alla guerra in Iran.",
+     "contesto_it": [
+      "Crisi dei combustibili da guerra in Iran (2026)"
+     ]
+    },
+    {
+     "testo": "Two helicopters operated by Air Dynasty and Fishtail Air collide while landing in Solukhumbu District, Nepal, near Mount Everest, killing an Indian tourist and injuring a New Zealand national.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "AFP via Times of Malta",
+       "url": "https://timesofmalta.com/article/tourist-killed-two-helicopters-collide-nepal-everest-region.1136555"
+      }
+     ],
+     "link": [
+      "Air Dynasty",
+      "Fishtail Air",
+      "Mid-air collision",
+      "Solukhumbu District",
+      "Nepal",
+      "Mount Everest",
+      "India",
+      "Tourism in Nepal",
+      "New Zealand"
+     ],
+     "testo_it": "Due elicotteri operati da Air Dynasty e Fishtail Air si scontrano mentre atterrano nel distretto di Solukhumbu, Nepal, vicino al Monte Everest, uccidendo un turista indiano e ferendo un cittadino neozelandese."
+    },
+    {
+     "testo": "Three people are arrested for allegedly wiretapping Indonesian president Prabowo Subianto's phone.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "AFP via South China Morning Post",
+       "url": "https://www.scmp.com/news/asia/southeast-asia/article/3373180/indonesian-police-arrest-3-tapping-prabowos-phone?module=perpetual_scroll_0&pgtype=article"
+      }
+     ],
+     "link": [
+      "Wiretapping",
+      "Indonesia",
+      "President of Indonesia",
+      "Prabowo Subianto"
+     ],
+     "testo_it": "Tre persone sono state arrestate per aver intercettato il telefono del presidente indonesiano Prabowo Subianto."
+    },
+    {
      "testo": "The United States holds midterm elections for 435 members and five non-voting delegates of the House of Representatives, 35 members of the Senate (including special elections in Florida and Ohio), 39 state and territorial governors, and numerous other state, territorial, tribal, and local officials.",
      "contesto": [
       "2026 United States elections"
@@ -116,8 +230,11 @@
       "United States House of Representatives",
       "2026 United States Senate elections",
       "United States Senate",
+      "List of special elections to the United States Senate",
       "2026 United States Senate special election in Florida",
       "2026 United States Senate special election in Ohio",
+      "U.S. state",
+      "Territories of the United States",
       "2026 United States gubernatorial elections",
       "2026 United States state legislative elections",
       "2026 United States state legislative elections",
@@ -128,94 +245,62 @@
      "contesto_it": [
       "Elezioni negli Stati Uniti (2026)"
      ]
+    },
+    {
+     "testo": "In thoroughbred racing, Point Of Law, trained by Ciaron Maher, wins the 2026 Melbourne Cup at Flemington Racecourse in Victoria, Australia. Zahrann and Juja Kibo, also trained by Maher, finish second and third respectively.",
+     "contesto": [
+      "2026 Melbourne Cup"
+     ],
+     "categoria": "Sports",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/king-charless-former-horse-point-law-wins-melbourne-cup"
+      }
+     ],
+     "link": [
+      "Thoroughbred racing",
+      "Point Of Law (horse)",
+      "Ciaron Maher",
+      "Melbourne Cup",
+      "Flemington Racecourse",
+      "Victoria (state)",
+      "Australia"
+     ],
+     "testo_it": "Nelle gare di purosangue, Point Of Law, allenato da Ciaron Maher, vince la 2026 Melbourne Cup al Flemington Racecourse di Victoria, Australia. Zahrann e Juja Kibo, anch'essi allenati da Maher, finiscono rispettivamente secondo e terzo.",
+     "contesto_it": [
+      "Coppa di Melbourne (2026)"
+     ]
+    },
+    {
+     "testo": "In association football, the Asian Football Confederation postpones the 2027 Asian Cup in Saudi Arabia from January 2027 to January 2028, citing security concerns and travel disruptions following Houthi attacks on the country.",
+     "contesto": [
+      "2027 AFC Asian Cup, Houthi–Saudi conflict"
+     ],
+     "categoria": "Sports",
+     "fonti": [
+      {
+       "nome": "AFP via France 24",
+       "url": "https://www.france24.com/en/live-news/20261103-asian-cup-latest-event-in-saudi-arabia-to-be-postponed-over-safety"
+      }
+     ],
+     "link": [
+      "Association football",
+      "Asian Football Confederation",
+      "AFC Asian Cup",
+      "Saudi Arabia",
+      "Houthis"
+     ],
+     "testo_it": "Nel calcio associativo, la Confederazione calcistica asiatica posticipa la Coppa d'Asia 2027 in Arabia Saudita dal gennaio 2027 al gennaio 2028, citando preoccupazioni per la sicurezza e interruzioni dei viaggi a seguito degli attacchi Houthi al paese.",
+     "contesto_it": [
+      "Coppa Asia AFC (2027), conflitto Houthi-saudita"
+     ]
     }
    ]
   },
   {
    "data": "2026-11-02",
    "voci": [
-    {
-     "testo": "A double attack against two drug rehabilitation centers leaves three people killed and five others wounded in Mazatlán, Sinaloa, Mexico.",
-     "contesto": [
-      "War on drugs",
-      "Mexican drug war",
-      "Infighting in the Sinaloa Cartel"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "La Jornada in Spanish",
-       "url": "https://www.jornada.com.mx/noticia/2026/11/01/estados/atacan-centros-de-rehabilitacion-en-mazatlan-y-matan-a-3-personas"
-      }
-     ],
-     "link": [
-      "Drug rehabilitation",
-      "Mazatlán",
-      "Sinaloa",
-      "Mexico"
-     ],
-     "testo_it": "Un doppio attacco contro due centri di riabilitazione della droga lascia tre persone uccise e altre cinque ferite a Mazatlán, Sinaloa, Messico.",
-     "contesto_it": [
-      "Guerra alla droga",
-      "Guerra alla droga in Messico",
-      "Lotta nel cartello di Sinaloa"
-     ]
-    },
-    {
-     "testo": "A truck bomb explodes near a military base in Planadas, Tolima Department, Colombia, killing four people, including a baby, and wounding several others.",
-     "contesto": [
-      "War on drugs",
-      "Colombian conflict"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "BBC News",
-       "url": "https://www.bbc.com/news/articles/cqn06n30l406o"
-      },
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/ukraines-zelenskiy-russian-bombing-kills-18-southeastern-zaporizhzhia-region-2026-11-02/"
-      }
-     ],
-     "link": [
-      "Car bomb",
-      "National Army of Colombia",
-      "Planadas",
-      "Tolima Department",
-      "Colombia"
-     ],
-     "testo_it": "Un camion bomba esplode vicino a una base militare a Planadas, Dipartimento di Tolima, Colombia, uccidendo quattro persone, tra cui un bambino, e ferendone molte altre.",
-     "contesto_it": [
-      "Guerra alla droga",
-      "Conflitto colombiano"
-     ]
-    },
-    {
-     "testo": "An unidentified person throws an IED bomb at the home of Villa El Salvador mayor-elect Marcelino Huamán Cano in Lima, Peru, while he was with his family, causing property damage but no reported injuries.",
-     "contesto": [
-      "War on drugs",
-      "Peruvian security crisis"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Perú.21 in Spanish",
-       "url": "https://peru21.pe/policiales/villa-el-salvador-detonan-explosivo-en-casa-de-alcalde-electo-marcelino-huaman-cuando-estaba-con-su-familia/"
-      }
-     ],
-     "link": [
-      "Improvised explosive device",
-      "Villa El Salvador",
-      "Lima",
-      "Peru"
-     ],
-     "testo_it": "Una persona non identificata lancia una bomba IED a casa del sindaco eletto di Villa El Salvador Marcelino Huamán Cano a Lima, in Perù, mentre era con la sua famiglia, causando danni alla proprietà ma senza feriti segnalati.",
-     "contesto_it": [
-      "Guerra alla droga",
-      "Crisi della sicurezza peruviana"
-     ]
-    },
     {
      "testo": "Israeli forces withdraw from areas around Hebron in the occupied West Bank after a multi-day operation following the killing of two Israeli soldiers at a checkpoint.",
      "contesto": [
@@ -249,7 +334,7 @@
      ]
     },
     {
-     "testo": "The United States military carries out airstrikes on Iranian targets across the Strait of Hormuz after Iranian surface-to-air missiles attack American aircraft in the Strait, as explosions are reportedly heard on Qeshm Island and the city of Bandar Lengeh.",
+     "testo": "The United States military carries out airstrikes on Iranian targets across the Strait of Hormuz after Iranian surface-to-air missiles attack American aircraft in the Strait.",
      "contesto": [
       "Middle Eastern crisis",
       "2026 Iran war"
@@ -270,43 +355,45 @@
       "Airstrikes",
       "Iran",
       "Strait of Hormuz",
-      "Surface-to-air missiles",
-      "Qeshm Island",
-      "Bandar Lengeh"
+      "Surface-to-air missiles"
      ],
-     "testo_it": "L'esercito degli Stati Uniti effettua attacchi aerei su obiettivi iraniani attraverso lo Stretto di Hormuz dopo che i missili terra-aria iraniani attaccano gli aerei americani nello Stretto, poiché le esplosioni sono state udite sull'isola di Qeshm e sulla città di Bandar Lengeh.",
+     "testo_it": "L'esercito degli Stati Uniti effettua attacchi aerei su obiettivi iraniani attraverso lo Stretto di Hormuz dopo che i missili terra-aria iraniani attaccano gli aerei americani nello Stretto.",
      "contesto_it": [
       "Crisi del Medio Oriente",
       "Guerra in Iran (2026)"
      ]
     },
     {
-     "testo": "At least 24 people are killed, five others are injured, and 27 are missing during Russian bombing on an aid distribution centre in Komyshuvakha, Zaporizhzhia Oblast. Ukraine.",
+     "testo": "Russian forces drop at least nine bombs on a school building serving as a civilian shelter and humanitarian aid distribution centre in Komyshuvakha, Zaporizhzhia Oblast, Ukraine, killing at least 33 people and leaving 50 others missing.",
      "contesto": [
       "Russo-Ukrainian war",
-      "Russian attacks on civilians in the Russo-Ukrainian war"
+      "Russian attacks on civilians in the Russo-Ukrainian war, Zaporizhzhia strikes"
      ],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
       {
-       "nome": "BBC News",
-       "url": "https://www.bbc.com/news/articles/cjy56dndlyz0o"
+       "nome": "CNN",
+       "url": "https://edition.cnn.com/2026/11/03/europe/ukraine-russia-zaporiszhzha-school-strike-intl"
       }
      ],
      "link": [
-      "Russian Air Force",
+      "Russia",
+      "Russian Armed Forces",
+      "Education in Ukraine",
+      "Civil defense",
+      "List of humanitarian aid to Ukraine during the Russo-Ukrainian war",
       "Komyshuvakha, Zaporizhzhia Oblast",
       "Zaporizhzhia Oblast",
       "Ukraine"
      ],
-     "testo_it": "Almeno 24 persone sono morte, altre cinque sono rimaste ferite e 27 sono scomparse durante i bombardamenti russi in un centro di distribuzione di aiuti a Komyshuvakha, nell'Oblast' di Zaporizhzhia.",
+     "testo_it": "Le forze russe sganciano almeno nove bombe su un edificio scolastico che funge da rifugio civile e centro di distribuzione di aiuti umanitari a Komyshuvakha, nell'Oblast' di Zaporizhia, in Ucraina, uccidendo almeno 33 persone e lasciandone altre 50 disperse.",
      "contesto_it": [
       "Guerra russo-ucraina",
-      "Attacchi russi contro i civili nella guerra russo-ucraina"
+      "Attacchi russi contro i civili nella guerra russo-ucraina, attacchi di Zaporizhia"
      ]
     },
     {
-     "testo": "Haitian, Salvadoran, and Gang Suppression Force soldiers launch an offensive in Plain of the Cul-de-Sac, killing at least a dozen gang members.",
+     "testo": "Salvadoran, Haitian, and Gang Suppression Force soldiers launch an offensive in Plain of the Cul-de-Sac which extends from Haiti to the Dominican Republic, killing at least a dozen gang members.",
      "contesto": [
       "Haitian conflict",
       "Salvadoran military intervention in Haiti"
@@ -319,15 +406,43 @@
       }
      ],
      "link": [
-      "Armed Forces of Haiti",
       "Armed Forces of El Salvador",
+      "Armed Forces of Haiti",
       "Gang Suppression Force",
-      "Plain of the Cul-de-Sac"
+      "Plain of the Cul-de-Sac",
+      "Haiti",
+      "Dominican Republic"
      ],
-     "testo_it": "I soldati haitiani, salvadoregni e della Forza di Soppressione di Gang lanciano un'offensiva a Plain of the Cul-de-Sac, uccidendo almeno una dozzina di membri della banda.",
+     "testo_it": "Soldati salvadoregni, haitiani e della Forza di Soppressione di Gang lanciano un'offensiva nella Piana del Cul-de-Sac che si estende da Haiti alla Repubblica Dominicana, uccidendo almeno una dozzina di membri della banda.",
      "contesto_it": [
       "Conflitto haitiano",
       "Intervento militare salvadoregno ad Haiti"
+     ]
+    },
+    {
+     "testo": "Three people are killed and five more injured in two separated mass shootings at two drug rehabilitation centers in Mazatlán, Sinaloa, Mexico.",
+     "contesto": [
+      "Mexican drug war",
+      "Infighting in the Sinaloa Cartel"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "La Jornada in Spanish",
+       "url": "https://www.jornada.com.mx/noticia/2026/11/01/estados/atacan-centros-de-rehabilitacion-en-mazatlan-y-matan-a-3-personas"
+      }
+     ],
+     "link": [
+      "Mass shooting",
+      "Drug rehabilitation",
+      "Mazatlán",
+      "Sinaloa",
+      "Mexico"
+     ],
+     "testo_it": "Tre persone vengono uccise e altre cinque ferite in due sparatorie di massa separate in due centri di riabilitazione della droga a Mazatlán, Sinaloa, Messico.",
+     "contesto_it": [
+      "Guerra alla droga in Messico",
+      "Lotta nel cartello di Sinaloa"
      ]
     },
     {
@@ -357,6 +472,57 @@
      ]
     },
     {
+     "testo": "A truck bomb explodes near a military base in Planadas, Tolima Department, Colombia, killing four people, including a baby, and wounding several others.",
+     "contesto": [
+      "Colombian conflict"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "BBC News",
+       "url": "https://www.bbc.com/news/articles/cqn06n30l406o"
+      },
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/ukraines-zelenskiy-russian-bombing-kills-18-southeastern-zaporizhzhia-region-2026-11-02/"
+      }
+     ],
+     "link": [
+      "Car bomb",
+      "National Army of Colombia",
+      "Planadas",
+      "Tolima Department",
+      "Colombia"
+     ],
+     "testo_it": "Un camion bomba esplode vicino a una base militare a Planadas, Dipartimento di Tolima, Colombia, uccidendo quattro persone, tra cui un bambino, e ferendone molte altre.",
+     "contesto_it": [
+      "Conflitto colombiano"
+     ]
+    },
+    {
+     "testo": "An unidentified person throws an IED bomb at the home of Villa El Salvador mayor-elect Marcelino Huamán Cano in Lima, Peru, while he was with his family, causing property damage but no reported injuries.",
+     "contesto": [
+      "Peruvian security crisis"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Perú.21 in Spanish",
+       "url": "https://peru21.pe/policiales/villa-el-salvador-detonan-explosivo-en-casa-de-alcalde-electo-marcelino-huaman-cuando-estaba-con-su-familia/"
+      }
+     ],
+     "link": [
+      "Improvised explosive device",
+      "Villa El Salvador",
+      "Lima",
+      "Peru"
+     ],
+     "testo_it": "Una persona non identificata lancia una bomba IED a casa del sindaco eletto di Villa El Salvador Marcelino Huamán Cano a Lima, in Perù, mentre era con la sua famiglia, causando danni alla proprietà ma senza feriti segnalati.",
+     "contesto_it": [
+      "Crisi della sicurezza peruviana"
+     ]
+    },
+    {
      "testo": "Uganda begins withdrawing its troops from Somalia, planning to remove all personnel deployed under bilateral and African Union missions by the end of 2027, ending nearly two decades of operations.",
      "contesto": [
       "Somali Civil War"
@@ -377,6 +543,32 @@
      "testo_it": "L'Uganda inizia a ritirare le sue truppe dalla Somalia, prevedendo di rimuovere tutto il personale schierato sotto missioni bilaterali e dell'Unione Africana entro la fine del 2027, ponendo fine a quasi due decenni di operazioni.",
      "contesto_it": [
       "Guerra civile somala"
+     ]
+    },
+    {
+     "testo": "The United States announces the suspensions of Rwanda and South Africa from duty-free trade benefits under the African Growth and Opportunity Act beginning January 1, 2027, citing trade barriers, human rights concerns, and threats to U.S. interests.",
+     "contesto": [
+      "Rwanda–United States relations, South Africa–United States relations"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/africa/us-suspend-south-africa-rwanda-duty-free-trade-access-2026-11-02/"
+      }
+     ],
+     "link": [
+      "United States",
+      "Rwanda",
+      "South Africa",
+      "Duty-free trade",
+      "African Growth and Opportunity Act",
+      "Trade barrier",
+      "Human rights"
+     ],
+     "testo_it": "Gli Stati Uniti annunciano le sospensioni del Ruanda e del Sudafrica dai benefici del commercio duty-free ai sensi dell'African Growth and Opportunity Act a partire dal 1 ° gennaio 2027, citando barriere commerciali, preoccupazioni per i diritti umani e minacce agli interessi degli Stati Uniti.",
+     "contesto_it": [
+      "Relazioni Ruanda-Stati Uniti d'America, relazioni Sud Africa-Stati Uniti d'America"
      ]
     },
     {
@@ -424,7 +616,7 @@
      ]
     },
     {
-     "testo": "The Spanish interior ministry reportedly deports 16 migrants, including those from Bangladesh, Cameroon, Nigeria, Senegal, and Yemen, from Ceuta to Morocco following the migrant crisis in July. Amnesty International raises concerns with the move given Morocco's human rights violations.",
+     "testo": "The Spanish interior ministry reportedly deports 16 migrants, including those from Bangladesh, Cameroon, Nigeria, Senegal, and Yemen, from Ceuta to Morocco following the migrant crisis in July.",
      "contesto": [],
      "categoria": "Politics and elections",
      "fonti": [
@@ -443,11 +635,9 @@
       "Yemenis",
       "Ceuta",
       "Morocco",
-      "2026 Ceuta migrant crisis",
-      "Amnesty International",
-      "Human rights in Morocco"
+      "2026 Ceuta migrant crisis"
      ],
-     "testo_it": "Secondo quanto riferito, il ministero dell'Interno spagnolo deporta 16 migranti, compresi quelli provenienti da Bangladesh, Camerun, Nigeria, Senegal e Yemen, da Ceuta al Marocco a seguito della crisi migratoria di luglio."
+     "testo_it": "Il ministero dell'Interno spagnolo ha deportato 16 migranti, compresi quelli provenienti da Bangladesh, Camerun, Nigeria, Senegal e Yemen, da Ceuta al Marocco dopo la crisi migratoria di luglio."
     }
    ]
   },
