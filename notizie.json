@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-02T21:46:33Z",
+ "generato": "2026-11-03T06:56:07Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -94,11 +94,132 @@
  ],
  "giorni": [
   {
+   "data": "2026-11-03",
+   "voci": [
+    {
+     "testo": "The United States holds midterm elections for 435 members and five non-voting delegates of the House of Representatives, 35 members of the Senate (including special elections in Florida and Ohio), 39 state and territorial governors, and numerous other state, territorial, tribal, and local officials.",
+     "contesto": [
+      "2026 United States elections"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "The Guardian",
+       "url": "https://www.theguardian.com/us-news/2026/nov/02/what-are-midterm-elections"
+      }
+     ],
+     "link": [
+      "United States",
+      "United States midterm election",
+      "2026 United States House of Representatives elections",
+      "Non-voting members of the United States House of Representatives",
+      "United States House of Representatives",
+      "2026 United States Senate elections",
+      "United States Senate",
+      "2026 United States Senate special election in Florida",
+      "2026 United States Senate special election in Ohio",
+      "2026 United States gubernatorial elections",
+      "2026 United States state legislative elections",
+      "2026 United States state legislative elections",
+      "2026 Navajo Nation presidential election",
+      "2026 United States local elections"
+     ],
+     "testo_it": "Gli Stati Uniti tengono elezioni di medio termine per 435 membri e cinque delegati non votanti della Camera dei Rappresentanti, 35 membri del Senato (comprese le elezioni speciali in Florida e Ohio), 39 governatori statali e territoriali e numerosi altri funzionari statali, territoriali, tribali e locali.",
+     "contesto_it": [
+      "Elezioni negli Stati Uniti (2026)"
+     ]
+    }
+   ]
+  },
+  {
    "data": "2026-11-02",
    "voci": [
     {
+     "testo": "A double attack against two drug rehabilitation centers leaves three people killed and five others wounded in Mazatlán, Sinaloa, Mexico.",
+     "contesto": [
+      "War on drugs",
+      "Mexican drug war",
+      "Infighting in the Sinaloa Cartel"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "La Jornada in Spanish",
+       "url": "https://www.jornada.com.mx/noticia/2026/11/01/estados/atacan-centros-de-rehabilitacion-en-mazatlan-y-matan-a-3-personas"
+      }
+     ],
+     "link": [
+      "Drug rehabilitation",
+      "Mazatlán",
+      "Sinaloa",
+      "Mexico"
+     ],
+     "testo_it": "Un doppio attacco contro due centri di riabilitazione della droga lascia tre persone uccise e altre cinque ferite a Mazatlán, Sinaloa, Messico.",
+     "contesto_it": [
+      "Guerra alla droga",
+      "Guerra alla droga in Messico",
+      "Lotta nel cartello di Sinaloa"
+     ]
+    },
+    {
+     "testo": "A truck bomb explodes near a military base in Planadas, Tolima Department, Colombia, killing four people, including a baby, and wounding several others.",
+     "contesto": [
+      "War on drugs",
+      "Colombian conflict"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "BBC News",
+       "url": "https://www.bbc.com/news/articles/cqn06n30l406o"
+      },
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/ukraines-zelenskiy-russian-bombing-kills-18-southeastern-zaporizhzhia-region-2026-11-02/"
+      }
+     ],
+     "link": [
+      "Car bomb",
+      "National Army of Colombia",
+      "Planadas",
+      "Tolima Department",
+      "Colombia"
+     ],
+     "testo_it": "Un camion bomba esplode vicino a una base militare a Planadas, Dipartimento di Tolima, Colombia, uccidendo quattro persone, tra cui un bambino, e ferendone molte altre.",
+     "contesto_it": [
+      "Guerra alla droga",
+      "Conflitto colombiano"
+     ]
+    },
+    {
+     "testo": "An unidentified person throws an IED bomb at the home of Villa El Salvador mayor-elect Marcelino Huamán Cano in Lima, Peru, while he was with his family, causing property damage but no reported injuries.",
+     "contesto": [
+      "War on drugs",
+      "Peruvian security crisis"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Perú.21 in Spanish",
+       "url": "https://peru21.pe/policiales/villa-el-salvador-detonan-explosivo-en-casa-de-alcalde-electo-marcelino-huaman-cuando-estaba-con-su-familia/"
+      }
+     ],
+     "link": [
+      "Improvised explosive device",
+      "Villa El Salvador",
+      "Lima",
+      "Peru"
+     ],
+     "testo_it": "Una persona non identificata lancia una bomba IED a casa del sindaco eletto di Villa El Salvador Marcelino Huamán Cano a Lima, in Perù, mentre era con la sua famiglia, causando danni alla proprietà ma senza feriti segnalati.",
+     "contesto_it": [
+      "Guerra alla droga",
+      "Crisi della sicurezza peruviana"
+     ]
+    },
+    {
      "testo": "Israeli forces withdraw from areas around Hebron in the occupied West Bank after a multi-day operation following the killing of two Israeli soldiers at a checkpoint.",
      "contesto": [
+      "Middle Eastern crisis",
       "Gaza war",
       "2026 West Bank lockdown"
      ],
@@ -107,6 +228,10 @@
       {
        "nome": "AFP via RFI",
        "url": "https://www.rfi.fr/en/international-news/20261102-israel-army-withdraws-after-hebron-operation"
+      },
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/amp/news/2026/11/2/hebron-governor-says-israeli-forces-withdraw-from-city-after-10-day-siege"
       }
      ],
      "link": [
@@ -114,13 +239,45 @@
       "Israel Defense Forces",
       "Hebron",
       "Israeli occupation of the West Bank",
-      "West Bank",
-      "Israeli soldiers"
+      "West Bank"
      ],
      "testo_it": "Le forze israeliane si ritirano dalle aree intorno a Hebron, nella Cisgiordania occupata, dopo un'operazione di più giorni in seguito all'uccisione di due soldati israeliani a un checkpoint.",
      "contesto_it": [
+      "Crisi del Medio Oriente",
       "Guerra di Gaza",
       "Blocco della Cisgiordania (2026)"
+     ]
+    },
+    {
+     "testo": "The United States military carries out airstrikes on Iranian targets across the Strait of Hormuz after Iranian surface-to-air missiles attack American aircraft in the Strait, as explosions are reportedly heard on Qeshm Island and the city of Bandar Lengeh.",
+     "contesto": [
+      "Middle Eastern crisis",
+      "2026 Iran war"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz"
+      },
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/iran-us-trump-netanyahu-israel-war-b4519ef86bafe2672e0855d7a48ce309"
+      }
+     ],
+     "link": [
+      "United States Armed Forces",
+      "Airstrikes",
+      "Iran",
+      "Strait of Hormuz",
+      "Surface-to-air missiles",
+      "Qeshm Island",
+      "Bandar Lengeh"
+     ],
+     "testo_it": "L'esercito degli Stati Uniti effettua attacchi aerei su obiettivi iraniani attraverso lo Stretto di Hormuz dopo che i missili terra-aria iraniani attaccano gli aerei americani nello Stretto, poiché le esplosioni sono state udite sull'isola di Qeshm e sulla città di Bandar Lengeh.",
+     "contesto_it": [
+      "Crisi del Medio Oriente",
+      "Guerra in Iran (2026)"
      ]
     },
     {
@@ -149,27 +306,77 @@
      ]
     },
     {
-     "testo": "A truck bomb explodes near a military base in Planadas, Tolima Department, Colombia, killing four people, including a baby, and wounding several others.",
+     "testo": "Haitian, Salvadoran, and Gang Suppression Force soldiers launch an offensive in Plain of the Cul-de-Sac, killing at least a dozen gang members.",
      "contesto": [
-      "Colombian conflict"
+      "Haitian conflict",
+      "Salvadoran military intervention in Haiti"
      ],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
       {
-       "nome": "BBC News",
-       "url": "https://www.bbc.com/news/articles/cqn06n30l406o"
+       "nome": "EFE in Spanish",
+       "url": "https://efe.com/mundo/2026-11-03/soldados-el-salvador-operacion-haiti/"
       }
      ],
      "link": [
-      "Car bomb",
-      "National Army of Colombia",
-      "Planadas",
-      "Tolima Department",
-      "Colombia"
+      "Armed Forces of Haiti",
+      "Armed Forces of El Salvador",
+      "Gang Suppression Force",
+      "Plain of the Cul-de-Sac"
      ],
-     "testo_it": "Un camion bomba esplode vicino a una base militare a Planadas, Dipartimento di Tolima, Colombia, uccidendo quattro persone, tra cui un bambino, e ferendone molte altre.",
+     "testo_it": "I soldati haitiani, salvadoregni e della Forza di Soppressione di Gang lanciano un'offensiva a Plain of the Cul-de-Sac, uccidendo almeno una dozzina di membri della banda.",
      "contesto_it": [
-      "Conflitto colombiano"
+      "Conflitto haitiano",
+      "Intervento militare salvadoregno ad Haiti"
+     ]
+    },
+    {
+     "testo": "The Rapid Support Forces launches drone strikes against three distrubition stations in Sudan's Kassala and Northern states.",
+     "contesto": [
+      "Sudanese civil war",
+      "War crimes in the Sudanese civil war"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Sudan Tribune",
+       "url": "https://sudantribune.com/article/320792"
+      }
+     ],
+     "link": [
+      "Rapid Support Forces",
+      "Sudan",
+      "Kassala State",
+      "Northern State (Sudan)",
+      "States of Sudan"
+     ],
+     "testo_it": "Le forze di supporto rapido lanciano attacchi con droni contro tre stazioni di distrubizione nel Kassala del Sudan e negli stati del Nord.",
+     "contesto_it": [
+      "Guerra civile sudanese",
+      "Crimini di guerra nella guerra civile sudanese"
+     ]
+    },
+    {
+     "testo": "Uganda begins withdrawing its troops from Somalia, planning to remove all personnel deployed under bilateral and African Union missions by the end of 2027, ending nearly two decades of operations.",
+     "contesto": [
+      "Somali Civil War"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "AFP via Arab News",
+       "url": "https://www.arabnews.com/world/uganda-withdrawing-troops-from-somalia-in-blow-to-anti-extremist-mission-3009438"
+      }
+     ],
+     "link": [
+      "Uganda",
+      "Uganda People's Defence Force",
+      "Somalia",
+      "African Union"
+     ],
+     "testo_it": "L'Uganda inizia a ritirare le sue truppe dalla Somalia, prevedendo di rimuovere tutto il personale schierato sotto missioni bilaterali e dell'Unione Africana entro la fine del 2027, ponendo fine a quasi due decenni di operazioni.",
+     "contesto_it": [
+      "Guerra civile somala"
      ]
     },
     {
@@ -228,6 +435,7 @@
      ],
      "link": [
       "Spain",
+      "Ministry of the Interior (Spain)",
       "Bangladeshis",
       "Demographics of Cameroon",
       "Nigerian people in Spain",
@@ -236,6 +444,7 @@
       "Ceuta",
       "Morocco",
       "2026 Ceuta migrant crisis",
+      "Amnesty International",
       "Human rights in Morocco"
      ],
      "testo_it": "Secondo quanto riferito, il ministero dell'Interno spagnolo deporta 16 migranti, compresi quelli provenienti da Bangladesh, Camerun, Nigeria, Senegal e Yemen, da Ceuta al Marocco a seguito della crisi migratoria di luglio."
@@ -512,7 +721,7 @@
      ]
     },
     {
-     "testo": "In figure skating, Japan's figure skater Mao Shimada wins the women's singles title at Skate Canada in her senior Grand Prix debut, finishing ahead of Estonia's Niina Petrõkina and America's Isabeau Levito",
+     "testo": "In figure skating, Japan's Mao Shimada wins the women's singles title at Skate Canada in her senior Grand Prix debut, finishing ahead of Estonia's Niina Petrõkina and American Isabeau Levito.",
      "contesto": [
       "2026–27 ISU Grand Prix of Figure Skating",
       "2026 Skate Canada International"
@@ -535,7 +744,7 @@
       "United States",
       "Isabeau Levito"
      ],
-     "testo_it": "Nel pattinaggio di figura, il pattinatore giapponese Mao Shimada vince il titolo di single femminile a Skate Canada nel suo debutto al Gran Premio senior, finendo davanti a Niina Petrõkina e a Isabeau Levito in Estonia.",
+     "testo_it": "Nel pattinaggio di figura, il giapponese Mao Shimada vince il titolo di single femminile a Skate Canada nel suo debutto senior Grand Prix, finendo davanti all'estone Niina Petrõkina e all'americano Isabeau Levito.",
      "contesto_it": [
       "ISU Gran Premio di pattinaggio di figura (2026-27)",
       "Skate Canada Internazionale (2026)"
@@ -588,6 +797,60 @@
      "testo_it": "Nelle corse motociclistiche, Yamaha si ritira dal Gran Premio del Qatar la prossima settimana, citando restrizioni di viaggio a livello aziendale in seguito alla sua valutazione della crisi mediorientale.",
      "contesto_it": [
       "Campionato del Mondo MotoGP (2026)"
+     ]
+    },
+    {
+     "testo": "In American football, the Tampa Bay Buccaneers refuse to complete a pass during its 16-0 victory against the rival Atlanta Falcons in Week 8, becoming the first National Football League team to win a game without completing a pass since the Buffalo Bills did so in 1974.",
+     "contesto": [
+      "2026 NFL season"
+     ],
+     "categoria": "Sports",
+     "fonti": [
+      {
+       "nome": "NBC News",
+       "url": "https://www.nbcnews.com/sports/nfl/tampa-bay-buccaneers-atlanta-falcons-nfl-result-rcna606882"
+      }
+     ],
+     "link": [
+      "American football",
+      "Tampa Bay Buccaneers",
+      "2026 Tampa Bay Buccaneers season",
+      "Buccaneers–Falcons rivalry",
+      "Atlanta Falcons",
+      "2026 Atlanta Falcons season",
+      "National Football League",
+      "Buffalo Bills",
+      "1974 Buffalo Bills season",
+      "1974 NFL season"
+     ],
+     "testo_it": "Nel football americano, i Tampa Bay Buccaneers si rifiutano di completare un passaggio durante la sua vittoria 16-0 contro il rivale Atlanta Falcons nella settimana 8, diventando la prima squadra della National Football League a vincere una partita senza completare un passaggio da quando i Buffalo Bills lo hanno fatto nel 1974.",
+     "contesto_it": [
+      "Stagione NFL (2026)"
+     ]
+    },
+    {
+     "testo": "Swedish long-distance runner Andreas Almgren wins the 55th edition of the New York City Marathon in New York City, New York, U.S., during his first debut.",
+     "contesto": [
+      "2026 New York City Marathon"
+     ],
+     "categoria": "Sports",
+     "fonti": [
+      {
+       "nome": "The Athletic via The New York Times",
+       "url": "https://www.nytimes.com/athletic/7744275/2026/11/01/nyc-marathon-2026-results-andreas-almgren-sheila-chepkirui/"
+      }
+     ],
+     "link": [
+      "Sweden",
+      "Long-distance running",
+      "Andreas Almgren",
+      "New York City Marathon",
+      "New York City",
+      "New York (state)"
+     ],
+     "testo_it": "Il corridore svedese Andreas Almgren vince la 55a edizione della New York City Marathon a New York City, New York, USA, durante il suo primo debutto.",
+     "contesto_it": [
+      "Maratona di New York (2026)"
      ]
     }
    ]
@@ -2023,545 +2286,6 @@
      "testo_it": "Nella Major League Baseball, i Milwaukee Brewers sconfiggono i Tampa Bay Rays in cinque partite per vincere il loro primo campionato delle World Series nella storia della franchigia.",
      "contesto_it": [
       "Serie Mondiali (2026)"
-     ]
-    }
-   ]
-  },
-  {
-   "data": "2026-10-27",
-   "voci": [
-    {
-     "testo": "The Persian Gulf Strait Authority says that vessels belonging to South Korean shipping company Sinokor would face legal action beginning on 1 November.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "Iran war",
-      "2026 Strait of Hormuz crisis"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/asia-pacific/iranian-strait-authority-says-sinokor-vessels-will-face-legal-action-2026-10-27/"
-      }
-     ],
-     "link": [
-      "Persian Gulf Strait Authority",
-      "South Korea",
-      "Complaint"
-     ],
-     "testo_it": "L'Autorità dello Stretto del Golfo Persico afferma che le navi appartenenti alla compagnia di navigazione sudcoreana Sinokor dovranno affrontare un'azione legale a partire dal 1 ° novembre.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Guerra in Iran",
-      "Stretto di Hormuz (2026)"
-     ]
-    },
-    {
-     "testo": "Three people, including a child, are killed in an Israeli airstrike against a tent in Khan Yunis, Gaza Strip.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "Gaza war",
-      "Israeli bombing of the Gaza Strip"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AFP via Asharq Al-Awsat",
-       "url": "https://english.aawsat.com/arab-world/5333747-israeli-strike-gaza-kills-three-including-child"
-      }
-     ],
-     "link": [
-      "Israel",
-      "Airstrike",
-      "Tent",
-      "Khan Yunis",
-      "Gaza Strip"
-     ],
-     "testo_it": "Tre persone, tra cui un bambino, vengono uccise in un attacco aereo israeliano contro una tenda a Khan Yunis, nella Striscia di Gaza.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Guerra di Gaza",
-      "Bombardamento israeliano della Striscia di Gaza"
-     ]
-    },
-    {
-     "testo": "A bomb explodes near a bridge in Cúcuta, Colombia, at the border with Venezuela, injuring four police officers.",
-     "contesto": [
-      "War on drugs",
-      "Colombian conflict"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/colombia-bomb-police-injured-cucuta-a2c539f7b5be172f0c6c211cc776405e"
-      }
-     ],
-     "link": [
-      "Cúcuta",
-      "Colombia",
-      "Colombia–Venezuela border",
-      "Venezuela",
-      "National Police of Colombia"
-     ],
-     "testo_it": "Una bomba esplode vicino a un ponte a Cúcuta, in Colombia, al confine con il Venezuela, ferendo quattro agenti di polizia.",
-     "contesto_it": [
-      "Guerra alla droga",
-      "Conflitto colombiano"
-     ]
-    },
-    {
-     "testo": "The United States launches an airstrike against an alleged drug boat in the Pacific Ocean, killing five people.",
-     "contesto": [
-      "War on drugs",
-      "Operation Southern Spear, United States strikes on alleged drug traffickers during Operation Southern Spear"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/boat-strikes-alleged-drug-boat-latin-america-cartels-trump-ef5e229630e00f370e0d1772edc34dd9"
-      }
-     ],
-     "link": [
-      "United States",
-      "Airstrike",
-      "Pacific Ocean"
-     ],
-     "testo_it": "Gli Stati Uniti lanciano un attacco aereo contro una presunta barca della droga nell'Oceano Pacifico, uccidendo cinque persone.",
-     "contesto_it": [
-      "Guerra alla droga",
-      "Operazione Southern Spear, Stati Uniti colpisce presunti trafficanti di droga durante l'operazione Southern Spear"
-     ]
-    },
-    {
-     "testo": "The Ethiopian Orthodox Tewahedo Church reports that at least 60 Christians have been killed in attacks in Oromia, Ethiopia, over the last week.",
-     "contesto": [
-      "Ethiopian civil conflict"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/africa/attackers-kill-60-people-ethiopias-conflict-hit-oromiya-region-orthodox-church-2026-10-27/"
-      }
-     ],
-     "link": [
-      "Ethiopian Orthodox Tewahedo Church",
-      "Christianity in Ethiopia",
-      "Persecution of Christians in the post-Cold War era",
-      "Oromia",
-      "Ethiopia"
-     ],
-     "testo_it": "La Chiesa ortodossa etiope di Tewahedo riferisce che almeno 60 cristiani sono stati uccisi negli attacchi a Oromia, in Etiopia, nell'ultima settimana.",
-     "contesto_it": [
-      "Conflitto civile etiope"
-     ]
-    },
-    {
-     "testo": "The casualty toll from the massacre by unknown gunmen four days ago in Taraba State, Nigeria, increases to 62 people killed and 52 more wounded.",
-     "contesto": [
-      "Nigerian bandit conflict"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/nigeria-gunmen-attack-ecc5e9432b73275371b8490c775320dc"
-      }
-     ],
-     "link": [
-      "Taraba State",
-      "Nigeria"
-     ],
-     "testo_it": "Il bilancio delle vittime del massacro da parte di uomini armati sconosciuti quattro giorni fa nello Stato di Taraba, in Nigeria, aumenta a 62 persone uccise e 52 feriti.",
-     "contesto_it": [
-      "Conflitto bandito nigeriano"
-     ]
-    },
-    {
-     "testo": "The casualty toll from yesterday's drone strike at a market in Nyala, South Darfur, Sudan, increases to over 100 people killed and 112 more injured.",
-     "contesto": [
-      "Sudanese civil war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://apnews.com/article/sudan-power-outage-capital-drone-0798818d82bc79ed10300687a514c693"
-      }
-     ],
-     "link": [
-      "Drone warfare",
-      "Nyala, Sudan",
-      "South Darfur",
-      "Sudan"
-     ],
-     "testo_it": "Il bilancio delle vittime dell'attacco dei droni di ieri in un mercato a Nyala, Sud Darfur, Sudan, aumenta a oltre 100 persone uccise e 112 feriti.",
-     "contesto_it": [
-      "Guerra civile sudanese"
-     ]
-    },
-    {
-     "testo": "Netherlands Public Broadcasting (NPO) withdraws the Netherlands from the 2027 Eurovision Song Contest over concerns about Israel's participation, after AVROTROS withdrew in August and NPO failed to find another broadcaster.",
-     "contesto": [
-      "Eurovision Song Contest 2027",
-      "Netherlands in the Eurovision Song Contest 2027"
-     ],
-     "categoria": "Arts and culture",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/netherlands-eurovision-song-festival-dutch-27ee0f300f9cd0ca4a4844b51865bd95"
-      }
-     ],
-     "link": [
-      "Netherlands Public Broadcasting",
-      "Netherlands",
-      "Eurovision Song Contest",
-      "Israel",
-      "Israel in the Eurovision Song Contest",
-      "AVROTROS",
-      "Television in the Netherlands"
-     ],
-     "testo_it": "Netherlands Public Broadcasting (NPO) ritira i Paesi Bassi dall'Eurovision Song Contest del 2027 per le preoccupazioni sulla partecipazione di Israele, dopo che AVROTROS si è ritirato ad agosto e NPO non è riuscita a trovare un'altra emittente.",
-     "contesto_it": [
-      "Eurovision Song Contest 2027",
-      "Paesi Bassi nell'Eurovision Song Contest 2027"
-     ]
-    },
-    {
-     "testo": "Villa Vie Residences suspends operations of the Odyssey in Sihanoukville, Cambodia, after running out of money amid sharply higher fuel costs, forcing 203 passengers to disembark with seven hours' notice.",
-     "contesto": [
-      "2026 Iran war fuel crisis"
-     ],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "AFP",
-       "url": "https://www.afp.com/en/cruise-life-strands-passengers-cambodia-operator-goes-bust"
-      }
-     ],
-     "link": [
-      "Villa Vie Odyssey",
-      "Sihanoukville",
-      "Cambodia"
-     ],
-     "testo_it": "Villa Vie Residences sospende le operazioni dell'Odissea a Sihanoukville, in Cambogia, dopo aver esaurito i soldi a causa dei costi del carburante nettamente più elevati, costringendo 203 passeggeri a sbarcare con un preavviso di sette ore.",
-     "contesto_it": [
-      "Crisi dei combustibili da guerra in Iran (2026)"
-     ]
-    },
-    {
-     "testo": "China's Shanghai Stock Exchange STAR Market index, which focuses on science and technology companies, plummets 40% in less than four months.",
-     "contesto": [
-      "AI bubble"
-     ],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/"
-      }
-     ],
-     "link": [
-      "China",
-      "Shanghai Stock Exchange STAR Market",
-      "Science and technology in China"
-     ],
-     "testo_it": "L'indice cinese di Shanghai Stock Exchange STAR Market, che si concentra sulle società scientifiche e tecnologiche, precipita del 40% in meno di quattro mesi.",
-     "contesto_it": [
-      "bolla di AI"
-     ]
-    },
-    {
-     "testo": "Indian authorities order nearly 100,000 people to evacuate parts of Andhra Pradesh and Odisha as Cyclone Arnab approaches, with the India Meteorological Department forecasting landfall as a very severe cyclonic storm.",
-     "contesto": [
-      "2026 North Indian Ocean cyclone season"
-     ],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AFP via RFI",
-       "url": "https://www.rfi.fr/en/international-news/20261027-india-orders-evacuations-as-cyclone-arnab-looms"
-      }
-     ],
-     "link": [
-      "India",
-      "Andhra Pradesh",
-      "Odisha",
-      "Cyclone Arnab",
-      "India Meteorological Department",
-      "Landfall",
-      "List of very severe cyclonic storms"
-     ],
-     "testo_it": "Le autorità indiane ordinano a quasi 100.000 persone di evacuare parti dell'Andhra Pradesh e dell'Odisha mentre il ciclone Arnab si avvicina, con il Dipartimento meteorologico indiano che prevede la caduta di terra come una tempesta ciclonica molto grave.",
-     "contesto_it": [
-      "Stagione ciclone dell'Oceano Indiano del Nord (2026)"
-     ]
-    },
-    {
-     "testo": "Four people are killed, two are missing and several homes are destroyed during floods in Haiti and the Dominican Republic.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/rains-flooding-haiti-dominican-republic-weather-killed-012fa128cea57defc8d2ce7735ec1e9c"
-      }
-     ],
-     "link": [
-      "Flood",
-      "Haiti",
-      "Dominican Republic"
-     ],
-     "testo_it": "Quattro persone sono state uccise, due sono scomparse e diverse case sono state distrutte durante le inondazioni ad Haiti e nella Repubblica Dominicana."
-    },
-    {
-     "testo": "A construction site is hit by a tornado in Kepez, Antalya, Turkey, killing four workers and injuring another.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/turkey-antalya-tornado-workers-killed-65ab84be64dc686752d231fb0b778dac"
-      }
-     ],
-     "link": [
-      "Tornado",
-      "Kepez, Antalya",
-      "Antalya",
-      "Turkey"
-     ],
-     "testo_it": "Un cantiere è colpito da un tornado a Kepez, Antalya, Turchia, uccidendo quattro lavoratori e ferendone un altro."
-    },
-    {
-     "testo": "The World Meteorological Organization reports that global concentrations of carbon dioxide, methane, and nitrous oxide reached record highs in 2025, with carbon dioxide averaging 426.8 parts per million.",
-     "contesto": [
-      "2025 in climate change"
-     ],
-     "categoria": "Health and environment",
-     "fonti": [
-      {
-       "nome": "AFP via France 24",
-       "url": "https://www.france24.com/en/live-news/20261027-greenhouse-gas-levels-hit-new-record-highs-in-2025-un"
-      }
-     ],
-     "link": [
-      "World Meteorological Organization",
-      "Carbon dioxide",
-      "Methane",
-      "Nitrous oxide"
-     ],
-     "testo_it": "L'Organizzazione meteorologica mondiale riferisce che le concentrazioni globali di anidride carbonica, metano e protossido di azoto hanno raggiunto livelli record nel 2025, con l'anidride carbonica in media 426,8 parti per milione.",
-     "contesto_it": [
-      "Il 2025 nel cambiamento climatico"
-     ]
-    },
-    {
-     "testo": "A Salvadoran court issues an order to release former president Antonio Saca from prison after the end of his 10-year sentence for corruption.",
-     "contesto": [
-      "Crime in El Salvador"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "La Prensa Gráfica in Spanish",
-       "url": "https://www.laprensagrafica.com/elsalvador/emiten-orden-de-libertad-para-expresidente-elias-antonio-saca-20261027-0015.html"
-      }
-     ],
-     "link": [
-      "El Salvador",
-      "Judiciary of El Salvador",
-      "President of El Salvador",
-      "Antonio Saca",
-      "Corruption in El Salvador"
-     ],
-     "testo_it": "Un tribunale salvadoregno emette un ordine per liberare l'ex presidente Antonio Saca dalla prigione dopo la fine della sua condanna a 10 anni per corruzione.",
-     "contesto_it": [
-      "Criminalità in El Salvador"
-     ]
-    },
-    {
-     "testo": "Algerian-Palestinian activist Mahmoud Khalil returns to Columbia University in New York City, United States, after immigration authorities detained him for more than three months over his role in pro-Palestinian campus protests before a federal judge ordered his release.",
-     "contesto": [
-      "Gaza war protests at Columbia University"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "AFP",
-       "url": "https://www.afp.com/en/palestinian-activist-khalil-returns-columbia-after-us-detention"
-      }
-     ],
-     "link": [
-      "Algeria",
-      "Palestine",
-      "Mahmoud Khalil",
-      "Columbia University",
-      "New York City",
-      "United States",
-      "United States Immigration and Customs Enforcement",
-      "Pro-Palestinian",
-      "Campus protest",
-      "United States federal judge"
-     ],
-     "testo_it": "L'attivista algerino-palestinese Mahmoud Khalil torna alla Columbia University di New York, negli Stati Uniti, dopo che le autorità dell'immigrazione lo hanno arrestato per più di tre mesi per il suo ruolo nelle proteste del campus pro-palestinese prima che un giudice federale ordinasse il suo rilascio.",
-     "contesto_it": [
-      "Proteste di guerra a Gaza alla Columbia University"
-     ]
-    },
-    {
-     "testo": "Nigerian police arrest 34 foreigners, including 16 Cameroonians and 18 Nigeriens, suspected of engaging in \"illicit activities\" in Benue State. The commissioner opens an investigation into their immigration status.",
-     "contesto": [
-      "Immigration to Nigeria"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "Daily Trust",
-       "url": "https://dailytrust.com/police-arrest-34-foreigners-in-benue/"
-      }
-     ],
-     "link": [
-      "Nigeria",
-      "Nigeria Police Force",
-      "Cameroon",
-      "Niger",
-      "Benue State"
-     ],
-     "testo_it": "La polizia nigeriana arresta 34 stranieri, tra cui 16 camerunensi e 18 nigeriani, sospettati di impegnarsi in \"attività illecite\" nello Stato di Benue. Il commissario apre un'indagine sul loro status di immigrazione.",
-     "contesto_it": [
-      "Immigrazione in Nigeria"
-     ]
-    },
-    {
-     "testo": "Brazilian senator Flávio Bolsonaro leaves Brazil for the United States, despite orders to surrender his passports to the Federal Police, two days after his defeat in the presidential election runoffs to incumbent president Luiz Inácio Lula da Silva. The government subsequently cancels Bolsonaro's passports, while the U.S. grants him and his family visas.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "AFP",
-       "url": "https://www.afp.com/en/us-grant-flavio-bolsonaro-visa-he-flees-brazil-after-election-loss"
-      },
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/americas/flavio-bolsonaro-leaves-brazil-us-after-election-defeat-source-media-say-2026-10-27/"
-      }
-     ],
-     "link": [
-      "Federal Senate (Brazil)",
-      "Flávio Bolsonaro",
-      "Brazil",
-      "United States",
-      "Brazilian passport",
-      "Federal Police of Brazil",
-      "2026 Brazilian general election",
-      "Two-round system",
-      "President of Brazil",
-      "Luiz Inácio Lula da Silva",
-      "Federal government of Brazil",
-      "Visa policy of the United States"
-     ],
-     "testo_it": "Il senatore brasiliano Flávio Bolsonaro lascia il Brasile per gli Stati Uniti, nonostante gli ordini di consegnare i suoi passaporti alla polizia federale, due giorni dopo la sua sconfitta nelle elezioni presidenziali contro il presidente in carica Luiz Inácio Lula da Silva. Il governo successivamente annulla i passaporti di Bolsonaro, mentre gli Stati Uniti concede a lui e alla sua famiglia visti."
-    },
-    {
-     "testo": "An Egyptian court orders independent news website Mada Masr to close after convicting editor-in-chief Lina Attalah of operating without a licence. The court also fines her E£3,000,000 (US$53,500) and orders the outlet's equipment confiscated.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "DW",
-       "url": "https://www.dw.com/en/egypt-mada-masr-linah-attalah-press-freedom/a-79781842"
-      }
-     ],
-     "link": [
-      "Egypt",
-      "Judiciary of Egypt",
-      "Mass media in Egypt",
-      "Mada Masr",
-      "Lina Attalah",
-      "Operating without a licence",
-      "Egyptian pound",
-      "US$"
-     ],
-     "testo_it": "Un tribunale egiziano ordina al sito di notizie indipendente Mada Masr di chiudere dopo aver condannato il caporedattore Lina Attalah di operare senza licenza. Il tribunale multa anche la sua E3.000.000 sterline (US $ 53.500) e ordina che l'attrezzatura dello sbocco venga confiscata."
-    },
-    {
-     "testo": "The French Senate passes a bill that would make people who knowingly participate in violent protest groups jointly liable for up to €10,000 (US$11,118) in damage and allow authorities to seize certain welfare payments. The bill heads to the National Assembly for a vote.",
-     "contesto": [
-      "2026 European unrest",
-      "2026 French fuel protests, 2026 French student protests"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "AFP via The Straits Times",
-       "url": "https://www.straitstimes.com/world/europe/french-senate-weighs-bill-to-make-protesters-pay-for-unrest-damage"
-      }
-     ],
-     "link": [
-      "France",
-      "Senate (France)",
-      "Bill (law)",
-      "Civil disorder",
-      "Euro",
-      "US$",
-      "Government of France",
-      "Social protection in France",
-      "National Assembly (France)"
-     ],
-     "testo_it": "Il Senato francese approva un disegno di legge che renderebbe le persone che partecipano consapevolmente a gruppi di protesta violenti congiuntamente responsabili fino a € 10.000 (US $ 1118) in danni e consentire alle autorità di sequestrare alcuni pagamenti di welfare.",
-     "contesto_it": [
-      "Insurrezioni europee (2026)",
-      "Proteste francesi di carburante (2026), proteste studentesche francesi (2026)"
-     ]
-    },
-    {
-     "testo": "Thirteen youth organizations protest outside the Hôtel de la Chambre in Luxembourg City, Luxembourg, denouncing the house crisis and the high costs of living.",
-     "contesto": [
-      "2026 European unrest"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "Luxembourg Times",
-       "url": "https://www.luxtimes.lu/luxembourg/young-people-protest-luxembourg-housing-crisis-outside-parliament/163696719.html"
-      }
-     ],
-     "link": [
-      "Hôtel de la Chambre",
-      "Luxembourg City",
-      "Luxembourg"
-     ],
-     "testo_it": "Tredici organizzazioni giovanili protestano davanti all'Hôtel de la Chambre di Lussemburgo, denunciando la crisi della casa e gli elevati costi della vita.",
-     "contesto_it": [
-      "Insurrezioni europee (2026)"
-     ]
-    },
-    {
-     "testo": "Israelis vote to elect the 120 members of the Knesset.",
-     "contesto": [
-      "2026 Israeli legislative election"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "BBC News",
-       "url": "https://www.bbc.com/news/articles/crlykey9jywqo"
-      },
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/middle-east/israel-election-what-happens-after-polls-close-2026-10-27/"
-      }
-     ],
-     "link": [
-      "Israelis",
-      "Knesset"
-     ],
-     "testo_it": "Gli israeliani votano per eleggere i 120 membri della Knesset.",
-     "contesto_it": [
-      "Elezioni legislative israeliane (2026)"
      ]
     }
    ]
