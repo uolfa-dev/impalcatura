@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-04T17:21:20Z",
+ "generato": "2026-11-04T23:45:21Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -9,6 +9,20 @@
   "completa": true
  },
  "itn": [
+  {
+   "testo": "The Polish Constitutional Tribunal crisis escalates with the suspension of tribunal head Bogdan Święczkowski and deputy head Bartłomiej Sochański by judge Anna Korwin-Piotrowska.",
+   "contesto": [],
+   "categoria": "In primo piano",
+   "fonti": [],
+   "link": [
+    "Polish Constitutional Tribunal crisis (2015–2016)",
+    "2026 Polish Constitutional Tribunal crisis",
+    "Bogdan Święczkowski",
+    "Bartłomiej Sochański",
+    "Anna Korwin-Piotrowska"
+   ],
+   "testo_it": "La crisi del Tribunale costituzionale polacco si intensifica con la sospensione del capo del tribunale Bogdan Święczkowski e del vice capo Bartłomiej Sochański da parte della giudice Anna Korwin-Piotrowska."
+  },
   {
    "testo": "Digital currency worth US$6.3 billion is stolen from cryptocurrency exchange Binance.",
    "contesto": [],
@@ -74,27 +88,83 @@
     "Cuauhtémoc Cárdenas"
    ],
    "testo_it": "Il politico messicano Cuauhtémoc Cárdenas muore all'età di 92 anni."
-  },
-  {
-   "testo": "British actor Patrick Stewart dies at the age of 86.",
-   "contesto": [],
-   "categoria": "In primo piano",
-   "fonti": [
-    {
-     "nome": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/Patrick_Stewart"
-    }
-   ],
-   "link": [
-    "Patrick Stewart"
-   ],
-   "testo_it": "L'attore britannico Patrick Stewart muore all'età di 86 anni."
   }
  ],
  "giorni": [
   {
    "data": "2026-11-04",
-   "voci": []
+   "voci": [
+    {
+     "testo": "The Bangladeshi garment industry wage board agrees to increase minimum wages following five days of worker protests and clashes with police. Workers demand ৳30,000 (US$240) monthly, up from ৳12,500 ($100), while the board has not specified the increase.",
+     "contesto": [],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/bangladesh-increase-garment-sector-pay-after-protests"
+      }
+     ],
+     "link": [
+      "Bangladesh",
+      "Textile industry in Bangladesh",
+      "Worker standards board",
+      "Minimum wage",
+      "Strike action",
+      "Bangladesh Police",
+      "Bangladeshi taka",
+      "US$"
+     ],
+     "testo_it": "Il consiglio salariale dell'industria dell'abbigliamento del Bangladesh accetta di aumentare i salari minimi dopo cinque giorni di proteste e scontri con la polizia. I lavoratori chiedono  30.000 (240 dollari) al mese, da  12.500 ($ 100), mentre il consiglio non ha specificato l'aumento."
+    },
+    {
+     "testo": "The Singaporean parliament amends the Transboundary Haze Pollution Act of 2014, introducing arrest powers, permitting trials without defendants present, and increasing maximum fines tenfold to S$20 million (US$15 million) following widespread air pollution from Indonesian wildfires.",
+     "contesto": [
+      "2026 Southeast Asian haze"
+     ],
+     "categoria": "Health and environment",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/singapore-toughens-haze-law-arrest-powers-bigger-fines"
+      }
+     ],
+     "link": [
+      "Singapore",
+      "Parliament of Singapore",
+      "Transboundary Haze Pollution Act of 2014",
+      "Law enforcement in Singapore",
+      "Judicial system of Singapore",
+      "Defendant",
+      "S$",
+      "Environmental issues in Singapore",
+      "Indonesia",
+      "2026 Indonesia wildfires"
+     ],
+     "testo_it": "Il parlamento di Singapore modifica il Transboundary Haze Pollution Act del 2014, introducendo poteri di arresto, consentendo processi senza imputati presenti, e aumentando le multe massime di dieci volte a 20 milioni di dollari (15 milioni di dollari) a seguito dell'inquinamento atmosferico diffuso dagli incendi in Indonesia.",
+     "contesto_it": [
+      "Foschia del sud-est asiatico (2026)"
+     ]
+    },
+    {
+     "testo": "Philippine authorities seize a 200-kilogram (440 lb) shipment of crystal meth, whose origin is traced in Laos, at the Manila International Container Port. The shipment had arrived six days after local police in Laos likewise found the same contraband on a Philippine-bound private plane on October 1.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "Philippine Daily Inquirer",
+       "url": "https://globalnation.inquirer.net/345789/this-time-shabu-cargo-from-laos-reaches-ph-before-seizure"
+      }
+     ],
+     "link": [
+      "Philippines",
+      "Crystal meth",
+      "Laos",
+      "Port of Manila",
+      "2026 Laos private jet drug smuggling case"
+     ],
+     "testo_it": "Le autorità filippine sequestrano una spedizione di 200 chilogrammi (440 lb) di metanfetamina cristallina, la cui origine è tracciata in Laos, presso il porto internazionale dei container di Manila. La spedizione era arrivata sei giorni dopo che la polizia locale in Laos aveva trovato lo stesso contrabbando su un aereo privato filippino il 1 ° ottobre."
+    }
+   ]
   },
   {
    "data": "2026-11-03",
@@ -153,8 +223,8 @@
      "categoria": "Arts and culture",
      "fonti": [
       {
-       "nome": "Cadena SER in Spanish",
-       "url": "https://cadenaser.com/nacional/2026/11/03/cristina-fernandez-cubas-premio-cervantes-2026-cadena-ser/"
+       "nome": "Euronews",
+       "url": "https://www.euronews.com/2026/11/03/cristina-fernandez-cubas-wins-2026-cervantes-prize-for-spanish-literature"
       }
      ],
      "link": [
@@ -345,6 +415,38 @@
       "Republican Party (United States)"
      ],
      "testo_it": "Le organizzazioni giornalistiche statunitensi prevedono che il Partito Democratico controllerà la Camera dei Rappresentanti e il Senato nel prossimo 120 ° Congresso, ponendo fine alla maggioranza del Partito Repubblicano in entrambe le camere.",
+     "contesto_it": [
+      "Elezioni negli Stati Uniti (2026)"
+     ]
+    },
+    {
+     "testo": "Several states elect their first Democratic representatives in decades, including: Adam Hamilton, the first Democrat to win a Kansas Senate seat since 1932; James Talarico, the first Democrat to win a Texas Senate seat since 1988; and Gina Hinojosa, the first Democrat to become governor of Texas since 1990.",
+     "contesto": [
+      "2026 United States elections"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "NBC News",
+       "url": "https://www.nbcnews.com/politics/2026-election/adam-hamilton-kansas-senate-democrat-winner-upset-roger-marshall-rcna603310"
+      },
+      {
+       "nome": "Axios",
+       "url": "https://www.axios.com/local/san-antonio/2026/11/04/texas-governor-race-results-hinojosa-abbott"
+      }
+     ],
+     "link": [
+      "Adam Hamilton (American politician)",
+      "2026 United States Senate election in Kansas",
+      "1932 United States Senate election in Kansas",
+      "James Talarico",
+      "2026 United States Senate election in Texas",
+      "1988 United States Senate election in Texas",
+      "Gina Hinojosa",
+      "2026 Texas gubernatorial election",
+      "1990 Texas gubernatorial election"
+     ],
+     "testo_it": "Diversi stati eleggono i loro primi rappresentanti democratici in decenni, tra cui: Adam Hamilton, il primo democratico a vincere un seggio al Senato del Kansas dal 1932; James Talarico, il primo democratico a vincere un seggio al Senato del Texas dal 1988; e Gina Hinojosa, il primo democratico a diventare governatore del Texas dal 1990.",
      "contesto_it": [
       "Elezioni negli Stati Uniti (2026)"
      ]
@@ -1301,7 +1403,7 @@
      ]
     },
     {
-     "testo": "Madagascar's justice ministry announces dismantling 13 Chinese-run scam centers since August, linked to 148 Chinese nationals who had previously operated scam centers in Cambodia, and who might have been involved in trafficking Africans to commit fraud. The 148 Chinese are extradited to China.",
+     "testo": "Madagascar's Justice Ministry announces dismantling 13 Chinese-run scam centers since August, linked to 148 Chinese nationals who had previously operated scam centers in Cambodia, and who might have been involved in trafficking Africans to commit fraud. The 148 Chinese are extradited to China.",
      "contesto": [
       "Trafficking of Chinese nationals to scam centers abroad, Human trafficking in Madagascar"
      ],
@@ -1321,7 +1423,7 @@
       "Human trafficking",
       "Extradited"
      ],
-     "testo_it": "Il ministero della giustizia del Madagascar annuncia lo smantellamento di 13 centri di truffa gestiti dalla Cina da agosto, collegati a 148 cittadini cinesi che avevano precedentemente gestito centri di truffa in Cambogia e che potrebbero essere stati coinvolti nel traffico di africani per commettere frodi.",
+     "testo_it": "Il Ministero della Giustizia del Madagascar annuncia lo smantellamento di 13 centri di truffa gestiti dalla Cina da agosto, collegati a 148 cittadini cinesi che avevano precedentemente gestito centri di truffa in Cambogia e che potrebbero essere stati coinvolti nel traffico di africani per commettere frodi.",
      "contesto_it": [
       "Traffico di cittadini cinesi verso centri di truffa all'estero, tratta di esseri umani in Madagascar"
      ]
