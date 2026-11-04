@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-03T23:29:37Z",
+ "generato": "2026-11-04T06:36:27Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -28,7 +28,7 @@
    "testo_it": "La valuta digitale del valore di 6,3 miliardi di dollari viene rubata dall'exchange di criptovalute Binance."
   },
   {
-   "testo": "American labor activist Dolores Huerta dies aged 96.",
+   "testo": "American labor activist Dolores Huerta dies at the age of 96.",
    "contesto": [],
    "categoria": "In primo piano",
    "fonti": [
@@ -93,6 +93,10 @@
  ],
  "giorni": [
   {
+   "data": "2026-11-04",
+   "voci": []
+  },
+  {
    "data": "2026-11-03",
    "voci": [
     {
@@ -156,6 +160,7 @@
       }
      ],
      "link": [
+      "Spain",
       "Cristina Fernández Cubas",
       "Cervantes Prize"
      ],
@@ -228,23 +233,23 @@
      "testo_it": "Tre persone sono state arrestate per aver intercettato il telefono del presidente indonesiano Prabowo Subianto."
     },
     {
-     "testo": "False bomb threats target seven flights from several European countries.",
+     "testo": "Bomb hoaxes target seven flights from several European countries.",
      "contesto": [],
      "categoria": "Law and crime",
      "fonti": [
       {
-       "nome": "BBC",
+       "nome": "BBC News",
        "url": "https://www.bbc.com/news/articles/c6x2wd4v04eeo"
       }
      ],
      "link": [
-      "Bomb threats",
+      "False bomb threats",
       "Europe"
      ],
-     "testo_it": "Le minacce di false bombe colpiscono sette voli da diversi paesi europei."
+     "testo_it": "Le bufale delle bombe colpiscono sette voli da diversi paesi europei."
     },
     {
-     "testo": "The Israeli MS Crown Iris cruise ship is targeted by a false bomb threat, and is searched on the Greek island of Syros.",
+     "testo": "The Israeli cruise ship MS Crown Iris is targeted by a false bomb threat, and is searched on Syros, Greece.",
      "contesto": [],
      "categoria": "Law and crime",
      "fonti": [
@@ -255,12 +260,13 @@
      ],
      "link": [
       "Israel",
-      "MS Crown Iris",
       "Cruise ship",
+      "MS Crown Iris",
       "Bomb threat",
-      "Syros"
+      "Syros",
+      "Greece"
      ],
-     "testo_it": "La nave da crociera israeliana MS Crown Iris è presa di mira da una falsa minaccia di bomba e viene perquisita sull'isola greca di Syros."
+     "testo_it": "La nave da crociera israeliana MS Crown Iris è presa di mira da una falsa minaccia di bomba ed è perquisita a Syros, in Grecia."
     },
     {
      "testo": "The United States holds midterm elections for 435 members and five non-voting delegates of the House of Representatives, 35 members of the Senate (including special elections in Florida and Ohio), 39 state and territorial governors, and numerous other state, territorial, tribal, and local officials.",
@@ -299,6 +305,33 @@
      ]
     },
     {
+     "testo": "U.S. news organizations project that the Democratic Party will control the House of Representatives and the Senate in the upcoming 120th Congress, ending the Republican Party's majority in both chambers.",
+     "contesto": [
+      "2026 United States elections"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/us/democrats-projected-win-majority-control-us-house-us-media-project-2026-11-04/"
+      },
+      {
+       "nome": "The Guardian",
+       "url": "https://www.theguardian.com/us-news/2026/nov/03/democrats-senate-republicans-midterms-trump"
+      }
+     ],
+     "link": [
+      "News media in the United States",
+      "Democratic Party (United States)",
+      "120th United States Congress",
+      "Republican Party (United States)"
+     ],
+     "testo_it": "Le organizzazioni giornalistiche statunitensi prevedono che il Partito Democratico controllerà la Camera dei Rappresentanti e il Senato nel prossimo 120 ° Congresso, ponendo fine alla maggioranza del Partito Repubblicano in entrambe le camere.",
+     "contesto_it": [
+      "Elezioni negli Stati Uniti (2026)"
+     ]
+    },
+    {
      "testo": "In association football, CD Tenerife striker Jesús de Miguel dies following an in-game collision with FC Andorra goalkeeper Jesús Owono the previous day.",
      "contesto": [
       "2026–27 Segunda División"
@@ -311,6 +344,7 @@
       }
      ],
      "link": [
+      "Association football",
       "CD Tenerife",
       "Jesús de Miguel",
       "FC Andorra",
@@ -360,7 +394,6 @@
       }
      ],
      "link": [
-      "Association football",
       "Asian Football Confederation",
       "AFC Asian Cup",
       "Saudi Arabia",
@@ -2181,393 +2214,6 @@
       "Mali"
      ],
      "testo_it": "Teghaza 001, un meteorite marziano scoperto nel 2022 nel Sahara in Mali, si dice abbia 4,1 miliardi di anni."
-    }
-   ]
-  },
-  {
-   "data": "2026-10-28",
-   "voci": [
-    {
-     "testo": "Saudi Arabia launches an airstrike at a market in Al Hazm, Al-Jawf Governorate, Yemen, killing 14 civilians and wounding ten more.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "Houthi–Saudi conflict, Yemeni civil war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/mideast-iran-saudi-yemen-israel-palestinians-october-282026-c032db4b09725fea0f6320eec49de5d4"
-      },
-      {
-       "nome": "Xinhua",
-       "url": "https://english.news.cn/20261028/0bff5197bf7d4bd8aef67cc902090535/c.html"
-      }
-     ],
-     "link": [
-      "Saudi Arabia",
-      "Airstrike",
-      "Al Hazm, Yemen",
-      "Al-Jawf Governorate",
-      "Yemen"
-     ],
-     "testo_it": "L'Arabia Saudita lancia un attacco aereo contro un mercato in Al Hazm, Governatorato di Al-Jawf, Yemen, uccidendo 14 civili e ferendone altri dieci.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Conflitto Houthi-saudita, guerra civile yemenita"
-     ]
-    },
-    {
-     "testo": "Eight women and children are reported to be injured in a airstrike in Kadugli, South Kordofan, Sudan.",
-     "contesto": [
-      "Sudanese civil war",
-      "War crimes in the Sudanese civil war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Sudan Tribune",
-       "url": "https://sudantribune.com/article/320591"
-      }
-     ],
-     "link": [
-      "Kadugli",
-      "South Kordofan",
-      "Sudan"
-     ],
-     "testo_it": "Otto donne e bambini sono stati feriti in un attacco aereo a Kadugli, Sud Kordofan, Sudan.",
-     "contesto_it": [
-      "Guerra civile sudanese",
-      "Crimini di guerra nella guerra civile sudanese"
-     ]
-    },
-    {
-     "testo": "The Bank of Canada raises its policy interest rate by 25 basis points to 2.5%, its first increase since July 2023, citing persistent inflation driven partly by higher oil and gasoline prices linked to the Iran war.",
-     "contesto": [
-      "2026 Iran war fuel crisis, Canada and the 2026 Iran war"
-     ],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "AFP",
-       "url": "https://www.afp.com/en/canada-hikes-rates-contain-oil-price-surge-caused-iran-war"
-      }
-     ],
-     "link": [
-      "Bank of Canada",
-      "Interest rate",
-      "Inflation",
-      "Petroleum industry in Canada",
-      "Natural gas in Canada",
-      "2026 Iran war"
-     ],
-     "testo_it": "La Banca del Canada alza il suo tasso di interesse di 25 punti base al 2,5%, il suo primo aumento dal luglio 2023, citando l'inflazione persistente guidata in parte da un aumento dei prezzi del petrolio e della benzina legati alla guerra in Iran.",
-     "contesto_it": [
-      "Crisi del combustibile da guerra in Iran (2026), il Canada e la guerra in Iran del 2026"
-     ]
-    },
-    {
-     "testo": "Jio Platforms raises US$3.2 billion in India's largest-ever initial public offering (IPO), attracting about $77 billion in bids and becoming the country's most-subscribed IPO before its stock-market debut in Mumbai.",
-     "contesto": [],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "AFP via France 24",
-       "url": "https://www.france24.com/en/live-news/20261028-billionaire-ambani-s-jio-to-debut-after-record-india-ipo"
-      }
-     ],
-     "link": [
-      "Jio Platforms",
-      "US$",
-      "India",
-      "Initial public offering",
-      "Stock market",
-      "Bombay Stock Exchange"
-     ],
-     "testo_it": "Jio Platforms raccoglie 3,2 miliardi di dollari nella più grande offerta pubblica iniziale (IPO) dell'India, attirando circa 77 miliardi di dollari in offerte e diventando l'IPO più sottoscritta del paese prima del suo debutto sul mercato azionario a Mumbai."
-    },
-    {
-     "testo": "At least 69 people are killed and 179 injured during a collision between two high speed trains carrying a total of 544 passengers between Los Yébenes and Urda, in the Province of Toledo, Spain.",
-     "contesto": [
-      "2026 Toledo train collision"
-     ],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "Sky News",
-       "url": "https://news.sky.com/story/spain-train-crash-latest-numerous-injuries-reported-after-high-speed-collision-on-madrid-andalusia-line-13604696"
-      }
-     ],
-     "link": [
-      "High-speed rail",
-      "Los Yébenes",
-      "Urda, Toledo",
-      "Province of Toledo",
-      "Spain"
-     ],
-     "testo_it": "Almeno 69 persone vengono uccise e 179 ferite durante una collisione tra due treni ad alta velocità che trasportano un totale di 544 passeggeri tra Los Yébenes e Urda, nella provincia di Toledo, in Spagna.",
-     "contesto_it": [
-      "Collisione del treno di Toledo (2026)"
-     ]
-    },
-    {
-     "testo": "At least three people are killed as Cyclone Arnab makes landfall in Andhra Pradesh, India.",
-     "contesto": [
-      "2026 North Indian Ocean cyclone season"
-     ],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "DNA",
-       "url": "https://www.dnaindia.com/india/report-cyclone-arnab-3-dead-houses-damaged-as-strong-winds-lash-andhra-pradesh-3223161"
-      },
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/business/environment/cyclone-arnab-begins-making-landfall-indias-andhra-pradesh-state-2026-10-27/"
-      }
-     ],
-     "link": [
-      "Cyclone Arnab",
-      "Landfall",
-      "Andhra Pradesh",
-      "India"
-     ],
-     "testo_it": "Almeno tre persone vengono uccise mentre il ciclone Arnab sbarca nell'Andhra Pradesh, in India.",
-     "contesto_it": [
-      "Stagione ciclone dell'Oceano Indiano del Nord (2026)"
-     ]
-    },
-    {
-     "testo": "A bus transporting local tourists overturns in Sarapiquí, Costa Rica, killing three people and injuring 39 others, including seven seriously.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AM Costa Rica",
-       "url": "https://amcostarica.com/Costa%20Rica%20News%20Deadly%20Bus%20Crash%20in%20Costa%20Rica%20Leaves%20Three%20Dead,%2054%20Injured%20102926.html"
-      }
-     ],
-     "link": [
-      "Sarapiquí (canton)",
-      "Costa Rica"
-     ],
-     "testo_it": "Un autobus che trasporta turisti locali si rovescia a Sarapiquí, in Costa Rica, uccidendo tre persone e ferendone altre 39, di cui sette seriamente."
-    },
-    {
-     "testo": "The United States imposes sanctions on the Rwandan ministry of defence over its role in the conflict in eastern Democratic Republic of the Congo, alleging that Rwanda is backing the M23 rebels to fight against Congolese forces.",
-     "contesto": [
-      "Rwanda–United States relations, Democratic Republic of the Congo–Rwanda conflict"
-     ],
-     "categoria": "International relations",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/africa/us-imposes-sanctions-rwandas-ministry-defense-2026-10-28/"
-      }
-     ],
-     "link": [
-      "United States",
-      "United States government sanctions",
-      "Rwanda",
-      "Ministry of Defence (Rwanda)",
-      "M23 campaign (2022–present)",
-      "Democratic Republic of the Congo",
-      "March 23 Movement",
-      "Armed Forces of the Democratic Republic of the Congo"
-     ],
-     "testo_it": "Gli Stati Uniti impongono sanzioni al ministero della difesa ruandese per il suo ruolo nel conflitto nella Repubblica Democratica del Congo orientale, sostenendo che il Ruanda sta sostenendo i ribelli M23 per combattere contro le forze congolesi.",
-     "contesto_it": [
-      "Relazioni Ruanda-Stati Uniti, Repubblica democratica del Congo-Rwanda conflitto"
-     ]
-    },
-    {
-     "testo": "The United Nations General Assembly adopts a resolution calling for an end to the American embargo against Cuba by 130 votes to 17, with 25 abstentions, the measure's lowest support since 1995.",
-     "contesto": [
-      "United States embargo against Cuba"
-     ],
-     "categoria": "International relations",
-     "fonti": [
-      {
-       "nome": "AFP via France 24",
-       "url": "https://www.france24.com/en/live-news/20261028-cuba-wins-un-vote-against-us-embargo-with-weakest-backing-in-30-years"
-      }
-     ],
-     "link": [
-      "United Nations General Assembly",
-      "United Nations resolution",
-      "Embargo",
-      "Cuba"
-     ],
-     "testo_it": "L'Assemblea generale delle Nazioni Unite adotta una risoluzione che chiede la fine dell'embargo americano contro Cuba con 130 voti contro 17, con 25 astensioni, il sostegno più basso della misura dal 1995.",
-     "contesto_it": [
-      "embargo degli Stati Uniti contro Cuba"
-     ]
-    },
-    {
-     "testo": "A youth armed with two knives wounds a police officer outside the Israeli embassy in Belgrade, Serbia, before being shot and killed.",
-     "contesto": [
-      "Attacks on Israeli embassies"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/policeman-kills-knife-attacker-outside-israels-embassy-serbia-2026-10-28/"
-      }
-     ],
-     "link": [
-      "Police of Serbia",
-      "List of diplomatic missions of Israel",
-      "Belgrade",
-      "Serbia"
-     ],
-     "testo_it": "Un giovane armato di due coltelli ferisce un agente di polizia fuori dall'ambasciata israeliana a Belgrado, in Serbia, prima di essere colpito e ucciso.",
-     "contesto_it": [
-      "Attacchi alle ambasciate israeliane"
-     ]
-    },
-    {
-     "testo": "British far-right activist Tommy Robinson is convicted of harassing two journalists and causing them to fear violence.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "BBC News",
-       "url": "https://www.bbc.com/news/articles/cq2d6z36pp53o"
-      },
-      {
-       "nome": "RTÉ",
-       "url": "https://www.rte.ie/news/world/2026/1028/1597108-tommy-robinson-court/"
-      }
-     ],
-     "link": [
-      "Far-right politics in the United Kingdom",
-      "Tommy Robinson",
-      "Harassment",
-      "Mass media in the United Kingdom"
-     ],
-     "testo_it": "L'attivista britannico di estrema destra Tommy Robinson è condannato per aver molestato due giornalisti e averli fatti temere dalla violenza."
-    },
-    {
-     "testo": "Brazilian senator Flávio Bolsonaro, following his escape from Brazil and arrival in Florida, United States, after the general election, proclaims himself the \"rightful\" president-elect of Brazil.",
-     "contesto": [
-      "2026 Brazilian general election"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "The Guardian",
-       "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat"
-      },
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/americas/flavio-bolsonaro-expected-land-miami-shortly-after-trump-offers-brazil-exit-2026-10-28/"
-      }
-     ],
-     "link": [
-      "Federal Senate (Brazil)",
-      "Flávio Bolsonaro",
-      "Florida",
-      "United States",
-      "President-elect of Brazil"
-     ],
-     "testo_it": "Il senatore brasiliano Flávio Bolsonaro, dopo la sua fuga dal Brasile e l'arrivo in Florida, Stati Uniti, dopo le elezioni generali, si proclama il \"giusto\" presidente eletto del Brasile.",
-     "contesto_it": [
-      "Elezioni generali in Brasile (2026)"
-     ]
-    },
-    {
-     "testo": "Brazilian president Luiz Inácio Lula da Silva responds by accusing the U.S. government of colluding with Bolsonaro to install him as president.",
-     "contesto": [
-      "2026 Brazilian general election"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/americas/flavio-bolsonaro-expected-land-miami-shortly-after-trump-offers-brazil-exit-2026-10-28/"
-      }
-     ],
-     "link": [
-      "President of Brazil",
-      "Luiz Inácio Lula da Silva",
-      "U.S. government"
-     ],
-     "testo_it": "Il presidente brasiliano Luiz Inácio Lula da Silva risponde accusando il governo degli Stati Uniti di collusione con Bolsonaro per installarlo come presidente.",
-     "contesto_it": [
-      "Elezioni generali in Brasile (2026)"
-     ]
-    },
-    {
-     "testo": "Incumbent prime minister Benjamin Netanyahu and his Likud party-led governing coalition wins a plurality of seats in the Knesset, though no alliance wins a majority, leaving government formation unclear.",
-     "contesto": [
-      "2026 Israeli legislative election"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "CBS News",
-       "url": "https://www.cbsnews.com/news/israel-election-exit-polls-stalemate/"
-      }
-     ],
-     "link": [
-      "Prime Minister of Israel",
-      "Benjamin Netanyahu",
-      "Likud",
-      "Knesset",
-      "Government formation"
-     ],
-     "testo_it": "Il primo ministro Benjamin Netanyahu e la sua coalizione di governo guidata dal partito Likud vincono una pluralità di seggi alla Knesset, anche se nessuna alleanza vince la maggioranza, lasciando la formazione del governo poco chiara.",
-     "contesto_it": [
-      "Elezioni legislative israeliane (2026)"
-     ]
-    },
-    {
-     "testo": "In baseball, the Fukuoka SoftBank Hawks defeat the Yokohama DeNA BayStars in four games to win their 13th Japan Series championship.",
-     "contesto": [
-      "2026 Japan Series"
-     ],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "Kyodo News",
-       "url": "https://english.kyodonews.net/articles/-/89710"
-      }
-     ],
-     "link": [
-      "Baseball",
-      "Fukuoka SoftBank Hawks",
-      "Yokohama DeNA BayStars",
-      "Japan Series"
-     ],
-     "testo_it": "Nel baseball, i Fukuoka SoftBank Hawks sconfiggono i Yokohama DeNA BayStars in quattro partite per vincere il loro tredicesimo campionato della Japan Series.",
-     "contesto_it": [
-      "Serie Giappone (2026)"
-     ]
-    },
-    {
-     "testo": "In Major League Baseball, the Milwaukee Brewers defeat the Tampa Bay Rays in five games to win their first World Series championship in franchise history.",
-     "contesto": [
-      "2026 World Series"
-     ],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "NBC News",
-       "url": "https://www.nbcnews.com/sports/mlb/milwaukee-brewers-tampa-bay-rays-world-series-game-5-result-rcna605974"
-      }
-     ],
-     "link": [
-      "Major League Baseball",
-      "Milwaukee Brewers",
-      "Tampa Bay Rays",
-      "World Series",
-      "List of Milwaukee Brewers seasons"
-     ],
-     "testo_it": "Nella Major League Baseball, i Milwaukee Brewers sconfiggono i Tampa Bay Rays in cinque partite per vincere il loro primo campionato delle World Series nella storia della franchigia.",
-     "contesto_it": [
-      "Serie Mondiali (2026)"
-     ]
     }
    ]
   }
