@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-04T06:36:27Z",
+ "generato": "2026-11-04T17:21:20Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -100,7 +100,7 @@
    "data": "2026-11-03",
    "voci": [
     {
-     "testo": "The Indian external ministry reports an attack on a commercial vessel near Musandam Governorate, Oman, that killed one Indian national, while 13 others are rescued.",
+     "testo": "A commercial vessel is hit by an unidentified object in the waters of Musandam Governorate, Oman, killing an Indian crew member, while 13 others are rescued.",
      "contesto": [
       "2026 Iran war",
       "2026 Strait of Hormuz crisis"
@@ -113,13 +113,11 @@
       }
      ],
      "link": [
-      "India",
-      "Ministry of External Affairs (India)",
       "Musandam Governorate",
       "Oman",
       "Indians in Oman"
      ],
-     "testo_it": "Il ministero degli Esteri indiano riferisce di un attacco a una nave commerciale vicino al Governatorato di Musandam, in Oman, che ha ucciso un cittadino indiano, mentre altri 13 sono stati salvati.",
+     "testo_it": "Una nave commerciale viene colpita da un oggetto non identificato nelle acque del Governatorato di Musandam, in Oman, uccidendo un membro dell'equipaggio indiano, mentre altri 13 vengono salvati.",
      "contesto_it": [
       "Guerra in Iran (2026)",
       "Stretto di Hormuz (2026)"
@@ -150,21 +148,22 @@
      ]
     },
     {
-     "testo": "Spanish author Cristina Fernández Cubas is awarded the Cervantes Prize.",
+     "testo": "Spanish author Cristina Fernández Cubas is awarded the 2026 Cervantes Prize to honor her writing in the Spanish language.",
      "contesto": [],
-     "categoria": "Art and culture",
+     "categoria": "Arts and culture",
      "fonti": [
       {
-       "nome": "Cadena SER",
+       "nome": "Cadena SER in Spanish",
        "url": "https://cadenaser.com/nacional/2026/11/03/cristina-fernandez-cubas-premio-cervantes-2026-cadena-ser/"
       }
      ],
      "link": [
       "Spain",
       "Cristina Fernández Cubas",
-      "Cervantes Prize"
+      "Cervantes Prize",
+      "Spanish language"
      ],
-     "testo_it": "L'autrice spagnola Cristina Fernández Cubas riceve il Premio Cervantes."
+     "testo_it": "L'autrice spagnola Cristina Fernández Cubas riceve il Premio Cervantes 2026 per onorare la sua scrittura in lingua spagnola."
     },
     {
      "testo": "The Reserve Bank of Australia raises its benchmark interest rate by 0.25 percentage points to 4.85%, its highest level since 2008, citing persistent inflation and rising energy costs associated with the Iran war.",
@@ -213,6 +212,25 @@
       "New Zealand"
      ],
      "testo_it": "Due elicotteri operati da Air Dynasty e Fishtail Air si scontrano mentre atterrano nel distretto di Solukhumbu, Nepal, vicino al Monte Everest, uccidendo un turista indiano e ferendo un cittadino neozelandese."
+    },
+    {
+     "testo": "Five suspected robbers, including two former police personnel, are killed in shootouts with police in Bacoor, Cavite, Philippines.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "Daily Tribune",
+       "url": "https://tribune.net.ph/2026/11/04/2-former-cops-among-5-killed-in-bacoor-shootouts"
+      }
+     ],
+     "link": [
+      "Philippine National Police",
+      "Shootout",
+      "Bacoor",
+      "Cavite",
+      "Philippines"
+     ],
+     "testo_it": "Cinque presunti ladri, tra cui due ex agenti di polizia, vengono uccisi in sparatorie con la polizia a Bacoor, Cavite, Filippine."
     },
     {
      "testo": "Three people are arrested for allegedly wiretapping Indonesian president Prabowo Subianto's phone.",
@@ -330,6 +348,26 @@
      "contesto_it": [
       "Elezioni negli Stati Uniti (2026)"
      ]
+    },
+    {
+     "testo": "Spanish transport minister Óscar Puente resigns after the country experienced two train collision disasters in one year, the Adamuz derailment in January and the Toledo collision last week, which had a combined casualty toll of 115 deaths and 492 injuries.",
+     "contesto": [],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "CNN",
+       "url": "https://www.cnn.com/2026/11/03/americas/spain-transport-minister-resigns-intl-latam"
+      }
+     ],
+     "link": [
+      "Spain",
+      "Ministry of Development (Spain)",
+      "Óscar Puente",
+      "Railway accident",
+      "2026 Adamuz rail disaster",
+      "2026 Toledo train collision"
+     ],
+     "testo_it": "Il ministro dei trasporti spagnolo Óscar Puente si dimette dopo che il paese ha subito due disastri di collisione in treno in un anno, il deragliamento Adamuz a gennaio e la collisione di Toledo la scorsa settimana, che ha avuto un bilancio combinato di vittime di 115 morti e 492 feriti."
     },
     {
      "testo": "In association football, CD Tenerife striker Jesús de Miguel dies following an in-game collision with FC Andorra goalkeeper Jesús Owono the previous day.",
@@ -460,10 +498,10 @@
      ],
      "link": [
       "United States Armed Forces",
-      "Airstrikes",
+      "Airstrike",
       "Iran",
       "Strait of Hormuz",
-      "Surface-to-air missiles"
+      "Surface-to-air missile"
      ],
      "testo_it": "L'esercito degli Stati Uniti effettua attacchi aerei su obiettivi iraniani attraverso lo Stretto di Hormuz dopo che i missili terra-aria iraniani attaccano gli aerei americani nello Stretto.",
      "contesto_it": [
@@ -554,7 +592,7 @@
      ]
     },
     {
-     "testo": "The Rapid Support Forces launches drone strikes against three distrubition stations in Sudan's Kassala and Northern states.",
+     "testo": "The Rapid Support Forces launches drone strikes against three distribution stations in Sudan's Kassala and Northern states.",
      "contesto": [
       "Sudanese civil war",
       "War crimes in the Sudanese civil war"
@@ -573,7 +611,7 @@
       "Northern State (Sudan)",
       "States of Sudan"
      ],
-     "testo_it": "Le forze di supporto rapido lanciano attacchi con droni contro tre stazioni di distrubizione nel Kassala del Sudan e negli stati del Nord.",
+     "testo_it": "Le forze di supporto rapido lanciano attacchi con droni contro tre stazioni di distribuzione nel Kassala del Sudan e negli stati del Nord.",
      "contesto_it": [
       "Guerra civile sudanese",
       "Crimini di guerra nella guerra civile sudanese"
@@ -680,7 +718,7 @@
      ]
     },
     {
-     "testo": "Eight people are killed after they were electrocuted when a vehicle came into contact with a high-voltage power line in Rajasthan, India.",
+     "testo": "Eight people are killed after they were electrocuted when a vehicle comes into contact with a high-voltage power line in Jhunjhunu, Rajasthan, India.",
      "contesto": [],
      "categoria": "Disasters and accidents",
      "fonti": [
@@ -690,10 +728,13 @@
       }
      ],
      "link": [
+      "High-voltage direct current",
+      "Overhead power line",
+      "Jhunjhunu",
       "Rajasthan",
       "India"
      ],
-     "testo_it": "Otto persone vengono uccise dopo essere state elettrificate quando un veicolo è entrato in contatto con una linea elettrica ad alta tensione nel Rajasthan, in India."
+     "testo_it": "Otto persone vengono uccise dopo essere state elettrificate quando un veicolo entra in contatto con una linea elettrica ad alta tensione a Jhunjhunu, Rajasthan, India."
     },
     {
      "testo": "The United States Food and Drug Administration approves the first generic version of lenacapavir, a twice-yearly HIV prevention injection expected to cost about US$40 annually in 120 low- and middle-income countries.",
