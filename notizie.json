@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-05T06:57:34Z",
+ "generato": "2026-11-05T17:29:19Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -10,12 +10,30 @@
  },
  "itn": [
   {
+   "testo": "In the United States, the Democratic Party wins a majority in both the House of Representatives and the Senate in the midterm elections.",
+   "contesto": [],
+   "categoria": "In primo piano",
+   "fonti": [
+    {
+     "nome": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_elections"
+    }
+   ],
+   "link": [
+    "Democratic Party (United States)",
+    "United States House of Representatives",
+    "United States Senate",
+    "2026 United States elections"
+   ],
+   "testo_it": "Negli Stati Uniti, il Partito Democratico vince la maggioranza sia alla Camera dei Rappresentanti che al Senato nelle elezioni di medio termine."
+  },
+  {
    "testo": "The Polish Constitutional Tribunal crisis escalates with the suspension of tribunal head Bogdan Święczkowski and deputy head Bartłomiej Sochański by judge Anna Korwin-Piotrowska.",
    "contesto": [],
    "categoria": "In primo piano",
    "fonti": [],
    "link": [
-    "Polish Constitutional Tribunal crisis (2015–2016)",
+    "Constitutional Tribunal (Poland)",
     "2026 Polish Constitutional Tribunal crisis",
     "Bogdan Święczkowski",
     "Bartłomiej Sochański",
@@ -73,27 +91,188 @@
     "2026 World Series"
    ],
    "testo_it": "Nel baseball, i Milwaukee Brewers sconfiggono i Tampa Bay Rays per vincere le World Series."
-  },
-  {
-   "testo": "Mexican politician Cuauhtémoc Cárdenas dies at the age of 92.",
-   "contesto": [],
-   "categoria": "In primo piano",
-   "fonti": [
-    {
-     "nome": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/Cuauht%C3%A9moc_C%C3%A1rdenas"
-    }
-   ],
-   "link": [
-    "Cuauhtémoc Cárdenas"
-   ],
-   "testo_it": "Il politico messicano Cuauhtémoc Cárdenas muore all'età di 92 anni."
   }
  ],
  "giorni": [
   {
    "data": "2026-11-05",
-   "voci": []
+   "voci": [
+    {
+     "testo": "The New York Times confirms that the Venezuelan Armed Forces and the United States Armed Forces carried out a joint operation with airstrikes and drones against an alleged hideout belonging to the National Liberation Army in Apure, Venezuela, six days ago, killing at least 23 people and wounding dozens more.",
+     "contesto": [
+      "Operation Southern Spear"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "El Pais",
+       "url": "https://english.elpais.com/international/2026-11-04/the-us-takes-its-anti-narcotics-war-onto-venezuelan-soil-with-a-drone-strike-against-the-eln.html?outputType=amp"
+      }
+     ],
+     "link": [
+      "The New York Times",
+      "Bolivarian National Armed Forces of Venezuela",
+      "United States Armed Forces",
+      "Airstrike",
+      "Drone warfare",
+      "National Liberation Army (Colombia)",
+      "Apure",
+      "Venezuela"
+     ],
+     "testo_it": "Il New York Times conferma che le forze armate venezuelane e le forze armate degli Stati Uniti hanno effettuato un'operazione congiunta con attacchi aerei e droni contro un presunto nascondiglio appartenente all'Esercito di Liberazione Nazionale di Apure, in Venezuela, sei giorni fa, uccidendo almeno 23 persone e ferendone altre decine.",
+     "contesto_it": [
+      "Operazione Southern Spear"
+     ]
+    },
+    {
+     "testo": "A police officer is killed and another injured in a stabbing attack outside the Sri Lankan embassy in Amman, Jordan. The suspect is arrested. The event is described as a terrorist attack.",
+     "contesto": [],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Ammon News",
+       "url": "https://en.ammonnews.net/mobile/article/96865"
+      },
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/5/security-%E2%81%A0officer-killed-in-stabbing-attack-in-jordans-capital"
+      }
+     ],
+     "link": [
+      "Public Security Directorate",
+      "Stabbing as a terrorist tactic",
+      "Sri Lanka",
+      "Diplomatic mission",
+      "Amman",
+      "Jordan",
+      "Terrorism"
+     ],
+     "testo_it": "Un agente di polizia viene ucciso e un altro ferito in un attacco di accoltellamento fuori dall'ambasciata dello Sri Lanka ad Amman, in Giordania. Il sospetto viene arrestato. L'evento è descritto come un attacco terroristico."
+    },
+    {
+     "testo": "Six people are killed and nine more injured after a fire at a two-story home in Brooklyn, New York City, United States.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/fatal-fire-brooklyn-new-york-bb3c0c9753d0e64ec994cc892f32170e"
+      }
+     ],
+     "link": [
+      "Brooklyn",
+      "New York City",
+      "United States"
+     ],
+     "testo_it": "Sei persone vengono uccise e altre nove ferite dopo un incendio in una casa a due piani a Brooklyn, New York City, Stati Uniti."
+    },
+    {
+     "testo": "Six people are arrested in connection with a corruption investigation involving ruling PSOE officials and the Ministry of Transport.",
+     "contesto": [
+      "Koldo affair, Corruption in Spain"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "20 Minutos",
+       "url": "https://www.20minutos.es/nacional/registros-uco-directo-uco-registra-casa-abalos-valencia-un-nuevo-operativo-caso-koldo_7057529_6.html"
+      }
+     ],
+     "link": [
+      "PSOE",
+      "Ministry of Transport (Spain)"
+     ],
+     "testo_it": "Sei persone sono state arrestate in relazione a un'indagine sulla corruzione che ha coinvolto funzionari del PSOE e il Ministero dei Trasporti.",
+     "contesto_it": [
+      "Il caso Koldo, la corruzione in Spagna"
+     ]
+    },
+    {
+     "testo": "British actor and comedian Russell Brand is convicted of one count of rape and three counts of sexual assault, after a trial in the United Kingdom. He is acquitted of three other charges. Brand was subsequently remanded into custody, with sentencing pending.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "BBC News",
+       "url": "https://www.bbc.com/news/live/cmde8w42jpeyt"
+      }
+     ],
+     "link": [
+      "Russell Brand",
+      "Rape",
+      "United Kingdom"
+     ],
+     "testo_it": "L'attore e comico britannico Russell Brand viene condannato per uno stupro e tre accuse di violenza sessuale, dopo un processo nel Regno Unito. Viene assolto da altre tre accuse. Brand è stato successivamente rinviato in custodia, con la condanna in sospeso."
+    },
+    {
+     "testo": "The syndicate of unions organizes a general strike across France, supported by the yellow vests movement, activists, and student protesters.",
+     "contesto": [
+      "2026 French student protests"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "CNN",
+       "url": "https://www.cnn.com/2026/11/05/world/live-news/france-strikes-protests-action-schools-intl"
+      }
+     ],
+     "link": [
+      "Union syndicale Solidaires",
+      "General strike",
+      "France",
+      "Yellow vests movement"
+     ],
+     "testo_it": "Il sindacato dei sindacati organizza uno sciopero generale in tutta la Francia, sostenuto dal movimento dei gilet gialli, attivisti e manifestanti studenteschi.",
+     "contesto_it": [
+      "Proteste studentesche francesi (2026)"
+     ]
+    },
+    {
+     "testo": "Grenadians vote to elect 15 members of the House of Representatives. Incumbent prime minister Dickon Mitchell seeks a second term in office.",
+     "contesto": [
+      "2026 Grenadian general election"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/grenada-election-mitchell-david-slavery-e1b1b344507f5c6180983e0271c463ad"
+      }
+     ],
+     "link": [
+      "Grenada",
+      "House of Representatives (Grenada)",
+      "List of heads of government of Grenada",
+      "Dickon Mitchell"
+     ],
+     "testo_it": "I granatiani votano per eleggere 15 membri della Camera dei Rappresentanti. Il primo ministro in carica Dickon Mitchell cerca un secondo mandato in carica.",
+     "contesto_it": [
+      "Elezioni generali in Gran Bretagna (2026)"
+     ]
+    },
+    {
+     "testo": "Paraguayan president Santiago Peña resigns amid an impeachment trial.",
+     "contesto": [],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "France 24 in Spanish",
+       "url": "https://france24.com/es/minuto-a-minuto/20261105-santiago-peña-renuncia-a-la-presidencia-de-paraguay-en-medio-del-escándalo-de-ueno-bank"
+      },
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/americas/paraguay-president-pea-resigns-under-mounting-pressure-bank-collapse-2026-11-05/"
+      }
+     ],
+     "link": [
+      "Paraguay",
+      "President of Paraguay",
+      "Santiago Peña",
+      "Impeachment"
+     ],
+     "testo_it": "Il presidente paraguaiano Santiago Peña si dimette dopo un processo di impeachment."
+    }
+   ]
   },
   {
    "data": "2026-11-04",
@@ -121,26 +300,7 @@
      "testo_it": "La commissione salariale dell'industria dell'abbigliamento del Bangladesh accetta di aumentare i salari minimi dopo cinque giorni di proteste dei lavoratori e scontri con la polizia. I lavoratori chiedono  30.000 (US $ 240) al mese, da  12.500 (US $ 100), mentre il consiglio non ha specificato l'aumento."
     },
     {
-     "testo": "A motorized cargo boat carrying a load of copra capsizes off Jomalig, Quezon, Philippines. A search and rescue operation is later launched for seven missing individuals aboard.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "Inquirer.net",
-       "url": "https://newsinfo.inquirer.net/2336548/7-men-missing-after-cargo-boat-capsizes-off-jomalig-quezon/"
-      }
-     ],
-     "link": [
-      "Cargo boat",
-      "Copra",
-      "Jomalig, Quezon",
-      "Philippines",
-      "Search and rescue"
-     ],
-     "testo_it": "Una barca da carico motorizzata che trasporta un carico di copra si rovescia al largo di Jomalig, Quezon, Filippine. Un'operazione di ricerca e soccorso viene successivamente lanciata per sette persone scomparse a bordo."
-    },
-    {
-     "testo": "The Singaporean parliament amends the Transboundary Haze Pollution Act of 2014, introducing arrest powers, permitting trials without defendants present, and increasing maximum fines tenfold to S$20 million (US$15 million) following widespread air pollution from Indonesian wildfires.",
+     "testo": "The Singaporean parliament amends the Transboundary Haze Pollution Act of 2014, introducing arrest powers, permitting trials in absentia, and increasing maximum fines tenfold to S$20 million (US$15 million) following widespread air pollution from Indonesian wildfires.",
      "contesto": [
       "2026 Southeast Asian haze"
      ],
@@ -156,21 +316,41 @@
       "Parliament of Singapore",
       "Transboundary Haze Pollution Act of 2014",
       "Law enforcement in Singapore",
-      "Judicial system of Singapore",
-      "Defendant",
+      "Trial in absentia",
       "S$",
       "Environmental issues in Singapore",
       "Indonesia",
       "2026 Indonesia wildfires"
      ],
-     "testo_it": "Il parlamento di Singapore modifica il Transboundary Haze Pollution Act del 2014, introducendo poteri di arresto, consentendo processi senza imputati presenti, e aumentando le multe massime di dieci volte a 20 milioni di dollari (15 milioni di dollari) a seguito dell'inquinamento atmosferico diffuso dagli incendi in Indonesia.",
+     "testo_it": "Il parlamento di Singapore modifica il Transboundary Haze Pollution Act del 2014, introducendo poteri di arresto, consentendo processi in contumacia e aumentando le multe massime di dieci volte a 20 milioni di dollari (15 milioni di dollari) a seguito dell'inquinamento atmosferico diffuso dagli incendi indonesiano.",
      "contesto_it": [
       "Foschia del sud-est asiatico (2026)"
      ]
     },
     {
-     "testo": "Philippine authorities seize a 200-kilogram (440 lb) shipment of methamphetamine, whose origin is traced to Laos, at the Manila International Container Port. The shipment had arrived six days after local police in Laos found the similar contraband, supposed to be brought to the Philippines, on October 1.",
+     "testo": "The United Kingdom's Office for National Statistics reports that deaths linked to cocaine use have overtaken deaths from heroin in England and Wales for the first time on record. The increase in deaths from cocaine use is blamed on increased purity of the drug and its widespread availability across the UK in recent years.",
      "contesto": [],
+     "categoria": "Health and environment",
+     "fonti": [
+      {
+       "nome": "BBC News",
+       "url": "https://www.bbc.co.uk/news/articles/cmdxw051np9jo"
+      }
+     ],
+     "link": [
+      "United Kingdom",
+      "Office for National Statistics",
+      "Cocaine",
+      "Heroin",
+      "England and Wales"
+     ],
+     "testo_it": "L'Ufficio per le statistiche nazionali del Regno Unito riferisce che le morti legate all'uso di cocaina hanno superato per la prima volta le morti per eroina in Inghilterra e Galles. L'aumento delle morti per uso di cocaina è attribuito all'aumento della purezza della droga e alla sua diffusa disponibilità in tutto il Regno Unito negli ultimi anni."
+    },
+    {
+     "testo": "Philippine authorities seize a 200-kilogram (440 lb) shipment of methamphetamine, whose origin is traced to Laos, at the Manila International Container Port. The shipment had arrived six days after Laotian police found similar contraband destined for the Philippines.",
+     "contesto": [
+      "Illegal drug trade in the Philippines"
+     ],
      "categoria": "Law and crime",
      "fonti": [
       {
@@ -189,7 +369,10 @@
       "Port of Manila",
       "2026 Laos private jet drug smuggling case"
      ],
-     "testo_it": "Le autorità filippine sequestrano una spedizione di 200 chilogrammi (440 lb) di metanfetamina, la cui origine è rintracciata in Laos, presso il porto internazionale dei container di Manila. La spedizione era arrivata sei giorni dopo che la polizia locale in Laos aveva trovato il contrabbando simile, che avrebbe dovuto essere portato nelle Filippine, il 1 ° ottobre."
+     "testo_it": "Le autorità filippine sequestrano una spedizione di 200 chilogrammi (440 lb) di metanfetamina, la cui origine è rintracciata in Laos, presso il porto internazionale dei container di Manila. La spedizione era arrivata sei giorni dopo che la polizia laotiana aveva trovato un contrabbando simile destinato alle Filippine.",
+     "contesto_it": [
+      "Il traffico illegale di droga nelle Filippine"
+     ]
     },
     {
      "testo": "Hungary makes Communist-era secret police records publicly accessible through a database containing approximately 60,000 names linked to former state security services. Prime Minister Péter Magyar announces that additional documents will become available in February 2027.",
