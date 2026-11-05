@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-04T23:45:21Z",
+ "generato": "2026-11-05T06:57:34Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -92,10 +92,14 @@
  ],
  "giorni": [
   {
+   "data": "2026-11-05",
+   "voci": []
+  },
+  {
    "data": "2026-11-04",
    "voci": [
     {
-     "testo": "The Bangladeshi garment industry wage board agrees to increase minimum wages following five days of worker protests and clashes with police. Workers demand ৳30,000 (US$240) monthly, up from ৳12,500 ($100), while the board has not specified the increase.",
+     "testo": "The Bangladeshi garment industry wage board agrees to increase minimum wages following five days of worker protests and clashes with police. Workers demand ৳30,000 (US$240) monthly, up from ৳12,500 (US$100), while the board has not specified the increase.",
      "contesto": [],
      "categoria": "Business and economy",
      "fonti": [
@@ -114,7 +118,26 @@
       "Bangladeshi taka",
       "US$"
      ],
-     "testo_it": "Il consiglio salariale dell'industria dell'abbigliamento del Bangladesh accetta di aumentare i salari minimi dopo cinque giorni di proteste e scontri con la polizia. I lavoratori chiedono  30.000 (240 dollari) al mese, da  12.500 ($ 100), mentre il consiglio non ha specificato l'aumento."
+     "testo_it": "La commissione salariale dell'industria dell'abbigliamento del Bangladesh accetta di aumentare i salari minimi dopo cinque giorni di proteste dei lavoratori e scontri con la polizia. I lavoratori chiedono  30.000 (US $ 240) al mese, da  12.500 (US $ 100), mentre il consiglio non ha specificato l'aumento."
+    },
+    {
+     "testo": "A motorized cargo boat carrying a load of copra capsizes off Jomalig, Quezon, Philippines. A search and rescue operation is later launched for seven missing individuals aboard.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "Inquirer.net",
+       "url": "https://newsinfo.inquirer.net/2336548/7-men-missing-after-cargo-boat-capsizes-off-jomalig-quezon/"
+      }
+     ],
+     "link": [
+      "Cargo boat",
+      "Copra",
+      "Jomalig, Quezon",
+      "Philippines",
+      "Search and rescue"
+     ],
+     "testo_it": "Una barca da carico motorizzata che trasporta un carico di copra si rovescia al largo di Jomalig, Quezon, Filippine. Un'operazione di ricerca e soccorso viene successivamente lanciata per sette persone scomparse a bordo."
     },
     {
      "testo": "The Singaporean parliament amends the Transboundary Haze Pollution Act of 2014, introducing arrest powers, permitting trials without defendants present, and increasing maximum fines tenfold to S$20 million (US$15 million) following widespread air pollution from Indonesian wildfires.",
@@ -146,10 +169,14 @@
      ]
     },
     {
-     "testo": "Philippine authorities seize a 200-kilogram (440 lb) shipment of crystal meth, whose origin is traced in Laos, at the Manila International Container Port. The shipment had arrived six days after local police in Laos likewise found the same contraband on a Philippine-bound private plane on October 1.",
+     "testo": "Philippine authorities seize a 200-kilogram (440 lb) shipment of methamphetamine, whose origin is traced to Laos, at the Manila International Container Port. The shipment had arrived six days after local police in Laos found the similar contraband, supposed to be brought to the Philippines, on October 1.",
      "contesto": [],
      "categoria": "Law and crime",
      "fonti": [
+      {
+       "nome": "Arab News",
+       "url": "https://www.arabnews.com/world/philippines-seizes-200-kg-of-methamphetamine-at-manila-port-3009754"
+      },
       {
        "nome": "Philippine Daily Inquirer",
        "url": "https://globalnation.inquirer.net/345789/this-time-shabu-cargo-from-laos-reaches-ph-before-seizure"
@@ -157,12 +184,52 @@
      ],
      "link": [
       "Philippines",
-      "Crystal meth",
+      "Methamphetamine",
       "Laos",
       "Port of Manila",
       "2026 Laos private jet drug smuggling case"
      ],
-     "testo_it": "Le autorità filippine sequestrano una spedizione di 200 chilogrammi (440 lb) di metanfetamina cristallina, la cui origine è tracciata in Laos, presso il porto internazionale dei container di Manila. La spedizione era arrivata sei giorni dopo che la polizia locale in Laos aveva trovato lo stesso contrabbando su un aereo privato filippino il 1 ° ottobre."
+     "testo_it": "Le autorità filippine sequestrano una spedizione di 200 chilogrammi (440 lb) di metanfetamina, la cui origine è rintracciata in Laos, presso il porto internazionale dei container di Manila. La spedizione era arrivata sei giorni dopo che la polizia locale in Laos aveva trovato il contrabbando simile, che avrebbe dovuto essere portato nelle Filippine, il 1 ° ottobre."
+    },
+    {
+     "testo": "Hungary makes Communist-era secret police records publicly accessible through a database containing approximately 60,000 names linked to former state security services. Prime Minister Péter Magyar announces that additional documents will become available in February 2027.",
+     "contesto": [],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/hungary-opens-communist-era-informer-files-belated-reckoning-with-cold-war-past-2026-11-04/"
+      }
+     ],
+     "link": [
+      "Hungary",
+      "Hungarian People's Republic",
+      "Secret police",
+      "Database",
+      "Ministry of Internal Affairs III",
+      "Prime Minister of Hungary",
+      "Péter Magyar"
+     ],
+     "testo_it": "L'Ungheria rende accessibili al pubblico i registri della polizia segreta dell'era comunista attraverso un database contenente circa 60.000 nomi legati all'ex servizio di sicurezza statale."
+    },
+    {
+     "testo": "The Neil Gehrels Swift Observatory, a space telescope for studying gamma-ray bursts, re-enters Earth's atmosphere over Sumatra, ending its mission of nearly 22 years.",
+     "contesto": [],
+     "categoria": "Science and technology",
+     "fonti": [
+      {
+       "nome": "NASA",
+       "url": "https://science.nasa.gov/blogs/swift/2026/11/02/nasas-swift-observatory-to-re-enter-atmosphere/"
+      }
+     ],
+     "link": [
+      "Neil Gehrels Swift Observatory",
+      "Space telescope",
+      "Gamma-ray burst",
+      "Atmospheric entry",
+      "Sumatra"
+     ],
+     "testo_it": "Il Neil Gehrels Swift Observatory, un telescopio spaziale per studiare i lampi di raggi gamma, rientra nell'atmosfera terrestre sopra Sumatra, ponendo fine alla sua missione di quasi 22 anni."
     }
    ]
   },
@@ -412,7 +479,8 @@
       "News media in the United States",
       "Democratic Party (United States)",
       "120th United States Congress",
-      "Republican Party (United States)"
+      "Republican Party (United States)",
+      "United States Congress"
      ],
      "testo_it": "Le organizzazioni giornalistiche statunitensi prevedono che il Partito Democratico controllerà la Camera dei Rappresentanti e il Senato nel prossimo 120 ° Congresso, ponendo fine alla maggioranza del Partito Repubblicano in entrambe le camere.",
      "contesto_it": [
@@ -436,6 +504,7 @@
       }
      ],
      "link": [
+      "U.S. state",
       "Adam Hamilton (American politician)",
       "2026 United States Senate election in Kansas",
       "1932 United States Senate election in Kansas",
@@ -443,10 +512,64 @@
       "2026 United States Senate election in Texas",
       "1988 United States Senate election in Texas",
       "Gina Hinojosa",
+      "Governor of Texas",
       "2026 Texas gubernatorial election",
       "1990 Texas gubernatorial election"
      ],
      "testo_it": "Diversi stati eleggono i loro primi rappresentanti democratici in decenni, tra cui: Adam Hamilton, il primo democratico a vincere un seggio al Senato del Kansas dal 1932; James Talarico, il primo democratico a vincere un seggio al Senato del Texas dal 1988; e Gina Hinojosa, il primo democratico a diventare governatore del Texas dal 1990.",
+     "contesto_it": [
+      "Elezioni negli Stati Uniti (2026)"
+     ]
+    },
+    {
+     "testo": "Abdul El-Sayed defeats Mike Rogers in the United States Senate election in Michigan, making him the first Muslim to be elected to the U.S. Senate.",
+     "contesto": [
+      "2026 United States elections"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "The Washington Post",
+       "url": "https://www.washingtonpost.com/elections/results/2026/11/03/michigan-senate-el-sayed-rogers-live-updates/"
+      },
+      {
+       "nome": "Time",
+       "url": "https://time.com/article/2026/11/03/abdul-el-sayed-michigan-senate-2026-midterm-elections-mike-rogers/"
+      }
+     ],
+     "link": [
+      "Abdul El-Sayed",
+      "Mike Rogers (Michigan politician)",
+      "United States Senate",
+      "2026 United States Senate election in Michigan",
+      "Michigan",
+      "Islam in the United States"
+     ],
+     "testo_it": "Abdul El-Sayed sconfigge Mike Rogers nelle elezioni del Senato degli Stati Uniti in Michigan, rendendolo il primo musulmano ad essere eletto al Senato degli Stati Uniti.",
+     "contesto_it": [
+      "Elezioni negli Stati Uniti (2026)"
+     ]
+    },
+    {
+     "testo": "Keisha Lance Bottoms defeats Rick Jackson in the gubernatorial election in Georgia, becoming the first black woman to be elected governor in U.S. history.",
+     "contesto": [
+      "2026 United States elections"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/georgia-governor-lance-bottom-jackson-midterm-election-67c22a38b9a6e4cad5584aa44acf106f"
+      }
+     ],
+     "link": [
+      "Keisha Lance Bottoms",
+      "Rick Jackson (businessman)",
+      "2026 Georgia gubernatorial election",
+      "Georgia (U.S. state)",
+      "Governor (United States)"
+     ],
+     "testo_it": "Keisha Lance Bottoms sconfigge Rick Jackson nelle elezioni governative in Georgia, diventando la prima donna nera ad essere eletta governatore nella storia degli Stati Uniti.",
      "contesto_it": [
       "Elezioni negli Stati Uniti (2026)"
      ]
@@ -1403,7 +1526,7 @@
      ]
     },
     {
-     "testo": "Madagascar's Justice Ministry announces dismantling 13 Chinese-run scam centers since August, linked to 148 Chinese nationals who had previously operated scam centers in Cambodia, and who might have been involved in trafficking Africans to commit fraud. The 148 Chinese are extradited to China.",
+     "testo": "Madagascar's justice ministry announces dismantling 13 Chinese-run scam centers since August, linked to 148 Chinese nationals who had previously operated scam centers in Cambodia, and who might have been involved in trafficking Africans to commit fraud. The 148 Chinese are extradited to China.",
      "contesto": [
       "Trafficking of Chinese nationals to scam centers abroad, Human trafficking in Madagascar"
      ],
@@ -1423,7 +1546,7 @@
       "Human trafficking",
       "Extradited"
      ],
-     "testo_it": "Il Ministero della Giustizia del Madagascar annuncia lo smantellamento di 13 centri di truffa gestiti dalla Cina da agosto, collegati a 148 cittadini cinesi che avevano precedentemente gestito centri di truffa in Cambogia e che potrebbero essere stati coinvolti nel traffico di africani per commettere frodi.",
+     "testo_it": "Il ministero della giustizia del Madagascar annuncia lo smantellamento di 13 centri di truffa gestiti dalla Cina da agosto, collegati a 148 cittadini cinesi che avevano precedentemente gestito centri di truffa in Cambogia e che potrebbero essere stati coinvolti nel traffico di africani per commettere frodi.",
      "contesto_it": [
       "Traffico di cittadini cinesi verso centri di truffa all'estero, tratta di esseri umani in Madagascar"
      ]
@@ -2010,353 +2133,6 @@
       "International Ice Hockey Federation"
      ],
      "testo_it": "Nell'hockey su ghiaccio, la Corte Arbitrale dello Sport regola che le squadre russe devono essere autorizzate a partecipare a tutti i tornei internazionali, ribaltando le precedenti decisioni della Federazione Internazionale di Hockey su Ghiaccio."
-    }
-   ]
-  },
-  {
-   "data": "2026-10-29",
-   "voci": [
-    {
-     "testo": "The Salvadoran government deploys 2,000 troops to Haiti in response to the kidnapping of four Salvadoran Gang Suppression Force members that occurred earlier this month.",
-     "contesto": [
-      "Haitian conflict, El Salvador–Haiti relations",
-      "Salvadoran military intervention in Haiti"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "BBC News",
-       "url": "https://www.bbc.com/news/articles/ck0e075n79j5o"
-      }
-     ],
-     "link": [
-      "El Salvador",
-      "Government of El Salvador",
-      "Armed Forces of El Salvador",
-      "Haiti",
-      "2026 Croix-des-Bouquets kidnapping",
-      "Gang Suppression Force"
-     ],
-     "testo_it": "Il governo salvadoregno schiera 2.000 soldati ad Haiti in risposta al rapimento di quattro membri della Forza di Soppressione delle Gange salvadoregne avvenuto all'inizio di questo mese.",
-     "contesto_it": [
-      "Conflitto haitiano, relazioni El Salvador-Haiti",
-      "Intervento militare salvadoregno ad Haiti"
-     ]
-    },
-    {
-     "testo": "Saudi Arabia launches airstrikes against two residential buildings in Taiz, Yemen, killing 12 civilians and wounding three more.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "Houthi–Saudi conflict, Yemeni civil war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Xinhua",
-       "url": "https://english.news.cn/20261029/44a9ff9e8822451ea1c2e37ac00c3657/c.html"
-      }
-     ],
-     "link": [
-      "Saudi Arabia",
-      "Airstrike",
-      "Taiz",
-      "Yemen"
-     ],
-     "testo_it": "L'Arabia Saudita lancia attacchi aerei contro due edifici residenziali a Taiz, Yemen, uccidendo 12 civili e ferendone altri tre.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Conflitto Houthi-saudita, guerra civile yemenita"
-     ]
-    },
-    {
-     "testo": "Fifteen people are killed and 14 others are injured in a Russian drone strike on Dnipro railway station in Dnipro, Ukraine. Two teenage girls are also killed in a ballistic missile strike on central Chernihiv with eight others being hospitalized. A local day of mourning is declared.",
-     "contesto": [
-      "Russo–Ukrainian war",
-      "Russian attacks on civilians, Dnipro strikes"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "The Kyiv Independnent",
-       "url": "https://kyivindependent.com/russian-attacks-across-ukraine-kill-27-injure-128-over-past-day-as-horrific-attack-strikes-dnipro-train-station/"
-      },
-      {
-       "nome": "The Guardian",
-       "url": "https://www.theguardian.com/world/2026/oct/30/ukraine-war-briefing-russian-drone-attack-dnipro-rail-platform"
-      }
-     ],
-     "link": [
-      "Russian Armed Forces",
-      "Drone warfare",
-      "Dnipro railway station",
-      "Dnipro",
-      "Ukraine",
-      "Ballistic missile",
-      "Chernihiv",
-      "Day of mourning"
-     ],
-     "testo_it": "Quindici persone vengono uccise e altre 14 sono ferite in un attacco drone russo sulla stazione ferroviaria di Dnipro a Dnipro, Ucraina. Due ragazze adolescenti vengono uccise anche in un attacco missilistico balistico sul centro di Chernihiv con altre otto ricoverate in ospedale. Viene dichiarato un giorno di lutto locale.",
-     "contesto_it": [
-      "Guerra russo-ucraina",
-      "Attacchi russi su civili, attacchi di Dnipro"
-     ]
-    },
-    {
-     "testo": "Non-profit fanfiction repository website Archive of Our Own is targeted in a cybersecurity incident, going offline. The Organization of Transformative Works states user information and submissions have not been compromised, and projects restoring the website in 2 to 4 weeks.",
-     "contesto": [],
-     "categoria": "Arts and culture",
-     "fonti": [
-      {
-       "nome": "The New York Times",
-       "url": "https://www.nytimes.com/2026/10/30/arts/ao3-fan-fiction-site-down.html"
-      },
-      {
-       "nome": "People",
-       "url": "https://people.com/ao3-fanfiction-website-could-be-down-for-weeks-12202852"
-      }
-     ],
-     "link": [
-      "Fanfiction",
-      "Archive of Our Own",
-      "Organization of Transformative Works"
-     ],
-     "testo_it": "Il sito Web di repository di fanfiction senza scopo di lucro Archive of Our Own è preso di mira in un incidente di sicurezza informatica, andando offline. L'Organizzazione dei Lavori Trasformativi afferma che le informazioni e le presentazioni degli utenti non sono state compromesse e i progetti di ripristino del sito Web in 2 o 4 settimane."
-    },
-    {
-     "testo": "Canada's federal government invests up to C$1.6 billion (US$1.1 billion) in Toronto-based artificial intelligence company Cohere, taking an equity stake as part of a C$7 billion (US$5 billion) funding round intended to expand domestic computing infrastructure and AI development.",
-     "contesto": [
-      "AI boom",
-      "Artificial intelligence industry in Canada"
-     ],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "AFP",
-       "url": "https://www.afp.com/en/canada-buying-stake-ai-firm-cohere-bolster-tech-sovereignty"
-      },
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/business/ottawa-takes-stake-cohere-ai-company-opens-45-billion-funding-round-2026-10-29/"
-      }
-     ],
-     "link": [
-      "Canada",
-      "Government of Canada",
-      "Canadian dollar",
-      "US$",
-      "Toronto",
-      "Artificial intelligence",
-      "Cohere",
-      "Equity stake",
-      "Funding round",
-      "Computing infrastructure",
-      "AI development"
-     ],
-     "testo_it": "Il governo federale canadese investe fino a 1,6 miliardi di dollari (1,1 miliardi di dollari) nella società di intelligenza artificiale Cohere, con sede a Toronto, prendendo una partecipazione azionaria come parte di un round di finanziamento di 7 miliardi di dollari (5 miliardi di dollari) destinato ad espandere l'infrastruttura informatica nazionale e lo sviluppo dell'intelligenza artificiale.",
-     "contesto_it": [
-      "Boom AI",
-      "Industria dell'intelligenza artificiale in Canada"
-     ]
-    },
-    {
-     "testo": "Seychelles-based cryptocurrency exchange KuCoin ends services for customers in Russia and Belarus, citing ongoing sanctions.",
-     "contesto": [
-      "Boycott of Russia and Belarus"
-     ],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "The Crypto Times",
-       "url": "https://www.cryptotimes.io/2026/10/29/kucoin-suspends-services-in-russia-and-belarus-with-immediate-effect/"
-      }
-     ],
-     "link": [
-      "Seychelles",
-      "Cryptocurrency exchange",
-      "KuCoin",
-      "Russia",
-      "Belarus"
-     ],
-     "testo_it": "L'exchange di criptovalute con sede alle Seychelles KuCoin termina i servizi per i clienti in Russia e Bielorussia, citando sanzioni in corso.",
-     "contesto_it": [
-      "Boicottaggio di Russia e Bielorussia"
-     ]
-    },
-    {
-     "testo": "Christine Lagarde, the president of the European Central Bank, resigns, saying she could not remain neutral on current events. She will step down from office in February 2027, eight months before her term officially ends.",
-     "contesto": [],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/business/finance/ecb-hold-rates-investors-focus-french-bonds-lagardes-future-2026-10-28/"
-      }
-     ],
-     "link": [
-      "Christine Lagarde",
-      "President of the European Central Bank"
-     ],
-     "testo_it": "Christine Lagarde, presidente della Banca centrale europea, si dimette, dicendo che non poteva rimanere neutrale sugli eventi attuali. Si dimetterà dal suo incarico nel febbraio 2027, otto mesi prima della fine ufficiale del suo mandato."
-    },
-    {
-     "testo": "American food delivery company DoorDash announces an intent to acquire grocery delivery company Instacart for $17 billion in late 2027.",
-     "contesto": [],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/doordash-instacart-delivery-d6f30f5d18c288eeba6babcb49260e06"
-      },
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/legal/transactional/doordash-strikes-17-billion-deal-us-rival-instacart-bets-grocery-delivery-2026-10-29/"
-      }
-     ],
-     "link": [
-      "United States",
-      "Food delivery",
-      "DoorDash",
-      "Mergers and acquisitions",
-      "Online grocer",
-      "Instacart",
-      "United States dollar"
-     ],
-     "testo_it": "La società americana DoorDash annuncia l'intenzione di acquisire la società di consegna di generi alimentari Instacart per 17 miliardi di dollari alla fine del 2027."
-    },
-    {
-     "testo": "Four people are killed and eleven more are injured after an Italian Air Force Boeing CH-47 Chinook crashes near Brčko, Bosnia and Herzegovina.",
-     "contesto": [
-      "2026 Brčko helicopter crash"
-     ],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/bosnia-eufor-crash-helicopter-2eb085d8dcc0347ecd4f287d396091c4"
-      }
-     ],
-     "link": [
-      "Italian Air Force",
-      "Boeing CH-47 Chinook",
-      "Brčko",
-      "Bosnia and Herzegovina"
-     ],
-     "testo_it": "Quattro persone sono morte e altre undici sono rimaste ferite dopo che un Boeing CH-47 Chinook dell'Aeronautica Militare italiana si è schiantato vicino a Brčko, in Bosnia-Erzegovina.",
-     "contesto_it": [
-      "incidente elicottero Brčko (2026)"
-     ]
-    },
-    {
-     "testo": "An oxygen cylinder explodes inside an ambulance parked at a medical facility in Tharparkar, Sindh Province, Pakistan, killing ten people.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/pakistan-oxygen-cylinder-explosion-ambulance-sindh-f8e4e6dae32b237f1ea45e4e66f56fa5"
-      }
-     ],
-     "link": [
-      "Oxygen tank",
-      "Ambulance",
-      "Tharparkar",
-      "Sindh",
-      "Pakistan"
-     ],
-     "testo_it": "Un cilindro di ossigeno esplode all'interno di un'ambulanza parcheggiata in una struttura medica a Tharparkar, nella provincia del Sindh, in Pakistan, uccidendo dieci persone."
-    },
-    {
-     "testo": "Three people are killed and five more injured during the collapse of a hoodoo at Göreme's Open Air Museum in the Nevşehir District, Turkey. It is suspected to be caused by heavy rainfall over the preceding days.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/turkey-cappadocia-rock-formation-collapse-climbers-tourism-701991bfabd99898df47e8eba0fbd9fd"
-      }
-     ],
-     "link": [
-      "Hoodoo (geology)",
-      "Göreme",
-      "Nevşehir District",
-      "Turkey"
-     ],
-     "testo_it": "Tre persone vengono uccise e altre cinque ferite durante il crollo di un hoodoo al Museo all'aperto di Göreme nel distretto di Nevşehir, in Turchia. Si sospetta che sia causato da forti piogge nei giorni precedenti."
-    },
-    {
-     "testo": "Andreas Norlén, speaker of the Swedish parliament, announces a second vote to elect the next prime minister. He proposes a coalition led by the Center Party's leader, Elisabeth Thand Ringqvist, alongside the Social Democrats, Greens, Christian Democrats, and the Moderates.",
-     "contesto": [
-      "2026 Swedish government formation"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/swedish-parliament-vote-centre-party-leader-prime-minister-despite-gridlock-2026-10-29/"
-      }
-     ],
-     "link": [
-      "Andreas Norlén",
-      "Speaker of the Riksdag",
-      "Sweden",
-      "Riksdag",
-      "Prime Minister of Sweden",
-      "Coalition government",
-      "Centre Party (Sweden)",
-      "Elisabeth Thand Ringqvist",
-      "Social Democratic Party of Sweden",
-      "Green Party of Sweden",
-      "Christian Democrats (Sweden)",
-      "Moderate Party (Sweden)"
-     ],
-     "testo_it": "Andreas Norlén, presidente del parlamento svedese, annuncia un secondo voto per eleggere il prossimo primo ministro. Propone una coalizione guidata dal leader del Partito Centrale, Elisabeth Thand Ringqvist, insieme ai socialdemocratici, verdi, democratici cristiani e moderati.",
-     "contesto_it": [
-      "Formazione del governo svedese (2026)"
-     ]
-    },
-    {
-     "testo": "Haiti's Provisional Electoral Council sets the first round of presidential and legislative elections for August 29, 2027, with a second round scheduled for December 5, as the country prepares for its first national elections since 2017.",
-     "contesto": [
-      "2027 Haitian general election"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "AFP via RFI",
-       "url": "https://www.rfi.fr/en/international-news/20261029-gang-plagued-haiti-sets-election-dates-for-2027"
-      }
-     ],
-     "link": [
-      "Haiti",
-      "Provisional Electoral Council",
-      "Two-round system",
-      "President of Haiti",
-      "National Assembly (Haiti)",
-      "Elections in Haiti",
-      "2015–17 Haitian parliamentary election"
-     ],
-     "testo_it": "Il Consiglio elettorale provvisorio di Haiti fissa il primo turno delle elezioni presidenziali e legislative per il 29 agosto 2027, con un secondo turno previsto per il 5 dicembre, mentre il paese si prepara per le sue prime elezioni nazionali dal 2017.",
-     "contesto_it": [
-      "Elezioni generali in Haiti (2027)"
-     ]
-    },
-    {
-     "testo": "Teghaza 001, a Martian meteorite discovered in 2022 in the Sahara in Mali, is reported to be 4.1 billion years old.",
-     "contesto": [],
-     "categoria": "Science and technology",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/science/martian-meteorite-found-sahara-is-41-billion-years-old-2026-10-29/"
-      }
-     ],
-     "link": [
-      "Martian meteorite",
-      "2022 in Mali",
-      "Sahara",
-      "Mali"
-     ],
-     "testo_it": "Teghaza 001, un meteorite marziano scoperto nel 2022 nel Sahara in Mali, si dice abbia 4,1 miliardi di anni."
     }
    ]
   }
