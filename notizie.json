@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-05T17:29:19Z",
+ "generato": "2026-11-05T23:42:25Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -98,33 +98,6 @@
    "data": "2026-11-05",
    "voci": [
     {
-     "testo": "The New York Times confirms that the Venezuelan Armed Forces and the United States Armed Forces carried out a joint operation with airstrikes and drones against an alleged hideout belonging to the National Liberation Army in Apure, Venezuela, six days ago, killing at least 23 people and wounding dozens more.",
-     "contesto": [
-      "Operation Southern Spear"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "El Pais",
-       "url": "https://english.elpais.com/international/2026-11-04/the-us-takes-its-anti-narcotics-war-onto-venezuelan-soil-with-a-drone-strike-against-the-eln.html?outputType=amp"
-      }
-     ],
-     "link": [
-      "The New York Times",
-      "Bolivarian National Armed Forces of Venezuela",
-      "United States Armed Forces",
-      "Airstrike",
-      "Drone warfare",
-      "National Liberation Army (Colombia)",
-      "Apure",
-      "Venezuela"
-     ],
-     "testo_it": "Il New York Times conferma che le forze armate venezuelane e le forze armate degli Stati Uniti hanno effettuato un'operazione congiunta con attacchi aerei e droni contro un presunto nascondiglio appartenente all'Esercito di Liberazione Nazionale di Apure, in Venezuela, sei giorni fa, uccidendo almeno 23 persone e ferendone altre decine.",
-     "contesto_it": [
-      "Operazione Southern Spear"
-     ]
-    },
-    {
      "testo": "A police officer is killed and another injured in a stabbing attack outside the Sri Lankan embassy in Amman, Jordan. The suspect is arrested. The event is described as a terrorist attack.",
      "contesto": [],
      "categoria": "Armed conflicts and attacks",
@@ -150,6 +123,23 @@
      "testo_it": "Un agente di polizia viene ucciso e un altro ferito in un attacco di accoltellamento fuori dall'ambasciata dello Sri Lanka ad Amman, in Giordania. Il sospetto viene arrestato. L'evento è descritto come un attacco terroristico."
     },
     {
+     "testo": "Eleven people are killed and 33 more injured after the collision of a passenger bus with a truck in Pakpattan District, Punjab, Pakistan.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/pakistan-passenger-bus-truck-accident-punjab-province-6fdc57a6e561f283c48cded6759956ea"
+      }
+     ],
+     "link": [
+      "Pakpattan District",
+      "Punjab, Pakistan",
+      "Pakistan"
+     ],
+     "testo_it": "Undici persone vengono uccise e 33 feriti dopo la collisione di un autobus passeggeri con un camion nel distretto di Pakpattan, Punjab, Pakistan."
+    },
+    {
      "testo": "Six people are killed and nine more injured after a fire at a two-story home in Brooklyn, New York City, United States.",
      "contesto": [],
      "categoria": "Disasters and accidents",
@@ -157,6 +147,10 @@
       {
        "nome": "AP",
        "url": "https://apnews.com/article/fatal-fire-brooklyn-new-york-bb3c0c9753d0e64ec994cc892f32170e"
+      },
+      {
+       "nome": "Sky News",
+       "url": "https://news.sky.com/story/new-york-fire-kills-six-and-injures-nine-including-firefighters-and-police-officers-13608446"
       }
      ],
      "link": [
@@ -167,42 +161,135 @@
      "testo_it": "Sei persone vengono uccise e altre nove ferite dopo un incendio in una casa a due piani a Brooklyn, New York City, Stati Uniti."
     },
     {
-     "testo": "Six people are arrested in connection with a corruption investigation involving ruling PSOE officials and the Ministry of Transport.",
+     "testo": "Six more people are found dead under the debris of a building that collapsed two weeks ago in Nairobi, Kenya, bringing the death toll to eight. Sixteen others are still missing.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/kenya-building-collapse-nairobi-death-toll-5c66ab1fdf995e92dad8aabae5358ba9"
+      }
+     ],
+     "link": [
+      "Nairobi",
+      "Kenya"
+     ],
+     "testo_it": "Altre sei persone sono state trovate morte sotto i detriti di un edificio crollato due settimane fa a Nairobi, in Kenya, portando il bilancio delle vittime a otto."
+    },
+    {
+     "testo": "California Governor Gavin Newsom grants or requests sentence commutations of the death sentences of all 548 prisoners on California's death row. The commutation requests of recidivist death row offenders remain pending review by the California Supreme Court.",
      "contesto": [
-      "Koldo affair, Corruption in Spain"
+      "Capital punishment in California"
      ],
      "categoria": "Law and crime",
      "fonti": [
       {
-       "nome": "20 Minutos",
-       "url": "https://www.20minutos.es/nacional/registros-uco-directo-uco-registra-casa-abalos-valencia-un-nuevo-operativo-caso-koldo_7057529_6.html"
+       "nome": "NBC News",
+       "url": "https://www.nbcnews.com/news/us-news/california-gov-gavin-newsom-commutes-death-sentences-rcna607727"
       }
      ],
      "link": [
-      "PSOE",
-      "Ministry of Transport (Spain)"
+      "California",
+      "Gavin Newsom",
+      "Commutation (law)",
+      "Capital punishment",
+      "California Supreme Court"
      ],
-     "testo_it": "Sei persone sono state arrestate in relazione a un'indagine sulla corruzione che ha coinvolto funzionari del PSOE e il Ministero dei Trasporti.",
+     "testo_it": "Il governatore della California Gavin Newsom concede o richiede commutazioni di condanne a morte di tutti i 548 prigionieri nel braccio della morte della California. Le richieste di commutazione dei recidivi del braccio della morte rimangono in attesa di revisione da parte della Corte Suprema della California.",
      "contesto_it": [
-      "Il caso Koldo, la corruzione in Spagna"
+      "La pena di morte in California"
      ]
     },
     {
-     "testo": "British actor and comedian Russell Brand is convicted of one count of rape and three counts of sexual assault, after a trial in the United Kingdom. He is acquitted of three other charges. Brand was subsequently remanded into custody, with sentencing pending.",
+     "testo": "The Nepali supreme court directs the government to regulate cannabis cultivation for medicinal, scientific, agricultural, horticultural, and industrial purposes.",
+     "contesto": [
+      "Cannabis in Nepal"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "AFP via France 24",
+       "url": "https://www.france24.com/en/live-news/20261105-nepal-court-gives-green-light-to-controlled-cannabis-cultivation"
+      }
+     ],
+     "link": [
+      "Nepal",
+      "Supreme Court of Nepal",
+      "Balen Shah cabinet",
+      "Cannabis cultivation",
+      "Medical cannabis",
+      "Cannabis industry"
+     ],
+     "testo_it": "La corte suprema nepalese ordina al governo di regolamentare la coltivazione di cannabis per scopi medicinali, scientifici, agricoli, orticoli e industriali.",
+     "contesto_it": [
+      "Cannabis in Nepal"
+     ]
+    },
+    {
+     "testo": "The Mexican government approves the Digital Economy Act for Digital and Electronic Payments, which allows it to designate sectors in which digital payments are the only accepted means of payment.",
+     "contesto": [
+      "Economy of Mexico"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "N+",
+       "url": "https://www.nmas.com.mx/economia/aplica-a-partir-de-hoy-jueves-5-noviembre-2026-ley-economia-digital-reducir-uso-efectivo/"
+      }
+     ],
+     "link": [
+      "Federal government of Mexico",
+      "E-commerce payment system"
+     ],
+     "testo_it": "Il governo messicano approva la legge sull'economia digitale per i pagamenti digitali ed elettronici, che consente di designare settori in cui i pagamenti digitali sono l'unico mezzo di pagamento accettato.",
+     "contesto_it": [
+      "Economia del Messico"
+     ]
+    },
+    {
+     "testo": "Six people are arrested in connection with a corruption investigation involving ruling PSOE officials and the transport ministry in Spain.",
+     "contesto": [
+      "Koldo affair"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "Ara",
+       "url": "https://en.ara.cat/politics/six-arrested-in-new-secret-piece-of-the-koldo-case_1_5900925.html"
+      }
+     ],
+     "link": [
+      "Corruption in Spain",
+      "Spanish Socialist Workers' Party",
+      "Ministry of Transport (Spain)",
+      "Spain"
+     ],
+     "testo_it": "Sei persone sono state arrestate in relazione a un'indagine sulla corruzione che ha coinvolto funzionari del PSOE e il ministero dei trasporti in Spagna.",
+     "contesto_it": [
+      "affare Koldo"
+     ]
+    },
+    {
+     "testo": "The Hong Kong High Court sentences pro-democracy activist Joshua Wong to an additional 10 years in prison for conspiring with foreign entities to impose sanctions against China and Hong Kong under the national security law.",
      "contesto": [],
      "categoria": "Law and crime",
      "fonti": [
       {
-       "nome": "BBC News",
-       "url": "https://www.bbc.com/news/live/cmde8w42jpeyt"
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/hong-kong-activist-joshua-wong-given-10-more-years-collusion"
       }
      ],
      "link": [
-      "Russell Brand",
-      "Rape",
-      "United Kingdom"
+      "Hong Kong High Court",
+      "Pro-democracy camp (Hong Kong)",
+      "Joshua Wong",
+      "Prisons in Hong Kong",
+      "International sanctions",
+      "China",
+      "Hong Kong",
+      "2020 Hong Kong national security law"
      ],
-     "testo_it": "L'attore e comico britannico Russell Brand viene condannato per uno stupro e tre accuse di violenza sessuale, dopo un processo nel Regno Unito. Viene assolto da altre tre accuse. Brand è stato successivamente rinviato in custodia, con la condanna in sospeso."
+     "testo_it": "L'Alta Corte di Hong Kong condanna l'attivista pro-democrazia Joshua Wong ad altri 10 anni di carcere per aver cospirato con entità straniere per imporre sanzioni contro la Cina e Hong Kong in base alla legge sulla sicurezza nazionale."
     },
     {
      "testo": "The syndicate of unions organizes a general strike across France, supported by the yellow vests movement, activists, and student protesters.",
@@ -251,13 +338,15 @@
      ]
     },
     {
-     "testo": "Paraguayan president Santiago Peña resigns amid an impeachment trial.",
-     "contesto": [],
+     "testo": "Paraguayan president Santiago Peña announces his resignation after the collapse of ueno bank, and the Chamber of Deputies unanimously votes to begin an impeachment trial against him.",
+     "contesto": [
+      "2026 Paraguay banking crisis"
+     ],
      "categoria": "Politics and elections",
      "fonti": [
       {
-       "nome": "France 24 in Spanish",
-       "url": "https://france24.com/es/minuto-a-minuto/20261105-santiago-peña-renuncia-a-la-presidencia-de-paraguay-en-medio-del-escándalo-de-ueno-bank"
+       "nome": "AP",
+       "url": "https://apnews.com/article/ueno-bank-collapse-paraguay-banking-crisis-santiago-pena-impeachment-eccea1c9a64808b5cd7e6e1d5542084f"
       },
       {
        "nome": "Reuters",
@@ -268,9 +357,116 @@
       "Paraguay",
       "President of Paraguay",
       "Santiago Peña",
+      "Resignation",
+      "Ueno bank",
+      "Chamber of Deputies of Paraguay",
       "Impeachment"
      ],
-     "testo_it": "Il presidente paraguaiano Santiago Peña si dimette dopo un processo di impeachment."
+     "testo_it": "Il presidente paraguaiano Santiago Peña annuncia le sue dimissioni dopo il crollo della banca Ueno, e la Camera dei Deputati vota all'unanimità per iniziare un processo di impeachment contro di lui.",
+     "contesto_it": [
+      "Paraguay crisi bancaria (2026)"
+     ]
+    },
+    {
+     "testo": "The Federal High Court of Nigeria invalidates former vice president Atiku Abubakar's nomination as the African Democratic Congress candidate for the 2027 presidential election, ruling that the party's leadership was improperly constituted.",
+     "contesto": [
+      "2027 Nigerian general election"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/africa/nigerian-court-voids-candidacy-opposition-adcs-atiku-2027-election-2026-11-05/"
+      }
+     ],
+     "link": [
+      "Federal High Court of Nigeria",
+      "Nigeria",
+      "Vice President of Nigeria",
+      "Atiku Abubakar",
+      "African Democratic Congress",
+      "President of Nigeria",
+      "Constitution of Nigeria"
+     ],
+     "testo_it": "L'Alta Corte Federale della Nigeria invalida la nomina dell'ex vice presidente Atiku Abubakar come candidato del Congresso Democratico Africano per le elezioni presidenziali del 2027, stabilendo che la leadership del partito era costituita in modo improprio.",
+     "contesto_it": [
+      "Elezioni generali nigeriane (2027)"
+     ]
+    },
+    {
+     "testo": "The Supreme Court of Somalia nullifies the amendments to the country's constitution, ruling that the term of president Hassan Sheikh Mohamud expired on 15 May 2026, while ordering new elections within 90 days.",
+     "contesto": [
+      "Constitutional crisis in Somalia"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "AFP via Modern Ghana",
+       "url": "https://www.modernghana.com/news/1542285/somalia-faces-fresh-chaos-as-court-finds-president.html"
+      },
+      {
+       "nome": "Somali Guardian",
+       "url": "https://www.somaliguardian.com/news/somalia-news/somalia-supreme-court-nullifies-constitutional-amendments-orders-elections-90-days/"
+      }
+     ],
+     "link": [
+      "Supreme Court of Somalia",
+      "Somalia",
+      "Constitution of Somalia",
+      "President of Somalia",
+      "Hassan Sheikh Mohamud",
+      "Elections in Somalia"
+     ],
+     "testo_it": "La Corte Suprema della Somalia annulla gli emendamenti alla costituzione del paese, decretando che il mandato del presidente Hassan Sheikh Mohamud è scaduto il 15 maggio 2026, mentre ordina nuove elezioni entro 90 giorni.",
+     "contesto_it": [
+      "Crisi costituzionale in Somalia"
+     ]
+    },
+    {
+     "testo": "Belarus sentences Roman Catholic Priest Anatoly Parakhnevich to three years in prison for opposing the war in Ukraine.",
+     "contesto": [
+      "Protests against the Russo-Ukrainian war, Belarusian involvement in the Russian invasion of Ukraine"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/belarus-catholic-priest-crackdown-lukashenko-ukraine-war-0cbca46fc4d8125dfa53ec626232b11e"
+      }
+     ],
+     "link": [
+      "Belarus",
+      "Catholic Church in Belarus",
+      "Priesthood in the Catholic Church",
+      "Russo-Ukrainian war (2022–present)",
+      "Ukraine"
+     ],
+     "testo_it": "La Bielorussia condanna il sacerdote cattolico romano Anatoly Parakhnevich a tre anni di carcere per essersi opposto alla guerra in Ucraina.",
+     "contesto_it": [
+      "Proteste contro la guerra russo-ucraina, coinvolgimento bielorusso nell'invasione russa dell'Ucraina"
+     ]
+    },
+    {
+     "testo": "In golf, professional tour LIV Golf ceases operations after five seasons and liquidates its assets, following bankruptcy proceedings and the withdrawal of financial support from Saudi Arabia's Public Investment Fund and prospective investor BC Partners Credit.",
+     "contesto": [],
+     "categoria": "Sports",
+     "fonti": [
+      {
+       "nome": "AFP via France 24",
+       "url": "https://www.france24.com/en/live-news/20261105-liv-golf-league-to-shut-down-after-five-years"
+      }
+     ],
+     "link": [
+      "Golf",
+      "Professional golf tours",
+      "LIV Golf",
+      "Liquidate",
+      "Bankruptcy",
+      "Saudi Arabia",
+      "Public Investment Fund",
+      "BC Partners"
+     ],
+     "testo_it": "Nel golf, il tour professionale LIV Golf cessa le operazioni dopo cinque stagioni e liquida le sue attività, a seguito di procedure fallimentari e del ritiro del sostegno finanziario da parte del Fondo di investimento pubblico dell'Arabia Saudita e del potenziale investitore BC Partners Credit."
     }
    ]
   },
@@ -298,6 +494,41 @@
       "US$"
      ],
      "testo_it": "La commissione salariale dell'industria dell'abbigliamento del Bangladesh accetta di aumentare i salari minimi dopo cinque giorni di proteste dei lavoratori e scontri con la polizia. I lavoratori chiedono  30.000 (US $ 240) al mese, da  12.500 (US $ 100), mentre il consiglio non ha specificato l'aumento."
+    },
+    {
+     "testo": "Five people are killed while two others are injured in an explosion at a suspected illegal fireworks factory in Malasiqui, Pangasinan, Philippines.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "The Philippine Star",
+       "url": "https://www.philstar.com/nation/2026/11/06/2568219/5-killed-pangasinan-firecracker-factory-explosion/"
+      }
+     ],
+     "link": [
+      "Firework",
+      "Malasiqui, Pangasinan",
+      "Philippines"
+     ],
+     "testo_it": "Cinque persone sono state uccise mentre altre due sono rimaste ferite in un'esplosione in una sospetta fabbrica illegale di fuochi d'artificio a Malasiqui, Pangasinan, Filippine."
+    },
+    {
+     "testo": "A fire and explosion at a Panasonic subsidiary's factory in Hsinchu County, Taiwan, kills two employees and injures five others.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/asia-pacific/two-confirmed-dead-after-taiwan-panasonic-factory-fire-2026-11-05/"
+      }
+     ],
+     "link": [
+      "Panasonic",
+      "Subsidiary",
+      "Hsinchu County",
+      "Taiwan"
+     ],
+     "testo_it": "Un incendio e un'esplosione nella fabbrica di una filiale Panasonic nella contea di Hsinchu, Taiwan, uccidono due dipendenti e ne feriscono altri cinque."
     },
     {
      "testo": "The Singaporean parliament amends the Transboundary Haze Pollution Act of 2014, introducing arrest powers, permitting trials in absentia, and increasing maximum fines tenfold to S$20 million (US$15 million) following widespread air pollution from Indonesian wildfires.",
@@ -373,6 +604,23 @@
      "contesto_it": [
       "Il traffico illegale di droga nelle Filippine"
      ]
+    },
+    {
+     "testo": "Hackers steal approximately €100 million (US$112 million) from French bank Crédit Mutuel through unauthorized transactions using the bank's account.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "Firstpost",
+       "url": "https://www.firstpost.com/business/french-bank-hit-by-cyberattack-hackers-siphon-off-nearly-112-million-14058157.html"
+      }
+     ],
+     "link": [
+      "Euro",
+      "France",
+      "Crédit Mutuel"
+     ],
+     "testo_it": "Gli hacker rubano circa 100 milioni di euro dalla banca francese Crédit Mutuel attraverso transazioni non autorizzate utilizzando il conto della banca."
     },
     {
      "testo": "Hungary makes Communist-era secret police records publicly accessible through a database containing approximately 60,000 names linked to former state security services. Prime Minister Péter Magyar announces that additional documents will become available in February 2027.",
@@ -2035,6 +2283,32 @@
      "contesto_it": [
       "Guerra russo-ucraina",
       "Negoziati di pace nella guerra russo-ucraina, nel blocco di Oleshky, negli Stati Uniti e nella guerra russo-ucraina"
+     ]
+    },
+    {
+     "testo": "The Venezuelan and the United States militaries carry out a joint operation with airstrikes and drones against an alleged hideout belonging to the National Liberation Army in Apure, Venezuela, killing at least 23 people and wounding dozens more.",
+     "contesto": [
+      "Operation Southern Spear"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "El Pais",
+       "url": "https://english.elpais.com/international/2026-11-04/the-us-takes-its-anti-narcotics-war-onto-venezuelan-soil-with-a-drone-strike-against-the-eln.html?outputType=amp"
+      }
+     ],
+     "link": [
+      "Bolivarian National Armed Forces of Venezuela",
+      "United States Armed Forces",
+      "Airstrike",
+      "Drone warfare",
+      "National Liberation Army (Colombia)",
+      "Apure",
+      "Venezuela"
+     ],
+     "testo_it": "Le forze armate venezuelane e statunitensi svolgono un'operazione congiunta con attacchi aerei e droni contro un presunto nascondiglio appartenente all'Esercito di Liberazione Nazionale di Apure, in Venezuela, uccidendo almeno 23 persone e ferendone altre decine.",
+     "contesto_it": [
+      "Operazione Southern Spear"
      ]
     },
     {
