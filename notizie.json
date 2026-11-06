@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-05T23:42:25Z",
+ "generato": "2026-11-06T06:57:03Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -95,6 +95,10 @@
  ],
  "giorni": [
   {
+   "data": "2026-11-06",
+   "voci": []
+  },
+  {
    "data": "2026-11-05",
    "voci": [
     {
@@ -177,30 +181,6 @@
      "testo_it": "Altre sei persone sono state trovate morte sotto i detriti di un edificio crollato due settimane fa a Nairobi, in Kenya, portando il bilancio delle vittime a otto."
     },
     {
-     "testo": "California Governor Gavin Newsom grants or requests sentence commutations of the death sentences of all 548 prisoners on California's death row. The commutation requests of recidivist death row offenders remain pending review by the California Supreme Court.",
-     "contesto": [
-      "Capital punishment in California"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "NBC News",
-       "url": "https://www.nbcnews.com/news/us-news/california-gov-gavin-newsom-commutes-death-sentences-rcna607727"
-      }
-     ],
-     "link": [
-      "California",
-      "Gavin Newsom",
-      "Commutation (law)",
-      "Capital punishment",
-      "California Supreme Court"
-     ],
-     "testo_it": "Il governatore della California Gavin Newsom concede o richiede commutazioni di condanne a morte di tutti i 548 prigionieri nel braccio della morte della California. Le richieste di commutazione dei recidivi del braccio della morte rimangono in attesa di revisione da parte della Corte Suprema della California.",
-     "contesto_it": [
-      "La pena di morte in California"
-     ]
-    },
-    {
      "testo": "The Nepali supreme court directs the government to regulate cannabis cultivation for medicinal, scientific, agricultural, horticultural, and industrial purposes.",
      "contesto": [
       "Cannabis in Nepal"
@@ -270,7 +250,7 @@
      ]
     },
     {
-     "testo": "The Hong Kong High Court sentences pro-democracy activist Joshua Wong to an additional 10 years in prison for conspiring with foreign entities to impose sanctions against China and Hong Kong under the national security law.",
+     "testo": "The Hong Kong High Court sentences pro-democracy activist Joshua Wong to an additional 10 years in prison under the national security law for conspiring with foreign entities to impose sanctions against China and Hong Kong.",
      "contesto": [],
      "categoria": "Law and crime",
      "fonti": [
@@ -284,17 +264,18 @@
       "Pro-democracy camp (Hong Kong)",
       "Joshua Wong",
       "Prisons in Hong Kong",
+      "2020 Hong Kong national security law",
       "International sanctions",
       "China",
-      "Hong Kong",
-      "2020 Hong Kong national security law"
+      "Hong Kong"
      ],
-     "testo_it": "L'Alta Corte di Hong Kong condanna l'attivista pro-democrazia Joshua Wong ad altri 10 anni di carcere per aver cospirato con entità straniere per imporre sanzioni contro la Cina e Hong Kong in base alla legge sulla sicurezza nazionale."
+     "testo_it": "L'Alta Corte di Hong Kong condanna l'attivista pro-democrazia Joshua Wong ad altri 10 anni di carcere in base alla legge sulla sicurezza nazionale per aver cospirato con entità straniere per imporre sanzioni contro la Cina e Hong Kong."
     },
     {
      "testo": "The syndicate of unions organizes a general strike across France, supported by the yellow vests movement, activists, and student protesters.",
      "contesto": [
-      "2026 French student protests"
+      "2026 European unrest",
+      "2026 French student protests, Yellow vests protests"
      ],
      "categoria": "Politics and elections",
      "fonti": [
@@ -311,11 +292,12 @@
      ],
      "testo_it": "Il sindacato dei sindacati organizza uno sciopero generale in tutta la Francia, sostenuto dal movimento dei gilet gialli, attivisti e manifestanti studenteschi.",
      "contesto_it": [
-      "Proteste studentesche francesi (2026)"
+      "Insurrezioni europee (2026)",
+      "Proteste studentesche francesi (2026), proteste dei gilet gialli"
      ]
     },
     {
-     "testo": "Grenadians vote to elect 15 members of the House of Representatives. Incumbent prime minister Dickon Mitchell seeks a second term in office.",
+     "testo": "Grenadians vote to elect 15 members of the House of Representatives. Incumbent prime minister Dickon Mitchell wins a second consecutive NDC government, with opposition NNP leader Emmalin Pierre losing her seat in St. Andrew South East.",
      "contesto": [
       "2026 Grenadian general election"
      ],
@@ -324,15 +306,24 @@
       {
        "nome": "AP",
        "url": "https://apnews.com/article/grenada-election-mitchell-david-slavery-e1b1b344507f5c6180983e0271c463ad"
+      },
+      {
+       "nome": "St. Vincent Times",
+       "url": "https://www.stvincenttimes.com/mitchells-ndc-wins-14-of-15-seats-in-grenada-election/"
       }
      ],
      "link": [
       "Grenada",
       "House of Representatives (Grenada)",
       "List of heads of government of Grenada",
-      "Dickon Mitchell"
+      "Dickon Mitchell",
+      "National Democratic Congress (Grenada)",
+      "Leader of the Opposition (Grenada)",
+      "New National Party (Grenada)",
+      "Emmalin Pierre",
+      "Saint Andrew South East (Grenada)"
      ],
-     "testo_it": "I granatiani votano per eleggere 15 membri della Camera dei Rappresentanti. Il primo ministro in carica Dickon Mitchell cerca un secondo mandato in carica.",
+     "testo_it": "Il primo ministro in carica Dickon Mitchell vince un secondo governo NDC consecutivo, con il leader dell'opposizione Emmalin Pierre che perde il suo seggio a St. Andrew South East.",
      "contesto_it": [
       "Elezioni generali in Gran Bretagna (2026)"
      ]
@@ -396,7 +387,7 @@
     {
      "testo": "The Supreme Court of Somalia nullifies the amendments to the country's constitution, ruling that the term of president Hassan Sheikh Mohamud expired on 15 May 2026, while ordering new elections within 90 days.",
      "contesto": [
-      "Constitutional crisis in Somalia"
+      "Constitutional crisis in Somalia, Controversies of Hassan Sheikh Mohamud"
      ],
      "categoria": "Politics and elections",
      "fonti": [
@@ -419,7 +410,7 @@
      ],
      "testo_it": "La Corte Suprema della Somalia annulla gli emendamenti alla costituzione del paese, decretando che il mandato del presidente Hassan Sheikh Mohamud è scaduto il 15 maggio 2026, mentre ordina nuove elezioni entro 90 giorni.",
      "contesto_it": [
-      "Crisi costituzionale in Somalia"
+      "Crisi costituzionale in Somalia, polemiche di Hassan Sheikh Mohamud"
      ]
     },
     {
@@ -474,8 +465,35 @@
    "data": "2026-11-04",
    "voci": [
     {
+     "testo": "Two women are killed in a airstrike by Sudan's army on a water source in Umm Badr, North Kordofan.",
+     "contesto": [
+      "Sudanese civil war",
+      "War crimes in the Sudanese civil war, Kordofan campaign"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Sudan Tribune",
+       "url": "https://sudantribune.com/article/320888"
+      }
+     ],
+     "link": [
+      "Sudan",
+      "Sudanese Army",
+      "Umm Badr",
+      "North Kordofan"
+     ],
+     "testo_it": "Due donne vengono uccise in un attacco aereo da parte dell'esercito sudanese su una fonte d'acqua a Umm Badr, North Kordofan.",
+     "contesto_it": [
+      "Guerra civile sudanese",
+      "Crimini di guerra nella guerra civile sudanese, campagna Kordofan"
+     ]
+    },
+    {
      "testo": "The Bangladeshi garment industry wage board agrees to increase minimum wages following five days of worker protests and clashes with police. Workers demand ৳30,000 (US$240) monthly, up from ৳12,500 (US$100), while the board has not specified the increase.",
-     "contesto": [],
+     "contesto": [
+      "2026 Bangladesh garment workers protests"
+     ],
      "categoria": "Business and economy",
      "fonti": [
       {
@@ -493,7 +511,10 @@
       "Bangladeshi taka",
       "US$"
      ],
-     "testo_it": "La commissione salariale dell'industria dell'abbigliamento del Bangladesh accetta di aumentare i salari minimi dopo cinque giorni di proteste dei lavoratori e scontri con la polizia. I lavoratori chiedono  30.000 (US $ 240) al mese, da  12.500 (US $ 100), mentre il consiglio non ha specificato l'aumento."
+     "testo_it": "La commissione salariale dell'industria dell'abbigliamento del Bangladesh accetta di aumentare i salari minimi dopo cinque giorni di proteste dei lavoratori e scontri con la polizia. I lavoratori chiedono  30.000 (US $ 240) al mese, da  12.500 (US $ 100), mentre il consiglio non ha specificato l'aumento.",
+     "contesto_it": [
+      "Proteste dei lavoratori del Bangladesh (2026)"
+     ]
     },
     {
      "testo": "Five people are killed while two others are injured in an explosion at a suspected illegal fireworks factory in Malasiqui, Pangasinan, Philippines.",
@@ -1649,7 +1670,9 @@
     },
     {
      "testo": "Garment workers clash with police in Dhaka, Bangladesh, over low pay and the rising cost of living. In response, the government forms a wage board.",
-     "contesto": [],
+     "contesto": [
+      "2026 Bangladesh garment workers protests"
+     ],
      "categoria": "Law and crime",
      "fonti": [
       {
@@ -1670,7 +1693,10 @@
       "Government of Bangladesh",
       "Wage board"
      ],
-     "testo_it": "I lavoratori dell'abbigliamento si scontrano con la polizia a Dhaka, in Bangladesh, per la bassa retribuzione e l'aumento del costo della vita. In risposta, il governo forma un comitato salariale."
+     "testo_it": "I lavoratori dell'abbigliamento si scontrano con la polizia a Dhaka, in Bangladesh, per la bassa retribuzione e l'aumento del costo della vita. In risposta, il governo forma un comitato salariale.",
+     "contesto_it": [
+      "Proteste dei lavoratori del Bangladesh (2026)"
+     ]
     },
     {
      "testo": "Thousands of people protest in New Delhi, India, to call for chief election commissioner Gyanesh Kumar to resign due to changes to voter lists that allegedly disproportionately affect opposition parties.",
@@ -2196,400 +2222,6 @@
      "contesto_it": [
       "Finale WNBA (2026)"
      ]
-    }
-   ]
-  },
-  {
-   "data": "2026-10-30",
-   "voci": [
-    {
-     "testo": "Oman rescues 25 crew members from a burning Panamanian-flagged oil tanker in the Strait of Hormuz. The Iranian military confirms it was a result of attempting to pass through an unauthorised route.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "2026 Iran war",
-      "2026 Strait of Hormuz crisis"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz"
-      }
-     ],
-     "link": [
-      "Oman",
-      "Panama",
-      "Oil tanker",
-      "Strait of Hormuz",
-      "Iran",
-      "Iranian Armed Forces"
-     ],
-     "testo_it": "L'Oman salva 25 membri dell'equipaggio da una petroliera battente bandiera panamense in fiamme nello Stretto di Hormuz. L'esercito iraniano conferma che è stato il risultato del tentativo di attraversare una rotta non autorizzata.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Guerra in Iran (2026)",
-      "Stretto di Hormuz (2026)"
-     ]
-    },
-    {
-     "testo": "The Saudi Arabia-led coalition announces it intercepted a drone allegedly launched by the Houthis towards the Mecca region, which the Houthis deny.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "Houthi–Saudi conflict, Saudi-led intervention in the Yemeni civil war, Yemeni civil war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/10/30/saudi-arabia-reports-interception-of-houthi-drone-targeting-mecca"
-      }
-     ],
-     "link": [
-      "Saudi Arabia",
-      "Drone warfare",
-      "Houthis",
-      "Mecca Province"
-     ],
-     "testo_it": "La coalizione guidata dall'Arabia Saudita annuncia di aver intercettato un drone presumibilmente lanciato dagli Houthi verso la regione della Mecca, che gli Houthi negano.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Conflitto Houthi-saudita, intervento saudita nella guerra civile yemenita, guerra civile yemenita"
-     ]
-    },
-    {
-     "testo": "Civilian evacuations commence in Oleshky, Ukraine, as a humanitarian convoy arrives in the Russian-held and besieged city, as part of a local ceasefire that U.S. first lady Melania Trump says she brokered.",
-     "contesto": [
-      "Russo-Ukrainian war",
-      "Peace negotiations in the Russo-Ukrainian war, Blockade of Oleshky, United States and the Russo-Ukrainian war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "The Guardian",
-       "url": "https://www.theguardian.com/world/2026/oct/30/evacuation-besieged-ukrainian-city-oleshky"
-      }
-     ],
-     "link": [
-      "Oleshky",
-      "Ukraine",
-      "Humanitarian impact of the Russo-Ukrainian war (2022–present)",
-      "Russia",
-      "Russian occupation of Ukraine",
-      "Ceasefire",
-      "First Lady of the United States",
-      "Melania Trump"
-     ],
-     "testo_it": "Le evacuazioni civili iniziano a Oleshky, in Ucraina, mentre un convoglio umanitario arriva nella città controllata e assediata dalla Russia, come parte di un cessate il fuoco locale che la first lady statunitense Melania Trump dice di aver mediato.",
-     "contesto_it": [
-      "Guerra russo-ucraina",
-      "Negoziati di pace nella guerra russo-ucraina, nel blocco di Oleshky, negli Stati Uniti e nella guerra russo-ucraina"
-     ]
-    },
-    {
-     "testo": "The Venezuelan and the United States militaries carry out a joint operation with airstrikes and drones against an alleged hideout belonging to the National Liberation Army in Apure, Venezuela, killing at least 23 people and wounding dozens more.",
-     "contesto": [
-      "Operation Southern Spear"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "El Pais",
-       "url": "https://english.elpais.com/international/2026-11-04/the-us-takes-its-anti-narcotics-war-onto-venezuelan-soil-with-a-drone-strike-against-the-eln.html?outputType=amp"
-      }
-     ],
-     "link": [
-      "Bolivarian National Armed Forces of Venezuela",
-      "United States Armed Forces",
-      "Airstrike",
-      "Drone warfare",
-      "National Liberation Army (Colombia)",
-      "Apure",
-      "Venezuela"
-     ],
-     "testo_it": "Le forze armate venezuelane e statunitensi svolgono un'operazione congiunta con attacchi aerei e droni contro un presunto nascondiglio appartenente all'Esercito di Liberazione Nazionale di Apure, in Venezuela, uccidendo almeno 23 persone e ferendone altre decine.",
-     "contesto_it": [
-      "Operazione Southern Spear"
-     ]
-    },
-    {
-     "testo": "Russian independent newspaper Novaya Gazeta announces plans to cease operations on 9 November, citing pressure from Russian authorities.",
-     "contesto": [],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/business/media-telecom/russian-investigative-newspaper-novaya-gazeta-says-it-is-shutting-down-after-2026-10-30/"
-      }
-     ],
-     "link": [
-      "Russia",
-      "Novaya Gazeta",
-      "Government of Russia"
-     ],
-     "testo_it": "Il quotidiano indipendente russo Novaya Gazeta annuncia l'intenzione di cessare le operazioni il 9 novembre, citando le pressioni delle autorità russe."
-    },
-    {
-     "testo": "Six people are killed when their helicopter crashes near Joshimath, Uttarakhand, India.",
-     "contesto": [
-      "2026 Uttarakhand helicopter crash"
-     ],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AFP via Daily Sun",
-       "url": "https://www.daily-sun.com/index.php/world/906308/report-2"
-      },
-      {
-       "nome": "The Times of India",
-       "url": "https://timesofindia.indiatimes.com/city/dehradun/uttarakhands-skies-turn-deadly-again-5-crashes-in-39-days-last-year-now-6-feared-dead-in-joshimath-tragedy/amp_articleshow/135358474.cms"
-      }
-     ],
-     "link": [
-      "Joshimath",
-      "Uttarakhand",
-      "India"
-     ],
-     "testo_it": "Sei persone vengono uccise quando il loro elicottero si schianta vicino a Joshimath, Uttarakhand, India.",
-     "contesto_it": [
-      "Uttarakhand elicottero crash (2026)"
-     ]
-    },
-    {
-     "testo": "Five children and two adults are killed, five other people are injured, and four are missing after flash floods caused by heavy rainfall in eastern Syria.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/business/environment/five-children-among-seven-dead-eastern-syria-floods-2026-10-30/"
-      }
-     ],
-     "link": [
-      "Flash flood",
-      "Syria"
-     ],
-     "testo_it": "Cinque bambini e due adulti sono stati uccisi, altre cinque persone sono rimaste ferite e quattro sono scomparse dopo inondazioni causate da forti piogge nella Siria orientale."
-    },
-    {
-     "testo": "The Court of Appeal of Victoria, Australia, rejects Erin Patterson's appeal against her murder convictions and removes her 33-year parole eligibility, effectively imposing life imprisonment without parole for killing three relatives with death cap mushrooms in 2023.",
-     "contesto": [
-      "Leongatha mushroom murders"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "AFP",
-       "url": "https://www.afp.com/en/australian-mushroom-killer-loses-appeal-has-sentence-extended"
-      }
-     ],
-     "link": [
-      "Supreme Court of Victoria",
-      "Victoria (state)",
-      "Australia",
-      "Erin Patterson",
-      "Murder in Australian law",
-      "Parole",
-      "Life imprisonment in Australia",
-      "Amanita phalloides"
-     ],
-     "testo_it": "La Corte d'Appello di Victoria, in Australia, respinge l'appello di Erin Patterson contro le sue condanne per omicidio e rimuove la sua ammissibilità alla libertà condizionale di 33 anni, imponendo di fatto l'ergastolo senza libertà condizionale per aver ucciso tre parenti con funghi cap morte nel 2023.",
-     "contesto_it": [
-      "Omicidi di funghi Leongatha"
-     ]
-    },
-    {
-     "testo": "Cryptocurrency exchange Binance confirms that assets worth US$6.3 billion were stolen, making it the largest cryptocurrency theft in history.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "Bloomberg News",
-       "url": "https://www.bloomberg.com/news/articles/2026-10-29/binance-founder-says-possible-hack-of-exchange-bitcoin-falls"
-      },
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/legal/transactional/tether-circle-freeze-238-billion-after-binance-reports-security-incident-2026-10-29/"
-      },
-      {
-       "nome": "Engadget",
-       "url": "https://www.engadget.com/2301941/binance-hacked-for-estimated-6-3-billion-in-record-crypto-theft/"
-      }
-     ],
-     "link": [
-      "Cryptocurrency",
-      "Cryptocurrency exchange",
-      "Binance",
-      "United States dollar",
-      "2026 Binance hack"
-     ],
-     "testo_it": "L'exchange di criptovalute Binance conferma che asset del valore di 6,3 miliardi di dollari sono stati rubati, rendendolo il più grande furto di criptovaluta nella storia."
-    },
-    {
-     "testo": "The Swiss supreme court upholds a 20-year jail sentence for former Liberian rebel commander Alieu Kosiah after he was found guilty in 2021 for atrocities committed during the First Liberian Civil War, but overturns a conviction for crimes against humanity.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/10/30/swiss-supreme-court-upholds-liberian-ex-rebel-commanders-20-year-sentence"
-      }
-     ],
-     "link": [
-      "Switzerland",
-      "Federal Criminal Court of Switzerland",
-      "Liberia",
-      "United Liberation Movement of Liberia for Democracy",
-      "Alieu Kosiah",
-      "First Liberian Civil War",
-      "Crimes against humanity"
-     ],
-     "testo_it": "La corte suprema svizzera sostiene una condanna a 20 anni di carcere per l'ex comandante dei ribelli liberiani Alieu Kosiah dopo essere stato riconosciuto colpevole nel 2021 per le atrocità commesse durante la prima guerra civile liberiana, ma ribalta una condanna per crimini contro l'umanità."
-    },
-    {
-     "testo": "Polish police enter the Constitutional Tribunal following the suspension of its president Bogdan Święczkowski, announced by judge Anna Korwin-Piotrowska. The tribunal describes the suspension as a coup d'état, while three protesters in support of PiS are detained after breaching the tribunal's fence.",
-     "contesto": [
-      "Polish constitutional crisis",
-      "Polish Constitutional Tribunal crisis",
-      "Suspension of Bogdan Święczkowski"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "Euronews",
-       "url": "https://www.euronews.com/2026/10/30/polish-president-turns-back-mid-flight-amid-coup-detat-allegations"
-      }
-     ],
-     "link": [
-      "Poland",
-      "Police of Poland",
-      "Constitutional Tribunal (Poland)",
-      "Bogdan Święczkowski",
-      "Anna Korwin-Piotrowska",
-      "Coup d'état",
-      "Law and Justice"
-     ],
-     "testo_it": "La polizia polacca entra nel Tribunale costituzionale dopo la sospensione del suo presidente Bogdan Święczkowski, annunciata dalla giudice Anna Korwin-Piotrowska. Il tribunale descrive la sospensione come un colpo di stato, mentre tre manifestanti a sostegno del PiS sono detenuti dopo aver violato la recinzione del tribunale.",
-     "contesto_it": [
-      "Crisi costituzionale polacca",
-      "La crisi del Tribunale costituzionale polacco",
-      "Sospensione di Bogdan Święczkowski"
-     ]
-    },
-    {
-     "testo": "Polish justice minister Waldemar Żurek requests stripping the tribunal's president and vice president Bartłomiej Sochański of their immunity from prosecution in order to charge them. President Karol Nawrocki cancels his trip to Senegal due to the situation and lands back in Poland.",
-     "contesto": [
-      "Polish constitutional crisis",
-      "Polish Constitutional Tribunal crisis",
-      "Suspension of Bogdan Święczkowski"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/poland-european-union-justice-protests-police-tribunal-67eda2e3a151e00038d85a5e894a2a72"
-      },
-      {
-       "nome": "BBC News",
-       "url": "https://www.bbc.com/news/articles/crz9824d5e88o"
-      }
-     ],
-     "link": [
-      "Ministry of Justice (Poland)",
-      "Waldemar Żurek",
-      "Bartłomiej Sochański",
-      "President of Poland",
-      "Karol Nawrocki",
-      "List of international presidential trips made by Karol Nawrocki",
-      "Senegal"
-     ],
-     "testo_it": "Il ministro della giustizia polacco Waldemar Żurek chiede di privare il presidente del tribunale e il vicepresidente Bartłomiej Sochański della loro immunità dall'accusa al fine di incriminarli. Il presidente Karol Nawrocki annulla il suo viaggio in Senegal a causa della situazione e atterra in Polonia.",
-     "contesto_it": [
-      "Crisi costituzionale polacca",
-      "La crisi del Tribunale costituzionale polacco",
-      "Sospensione di Bogdan Święczkowski"
-     ]
-    },
-    {
-     "testo": "A general strike and multiple protests are held across Italy against the rising cost of living and prime minister Giorgia Meloni's government, with clashes breaking out in multiple cities.",
-     "contesto": [
-      "2026 European unrest, Cost of living crisis",
-      "2026 Italian unrest"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "CNN",
-       "url": "https://edition.cnn.com/2026/10/30/europe/italy-protests-anti-government-meloni-intl"
-      },
-      {
-       "nome": "DW",
-       "url": "https://www.dw.com/en/italy-students-and-workers-rally-over-living-costs/a-79807668"
-      }
-     ],
-     "link": [
-      "Italy",
-      "Cost of living",
-      "Prime Minister of Italy",
-      "Giorgia Meloni",
-      "Meloni government"
-     ],
-     "testo_it": "In tutta Italia si tengono uno sciopero generale e molteplici proteste contro il crescente costo della vita e contro il governo del primo ministro Giorgia Meloni, con scontri scoppiati in più città.",
-     "contesto_it": [
-      "Insurrezioni europee (2026), Crisi del costo della vita",
-      "Insurrezione italiana (2026)"
-     ]
-    },
-    {
-     "testo": "In thoroughbred horse racing, race horse Sun Goddess dominates the Juvenile Fillies Turf at the Keeneland racetrack in Lexington, Kentucky, United States, during the Breeders' Cup. Additionally, Emphatic wins the Juvenile Fillies.",
-     "contesto": [
-      "2026 Breeders' Cup"
-     ],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "The Blood-Horse",
-       "url": "https://www.bloodhorse.com/horse-racing/articles/295716/emphatic-stays-undefeated-in-bc-juvenile-fillies"
-      },
-      {
-       "nome": "Sky Sports",
-       "url": "https://www.skysports.com/racing/video/13605939/sun-goddess-dazzles-in-the-breeders-cup-juvenile-fillies-turf"
-      }
-     ],
-     "link": [
-      "Thoroughbred racing",
-      "Horse racing",
-      "Sun Goddess (horse)",
-      "Breeders' Cup Juvenile Fillies Turf",
-      "Keeneland",
-      "Lexington, Kentucky",
-      "Kentucky",
-      "United States",
-      "Breeders' Cup",
-      "Breeders' Cup Juvenile Fillies"
-     ],
-     "testo_it": "Nelle corse di cavalli purosangue, il cavallo da corsa Sun Goddess domina il giovane Fillies Turf sull'ippodromo Keeneland a Lexington, Kentucky, Stati Uniti, durante la Breeders' Cup. Inoltre, Emphatic vince i giovani Fillies.",
-     "contesto_it": [
-      "Coppa degli Allevatori (2026)"
-     ]
-    },
-    {
-     "testo": "In ice hockey, the Court of Arbitration for Sports rules that Russian teams must be allowed to take part in all international tournaments, overturning previous International Ice Hockey Federation decisions.",
-     "contesto": [],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "DW",
-       "url": "https://www.dw.com/en/iihf-ordered-to-allow-russia-back-into-world-championships/a-79805650"
-      }
-     ],
-     "link": [
-      "Ice hockey",
-      "Court of Arbitration for Sport",
-      "Sport in Russia",
-      "Ice hockey in Russia",
-      "International Ice Hockey Federation"
-     ],
-     "testo_it": "Nell'hockey su ghiaccio, la Corte Arbitrale dello Sport regola che le squadre russe devono essere autorizzate a partecipare a tutti i tornei internazionali, ribaltando le precedenti decisioni della Federazione Internazionale di Hockey su Ghiaccio."
     }
    ]
   }
