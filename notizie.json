@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-06T16:49:30Z",
+ "generato": "2026-11-06T23:15:15Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -98,10 +98,14 @@
    "data": "2026-11-06",
    "voci": [
     {
-     "testo": "A bus crashes into a tree in Lent, France, killing two people and injuring 16 others.",
+     "testo": "Two people are killed and 16 injured in a bus crash in Lent, Ain, France.",
      "contesto": [],
      "categoria": "Disasters and accidents",
      "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/france-bus-crash-e024a5428966dd6c3415c881bc503811"
+      },
       {
        "nome": "Le Monde",
        "url": "https://www.lemonde.fr/en/france/article/2026/11/06/at-least-two-people-killed-after-bus-carrying-schoolchildren-crashes-in-france_6773528_7.html"
@@ -109,30 +113,165 @@
      ],
      "link": [
       "Lent, Ain",
+      "Ain",
       "France"
      ],
-     "testo_it": "Un autobus si schianta contro un albero a Quaresima, in Francia, uccidendo due persone e ferendone altre 16."
+     "testo_it": "Due persone vengono uccise e 16 ferite in un incidente in autobus a Quaresima, Ain, Francia."
     },
     {
-     "testo": "Thomas Markle, father of Meghan, Duchess of Sussex, is arrested over allegations of possessing child sexual abuse material.",
+     "testo": "The United States Centers for Disease Control and Prevention reports 5,182 measles cases in 2026, the country's highest annual total since 1991. State health agencies report at least eight measles-related deaths.",
+     "contesto": [
+      "Measles resurgence in the United States"
+     ],
+     "categoria": "Health and environment",
+     "fonti": [
+      {
+       "nome": "AFP via France 24",
+       "url": "https://www.france24.com/en/live-news/20261106-us-reports-highest-number-of-measles-cases-in-35-years"
+      }
+     ],
+     "link": [
+      "United States",
+      "Centers for Disease Control and Prevention",
+      "Measles",
+      "State health agency"
+     ],
+     "testo_it": "I Centers for Disease Control and Prevention degli Stati Uniti riportano 5.182 casi di morbillo nel 2026, il totale annuale più alto del paese dal 1991. Le agenzie sanitarie statali riportano almeno otto decessi correlati al morbillo.",
+     "contesto_it": [
+      "Il risorgere del morbillo negli Stati Uniti"
+     ]
+    },
+    {
+     "testo": "American cinematographer Thomas Markle, the father of Meghan, Duchess of Sussex, is arrested in Tampa, Florida, over allegations of possessing child sexual abuse material.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "BBC News",
+       "url": "https://www.bbc.co.uk/news/live/cwnv03203yvmt"
+      },
+      {
+       "nome": "CBS News",
+       "url": "https://www.cbsnews.com/news/thomas-markle-sr-meghan-father-arrested-florida/"
+      }
+     ],
+     "link": [
+      "United States",
+      "Thomas Markle",
+      "Meghan, Duchess of Sussex",
+      "Tampa",
+      "Florida",
+      "Child sexual abuse laws in the United States"
+     ],
+     "testo_it": "Il direttore della fotografia americano Thomas Markle, padre di Meghan, Duchessa del Sussex, viene arrestato a Tampa, in Florida, per accuse di possesso di materiale per abusi sessuali su minori."
+    },
+    {
+     "testo": "Au Kam San, a former pro-democracy legislator of Macau, is convicted in a closed-door trial of \"subversion against the political power of the state\" and sentenced to 12 years and 6 months in prison. It is the first conviction under the Macau National Security Law, which was revised by lawmakers in 2023 to broaden its scope and to allow for closed-door trials.",
      "contesto": [],
      "categoria": "Law and crime",
      "fonti": [
       {
        "nome": "BBC",
-       "url": "https://www.bbc.co.uk/news/live/cwnv03203yvmt"
-      },
-      {
-       "nome": "CBS",
-       "url": "https://www.cbsnews.com/news/thomas-markle-sr-meghan-father-arrested-florida/"
+       "url": "https://www.bbc.com/news/articles/cmdx33v9vvr2o"
       }
      ],
      "link": [
-      "Thomas Markle",
-      "Meghan, Duchess of Sussex",
-      "Child sexual abuse material"
+      "Au Kam San",
+      "Pro-democracy camp (Macau)",
+      "Legislative Assembly of Macau",
+      "Macau",
+      "Inciting subversion of state power",
+      "Macau National Security Law"
      ],
-     "testo_it": "Thomas Markle, padre di Meghan, Duchessa del Sussex, viene arrestato per accuse di possesso di materiale di abusi sessuali su minori."
+     "testo_it": "Au Kam San, un ex legislatore pro-democrazia di Macao, è stato condannato in un processo a porte chiuse di \"sovversione contro il potere politico dello stato\" e condannato a 12 anni e 6 mesi di carcere. È la prima condanna ai sensi della legge sulla sicurezza nazionale di Macao, che è stata rivista dai legislatori nel 2023 per ampliare la sua portata e consentire processi a porte chiuse."
+    },
+    {
+     "testo": "Kenyan cult leader Paul Mackenzie is sentenced to 200 years in prison for the mass murder of children.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/africa/kenyan-court-sentences-cult-leader-200-years-prison-murder-190-children-2026-11-06/"
+      }
+     ],
+     "link": [
+      "Kenyan",
+      "Good News International Ministries",
+      "Shakahola Forest incident"
+     ],
+     "testo_it": "Il leader del culto keniano Paul Mackenzie è stato condannato a 200 anni di carcere per omicidio di massa di bambini."
+    },
+    {
+     "testo": "The Paraguayan Senate unanimously removes Santiago Peña as country's President over alleged conflicts of interest involving Ueno Bank, whose accounts the central bank froze. Congress postpones consideration of Peña's resignation to allow impeachment proceedings.",
+     "contesto": [
+      "2026 Paraguay banking crisis"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/paraguay-senate-begins-president-impeachment-trial"
+      },
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/americas/paraguay-senate-votes-impeach-president-pea-2026-11-06/"
+      }
+     ],
+     "link": [
+      "Paraguay",
+      "Senate of Paraguay",
+      "Santiago Peña",
+      "President of Paraguay",
+      "Conflicts of interest",
+      "Ueno Bank",
+      "Central Bank of Paraguay",
+      "Congress of Paraguay"
+     ],
+     "testo_it": "Il Senato paraguaiano rimuove all'unanimità Santiago Peña come presidente del paese per presunti conflitti di interesse che coinvolgono Ueno Bank, i cui conti la banca centrale si è congelata. Il Congresso rinvia l'esame delle dimissioni di Peña per consentire procedimenti di impeachment.",
+     "contesto_it": [
+      "Paraguay crisi bancaria (2026)"
+     ]
+    },
+    {
+     "testo": "The Public Prosecutor’s Office orders the arrest of Santiago Peña.",
+     "contesto": [
+      "2026 Paraguay banking crisis"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "ABC Paraguay",
+       "url": "https://www.abc.com.py/finanzas-personales/2026/11/06/fiscalia-ordena-detencion-del-expresidente-santiago-pena/"
+      }
+     ],
+     "link": [],
+     "testo_it": "La Procura ordina l'arresto di Santiago Peña.",
+     "contesto_it": [
+      "Paraguay crisi bancaria (2026)"
+     ]
+    },
+    {
+     "testo": "King Philippe of Belgium refuses Bart De Wever's resignation as the prime minister, telling him to continue with budget negotiations.",
+     "contesto": [],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "Euronews",
+       "url": "https://www.euronews.com/2026/11/06/belgian-king-refuses-pm-bart-de-wevers-resignation-and-asks-him-to-restart-budget-talks"
+      },
+      {
+       "nome": "Xinhua",
+       "url": "https://english.news.cn/20261106/5c03e1c1987748fc9d9df9925a23d7d6/c.html"
+      }
+     ],
+     "link": [
+      "Philippe of Belgium",
+      "Belgium",
+      "Bart De Wever",
+      "Prime Minister of Belgium"
+     ],
+     "testo_it": "Il re Filippo del Belgio rifiuta le dimissioni di Bart De Wever come primo ministro, dicendogli di continuare con i negoziati di bilancio."
     }
    ]
   },
@@ -160,9 +299,26 @@
       "Diplomatic mission",
       "Amman",
       "Jordan",
-      "Terrorism"
+      "Terrorism in Jordan"
      ],
      "testo_it": "Un agente di polizia viene ucciso e un altro ferito in un attacco di accoltellamento fuori dall'ambasciata dello Sri Lanka ad Amman, in Giordania. Il sospetto viene arrestato. L'evento è descritto come un attacco terroristico."
+    },
+    {
+     "testo": "Mexico approves the Digital Economy Act for Digital and Electronic Payments, which allows it to designate sectors in which digital payments are the only accepted means of payment.",
+     "contesto": [],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "N+ in Spanish",
+       "url": "https://www.nmas.com.mx/economia/aplica-a-partir-de-hoy-jueves-5-noviembre-2026-ley-economia-digital-reducir-uso-efectivo/"
+      }
+     ],
+     "link": [
+      "Mexico",
+      "Economy of Mexico",
+      "E-commerce payment system"
+     ],
+     "testo_it": "Il Messico approva la legge sull'economia digitale per i pagamenti digitali ed elettronici, che consente di designare settori in cui i pagamenti digitali sono l'unico mezzo di pagamento accettato."
     },
     {
      "testo": "Eleven people are killed and 33 more injured after the collision of a passenger bus with a truck in Pakpattan District, Punjab, Pakistan.",
@@ -244,27 +400,6 @@
      ]
     },
     {
-     "testo": "The Mexican government approves the Digital Economy Act for Digital and Electronic Payments, which allows it to designate sectors in which digital payments are the only accepted means of payment.",
-     "contesto": [
-      "Economy of Mexico"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "N+",
-       "url": "https://www.nmas.com.mx/economia/aplica-a-partir-de-hoy-jueves-5-noviembre-2026-ley-economia-digital-reducir-uso-efectivo/"
-      }
-     ],
-     "link": [
-      "Federal government of Mexico",
-      "E-commerce payment system"
-     ],
-     "testo_it": "Il governo messicano approva la legge sull'economia digitale per i pagamenti digitali ed elettronici, che consente di designare settori in cui i pagamenti digitali sono l'unico mezzo di pagamento accettato.",
-     "contesto_it": [
-      "Economia del Messico"
-     ]
-    },
-    {
      "testo": "Six people are arrested in connection with a corruption investigation involving ruling PSOE officials and the transport ministry in Spain.",
      "contesto": [
       "Koldo affair"
@@ -286,6 +421,25 @@
      "contesto_it": [
       "affare Koldo"
      ]
+    },
+    {
+     "testo": "Cuban authorities release independent journalist Yoani Sánchez and activists Berta Soler and María Cristina Labrada after detaining them for several hours in Havana.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/journalist-yoani-sanchez-activists-released-detention-cuba"
+      }
+     ],
+     "link": [
+      "Cuba",
+      "Mass media in Cuba",
+      "Yoani Sánchez",
+      "Berta Soler",
+      "Havana"
+     ],
+     "testo_it": "Le autorità cubane rilasciano il giornalista indipendente Yoani Sánchez e gli attivisti Berta Soler e María Cristina Labrada dopo averli arrestati per diverse ore all'Avana."
     },
     {
      "testo": "Eight people are killed and another is injured in a shooting spree at three separated locations in Afyonkarahisar Province, Turkey. The perpetrator is arrested.",
@@ -469,7 +623,7 @@
      ]
     },
     {
-     "testo": "Belarus sentences Roman Catholic Priest Anatoly Parakhnevich to three years in prison for opposing the war in Ukraine.",
+     "testo": "Belarus sentences Roman Catholic priest Anatoly Parakhnevich to three years in prison for opposing the war in Ukraine.",
      "contesto": [
       "Protests against the Russo-Ukrainian war, Belarusian involvement in the Russo-Ukrainian war"
      ],
@@ -697,6 +851,22 @@
       "Crédit Mutuel"
      ],
      "testo_it": "Gli hacker rubano circa 100 milioni di euro dalla banca francese Crédit Mutuel attraverso transazioni non autorizzate utilizzando il conto della banca."
+    },
+    {
+     "testo": "President of the Bolivian Supreme Court Romer Saucedo announces that he is leaving the country following an investigation into drug trafficking in which senior judicial officials, such as former Attorney General Roger Mariaca, have been arrested.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "La Tercera",
+       "url": "https://www.latercera.com/mundo/noticia/bolivia-el-presidente-del-tribunal-supremo-de-justicia-huye-tras-orden-de-captura-por-narcotrafico/"
+      }
+     ],
+     "link": [
+      "Supreme Tribunal of Justice of Bolivia",
+      "Drug trafficking"
+     ],
+     "testo_it": "Il presidente della Corte Suprema boliviana Romer Saucedo annuncia che lascerà il paese a seguito di un'indagine sul traffico di droga in cui sono stati arrestati alti funzionari giudiziari, come l'ex procuratore generale Roger Mariaca."
     },
     {
      "testo": "Hungary makes Communist-era secret police records publicly accessible through a database containing approximately 60,000 names linked to former state security services. Prime Minister Péter Magyar announces that additional documents will become available in February 2027.",
