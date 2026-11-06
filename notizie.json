@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-06T06:57:03Z",
+ "generato": "2026-11-06T16:49:30Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -96,7 +96,45 @@
  "giorni": [
   {
    "data": "2026-11-06",
-   "voci": []
+   "voci": [
+    {
+     "testo": "A bus crashes into a tree in Lent, France, killing two people and injuring 16 others.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "Le Monde",
+       "url": "https://www.lemonde.fr/en/france/article/2026/11/06/at-least-two-people-killed-after-bus-carrying-schoolchildren-crashes-in-france_6773528_7.html"
+      }
+     ],
+     "link": [
+      "Lent, Ain",
+      "France"
+     ],
+     "testo_it": "Un autobus si schianta contro un albero a Quaresima, in Francia, uccidendo due persone e ferendone altre 16."
+    },
+    {
+     "testo": "Thomas Markle, father of Meghan, Duchess of Sussex, is arrested over allegations of possessing child sexual abuse material.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "BBC",
+       "url": "https://www.bbc.co.uk/news/live/cwnv03203yvmt"
+      },
+      {
+       "nome": "CBS",
+       "url": "https://www.cbsnews.com/news/thomas-markle-sr-meghan-father-arrested-florida/"
+      }
+     ],
+     "link": [
+      "Thomas Markle",
+      "Meghan, Duchess of Sussex",
+      "Child sexual abuse material"
+     ],
+     "testo_it": "Thomas Markle, padre di Meghan, Duchessa del Sussex, viene arrestato per accuse di possesso di materiale di abusi sessuali su minori."
+    }
+   ]
   },
   {
    "data": "2026-11-05",
@@ -248,6 +286,23 @@
      "contesto_it": [
       "affare Koldo"
      ]
+    },
+    {
+     "testo": "Eight people are killed and another is injured in a shooting spree at three separated locations in Afyonkarahisar Province, Turkey. The perpetrator is arrested.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/turkey-attacker-shooting-spree-8-dead-17a03eb1f79183017eb35016f60c8a98"
+      }
+     ],
+     "link": [
+      "Spree killer",
+      "Afyonkarahisar Province",
+      "Turkey"
+     ],
+     "testo_it": "Otto persone vengono uccise e un altro viene ferito in una sparatoria in tre località separate nella provincia di Afyonkarahisar, in Turchia."
     },
     {
      "testo": "The Hong Kong High Court sentences pro-democracy activist Joshua Wong to an additional 10 years in prison under the national security law for conspiring with foreign entities to impose sanctions against China and Hong Kong.",
@@ -416,7 +471,7 @@
     {
      "testo": "Belarus sentences Roman Catholic Priest Anatoly Parakhnevich to three years in prison for opposing the war in Ukraine.",
      "contesto": [
-      "Protests against the Russo-Ukrainian war, Belarusian involvement in the Russian invasion of Ukraine"
+      "Protests against the Russo-Ukrainian war, Belarusian involvement in the Russo-Ukrainian war"
      ],
      "categoria": "Politics and elections",
      "fonti": [
@@ -434,7 +489,7 @@
      ],
      "testo_it": "La Bielorussia condanna il sacerdote cattolico romano Anatoly Parakhnevich a tre anni di carcere per essersi opposto alla guerra in Ucraina.",
      "contesto_it": [
-      "Proteste contro la guerra russo-ucraina, coinvolgimento bielorusso nell'invasione russa dell'Ucraina"
+      "Proteste contro la guerra russo-ucraina, coinvolgimento bielorusso nella guerra russo-ucraina"
      ]
     },
     {
