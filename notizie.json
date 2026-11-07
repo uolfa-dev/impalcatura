@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-06T23:15:15Z",
+ "generato": "2026-11-07T06:08:58Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -26,6 +26,23 @@
     "2026 United States elections"
    ],
    "testo_it": "Negli Stati Uniti, il Partito Democratico vince la maggioranza sia alla Camera dei Rappresentanti che al Senato nelle elezioni di medio termine."
+  },
+  {
+   "testo": "In motorsport, Kimi Antonelli becomes the youngest winner of the Formula One World Championship.",
+   "contesto": [],
+   "categoria": "In primo piano",
+   "fonti": [
+    {
+     "nome": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2026_Formula_One_World_Championship"
+    }
+   ],
+   "link": [
+    "Motorsport",
+    "Kimi Antonelli",
+    "2026 Formula One World Championship"
+   ],
+   "testo_it": "Nel motorsport, Kimi Antonelli diventa il più giovane vincitore del Campionato del Mondo di Formula Uno."
   },
   {
    "testo": "The Polish Constitutional Tribunal crisis escalates with the suspension of tribunal head Bogdan Święczkowski and deputy head Bartłomiej Sochański by judge Anna Korwin-Piotrowska.",
@@ -73,30 +90,69 @@
     "Dolores Huerta"
    ],
    "testo_it": "L'attivista laburista statunitense Dolores Huerta muore all'età di 96 anni."
-  },
-  {
-   "testo": "In baseball, the Milwaukee Brewers defeat the Tampa Bay Rays to win the World Series.",
-   "contesto": [],
-   "categoria": "In primo piano",
-   "fonti": [
-    {
-     "nome": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/2026_World_Series"
-    }
-   ],
-   "link": [
-    "Baseball",
-    "Milwaukee Brewers",
-    "Tampa Bay Rays",
-    "2026 World Series"
-   ],
-   "testo_it": "Nel baseball, i Milwaukee Brewers sconfiggono i Tampa Bay Rays per vincere le World Series."
   }
  ],
  "giorni": [
   {
+   "data": "2026-11-07",
+   "voci": [
+    {
+     "testo": "New Zealanders vote to elect 120 members of the House of Representatives, with additional overhang seats. National leader Christopher Luxon and Labour leader Chris Hipkins both seek reappointment as the country's prime minister.",
+     "contesto": [
+      "2026 New Zealand general election"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/new-zealand-election-results-luxon-hipkins-voting-8c1728ae2533201f68d5a5e75fc9e907"
+      }
+     ],
+     "link": [
+      "New Zealanders",
+      "New Zealand House of Representatives",
+      "Overhang seat",
+      "New Zealand National Party",
+      "Christopher Luxon",
+      "New Zealand Labour Party",
+      "Chris Hipkins",
+      "Prime Minister of New Zealand"
+     ],
+     "testo_it": "I neozelandesi votano per eleggere 120 membri della Camera dei Rappresentanti, con ulteriori seggi a sbalzo. Il leader nazionale Christopher Luxon e il leader laburista Chris Hipkins cercano entrambi di riconfermarsi come primo ministro del paese.",
+     "contesto_it": [
+      "Elezioni generali in Nuova Zelanda (2026)"
+     ]
+    }
+   ]
+  },
+  {
    "data": "2026-11-06",
    "voci": [
+    {
+     "testo": "Australia deploys a C-130 Hercules aircraft, a Cessna Citation aircraft, and 20 personnel to help extinguish wildfires in East Kalimantan, Indonesia.",
+     "contesto": [
+      "2026 Indonesia wildfires, Australia–Indonesia relations"
+     ],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/australia-sends-military-aircraft-help-fight-indonesia-fires"
+      }
+     ],
+     "link": [
+      "Australia",
+      "C-130 Hercules",
+      "Cessna Citation family",
+      "Wildfire",
+      "East Kalimantan",
+      "Indonesia"
+     ],
+     "testo_it": "L'Australia schiera un C-130 Hercules, un Cessna Citation e 20 membri del personale per aiutare a spegnere gli incendi nel Kalimantan orientale, in Indonesia.",
+     "contesto_it": [
+      "Indonesia incendi (2026), Australia-Indonesia relazioni"
+     ]
+    },
     {
      "testo": "Two people are killed and 16 injured in a bus crash in Lent, Ain, France.",
      "contesto": [],
@@ -142,6 +198,80 @@
      ]
     },
     {
+     "testo": "The Standing Committee of the National People's Congress of China adopts a law regulating Chinese research, tourism, shipping, and other activities in Antarctica, requiring environmental safeguards, waste management, and permits subject to safety conditions.",
+     "contesto": [],
+     "categoria": "Health and environment",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/legal/litigation/china-adopts-law-antarctic-activities-environmental-protection-2026-11-06/"
+      }
+     ],
+     "link": [
+      "Standing Committee of the National People's Congress",
+      "National People's Congress",
+      "China",
+      "Chinese law",
+      "Science and technology in China",
+      "Tourism in Antarctica",
+      "Transport in Antarctica",
+      "Antarctica",
+      "Environmental policy of China",
+      "Waste management"
+     ],
+     "testo_it": "Il Comitato permanente del Congresso nazionale del popolo della Cina adotta una legge che regola la ricerca cinese, il turismo, il trasporto marittimo e altre attività in Antartide, che richiede garanzie ambientali, gestione dei rifiuti e permessi soggetti a condizioni di sicurezza."
+    },
+    {
+     "testo": "Malaysia's UMNO party pays a RM50-million (US$12 million) fine for imprisoned former prime minister Najib Razak, fulfilling a condition of his royal pardon. The Attorney-General's Chambers subsequently seeks to delay his transfer to house arrest.",
+     "contesto": [
+      "1MDB scandal"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "AFP via France 24",
+       "url": "https://www.france24.com/en/live-news/20261106-jailed-malaysian-ex-pm-najib-pays-fine-meeting-condition-for-house-arrest"
+      }
+     ],
+     "link": [
+      "Malaysia",
+      "UMNO",
+      "Malaysian ringgit",
+      "US$",
+      "Prime Minister of Malaysia",
+      "Najib Razak",
+      "Royal pardon",
+      "Attorney General's Chambers of Malaysia",
+      "House arrest"
+     ],
+     "testo_it": "Il partito malese UMNO paga una multa di RM50 milioni ($12 milioni) per l'ex primo ministro imprigionato Najib Razak, soddisfacendo una condizione del suo perdono reale.",
+     "contesto_it": [
+      "Scandalo 1MDB"
+     ]
+    },
+    {
+     "testo": "Kenyan cult leader Paul Mackenzie is sentenced to 200 years in prison for the mass murder of children.",
+     "contesto": [
+      "Shakahola Forest incident"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/africa/kenyan-court-sentences-cult-leader-200-years-prison-murder-190-children-2026-11-06/"
+      }
+     ],
+     "link": [
+      "Kenyan",
+      "Good News International Ministries",
+      "Mass murder"
+     ],
+     "testo_it": "Il leader del culto keniano Paul Mackenzie è stato condannato a 200 anni di carcere per omicidio di massa di bambini.",
+     "contesto_it": [
+      "Incidente della foresta di Shakahola"
+     ]
+    },
+    {
      "testo": "American cinematographer Thomas Markle, the father of Meghan, Duchess of Sussex, is arrested in Tampa, Florida, over allegations of possessing child sexual abuse material.",
      "contesto": [],
      "categoria": "Law and crime",
@@ -166,12 +296,30 @@
      "testo_it": "Il direttore della fotografia americano Thomas Markle, padre di Meghan, Duchessa del Sussex, viene arrestato a Tampa, in Florida, per accuse di possesso di materiale per abusi sessuali su minori."
     },
     {
+     "testo": "Colombia Migration expel 80 Venezuelan nationals suspected of criminal activity, including theft, drug trafficking, and extortion.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "AFP via France 24",
+       "url": "https://www.france24.com/en/live-news/20261106-colombia-expels-80-allegedly-criminal-venezuelans"
+      }
+     ],
+     "link": [
+      "Colombia Migration",
+      "Venezuela",
+      "Crime in Colombia",
+      "Illegal drug trade in Colombia"
+     ],
+     "testo_it": "Colombia Migrazione espelle 80 cittadini venezuelani sospettati di attività criminali, tra cui furto, traffico di droga ed estorsione."
+    },
+    {
      "testo": "Au Kam San, a former pro-democracy legislator of Macau, is convicted in a closed-door trial of \"subversion against the political power of the state\" and sentenced to 12 years and 6 months in prison. It is the first conviction under the Macau National Security Law, which was revised by lawmakers in 2023 to broaden its scope and to allow for closed-door trials.",
      "contesto": [],
      "categoria": "Law and crime",
      "fonti": [
       {
-       "nome": "BBC",
+       "nome": "BBC News",
        "url": "https://www.bbc.com/news/articles/cmdx33v9vvr2o"
       }
      ],
@@ -180,30 +328,60 @@
       "Pro-democracy camp (Macau)",
       "Legislative Assembly of Macau",
       "Macau",
+      "In camera",
       "Inciting subversion of state power",
       "Macau National Security Law"
      ],
      "testo_it": "Au Kam San, un ex legislatore pro-democrazia di Macao, è stato condannato in un processo a porte chiuse di \"sovversione contro il potere politico dello stato\" e condannato a 12 anni e 6 mesi di carcere. È la prima condanna ai sensi della legge sulla sicurezza nazionale di Macao, che è stata rivista dai legislatori nel 2023 per ampliare la sua portata e consentire processi a porte chiuse."
     },
     {
-     "testo": "Kenyan cult leader Paul Mackenzie is sentenced to 200 years in prison for the mass murder of children.",
+     "testo": "The High Court of Tanzania acquits Chadema chairperson Tundu Lissu of treason but sentences him to four years in prison for incitement related to statements opposing the 2025 general election results.",
      "contesto": [],
      "categoria": "Law and crime",
      "fonti": [
       {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/africa/kenyan-court-sentences-cult-leader-200-years-prison-murder-190-children-2026-11-06/"
+       "nome": "AFP via France 24",
+       "url": "https://www.france24.com/en/live-news/20261106-tanzania-opposition-leader-avoids-death-penalty-in-treason-trial"
       }
      ],
      "link": [
-      "Kenyan",
-      "Good News International Ministries",
-      "Shakahola Forest incident"
+      "High Court of Tanzania",
+      "Tanzania",
+      "Chadema",
+      "Tundu Lissu",
+      "Treason",
+      "Incitement",
+      "2025 Tanzanian election protests",
+      "2025 Tanzanian general election"
      ],
-     "testo_it": "Il leader del culto keniano Paul Mackenzie è stato condannato a 200 anni di carcere per omicidio di massa di bambini."
+     "testo_it": "L'Alta Corte della Tanzania assolve il presidente del Chadema Tundu Lissu per tradimento, ma lo condanna a quattro anni di carcere per incitamento a dichiarazioni contrarie ai risultati delle elezioni generali del 2025."
     },
     {
-     "testo": "The Paraguayan Senate unanimously removes Santiago Peña as country's President over alleged conflicts of interest involving Ueno Bank, whose accounts the central bank froze. Congress postpones consideration of Peña's resignation to allow impeachment proceedings.",
+     "testo": "A court in Istanbul, Turkey, orders the detention of legislator and former family minister Fatma Betül Sayan Kaya pending trial on charges of violating capital markets legislation and membership in a criminal organization amid an investigation into investment fund manipulation.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/turkey-ex-minister-arrested-fund-scandal-f8e9cbd71d20cce682ac2e3461b9e13a"
+      }
+     ],
+     "link": [
+      "Judicial system of Turkey",
+      "Istanbul",
+      "Turkey",
+      "Grand National Assembly of Turkey",
+      "Ministry of Family and Social Services",
+      "Fatma Betül Sayan Kaya",
+      "Capital market",
+      "Crime in Turkey",
+      "Investment fund",
+      "Market manipulation"
+     ],
+     "testo_it": "Un tribunale di Istanbul, in Turchia, ordina la detenzione del legislatore ed ex ministro della famiglia Fatma Betül Sayan Kaya in attesa di processo con l'accusa di aver violato la legislazione sui mercati dei capitali e l'appartenenza a un'organizzazione criminale in mezzo a un'indagine sulla manipolazione dei fondi di investimento."
+    },
+    {
+     "testo": "The Paraguayan Senate unanimously removes Santiago Peña as country's president over alleged conflicts of interest involving Ueno Bank, whose accounts the central bank froze. Congress postpones consideration of Peña's resignation to allow impeachment proceedings.",
      "contesto": [
       "2026 Paraguay banking crisis"
      ],
@@ -234,19 +412,43 @@
      ]
     },
     {
-     "testo": "The Public Prosecutor’s Office orders the arrest of Santiago Peña.",
+     "testo": "The Public Prosecutor's Office orders the arrest of Santiago Peña, who is placed under house arrest.",
      "contesto": [
       "2026 Paraguay banking crisis"
      ],
      "categoria": "Politics and elections",
      "fonti": [
       {
-       "nome": "ABC Paraguay",
-       "url": "https://www.abc.com.py/finanzas-personales/2026/11/06/fiscalia-ordena-detencion-del-expresidente-santiago-pena/"
+       "nome": "UPI",
+       "url": "https://www.upi.com/Top_News/World-News/2026/11/06/latam-paraguay-president-impached-arrested/1841794018965/"
       }
      ],
-     "link": [],
-     "testo_it": "La Procura ordina l'arresto di Santiago Peña.",
+     "link": [
+      "Public Ministry of Paraguay",
+      "House arrest"
+     ],
+     "testo_it": "La Procura ordina l'arresto di Santiago Peña, che viene posto agli arresti domiciliari.",
+     "contesto_it": [
+      "Paraguay crisi bancaria (2026)"
+     ]
+    },
+    {
+     "testo": "Vice President Pedro Alliana is sworn in as the interim president of Paraguay.",
+     "contesto": [
+      "2026 Paraguay banking crisis"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/americas/paraguays-alliana-sworn-president-after-pea-impeachment-2026-11-06/"
+      }
+     ],
+     "link": [
+      "Vice President of Paraguay",
+      "Pedro Alliana"
+     ],
+     "testo_it": "Il vicepresidente Pedro Alliana ha prestato giuramento come presidente ad interim del Paraguay.",
      "contesto_it": [
       "Paraguay crisi bancaria (2026)"
      ]
@@ -834,6 +1036,29 @@
      "contesto_it": [
       "Il traffico illegale di droga nelle Filippine"
      ]
+    },
+    {
+     "testo": "Former American internet personality and YouTuber Bryant Moreland (known online as EDP445) is arrested in Las Vegas, Nevada, U.S., on multiple felony sex crime charges following self-incriminating statements made in a recent documentary by American director Mike Clum including a 2021 incident in Bakersfield, California.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "The New York Times",
+       "url": "https://www.nytimes.com/2026/11/06/us/edp445-youtuber-arrested-sex-crimes.html"
+      }
+     ],
+     "link": [
+      "YouTube",
+      "EDP445",
+      "Las Vegas",
+      "Nevada",
+      "United States",
+      "Sex crime",
+      "Mike Clum",
+      "Bakersfield, California",
+      "California"
+     ],
+     "testo_it": "L'ex personaggio di Internet americano e YouTuber Bryant Moreland (noto online come EDP445) viene arrestato a Las Vegas, Nevada, Stati Uniti, con molteplici accuse di crimine sessuale a seguito di dichiarazioni auto incriminanti fatte in un recente documentario del regista americano Mike Clum tra cui un incidente del 2021 a Bakersfield, in California."
     },
     {
      "testo": "Hackers steal approximately €100 million (US$112 million) from French bank Crédit Mutuel through unauthorized transactions using the bank's account.",
@@ -2114,339 +2339,26 @@
      "contesto_it": [
       "Maratona di New York (2026)"
      ]
-    }
-   ]
-  },
-  {
-   "data": "2026-10-31",
-   "voci": [
-    {
-     "testo": "The Dutch military police and coast guard rescue 38 people from a rubber boat adrift off the coast of Breskens, Zeeland, and detain two people on suspicion of people smuggling.",
-     "contesto": [
-      "Human trafficking in the Netherlands"
-     ],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/netherlands-boat-rescue-migration-f9541a0b4a67d8bcc26034f7a4302183"
-      }
-     ],
-     "link": [
-      "Netherlands",
-      "Royal Marechaussee",
-      "Netherlands Coastguard",
-      "Inflatable boat",
-      "Breskens",
-      "Zeeland",
-      "People smuggling"
-     ],
-     "testo_it": "La polizia militare olandese e la guardia costiera salvano 38 persone da un gommone alla deriva al largo della costa di Breskens, in Zelanda, e arrestano due persone sospettate di traffico di esseri umani.",
-     "contesto_it": [
-      "La tratta di esseri umani nei Paesi Bassi"
-     ]
     },
     {
-     "testo": "Poland's ambassador to Romania, Paweł Soloch, and Poland's ambassador to China, Jakub Kumoch, resign from their positions in protest of the suspension of Polish Constitutional Tribunal president Bogdan Święczkowski.",
-     "contesto": [
-      "Polish constitutional crisis, China–Poland relations, Poland–Romania relations",
-      "Polish Constitutional Tribunal crisis",
-      "Suspension of Bogdan Święczkowski"
-     ],
-     "categoria": "International relations",
-     "fonti": [
-      {
-       "nome": "24 Kanal",
-       "url": "https://24tv.ua/geopolitics/en/polish-ambassador-romania-pawe-solok-has-resigned-amid-the-judicial_n3171202"
-      },
-      {
-       "nome": "Firstpost",
-       "url": "https://www.firstpost.com/world/polish-envoy-to-china-resigns-on-x-foreign-minister-accepts-departure-amid-ongoing-political-turmoil-14056805.html"
-      }
-     ],
-     "link": [
-      "Poland",
-      "List of ambassadors of Poland",
-      "Romania",
-      "Paweł Soloch",
-      "China",
-      "Jakub Kumoch",
-      "Constitutional Tribunal (Poland)",
-      "Bogdan Święczkowski"
-     ],
-     "testo_it": "L'ambasciatore polacco in Romania, Paweł Soloch, e l'ambasciatore polacco in Cina, Jakub Kumoch, si dimettono dalle loro posizioni per protestare contro la sospensione del presidente del Tribunale costituzionale polacco Bogdan Święczkowski.",
-     "contesto_it": [
-      "Crisi costituzionale polacca, relazioni Cina-Polonia, relazioni Polonia-Romania",
-      "La crisi del Tribunale costituzionale polacco",
-      "Sospensione di Bogdan Święczkowski"
-     ]
-    },
-    {
-     "testo": "Metropolitan Police arrest 139 people outside the United States embassy in London, United Kingdom, during a protest supporting Palestine Action, which is designated as a proscribed terrorist organisation.",
-     "contesto": [
-      "Gaza war protests in the United Kingdom"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/uk-palestine-action-us-embassy-protest-arrests-181ab108a671bcabf5433863608949bc"
-      }
-     ],
-     "link": [
-      "Metropolitan Police",
-      "Embassy of the United States, London",
-      "London",
-      "United Kingdom",
-      "Palestine Action",
-      "Proscribed organisation",
-      "Terrorism in the United Kingdom"
-     ],
-     "testo_it": "La polizia metropolitana ha arrestato 139 persone al di fuori dell'ambasciata degli Stati Uniti a Londra, nel Regno Unito, durante una protesta a sostegno di Palestine Action, che è stata designata come un'organizzazione terroristica proibita.",
-     "contesto_it": [
-      "Proteste di guerra a Gaza nel Regno Unito"
-     ]
-    },
-    {
-     "testo": "Madagascar's justice ministry announces dismantling 13 Chinese-run scam centers since August, linked to 148 Chinese nationals who had previously operated scam centers in Cambodia, and who might have been involved in trafficking Africans to commit fraud. The 148 Chinese are extradited to China.",
-     "contesto": [
-      "Trafficking of Chinese nationals to scam centers abroad, Human trafficking in Madagascar"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "AFP",
-       "url": "https://www.afp.com/en/scam-centres-relocated-cambodia-operate-madagascar"
-      }
-     ],
-     "link": [
-      "Madagascar",
-      "Justice ministry",
-      "Scam center",
-      "Chinese people in Madagascar",
-      "Scam centers in Cambodia",
-      "Human trafficking",
-      "Extradited"
-     ],
-     "testo_it": "Il ministero della giustizia del Madagascar annuncia lo smantellamento di 13 centri di truffa gestiti dalla Cina da agosto, collegati a 148 cittadini cinesi che avevano precedentemente gestito centri di truffa in Cambogia e che potrebbero essere stati coinvolti nel traffico di africani per commettere frodi.",
-     "contesto_it": [
-      "Traffico di cittadini cinesi verso centri di truffa all'estero, tratta di esseri umani in Madagascar"
-     ]
-    },
-    {
-     "testo": "Protests are held across France for the third consecutive weekend.",
-     "contesto": [
-      "2026 European unrest",
-      "2026 French student protests"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/protests-europe-youth-france-germany-spain-362a7cb69871ab21bd894290dad639f5"
-      },
-      {
-       "nome": "France 24",
-       "url": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response"
-      }
-     ],
-     "link": [
-      "France"
-     ],
-     "testo_it": "Le proteste si svolgono in tutta la Francia per il terzo fine settimana consecutivo.",
-     "contesto_it": [
-      "Insurrezioni europee (2026)",
-      "Proteste studentesche francesi (2026)"
-     ]
-    },
-    {
-     "testo": "Protests are held in 34 cities across Germany against the high cost of livings and wars. Clashes with the police erupt in Frankfurt, Berlin, Cologne and Hamburg. In Frankfurt, shops are looted, with several people being arrested.",
-     "contesto": [
-      "2026 European unrest"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "BBC News",
-       "url": "https://www.bbc.com/news/articles/cqj34gnd3n30o"
-      }
-     ],
-     "link": [
-      "Germany",
-      "Frankfurt",
-      "Berlin",
-      "Cologne",
-      "Hamburg",
-      "Looting"
-     ],
-     "testo_it": "In 34 città di tutta la Germania si tengono proteste contro l'alto costo della vita e delle guerre. Scontri con la polizia scoppiano a Francoforte, Berlino, Colonia e Amburgo. A Francoforte, i negozi sono saccheggiati, con diverse persone arrestate.",
-     "contesto_it": [
-      "Insurrezioni europee (2026)"
-     ]
-    },
-    {
-     "testo": "Riots erupt in Zurich and Basel, Switzerland, with fires reported.",
-     "contesto": [
-      "2026 European unrest"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "Swiss Info",
-       "url": "https://www.swissinfo.ch/eng/swiss-politics/zurich-and-basel-protests-turn-violent/92308905"
-      }
-     ],
-     "link": [
-      "Zurich",
-      "Basel",
-      "Switzerland"
-     ],
-     "testo_it": "Le rivolte scoppiano a Zurigo e Basilea, in Svizzera, con incendi segnalati.",
-     "contesto_it": [
-      "Insurrezioni europee (2026)"
-     ]
-    },
-    {
-     "testo": "Clashes erupt in The Hague, Netherlands, in a youth-led protest, with 34 people arrested.",
-     "contesto": [
-      "2026 European unrest"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "NL Times",
-       "url": "https://nltimes.nl/2026/11/01/gen-z-protest-hague-ends-without-major-incidents-34-arrested-mostly-teens"
-      }
-     ],
-     "link": [
-      "The Hague",
-      "Netherlands"
-     ],
-     "testo_it": "Gli scontri scoppiano a L'Aia, nei Paesi Bassi, in una protesta guidata dai giovani, con 34 persone arrestate.",
-     "contesto_it": [
-      "Insurrezioni europee (2026)"
-     ]
-    },
-    {
-     "testo": "In figure skating, France's Kevin Aymoz wins the men's singles title at Skate Canada in Kelowna, British Columbia, overtaking Japan's Rio Nakata and becoming the second-oldest men's Grand Prix champion at age 29.",
-     "contesto": [
-      "2026–27 ISU Grand Prix of Figure Skating",
-      "2026 Skate Canada International"
-     ],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "NBC Sports",
-       "url": "https://www.nbcsports.com/olympics/news/skate-canada-figure-skating-2026-grand-prix-rio-nakata"
-      }
-     ],
-     "link": [
-      "Figure skating",
-      "France",
-      "Kevin Aymoz",
-      "Skate Canada International",
-      "Kelowna",
-      "British Columbia",
-      "Japan",
-      "Rio Nakata",
-      "ISU Grand Prix of Figure Skating"
-     ],
-     "testo_it": "Nel pattinaggio di figura, il francese Kevin Aymoz vince il titolo maschile a Skate Canada a Kelowna, British Columbia, superando il giapponese Rio Nakata e diventando il secondo campione del Gran Premio degli uomini all'età di 29 anni.",
-     "contesto_it": [
-      "ISU Gran Premio di pattinaggio di figura (2026-27)",
-      "Skate Canada Internazionale (2026)"
-     ]
-    },
-    {
-     "testo": "In thoroughbred horse racing, thoroughbred racehorse Sovereignty wins the Breeders' Cup classic at the Keeneland racetrack in Lexington, Kentucky, U.S.",
-     "contesto": [
-      "2026 Breeders' Cup",
-      "2026 Breeders' Cup Classic"
-     ],
+     "testo": "In association football, a match between U20 clubs EC Mamoré and Uberlândia EC in Minas Gerais, Brazil, is abandoned after referees handed out 53 red cards, including to 43 players and 10 club officials, following a massive brawl, setting the world record for the most red cards given in a single match.",
+     "contesto": [],
      "categoria": "Sports",
      "fonti": [
       {
        "nome": "ESPN",
-       "url": "https://www.espn.com/horse-racing/story/_/id/50342162/sovereignty-wins-breeders-cup-classic-year-missing-race"
-      },
-      {
-       "nome": "The Blood-Horse",
-       "url": "https://www.bloodhorse.com/horse-racing/articles/295752/sovereignty-caps-career-with-breeders-cup-classic-win"
+       "url": "https://www.espn.com/soccer/story/_/id/50382265/world-record-53-red-cards-brazilian-20s-match"
       }
      ],
      "link": [
-      "Thoroughbred racing",
-      "Horse racing",
-      "Thoroughbred",
-      "Horse racing",
-      "Sovereignty (horse)",
-      "2026 Breeders' Cup Classic",
-      "Breeders' Cup",
-      "Breeders' Cup Classic",
-      "Keeneland",
-      "Lexington, Kentucky",
-      "Kentucky",
-      "United States"
+      "Association football",
+      "Esporte Clube Mamoré",
+      "Uberlândia Esporte Clube",
+      "Minas Gerais",
+      "Brazil",
+      "Red card (association football)"
      ],
-     "testo_it": "Nelle corse di cavalli purosangue, il cavallo purosangue Sovranità vince il classico Breeders' Cup all'ippodromo Keeneland di Lexington, Kentucky, Stati Uniti",
-     "contesto_it": [
-      "Coppa degli Allevatori (2026)",
-      "Coppa degli Allevatori Classic (2026)"
-     ]
-    },
-    {
-     "testo": "The 2026 Summer Youth Olympics opens in Dakar, Senegal, marking the first IOC event in Africa.",
-     "contesto": [
-      "2026 Summer Youth Olympics"
-     ],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "AFP via France 24",
-       "url": "https://www.france24.com/en/live-news/20261031-senegal-kicks-off-youth-games-africa-s-first-ever-olympics"
-      }
-     ],
-     "link": [
-      "Summer Youth Olympics",
-      "Dakar",
-      "Senegal",
-      "IOC",
-      "Africa"
-     ],
-     "testo_it": "Il 2026 Summer Youth Olympics apre a Dakar, in Senegal, segnando il primo evento del CIO in Africa.",
-     "contesto_it": [
-      "Olimpiadi estive della gioventù (2026)"
-     ]
-    },
-    {
-     "testo": "In women's basketball, the Golden State Valkyries defeat the Atlanta Dream 68–63 in game seven to win their first WNBA championship. Gabby Williams is named MVP.",
-     "contesto": [
-      "2026 WNBA Finals"
-     ],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "AFP",
-       "url": "https://www.afp.com/en/valkyries-defeat-dream-capture-first-wnba-crown"
-      },
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/wnba-finals-game-7-valkyries-dream-189aa4b8ecb1d1fd8ddfacde3a9d6ac4"
-      }
-     ],
-     "link": [
-      "Women's basketball",
-      "Golden State Valkyries",
-      "Atlanta Dream",
-      "Game seven",
-      "Women's National Basketball Association",
-      "Gabby Williams",
-      "WNBA Finals Most Valuable Player"
-     ],
-     "testo_it": "Nel basket femminile, i Golden State Valkyries sconfiggono l'Atlanta Dream 68-63 in partita sette per vincere il loro primo campionato WNBA. Gabby Williams è nominato MVP.",
-     "contesto_it": [
-      "Finale WNBA (2026)"
-     ]
+     "testo_it": "In associazione a calcio, una partita tra U20 club EC Mamoré e Uberlândia EC a Minas Gerais, in Brasile, viene abbandonata dopo che gli arbitri hanno distribuito 53 cartellini rossi, tra cui 43 giocatori e 10 funzionari del club, a seguito di una massiccia rissa, stabilendo il record mondiale per il maggior numero di cartellini rossi dati in una singola partita."
     }
    ]
   }
