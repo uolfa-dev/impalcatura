@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-07T06:08:58Z",
+ "generato": "2026-11-07T13:13:33Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -28,7 +28,7 @@
    "testo_it": "Negli Stati Uniti, il Partito Democratico vince la maggioranza sia alla Camera dei Rappresentanti che al Senato nelle elezioni di medio termine."
   },
   {
-   "testo": "In motorsport, Kimi Antonelli becomes the youngest winner of the Formula One World Championship.",
+   "testo": "In motorsport, Kimi Antonelli becomes the youngest ever winner of the Formula One World Championship.",
    "contesto": [],
    "categoria": "In primo piano",
    "fonti": [
@@ -57,39 +57,6 @@
     "Anna Korwin-Piotrowska"
    ],
    "testo_it": "La crisi del Tribunale costituzionale polacco si intensifica con la sospensione del capo del tribunale Bogdan Święczkowski e del vice capo Bartłomiej Sochański da parte della giudice Anna Korwin-Piotrowska."
-  },
-  {
-   "testo": "Digital currency worth US$6.3 billion is stolen from cryptocurrency exchange Binance.",
-   "contesto": [],
-   "categoria": "In primo piano",
-   "fonti": [
-    {
-     "nome": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/2026_Binance_hack"
-    }
-   ],
-   "link": [
-    "Digital currency",
-    "2026 Binance hack",
-    "Cryptocurrency",
-    "Binance"
-   ],
-   "testo_it": "La valuta digitale del valore di 6,3 miliardi di dollari viene rubata dall'exchange di criptovalute Binance."
-  },
-  {
-   "testo": "American labor activist Dolores Huerta dies at the age of 96.",
-   "contesto": [],
-   "categoria": "In primo piano",
-   "fonti": [
-    {
-     "nome": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/Dolores_Huerta"
-    }
-   ],
-   "link": [
-    "Dolores Huerta"
-   ],
-   "testo_it": "L'attivista laburista statunitense Dolores Huerta muore all'età di 96 anni."
   }
  ],
  "giorni": [
@@ -128,6 +95,53 @@
   {
    "data": "2026-11-06",
    "voci": [
+    {
+     "testo": "The death toll from an armed attack yesterday by suspected Allied Democratic Forces militants on several villages in North Kivu, eastern Democratic Republic of Congo, has risen to 33.",
+     "contesto": [
+      "Kivu conflict",
+      "Allied Democratic Forces insurgency"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "AA",
+       "url": "https://www.aa.com.tr/en/africa/death-toll-from-adf-attack-in-dr-congo-rises-to-33/4114820"
+      }
+     ],
+     "link": [
+      "Allied Democratic Forces",
+      "North Kivu",
+      "Democratic Republic of Congo"
+     ],
+     "testo_it": "Il bilancio delle vittime di un attacco armato di ieri da parte di sospetti militanti delle Forze Democratiche Alleate in diversi villaggi nel Nord Kivu, nella Repubblica Democratica del Congo orientale, è salito a 33.",
+     "contesto_it": [
+      "Conflitto Kivu",
+      "insurrezione delle forze democratiche alleate"
+     ]
+    },
+    {
+     "testo": "Saudi Arabia launches an airstrike against a market in Taiz, Yemen, killing 30 people and wounding eight more.",
+     "contesto": [
+      "Houthi–Saudi conflict"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/yemen-airstrikes-market-houthis-bcc2409ada0398125173d84261bd1fff"
+      }
+     ],
+     "link": [
+      "Saudi Arabia",
+      "Airstrike",
+      "Taiz",
+      "Yemen"
+     ],
+     "testo_it": "L'Arabia Saudita lancia un attacco aereo contro un mercato a Taiz, Yemen, uccidendo 30 persone e ferendone altre otto.",
+     "contesto_it": [
+      "Conflitto Houthi-saudita"
+     ]
+    },
     {
      "testo": "Australia deploys a C-130 Hercules aircraft, a Cessna Citation aircraft, and 20 personnel to help extinguish wildfires in East Kalimantan, Indonesia.",
      "contesto": [
@@ -1036,29 +1050,6 @@
      "contesto_it": [
       "Il traffico illegale di droga nelle Filippine"
      ]
-    },
-    {
-     "testo": "Former American internet personality and YouTuber Bryant Moreland (known online as EDP445) is arrested in Las Vegas, Nevada, U.S., on multiple felony sex crime charges following self-incriminating statements made in a recent documentary by American director Mike Clum including a 2021 incident in Bakersfield, California.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "The New York Times",
-       "url": "https://www.nytimes.com/2026/11/06/us/edp445-youtuber-arrested-sex-crimes.html"
-      }
-     ],
-     "link": [
-      "YouTube",
-      "EDP445",
-      "Las Vegas",
-      "Nevada",
-      "United States",
-      "Sex crime",
-      "Mike Clum",
-      "Bakersfield, California",
-      "California"
-     ],
-     "testo_it": "L'ex personaggio di Internet americano e YouTuber Bryant Moreland (noto online come EDP445) viene arrestato a Las Vegas, Nevada, Stati Uniti, con molteplici accuse di crimine sessuale a seguito di dichiarazioni auto incriminanti fatte in un recente documentario del regista americano Mike Clum tra cui un incidente del 2021 a Bakersfield, in California."
     },
     {
      "testo": "Hackers steal approximately €100 million (US$112 million) from French bank Crédit Mutuel through unauthorized transactions using the bank's account.",
