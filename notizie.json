@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-07T13:13:33Z",
+ "generato": "2026-11-07T19:29:45Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -64,7 +64,50 @@
    "data": "2026-11-07",
    "voci": [
     {
-     "testo": "New Zealanders vote to elect 120 members of the House of Representatives, with additional overhang seats. National leader Christopher Luxon and Labour leader Chris Hipkins both seek reappointment as the country's prime minister.",
+     "testo": "Saudi airstrikes hit homes near Sanaa killing at least 27 people and wounding 36 others.",
+     "contesto": [
+      "Houthi–Saudi conflict"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/yemen-houthi-saudi-attacks-1b5aef5b86be2e96e1cd8a18165afaf6"
+      }
+     ],
+     "link": [
+      "Sanaa"
+     ],
+     "testo_it": "Gli attacchi aerei sauditi hanno colpito le case vicino a Sanaa uccidendo almeno 27 persone e ferendone altre 36.",
+     "contesto_it": [
+      "Conflitto Houthi-saudita"
+     ]
+    },
+    {
+     "testo": "Six people are killed and 15 more injured in a drive-by mass shooting in the center of Kraków, Poland. The perpetrator is wounded by police and arrested.",
+     "contesto": [
+      "2026 Kraków shooting"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/europe/two-kiled-least-10-injured-shooting-polish-city-krakow-tvn24-reports-2026-11-07/"
+      }
+     ],
+     "link": [
+      "Drive-by shooting",
+      "Mass shooting",
+      "Kraków",
+      "Poland"
+     ],
+     "testo_it": "Sei persone vengono uccise e altre 15 ferite in una sparatoria di massa nel centro di Cracovia, in Polonia. L'autore è ferito dalla polizia e arrestato.",
+     "contesto_it": [
+      "Tiro a segno a Cracovia (2026)"
+     ]
+    },
+    {
+     "testo": "New Zealanders vote to elect 120 members of the House of Representatives, with 11 additional overhang seats. National leader Christopher Luxon and Labour leader Chris Hipkins both seek reappointment as the country's prime minister. Preliminary results see Labour lead in the popular vote and the Nationals having the most amount of seats, with special votes yet to be counted.",
      "contesto": [
       "2026 New Zealand general election"
      ],
@@ -73,6 +116,10 @@
       {
        "nome": "AP",
        "url": "https://apnews.com/article/new-zealand-election-results-luxon-hipkins-voting-8c1728ae2533201f68d5a5e75fc9e907"
+      },
+      {
+       "nome": "RNZ",
+       "url": "https://www.rnz.co.nz/news/politics_election-2026/2420113/too-close-to-call-wait-begins-for-special-votes-after-cliffhanger-election-night"
       }
      ],
      "link": [
@@ -83,11 +130,33 @@
       "Christopher Luxon",
       "New Zealand Labour Party",
       "Chris Hipkins",
-      "Prime Minister of New Zealand"
+      "Prime Minister of New Zealand",
+      "Popular vote",
+      "Special vote"
      ],
-     "testo_it": "I neozelandesi votano per eleggere 120 membri della Camera dei Rappresentanti, con ulteriori seggi a sbalzo. Il leader nazionale Christopher Luxon e il leader laburista Chris Hipkins cercano entrambi di riconfermarsi come primo ministro del paese.",
+     "testo_it": "I neozelandesi votano per eleggere 120 membri della Camera dei Rappresentanti, con 11 ulteriori seggi a sbalzo. Il leader nazionale Christopher Luxon e il leader laburista Chris Hipkins cercano entrambi di essere riconfermati come primo ministro del paese. Risultati preliminari vedono il leader laburista nel voto popolare e i nazionali hanno il maggior numero di seggi, con voti speciali ancora da contare.",
      "contesto_it": [
       "Elezioni generali in Nuova Zelanda (2026)"
+     ]
+    },
+    {
+     "testo": "Unions, the Yellow vests, and student protesters hold a fourth consecutive weekend of protests across France.",
+     "contesto": [
+      "2026 French student protests"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/france-braces-protests-yellow-vests-urge-mass-disobedience"
+      }
+     ],
+     "link": [
+      "Yellow vests movement"
+     ],
+     "testo_it": "I sindacati, i gilet gialli e i manifestanti studenteschi tengono un quarto fine settimana consecutivo di proteste in tutta la Francia.",
+     "contesto_it": [
+      "Proteste studentesche francesi (2026)"
      ]
     }
    ]
@@ -120,7 +189,7 @@
      ]
     },
     {
-     "testo": "Saudi Arabia launches an airstrike against a market in Taiz, Yemen, killing 30 people and wounding eight more.",
+     "testo": "Saudi Arabia launches an airstrike against a market in Taiz Governorate, Yemen, killing 30 people and wounding eight more.",
      "contesto": [
       "Houthi–Saudi conflict"
      ],
@@ -134,13 +203,48 @@
      "link": [
       "Saudi Arabia",
       "Airstrike",
-      "Taiz",
+      "Taiz Governorate",
       "Yemen"
      ],
-     "testo_it": "L'Arabia Saudita lancia un attacco aereo contro un mercato a Taiz, Yemen, uccidendo 30 persone e ferendone altre otto.",
+     "testo_it": "L'Arabia Saudita lancia un attacco aereo contro un mercato nel Governatorato di Taiz, Yemen, uccidendo 30 persone e ferendone altre otto.",
      "contesto_it": [
       "Conflitto Houthi-saudita"
      ]
+    },
+    {
+     "testo": "Politician Julio Portillo and three police officers are killed in an assassination shooting in Rio Hondo, Zacapa Department, Guatemala, by unknown gunmen.",
+     "contesto": [],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack"
+      }
+     ],
+     "link": [
+      "Law enforcement in Guatemala",
+      "Assassination",
+      "Río Hondo, Zacapa",
+      "Zacapa Department",
+      "Guatemala"
+     ],
+     "testo_it": "Il politico Julio Portillo e tre agenti di polizia vengono uccisi in una sparatoria a Rio Hondo, Dipartimento di Zacapa, Guatemala, da uomini armati sconosciuti."
+    },
+    {
+     "testo": "Tesla announces that it will end its production of the Cybertruck.",
+     "contesto": [],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/cybertruck-cybercab-discontinued-musk-sales-6938a145d365f8e31b26bb9c45264b24"
+      }
+     ],
+     "link": [
+      "Tesla",
+      "Tesla Cybertruck"
+     ],
+     "testo_it": "Tesla annuncia che terminerà la produzione del Cybertruck."
     },
     {
      "testo": "Australia deploys a C-130 Hercules aircraft, a Cessna Citation aircraft, and 20 personnel to help extinguish wildfires in East Kalimantan, Indonesia.",
@@ -261,6 +365,35 @@
      "testo_it": "Il partito malese UMNO paga una multa di RM50 milioni ($12 milioni) per l'ex primo ministro imprigionato Najib Razak, soddisfacendo una condizione del suo perdono reale.",
      "contesto_it": [
       "Scandalo 1MDB"
+     ]
+    },
+    {
+     "testo": "Between 100 and 200 people are arrested by Dutch police after protesters break into and temporarily occupy a construction site for a Microsoft data center in Sloterdijk, Amsterdam, during an anti-data-center rally.",
+     "contesto": [
+      "2026 European unrest"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam"
+      },
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/europe/activists-breach-microsoft-data-centre-construction-site-protests-spread-europe-2026-11-06/"
+      }
+     ],
+     "link": [
+      "Netherlands",
+      "Microsoft",
+      "Data center",
+      "Sloterdijk, Amsterdam",
+      "Amsterdam",
+      "Opposition to AI data centers"
+     ],
+     "testo_it": "Tra le 100 e le 200 persone vengono arrestate dalla polizia olandese dopo che i manifestanti irrompono e occupano temporaneamente un cantiere per un centro dati Microsoft a Sloterdijk, Amsterdam, durante una manifestazione anti-data center.",
+     "contesto_it": [
+      "Insurrezioni europee (2026)"
      ]
     },
     {
