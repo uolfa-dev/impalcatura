@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-08T10:31:33Z",
+ "generato": "2026-11-08T17:58:50Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -27,7 +27,7 @@
    "testo_it": "Sei persone vengono uccise e 15 ferite in una sparatoria di massa nella piazza principale di Cracovia, in Polonia."
   },
   {
-   "testo": "President of Paraguay Santiago Peña is impeached, removed from office, arrested, and replaced by Vice President Pedro Alliana amid a banking crisis involving Ueno Bank.",
+   "testo": "President of Paraguay Santiago Peña is impeached, arrested, and replaced by Vice President Pedro Alliana amid a banking crisis involving Ueno Bank.",
    "contesto": [],
    "categoria": "In primo piano",
    "fonti": [
@@ -37,14 +37,12 @@
     }
    ],
    "link": [
-    "President of Paraguay",
     "Santiago Peña",
-    "Vice President of Paraguay",
     "Pedro Alliana",
     "2026 Paraguay banking crisis",
     "Ueno Bank"
    ],
-   "testo_it": "Il presidente del Paraguay Santiago Peña viene messo sotto accusa, rimosso dall'incarico, arrestato e sostituito dal vicepresidente Pedro Alliana in mezzo a una crisi bancaria che coinvolge Ueno Bank."
+   "testo_it": "Il presidente del Paraguay Santiago Peña viene messo sotto accusa, arrestato e sostituito dal vicepresidente Pedro Alliana in mezzo a una crisi bancaria che coinvolge Ueno Bank."
   },
   {
    "testo": "In the United States, the Democratic Party wins a majority in both the House of Representatives and the Senate in the midterm elections.",
@@ -110,6 +108,27 @@
       "Yamanashi Prefecture"
      ],
      "testo_it": "Un terremoto di magnitudo 5,7 colpisce il Giappone centrale con il suo epicentro nella prefettura di Shizuoka, mentre colpisce principalmente le prefetture di Aichi, Gifu, Nagano e Yamanashi."
+    },
+    {
+     "testo": "A train derails near Giza, Egypt, killing seven people and wounding over 100 more.",
+     "contesto": [
+      "2026 Giza train collision"
+     ],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/egypt-train-crash-giza-collision-cairo-injuries-4ad591268ce015d85ae302e22185b235"
+      }
+     ],
+     "link": [
+      "Giza",
+      "Egypt"
+     ],
+     "testo_it": "Un treno deraglia vicino a Giza, in Egitto, uccidendo sette persone e ferendone altre 100.",
+     "contesto_it": [
+      "Collisione del treno di Giza (2026)"
+     ]
     }
    ]
   },
@@ -190,7 +209,7 @@
      ]
     },
     {
-     "testo": "A drone strike of unknown origin is launched against a military base in Santa Rosa del Sur, Bolívar Department, Colombia, killing three people and wounding 16 more.",
+     "testo": "A drone strike of unknown origin is launched against a military base in Santa Rosa del Sur, Bolívar Department, Colombia, killing three soldiers and wounding 16 more.",
      "contesto": [
       "Colombian conflict"
      ],
@@ -203,15 +222,31 @@
      ],
      "link": [
       "Drone warfare",
-      "Colombian Army",
+      "National Army of Colombia",
       "Santa Rosa del Sur",
       "Bolívar Department",
       "Colombia"
      ],
-     "testo_it": "Un attacco di droni di origine sconosciuta viene lanciato contro una base militare a Santa Rosa del Sur, Dipartimento di Bolívar, Colombia, uccidendo tre persone e ferendone altre 16.",
+     "testo_it": "Un attacco di droni di origine sconosciuta viene lanciato contro una base militare a Santa Rosa del Sur, Dipartimento di Bolívar, Colombia, uccidendo tre soldati e ferendone altri 16.",
      "contesto_it": [
       "Conflitto colombiano"
      ]
+    },
+    {
+     "testo": "Twenty-one people are killed and one person has been rescued after a migrant boat sinks off the coast of Kebemer, Senegal.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "Xinhua",
+       "url": "https://english.news.cn/20261108/b421ddd6df0c45a7aff62b629f9a3581/c.html"
+      }
+     ],
+     "link": [
+      "Kebemer",
+      "Senegal"
+     ],
+     "testo_it": "Ventuno persone vengono uccise e una persona è stata salvata dopo che una barca di migranti affonda al largo della costa di Kebemer, in Senegal."
     },
     {
      "testo": "Unions, the yellow vests, and student protesters hold a fourth consecutive weekend of protests across France with about 146,000 participants.",
@@ -678,7 +713,7 @@
      "testo_it": "Un tribunale di Istanbul, in Turchia, ordina la detenzione del legislatore ed ex ministro della famiglia Fatma Betül Sayan Kaya in attesa di processo con l'accusa di aver violato la legislazione sui mercati dei capitali e l'appartenenza a un'organizzazione criminale in mezzo a un'indagine sulla manipolazione dei fondi di investimento."
     },
     {
-     "testo": "The Paraguayan Senate unanimously removes Santiago Peña as country's president over alleged conflicts of interest involving Ueno Bank, whose accounts the central bank froze. Congress postpones consideration of Peña's resignation to allow impeachment proceedings.",
+     "testo": "The Paraguayan Senate unanimously removes Santiago Peña as the country's president over alleged conflicts of interest involving Ueno Bank, whose accounts the central bank froze. Congress postpones consideration of Peña's resignation to allow impeachment proceedings.",
      "contesto": [
       "2026 Paraguay banking crisis"
      ],
@@ -703,7 +738,7 @@
       "Central Bank of Paraguay",
       "Congress of Paraguay"
      ],
-     "testo_it": "Il Senato paraguaiano rimuove all'unanimità Santiago Peña come presidente del paese per presunti conflitti di interesse che coinvolgono Ueno Bank, i cui conti la banca centrale si è congelata. Il Congresso rinvia l'esame delle dimissioni di Peña per consentire procedimenti di impeachment.",
+     "testo_it": "Il Senato paraguaiano rimuove all'unanimità Santiago Peña come presidente del paese per presunti conflitti di interesse che coinvolgono Ueno Bank, i cui conti la banca centrale si è congelata. Il Congresso rinvia la considerazione delle dimissioni di Peña per consentire procedimenti di impeachment.",
      "contesto_it": [
       "Paraguay crisi bancaria (2026)"
      ]
