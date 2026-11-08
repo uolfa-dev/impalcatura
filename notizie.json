@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-07T19:29:45Z",
+ "generato": "2026-11-08T00:44:20Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -61,10 +61,39 @@
  ],
  "giorni": [
   {
+   "data": "2026-11-08",
+   "voci": []
+  },
+  {
    "data": "2026-11-07",
    "voci": [
     {
-     "testo": "Saudi airstrikes hit homes near Sanaa killing at least 27 people and wounding 36 others.",
+     "testo": "Sudan's armed forces says that they have recaptured the West Kordofan town of Iyal Bakhit. Additionally, the SAF also says that they have downed a Rapid Support Forces drone.",
+     "contesto": [
+      "Sudanese civil war",
+      "Kordofan campaign"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Sudan Tribune",
+       "url": "https://sudantribune.com/article/320981"
+      }
+     ],
+     "link": [
+      "Sudan",
+      "Sudanese Armed Forces",
+      "West Kordofan",
+      "Rapid Support Forces"
+     ],
+     "testo_it": "Le forze armate del Sudan dicono di aver riconquistato la città di Iyal Bakhit, nel Kordofan occidentale. Inoltre, la SAF dice anche di aver abbattuto un drone delle forze di supporto rapido.",
+     "contesto_it": [
+      "Guerra civile sudanese",
+      "Campagna Kordofan"
+     ]
+    },
+    {
+     "testo": "Saudi airstrikes hit homes near Sanaa, killing at least 27 people and wounding 36 others.",
      "contesto": [
       "Houthi–Saudi conflict"
      ],
@@ -78,13 +107,13 @@
      "link": [
       "Sanaa"
      ],
-     "testo_it": "Gli attacchi aerei sauditi hanno colpito le case vicino a Sanaa uccidendo almeno 27 persone e ferendone altre 36.",
+     "testo_it": "Gli attacchi aerei sauditi hanno colpito le case vicino a Sanaa, uccidendo almeno 27 persone e ferendone altre 36.",
      "contesto_it": [
       "Conflitto Houthi-saudita"
      ]
     },
     {
-     "testo": "Six people are killed and 15 more injured in a drive-by mass shooting in the center of Kraków, Poland. The perpetrator is wounded by police and arrested.",
+     "testo": "Nine people are killed and 15 more injured in a drive-by mass shooting in the center of Kraków, Poland. The perpetrator, who also killed his parents and his sister at their home in Ostrowiec Świętokrzyski, is wounded by police and arrested.",
      "contesto": [
       "2026 Kraków shooting"
      ],
@@ -99,9 +128,10 @@
       "Drive-by shooting",
       "Mass shooting",
       "Kraków",
-      "Poland"
+      "Poland",
+      "Ostrowiec Świętokrzyski"
      ],
-     "testo_it": "Sei persone vengono uccise e altre 15 ferite in una sparatoria di massa nel centro di Cracovia, in Polonia. L'autore è ferito dalla polizia e arrestato.",
+     "testo_it": "Nove persone vengono uccise e altre 15 ferite in una sparatoria di massa nel centro di Cracovia, in Polonia. L'autore, che ha ucciso anche i suoi genitori e sua sorella nella loro casa a Ostrowiec Świętokrzyski, è ferito dalla polizia e arrestato.",
      "contesto_it": [
       "Tiro a segno a Cracovia (2026)"
      ]
@@ -140,8 +170,9 @@
      ]
     },
     {
-     "testo": "Unions, the Yellow vests, and student protesters hold a fourth consecutive weekend of protests across France.",
+     "testo": "Unions, the yellow vests, and student protesters hold a fourth consecutive weekend of protests across France with about 146,000 participants.",
      "contesto": [
+      "2026 European unrest",
       "2026 French student protests"
      ],
      "categoria": "Politics and elections",
@@ -152,10 +183,12 @@
       }
      ],
      "link": [
-      "Yellow vests movement"
+      "Yellow vests protests",
+      "France"
      ],
-     "testo_it": "I sindacati, i gilet gialli e i manifestanti studenteschi tengono un quarto fine settimana consecutivo di proteste in tutta la Francia.",
+     "testo_it": "Sindacati, giubbotti gialli e manifestanti studenteschi organizzano un quarto fine settimana consecutivo di proteste in tutta la Francia con circa 146.000 partecipanti.",
      "contesto_it": [
+      "Insurrezioni europee (2026)",
       "Proteste studentesche francesi (2026)"
      ]
     }
@@ -241,7 +274,7 @@
       }
      ],
      "link": [
-      "Tesla",
+      "Tesla, Inc.",
       "Tesla Cybertruck"
      ],
      "testo_it": "Tesla annuncia che terminerà la produzione del Cybertruck."
@@ -419,7 +452,7 @@
      ]
     },
     {
-     "testo": "American cinematographer Thomas Markle, the father of Meghan, Duchess of Sussex, is arrested in Tampa, Florida, over allegations of possessing child sexual abuse material.",
+     "testo": "American cinematographer Thomas Markle is arrested in Tampa, Florida, over allegations of possessing child sexual abuse material.",
      "contesto": [],
      "categoria": "Law and crime",
      "fonti": [
@@ -435,12 +468,11 @@
      "link": [
       "United States",
       "Thomas Markle",
-      "Meghan, Duchess of Sussex",
       "Tampa",
       "Florida",
       "Child sexual abuse laws in the United States"
      ],
-     "testo_it": "Il direttore della fotografia americano Thomas Markle, padre di Meghan, Duchessa del Sussex, viene arrestato a Tampa, in Florida, per accuse di possesso di materiale per abusi sessuali su minori."
+     "testo_it": "Il direttore della fotografia americano Thomas Markle viene arrestato a Tampa, in Florida, per accuse di possesso di materiale per abusi sessuali su minori."
     },
     {
      "testo": "Colombia Migration expel 80 Venezuelan nationals suspected of criminal activity, including theft, drug trafficking, and extortion.",
@@ -1183,6 +1215,33 @@
      "contesto_it": [
       "Il traffico illegale di droga nelle Filippine"
      ]
+    },
+    {
+     "testo": "Former American internet personality and YouTuber Bryant Moreland (known online as EDP445) is arrested in Las Vegas, Nevada, U.S., on multiple felony sex crime charges following self-incriminating statements made in a recent documentary by American director Mike Clum including a 2021 incident in Bakersfield, California.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "The New York Times",
+       "url": "https://www.nytimes.com/2026/11/06/us/edp445-youtuber-arrested-sex-crimes.html"
+      },
+      {
+       "nome": "The Hindustan Times",
+       "url": "https://www.hindustantimes.com/world-news/us-news/youtuber-edp445-bryant-moreland-arrested-in-las-vegas-over-alleged-sex-crimes-involving-a-minor-101793832237507.html"
+      }
+     ],
+     "link": [
+      "YouTube",
+      "EDP445",
+      "Las Vegas",
+      "Nevada",
+      "United States",
+      "Sex crime",
+      "Mike Clum",
+      "Bakersfield, California",
+      "California"
+     ],
+     "testo_it": "L'ex personaggio di Internet americano e YouTuber Bryant Moreland (noto online come EDP445) viene arrestato a Las Vegas, Nevada, Stati Uniti, con molteplici accuse di crimine sessuale a seguito di dichiarazioni auto incriminanti fatte in un recente documentario del regista americano Mike Clum tra cui un incidente del 2021 a Bakersfield, in California."
     },
     {
      "testo": "Hackers steal approximately €100 million (US$112 million) from French bank Crédit Mutuel through unauthorized transactions using the bank's account.",
@@ -2054,435 +2113,6 @@
       "2026 Ceuta migrant crisis"
      ],
      "testo_it": "Il ministero dell'Interno spagnolo ha deportato 16 migranti, compresi quelli provenienti da Bangladesh, Camerun, Nigeria, Senegal e Yemen, da Ceuta al Marocco dopo la crisi migratoria di luglio."
-    }
-   ]
-  },
-  {
-   "data": "2026-11-01",
-   "voci": [
-    {
-     "testo": "Five civil police officers are killed in an Israeli airstrike in al-Mawasi, Rafah, Gaza Strip. Separately, three more Palestinians, including a four-year-old child, are killed in an airstrike on a building in Gaza City.",
-     "contesto": [
-      "Gaza war",
-      "Israeli bombing of the Gaza Strip"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza"
-      }
-     ],
-     "link": [
-      "Palestinian Civil Police Force (Hamas)",
-      "Israel",
-      "Airstrike",
-      "Al-Mawasi, Rafah",
-      "Rafah",
-      "Gaza Strip",
-      "Palestinians",
-      "Gaza City"
-     ],
-     "testo_it": "Cinque agenti di polizia civile sono uccisi in un attacco aereo israeliano ad al-Mawasi, Rafah, nella Striscia di Gaza. Separatamente, altri tre palestinesi, tra cui un bambino di quattro anni, vengono uccisi in un attacco aereo su un edificio a Gaza City.",
-     "contesto_it": [
-      "Guerra di Gaza",
-      "Bombardamento israeliano della Striscia di Gaza"
-     ]
-    },
-    {
-     "testo": "Bolivian president Rodrigo Paz declares a national state of emergency to mobilize resources before the super El Niño event peaks in November or December.",
-     "contesto": [
-      "2026–2027 El Niño event"
-     ],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "DW",
-       "url": "https://www.dw.com/en/bolivia-declares-emergency-as-el-nino-intensifies-threatens-severe-weather/a-79820253"
-      }
-     ],
-     "link": [
-      "Bolivia",
-      "President of Bolivia",
-      "Rodrigo Paz",
-      "State of emergency",
-      "Super El Niño events",
-      "El Niño–Southern Oscillation"
-     ],
-     "testo_it": "Il presidente boliviano Rodrigo Paz dichiara lo stato di emergenza nazionale per mobilitare le risorse prima che il super evento di El Niño raggiunga i picchi di novembre o dicembre.",
-     "contesto_it": [
-      "Evento El Niño (2026-2027)"
-     ]
-    },
-    {
-     "testo": "Nine people are killed after a Learjet 60 business jet bound for The Bahamas crashes in Greenacres, Florida, United States.",
-     "contesto": [
-      "2026 Palm Beach County Learjet 60 crash"
-     ],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/business/aerospace-defense/nine-people-dead-learjet-crash-south-florida-officials-say-2026-11-01/"
-      }
-     ],
-     "link": [
-      "Learjet 60",
-      "The Bahamas",
-      "Greenacres, Florida",
-      "Florida",
-      "United States"
-     ],
-     "testo_it": "Nove persone vengono uccise dopo che un business jet Learjet 60 diretto alle Bahamas si schianta a Greenacres, Florida, Stati Uniti.",
-     "contesto_it": [
-      "Palm Beach County Learjet 60 crash (2026)"
-     ]
-    },
-    {
-     "testo": "Four workers are killed after entering a food waste tank at a hotel in Ujjain, Madhya Pradesh, India.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "Indian Express",
-       "url": "https://indianexpress.com/article/india/ujjain-hote-deaths-suffocation-cleaning-waste-chamber-10945636/?ref=archive_pg"
-      }
-     ],
-     "link": [
-      "Ujjain",
-      "Madhya Pradesh",
-      "India"
-     ],
-     "testo_it": "Quattro lavoratori vengono uccisi dopo essere entrati in un serbatoio di rifiuti alimentari in un hotel a Ujjain, Madhya Pradesh, India."
-    },
-    {
-     "testo": "The government of Delhi, India, introduces stricter pollution controls, including double parking fees, remote work arrangements, restrictions on high-emission vehicles, and bans on dust-producing construction, as PM2.5 levels reach 201 micrograms per cubic metre.",
-     "contesto": [
-      "Air pollution in Delhi"
-     ],
-     "categoria": "Health and environment",
-     "fonti": [
-      {
-       "nome": "AFP via The Manila Times",
-       "url": "https://www.manilatimes.net/2026/11/02/world/asia-oceania/new-restrictions-kick-in-as-delhi-battles-pollution/2458971"
-      }
-     ],
-     "link": [
-      "Government of Delhi",
-      "Delhi",
-      "India",
-      "Pollution control",
-      "Double parking",
-      "Remote work",
-      "Emission standards in India",
-      "Construction industry in India",
-      "PM2.5"
-     ],
-     "testo_it": "Il governo di Delhi, in India, introduce controlli più severi sull'inquinamento, tra cui doppie tasse di parcheggio, accordi di lavoro a distanza, restrizioni sui veicoli ad alte emissioni e divieti sulla costruzione di produzione di polvere, poiché i livelli di PM2,5 raggiungono 201 microgrammi per metro cubo.",
-     "contesto_it": [
-      "Inquinamento atmosferico a Delhi"
-     ]
-    },
-    {
-     "testo": "Portuguese riot police dismantle protest camps in Lisbon's Rossio Square and Porto, arresting 13 people for refusing orders to disperse. Thirteen officers are injured, while activists say more than 30 protesters are also injured.",
-     "contesto": [
-      "2026 European unrest",
-      "2026 Portuguese housing protests"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "AFP",
-       "url": "https://www.afp.com/en/portuguese-police-clash-housing-protesters-arrest-13"
-      },
-      {
-       "nome": "Lianhe Zaobao",
-       "url": "https://www.zaobao.com.sg/en/news/world/clashes-erupt-portugal-housing-protests-police-dismantle-camps-arrest-13"
-      }
-     ],
-     "link": [
-      "Portugal",
-      "Special Operations Group (Portugal)",
-      "Protest camp",
-      "Lisbon",
-      "Rossio Square",
-      "Porto"
-     ],
-     "testo_it": "La polizia antisommossa portoghese smantella i campi di protesta in Piazza Rossio e Porto di Lisbona, arrestando 13 persone per aver rifiutato l'ordine di disperdersi. Tredici agenti sono feriti, mentre gli attivisti dicono che anche più di 30 manifestanti sono feriti.",
-     "contesto_it": [
-      "Insurrezioni europee (2026)",
-      "Proteste abitative portoghesi (2026)"
-     ]
-    },
-    {
-     "testo": "The United States Federal Bureau of Investigation says North Korea orchestrated the hack and theft of over $6 billion of cryptocurrency from exchange Binance, facilitated through the Lazarus Group, which also hacked Dubai-based exchange Bybit last year.",
-     "contesto": [
-      "2026 Binance hack"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "DW",
-       "url": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998"
-      }
-     ],
-     "link": [
-      "United States",
-      "Federal Bureau of Investigation",
-      "North Korea",
-      "Cryptocurrency",
-      "Cryptocurrency exchange",
-      "Binance",
-      "Lazarus Group",
-      "Dubai",
-      "Bybit"
-     ],
-     "testo_it": "Il Federal Bureau of Investigation degli Stati Uniti afferma che la Corea del Nord ha orchestrato l'hack e il furto di oltre 6 miliardi di dollari di criptovaluta dallo scambio Binance, facilitato attraverso il Gruppo Lazarus, che ha anche violato l'exchange Bybit con sede a Dubai lo scorso anno.",
-     "contesto_it": [
-      "Binance hack (2026)"
-     ]
-    },
-    {
-     "testo": "Garment workers clash with police in Dhaka, Bangladesh, over low pay and the rising cost of living. In response, the government forms a wage board.",
-     "contesto": [
-      "2026 Bangladesh garment workers protests"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/amp/video/newsfeed/2026/11/1/bangladesh-workers-clash-with-police-in-protests-over-low-pay"
-      },
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/business/world-at-work/bangladesh-form-wage-board-after-garment-protests-shut-factories-2026-11-01/"
-      }
-     ],
-     "link": [
-      "Textile industry in Bangladesh",
-      "Bangladesh Police",
-      "Dhaka",
-      "Bangladesh",
-      "Cost of living",
-      "Government of Bangladesh",
-      "Wage board"
-     ],
-     "testo_it": "I lavoratori dell'abbigliamento si scontrano con la polizia a Dhaka, in Bangladesh, per la bassa retribuzione e l'aumento del costo della vita. In risposta, il governo forma un comitato salariale.",
-     "contesto_it": [
-      "Proteste dei lavoratori del Bangladesh (2026)"
-     ]
-    },
-    {
-     "testo": "Thousands of people protest in New Delhi, India, to call for chief election commissioner Gyanesh Kumar to resign due to changes to voter lists that allegedly disproportionately affect opposition parties.",
-     "contesto": [
-      "2026 anti-CEC protests"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "AFP via France 24",
-       "url": "https://www.france24.com/en/live-news/20261101-tens-of-thousands-protest-in-india-s-capital-against-voter-roll-revision"
-      },
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-delhi-demanding-indias-election-chief-resign"
-      }
-     ],
-     "link": [
-      "New Delhi",
-      "India",
-      "Chief Election Commissioner of India",
-      "Gyanesh Kumar",
-      "Voter list",
-      "List of political parties in India"
-     ],
-     "testo_it": "Migliaia di persone protestano a Nuova Delhi, in India, per chiedere le dimissioni del commissario elettorale Gyanesh Kumar a causa di modifiche alle liste elettorali che presumibilmente influenzano in modo sproporzionato i partiti di opposizione.",
-     "contesto_it": [
-      "2026 proteste anti-CEC"
-     ]
-    },
-    {
-     "testo": "Bulgarians vote in the second round of presidential elections between incumbent Iliana Iotova and former acting prime minister Andrey Gyurov. Iotova is re-elected and Gyurov concedes after polls close.",
-     "contesto": [
-      "2026 Bulgarian presidential election"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/bulgaria-president-runoff-yotova-gyrov-radev-russia-cc540e5540a7a268da15aa72c5ec033e"
-      },
-      {
-       "nome": "DW",
-       "url": "https://www.dw.com/en/bulgarians-vote-in-highly-polarized-presidential-runoff-overshadowed-by-ukraine-war/a-79820449"
-      }
-     ],
-     "link": [
-      "Bulgaria",
-      "President of Bulgaria",
-      "Iliana Iotova",
-      "Acting (law)",
-      "Prime Minister of Bulgaria",
-      "Andrey Gyurov",
-      "Concession (politics)"
-     ],
-     "testo_it": "I bulgari votano al secondo turno delle elezioni presidenziali tra l'incumbente Iliana Iotova e l'ex primo ministro Andrey Gyurov. Iotova viene rieletto e Gyurov concede dopo la chiusura dei sondaggi.",
-     "contesto_it": [
-      "Elezioni presidenziali bulgare (2026)"
-     ]
-    },
-    {
-     "testo": "In figure skating, Japan's Mao Shimada wins the women's singles title at Skate Canada in her senior Grand Prix debut, finishing ahead of Estonia's Niina Petrõkina and American Isabeau Levito.",
-     "contesto": [
-      "2026–27 ISU Grand Prix of Figure Skating",
-      "2026 Skate Canada International"
-     ],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "AFP via France 24",
-       "url": "https://www.france24.com/en/live-news/20261101-japan-s-shimada-wins-skate-canada-in-grand-prix-debut"
-      }
-     ],
-     "link": [
-      "Figure skating",
-      "Japan",
-      "Mao Shimada",
-      "Skate Canada International",
-      "ISU Grand Prix of Figure Skating",
-      "Estonia",
-      "Niina Petrõkina",
-      "United States",
-      "Isabeau Levito"
-     ],
-     "testo_it": "Nel pattinaggio di figura, il giapponese Mao Shimada vince il titolo di single femminile a Skate Canada nel suo debutto senior Grand Prix, finendo davanti all'estone Niina Petrõkina e all'americano Isabeau Levito.",
-     "contesto_it": [
-      "ISU Gran Premio di pattinaggio di figura (2026-27)",
-      "Skate Canada Internazionale (2026)"
-     ]
-    },
-    {
-     "testo": "In open-wheel racing, Italian driver Kimi Antonelli, driving for Mercedes, wins the Formula One World Drivers' Championship after finishing third at the Mexico City Grand Prix, becoming the youngest Drivers' Champion at the age of 20 years and 68 days.",
-     "contesto": [
-      "2026 Formula One World Championship"
-     ],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "ESPN",
-       "url": "https://www.espn.com/f1/story/_/id/50250037/kimi-antonelli-youngest-f1-world-champion-2026-mexico-city-grand-prix"
-      }
-     ],
-     "link": [
-      "Open-wheel racing",
-      "Italy",
-      "Kimi Antonelli",
-      "Mercedes-Benz in Formula One",
-      "Formula One",
-      "World Drivers' Championship",
-      "2026 Mexico City Grand Prix"
-     ],
-     "testo_it": "Nelle gare a ruota aperta, il pilota italiano Kimi Antonelli, guidando per la Mercedes, vince il Campionato Mondiale Piloti di Formula Uno dopo aver concluso terzo al Gran Premio di Città del Messico, diventando il più giovane Campione Piloti all'età di 20 anni e 68 giorni.",
-     "contesto_it": [
-      "Campionato del Mondo di Formula 1 (2026)"
-     ]
-    },
-    {
-     "testo": "In motorcycle racing, Yamaha withdraws from the Qatar Grand Prix next week, citing company-wide travel restrictions following its assessment of the Middle Eastern crisis.",
-     "contesto": [
-      "2026 MotoGP World Championship"
-     ],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "AFP via The Manila Times",
-       "url": "https://www.manilatimes.net/2026/11/01/sports/yamaha-pulls-out-of-qatar-motogp-over-middle-east-situation/2458965"
-      }
-     ],
-     "link": [
-      "Motorcycle racing",
-      "Yamaha Motor Racing",
-      "Qatar motorcycle Grand Prix",
-      "Middle Eastern crisis (2023–present)"
-     ],
-     "testo_it": "Nelle corse motociclistiche, Yamaha si ritira dal Gran Premio del Qatar la prossima settimana, citando restrizioni di viaggio a livello aziendale in seguito alla sua valutazione della crisi mediorientale.",
-     "contesto_it": [
-      "Campionato del Mondo MotoGP (2026)"
-     ]
-    },
-    {
-     "testo": "In American football, the Tampa Bay Buccaneers refuse to complete a pass during its 16-0 victory against the rival Atlanta Falcons in Week 8, becoming the first National Football League team to win a game without completing a pass since the Buffalo Bills did so in 1974.",
-     "contesto": [
-      "2026 NFL season"
-     ],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "NBC News",
-       "url": "https://www.nbcnews.com/sports/nfl/tampa-bay-buccaneers-atlanta-falcons-nfl-result-rcna606882"
-      }
-     ],
-     "link": [
-      "American football",
-      "Tampa Bay Buccaneers",
-      "2026 Tampa Bay Buccaneers season",
-      "Buccaneers–Falcons rivalry",
-      "Atlanta Falcons",
-      "2026 Atlanta Falcons season",
-      "National Football League",
-      "Buffalo Bills",
-      "1974 Buffalo Bills season",
-      "1974 NFL season"
-     ],
-     "testo_it": "Nel football americano, i Tampa Bay Buccaneers si rifiutano di completare un passaggio durante la sua vittoria 16-0 contro il rivale Atlanta Falcons nella settimana 8, diventando la prima squadra della National Football League a vincere una partita senza completare un passaggio da quando i Buffalo Bills lo hanno fatto nel 1974.",
-     "contesto_it": [
-      "Stagione NFL (2026)"
-     ]
-    },
-    {
-     "testo": "Swedish long-distance runner Andreas Almgren wins the 55th edition of the New York City Marathon in New York City, New York, U.S., during his first debut.",
-     "contesto": [
-      "2026 New York City Marathon"
-     ],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "The Athletic via The New York Times",
-       "url": "https://www.nytimes.com/athletic/7744275/2026/11/01/nyc-marathon-2026-results-andreas-almgren-sheila-chepkirui/"
-      }
-     ],
-     "link": [
-      "Sweden",
-      "Long-distance running",
-      "Andreas Almgren",
-      "New York City Marathon",
-      "New York City",
-      "New York (state)"
-     ],
-     "testo_it": "Il corridore svedese Andreas Almgren vince la 55a edizione della New York City Marathon a New York City, New York, USA, durante il suo primo debutto.",
-     "contesto_it": [
-      "Maratona di New York (2026)"
-     ]
-    },
-    {
-     "testo": "In association football, a match between U20 clubs EC Mamoré and Uberlândia EC in Minas Gerais, Brazil, is abandoned after referees handed out 53 red cards, including to 43 players and 10 club officials, following a massive brawl, setting the world record for the most red cards given in a single match.",
-     "contesto": [],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "ESPN",
-       "url": "https://www.espn.com/soccer/story/_/id/50382265/world-record-53-red-cards-brazilian-20s-match"
-      }
-     ],
-     "link": [
-      "Association football",
-      "Esporte Clube Mamoré",
-      "Uberlândia Esporte Clube",
-      "Minas Gerais",
-      "Brazil",
-      "Red card (association football)"
-     ],
-     "testo_it": "In associazione a calcio, una partita tra U20 club EC Mamoré e Uberlândia EC a Minas Gerais, in Brasile, viene abbandonata dopo che gli arbitri hanno distribuito 53 cartellini rossi, tra cui 43 giocatori e 10 funzionari del club, a seguito di una massiccia rissa, stabilendo il record mondiale per il maggior numero di cartellini rossi dati in una singola partita."
     }
    ]
   }
