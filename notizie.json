@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-08T00:44:20Z",
+ "generato": "2026-11-08T10:31:33Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -9,6 +9,43 @@
   "completa": true
  },
  "itn": [
+  {
+   "testo": "Six people are killed and 15 injured in a mass shooting in the Main Square of Kraków, Poland.",
+   "contesto": [],
+   "categoria": "In primo piano",
+   "fonti": [
+    {
+     "nome": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2026_Krak%C3%B3w_shooting"
+    }
+   ],
+   "link": [
+    "2026 Kraków shooting",
+    "Main Square, Kraków",
+    "Kraków"
+   ],
+   "testo_it": "Sei persone vengono uccise e 15 ferite in una sparatoria di massa nella piazza principale di Cracovia, in Polonia."
+  },
+  {
+   "testo": "President of Paraguay Santiago Peña is impeached, removed from office, arrested, and replaced by Vice President Pedro Alliana amid a banking crisis involving Ueno Bank.",
+   "contesto": [],
+   "categoria": "In primo piano",
+   "fonti": [
+    {
+     "nome": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2026_Paraguay_banking_crisis"
+    }
+   ],
+   "link": [
+    "President of Paraguay",
+    "Santiago Peña",
+    "Vice President of Paraguay",
+    "Pedro Alliana",
+    "2026 Paraguay banking crisis",
+    "Ueno Bank"
+   ],
+   "testo_it": "Il presidente del Paraguay Santiago Peña viene messo sotto accusa, rimosso dall'incarico, arrestato e sostituito dal vicepresidente Pedro Alliana in mezzo a una crisi bancaria che coinvolge Ueno Bank."
+  },
   {
    "testo": "In the United States, the Democratic Party wins a majority in both the House of Representatives and the Senate in the midterm elections.",
    "contesto": [],
@@ -43,32 +80,44 @@
     "2026 Formula One World Championship"
    ],
    "testo_it": "Nel motorsport, Kimi Antonelli diventa il più giovane vincitore del Campionato del Mondo di Formula Uno."
-  },
-  {
-   "testo": "The Polish Constitutional Tribunal crisis escalates with the suspension of tribunal head Bogdan Święczkowski and deputy head Bartłomiej Sochański by judge Anna Korwin-Piotrowska.",
-   "contesto": [],
-   "categoria": "In primo piano",
-   "fonti": [],
-   "link": [
-    "Constitutional Tribunal (Poland)",
-    "2026 Polish Constitutional Tribunal crisis",
-    "Bogdan Święczkowski",
-    "Bartłomiej Sochański",
-    "Anna Korwin-Piotrowska"
-   ],
-   "testo_it": "La crisi del Tribunale costituzionale polacco si intensifica con la sospensione del capo del tribunale Bogdan Święczkowski e del vice capo Bartłomiej Sochański da parte della giudice Anna Korwin-Piotrowska."
   }
  ],
  "giorni": [
   {
    "data": "2026-11-08",
-   "voci": []
+   "voci": [
+    {
+     "testo": "A magnitude 5.7 earthquake strikes central Japan with its epicenter in Shizuoka Prefecture, while also primarily affecting Aichi, Gifu, Nagano and Yamanashi Prefectures. 22 people are injured.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/earthquake-japan-170119b720b08d9f40028e5bc40feb17"
+      },
+      {
+       "nome": "NHK World",
+       "url": "https://www3.nhk.or.jp/nhkworld/news/20261108de72261/"
+      }
+     ],
+     "link": [
+      "Earthquake",
+      "Japan",
+      "Shizuoka Prefecture",
+      "Aichi Prefecture",
+      "Gifu Prefecture",
+      "Nagano Prefecture",
+      "Yamanashi Prefecture"
+     ],
+     "testo_it": "Un terremoto di magnitudo 5,7 colpisce il Giappone centrale con il suo epicentro nella prefettura di Shizuoka, mentre colpisce principalmente le prefetture di Aichi, Gifu, Nagano e Yamanashi."
+    }
+   ]
   },
   {
    "data": "2026-11-07",
    "voci": [
     {
-     "testo": "Sudan's armed forces says that they have recaptured the West Kordofan town of Iyal Bakhit. Additionally, the SAF also says that they have downed a Rapid Support Forces drone.",
+     "testo": "Sudan's armed forces (SAF) says that they have recaptured the West Kordofan town of Iyal Bakhit. Additionally, the SAF also says that they have downed a Rapid Support Forces drone.",
      "contesto": [
       "Sudanese civil war",
       "Kordofan campaign"
@@ -86,34 +135,14 @@
       "West Kordofan",
       "Rapid Support Forces"
      ],
-     "testo_it": "Le forze armate del Sudan dicono di aver riconquistato la città di Iyal Bakhit, nel Kordofan occidentale. Inoltre, la SAF dice anche di aver abbattuto un drone delle forze di supporto rapido.",
+     "testo_it": "Le forze armate sudanesi (SAF) dicono di aver riconquistato la città di Iyal Bakhit, nel Kordofan occidentale. Inoltre, la SAF dice anche di aver abbattuto un drone delle forze di supporto rapido.",
      "contesto_it": [
       "Guerra civile sudanese",
       "Campagna Kordofan"
      ]
     },
     {
-     "testo": "Saudi airstrikes hit homes near Sanaa, killing at least 27 people and wounding 36 others.",
-     "contesto": [
-      "Houthi–Saudi conflict"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/yemen-houthi-saudi-attacks-1b5aef5b86be2e96e1cd8a18165afaf6"
-      }
-     ],
-     "link": [
-      "Sanaa"
-     ],
-     "testo_it": "Gli attacchi aerei sauditi hanno colpito le case vicino a Sanaa, uccidendo almeno 27 persone e ferendone altre 36.",
-     "contesto_it": [
-      "Conflitto Houthi-saudita"
-     ]
-    },
-    {
-     "testo": "Nine people are killed and 15 more injured in a drive-by mass shooting in the center of Kraków, Poland. The perpetrator, who also killed his parents and his sister at their home in Ostrowiec Świętokrzyski, is wounded by police and arrested.",
+     "testo": "Six people are killed and 15 more injured in a drive-by mass shooting in the center of Kraków, Poland. The perpetrator, who also killed his parents and his sister at their home in Ostrowiec Świętokrzyski, is wounded by police and arrested.",
      "contesto": [
       "2026 Kraków shooting"
      ],
@@ -129,11 +158,115 @@
       "Mass shooting",
       "Kraków",
       "Poland",
-      "Ostrowiec Świętokrzyski"
+      "Ostrowiec Świętokrzyski",
+      "Police of Poland"
      ],
-     "testo_it": "Nove persone vengono uccise e altre 15 ferite in una sparatoria di massa nel centro di Cracovia, in Polonia. L'autore, che ha ucciso anche i suoi genitori e sua sorella nella loro casa a Ostrowiec Świętokrzyski, è ferito dalla polizia e arrestato.",
+     "testo_it": "Sei persone vengono uccise e altre 15 ferite in una sparatoria di massa nel centro di Cracovia, in Polonia. L'autore, che ha ucciso anche i suoi genitori e sua sorella nella loro casa a Ostrowiec Świętokrzyski, è ferito dalla polizia e arrestato.",
      "contesto_it": [
       "Tiro a segno a Cracovia (2026)"
+     ]
+    },
+    {
+     "testo": "Saudi airstrikes hit homes near Sanaa, Yemen, killing at least 27 people and wounding 36 others.",
+     "contesto": [
+      "Houthi–Saudi conflict"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/yemen-houthi-saudi-attacks-1b5aef5b86be2e96e1cd8a18165afaf6"
+      }
+     ],
+     "link": [
+      "Saudi Arabia",
+      "Airstrike",
+      "Sanaa",
+      "Yemen"
+     ],
+     "testo_it": "Gli attacchi aerei sauditi hanno colpito le case vicino a Sanaa, nello Yemen, uccidendo almeno 27 persone e ferendone altre 36.",
+     "contesto_it": [
+      "Conflitto Houthi-saudita"
+     ]
+    },
+    {
+     "testo": "A drone strike of unknown origin is launched against a military base in Santa Rosa del Sur, Bolívar Department, Colombia, killing three people and wounding 16 more.",
+     "contesto": [
+      "Colombian conflict"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/colombia-drone-attack-military-base-7eb8bd82e98900f790b6d4e35eb702ec"
+      }
+     ],
+     "link": [
+      "Drone warfare",
+      "Colombian Army",
+      "Santa Rosa del Sur",
+      "Bolívar Department",
+      "Colombia"
+     ],
+     "testo_it": "Un attacco di droni di origine sconosciuta viene lanciato contro una base militare a Santa Rosa del Sur, Dipartimento di Bolívar, Colombia, uccidendo tre persone e ferendone altre 16.",
+     "contesto_it": [
+      "Conflitto colombiano"
+     ]
+    },
+    {
+     "testo": "Unions, the yellow vests, and student protesters hold a fourth consecutive weekend of protests across France with about 146,000 participants.",
+     "contesto": [
+      "2026 French student protests"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/france-braces-protests-yellow-vests-urge-mass-disobedience"
+      },
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france"
+      }
+     ],
+     "link": [
+      "Yellow vests protests",
+      "France"
+     ],
+     "testo_it": "Sindacati, giubbotti gialli e manifestanti studenteschi organizzano un quarto fine settimana consecutivo di proteste in tutta la Francia con circa 146.000 partecipanti.",
+     "contesto_it": [
+      "Proteste studentesche francesi (2026)"
+     ]
+    },
+    {
+     "testo": "Israeli president Isaac Herzog selects Yashar party leader Gadi Eisenkot to attempt to form a coalition government following inconclusive Knesset elections. Eisenkot will have 28 days to secure sufficient support in the Knesset.",
+     "contesto": [
+      "2026 Israeli legislative election"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "ABC News Australia",
+       "url": "https://www.abc.net.au/news/2026-11-08/israel-president-prime-minister-government-picked-eisenkot/107360472"
+      },
+      {
+       "nome": "AFP via The Korea Herald",
+       "url": "https://www.koreaherald.com/article/10929589"
+      }
+     ],
+     "link": [
+      "Israel",
+      "President of Israel",
+      "Isaac Herzog",
+      "Yashar (political party)",
+      "Gadi Eisenkot",
+      "Coalition government",
+      "Hung parliament",
+      "Knesset"
+     ],
+     "testo_it": "Il presidente israeliano Isaac Herzog sceglie il leader del partito Yashar Gadi Eisenkot per tentare di formare un governo di coalizione a seguito di elezioni inconcludenti della Knesset. Eisenkot avrà 28 giorni per ottenere un sostegno sufficiente alla Knesset.",
+     "contesto_it": [
+      "Elezioni legislative israeliane (2026)"
      ]
     },
     {
@@ -170,27 +303,26 @@
      ]
     },
     {
-     "testo": "Unions, the yellow vests, and student protesters hold a fourth consecutive weekend of protests across France with about 146,000 participants.",
-     "contesto": [
-      "2026 European unrest",
-      "2026 French student protests"
-     ],
-     "categoria": "Politics and elections",
+     "testo": "In sailing, Frenchman Tom Laperche wins the 2026 Route du Rhum in a record six days, 13 hours, 27 minutes and 40 seconds, beating Charles Caudrelier's 2022 time by six hours and 19 minutes.",
+     "contesto": [],
+     "categoria": "Sports",
      "fonti": [
       {
        "nome": "AFP",
-       "url": "https://www.afp.com/en/france-braces-protests-yellow-vests-urge-mass-disobedience"
+       "url": "https://www.afp.com/en/laperche-wins-route-du-rhum-record-time"
+      },
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/sports/frances-laperche-wins-route-du-rhum-ultim-record-time-2026-11-08/"
       }
      ],
      "link": [
-      "Yellow vests protests",
-      "France"
+      "Sailing (sport)",
+      "France",
+      "Route du Rhum",
+      "Charles Caudrelier"
      ],
-     "testo_it": "Sindacati, giubbotti gialli e manifestanti studenteschi organizzano un quarto fine settimana consecutivo di proteste in tutta la Francia con circa 146.000 partecipanti.",
-     "contesto_it": [
-      "Insurrezioni europee (2026)",
-      "Proteste studentesche francesi (2026)"
-     ]
+     "testo_it": "Nella vela, il francese Tom Laperche vince la Route du Rhum 2026 in un record di sei giorni, 13 ore, 27 minuti e 40 secondi, battendo il 2022 di Charles Caudrelier di sei ore e 19 minuti."
     }
    ]
   },
@@ -245,7 +377,7 @@
      ]
     },
     {
-     "testo": "Politician Julio Portillo and three police officers are killed in an assassination shooting in Rio Hondo, Zacapa Department, Guatemala, by unknown gunmen.",
+     "testo": "Politician Julio Portillo and three police officers are killed in an assassination shooting in Río Hondo, Zacapa Department, Guatemala, by unknown gunmen.",
      "contesto": [],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
@@ -255,29 +387,14 @@
       }
      ],
      "link": [
+      "Politics of Guatemala",
       "Law enforcement in Guatemala",
       "Assassination",
       "Río Hondo, Zacapa",
       "Zacapa Department",
       "Guatemala"
      ],
-     "testo_it": "Il politico Julio Portillo e tre agenti di polizia vengono uccisi in una sparatoria a Rio Hondo, Dipartimento di Zacapa, Guatemala, da uomini armati sconosciuti."
-    },
-    {
-     "testo": "Tesla announces that it will end its production of the Cybertruck.",
-     "contesto": [],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/cybertruck-cybercab-discontinued-musk-sales-6938a145d365f8e31b26bb9c45264b24"
-      }
-     ],
-     "link": [
-      "Tesla, Inc.",
-      "Tesla Cybertruck"
-     ],
-     "testo_it": "Tesla annuncia che terminerà la produzione del Cybertruck."
+     "testo_it": "Il politico Julio Portillo e tre agenti di polizia vengono uccisi in una sparatoria a Río Hondo, Dipartimento di Zacapa, Guatemala, da uomini armati sconosciuti."
     },
     {
      "testo": "Australia deploys a C-130 Hercules aircraft, a Cessna Citation aircraft, and 20 personnel to help extinguish wildfires in East Kalimantan, Indonesia.",
@@ -418,6 +535,7 @@
      ],
      "link": [
       "Netherlands",
+      "Occupation (protest)",
       "Microsoft",
       "Data center",
       "Sloterdijk, Amsterdam",
@@ -824,7 +942,9 @@
     },
     {
      "testo": "Eight people are killed and another is injured in a shooting spree at three separated locations in Afyonkarahisar Province, Turkey. The perpetrator is arrested.",
-     "contesto": [],
+     "contesto": [
+      "2026 Afyonkarahisar shootings"
+     ],
      "categoria": "Law and crime",
      "fonti": [
       {
@@ -837,7 +957,10 @@
       "Afyonkarahisar Province",
       "Turkey"
      ],
-     "testo_it": "Otto persone vengono uccise e un altro viene ferito in una sparatoria in tre località separate nella provincia di Afyonkarahisar, in Turchia."
+     "testo_it": "Otto persone vengono uccise e un altro viene ferito in una sparatoria in tre località separate nella provincia di Afyonkarahisar, in Turchia.",
+     "contesto_it": [
+      "Fucilazioni di Afyonkarahisar (2026)"
+     ]
     },
     {
      "testo": "The Hong Kong High Court sentences pro-democracy activist Joshua Wong to an additional 10 years in prison under the national security law for conspiring with foreign entities to impose sanctions against China and Hong Kong.",
@@ -1054,6 +1177,28 @@
   {
    "data": "2026-11-04",
    "voci": [
+    {
+     "testo": "Over 50 people are injured and police vehicles are torched as garment workers clash with police in Savar.",
+     "contesto": [
+      "2026 Bangladesh garment workers protests"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "The Financial Express",
+       "url": "https://thefinancialexpress.com.bd/national/over-50-injured-as-garment-workers-clash-with-police-in-savar"
+      }
+     ],
+     "link": [
+      "Textile industry in Bangladesh",
+      "Bangladesh Police",
+      "Savar"
+     ],
+     "testo_it": "Oltre 50 persone sono rimaste ferite e i veicoli della polizia sono stati incendiati mentre i lavoratori del vestiario si scontravano con la polizia a Savar.",
+     "contesto_it": [
+      "Proteste dei lavoratori del Bangladesh (2026)"
+     ]
+    },
     {
      "testo": "Two women are killed in a airstrike by Sudan's army on a water source in Umm Badr, North Kordofan.",
      "contesto": [
@@ -1343,6 +1488,50 @@
      "contesto_it": [
       "Guerra in Iran (2026)",
       "Stretto di Hormuz (2026)"
+     ]
+    },
+    {
+     "testo": "A 21-year-old garment worker dies from injuries sustained the previous day during violent clashes with law enforcement in Gazipur.",
+     "contesto": [
+      "2026 Bangladesh garment workers protests"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "The Independent",
+       "url": "https://www.independent.co.uk/asia/south-asia/bangladesh-garment-worker-protest-violence-b3078804.html"
+      }
+     ],
+     "link": [
+      "Textile industry in Bangladesh",
+      "Gazipur"
+     ],
+     "testo_it": "Un operaio di 21 anni muore per le ferite riportate il giorno precedente durante i violenti scontri con le forze dell'ordine a Gazipur.",
+     "contesto_it": [
+      "Proteste dei lavoratori del Bangladesh (2026)"
+     ]
+    },
+    {
+     "testo": "Ten police officers are injured in clashes between police and garment workers in Dhaka over low pay and the rising cost of living.",
+     "contesto": [
+      "2026 Bangladesh garment workers protests"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Dhaka Tribune",
+       "url": "https://www.dhakatribune.com/bangladesh/423752/clashes-during-garment-protests-leave-50-injured"
+      }
+     ],
+     "link": [
+      "Bangladesh Police",
+      "Textile industry in Bangladesh",
+      "Dhaka",
+      "Cost of living"
+     ],
+     "testo_it": "Dieci agenti di polizia sono rimasti feriti negli scontri tra la polizia e i lavoratori dell'abbigliamento a Dhaka per la bassa retribuzione e l'aumento del costo della vita.",
+     "contesto_it": [
+      "Proteste dei lavoratori del Bangladesh (2026)"
      ]
     },
     {
