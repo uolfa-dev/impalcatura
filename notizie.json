@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-08T17:58:50Z",
+ "generato": "2026-11-08T22:14:17Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -85,6 +85,27 @@
    "data": "2026-11-08",
    "voci": [
     {
+     "testo": "A train derails near Giza, Egypt, killing seven people and wounding over 100 more.",
+     "contesto": [
+      "2026 El Ayyat train collision"
+     ],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/egypt-train-crash-giza-collision-cairo-injuries-4ad591268ce015d85ae302e22185b235"
+      }
+     ],
+     "link": [
+      "Giza",
+      "Egypt"
+     ],
+     "testo_it": "Un treno deraglia vicino a Giza, in Egitto, uccidendo sette persone e ferendone altre 100.",
+     "contesto_it": [
+      "Collisione del treno El Ayyat (2026)"
+     ]
+    },
+    {
      "testo": "A magnitude 5.7 earthquake strikes central Japan with its epicenter in Shizuoka Prefecture, while also primarily affecting Aichi, Gifu, Nagano and Yamanashi Prefectures. 22 people are injured.",
      "contesto": [],
      "categoria": "Disasters and accidents",
@@ -110,24 +131,27 @@
      "testo_it": "Un terremoto di magnitudo 5,7 colpisce il Giappone centrale con il suo epicentro nella prefettura di Shizuoka, mentre colpisce principalmente le prefetture di Aichi, Gifu, Nagano e Yamanashi."
     },
     {
-     "testo": "A train derails near Giza, Egypt, killing seven people and wounding over 100 more.",
+     "testo": "In stock car racing, Hendrick Motorsports' Kyle Larson wins his third career NASCAR Cup Series championship, becoming the first driver to win two consecutive championships since 2010.",
      "contesto": [
-      "2026 Giza train collision"
+      "2026 NASCAR Cup Series"
      ],
-     "categoria": "Disasters and accidents",
+     "categoria": "Sports",
      "fonti": [
       {
        "nome": "AP",
-       "url": "https://apnews.com/article/egypt-train-crash-giza-collision-cairo-injuries-4ad591268ce015d85ae302e22185b235"
+       "url": "https://apnews.com/article/nascar-championship-kyle-larson-chase-b684d52d336492b1ab3f17c21c1fa5e8"
       }
      ],
      "link": [
-      "Giza",
-      "Egypt"
+      "Stock car racing",
+      "Hendrick Motorsports",
+      "Kyle Larson",
+      "NASCAR",
+      "NASCAR Cup Series"
      ],
-     "testo_it": "Un treno deraglia vicino a Giza, in Egitto, uccidendo sette persone e ferendone altre 100.",
+     "testo_it": "Nelle corse automobilistiche di serie, Kyle Larson di Hendrick Motorsports vince il suo terzo campionato NASCAR Cup Series in carriera, diventando il primo pilota a vincere due campionati consecutivi dal 2010.",
      "contesto_it": [
-      "Collisione del treno di Giza (2026)"
+      "NASCAR Cup Series (2026)"
      ]
     }
    ]
