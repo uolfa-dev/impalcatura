@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-08T22:14:17Z",
+ "generato": "2026-11-09T06:47:23Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -10,7 +10,7 @@
  },
  "itn": [
   {
-   "testo": "Six people are killed and 15 injured in a mass shooting in the Main Square of Kraków, Poland.",
+   "testo": "A mass shooting in the Main Square of Kraków, Poland, leaves six people dead and sixteen others injured.",
    "contesto": [],
    "categoria": "In primo piano",
    "fonti": [
@@ -24,7 +24,7 @@
     "Main Square, Kraków",
     "Kraków"
    ],
-   "testo_it": "Sei persone vengono uccise e 15 ferite in una sparatoria di massa nella piazza principale di Cracovia, in Polonia."
+   "testo_it": "Una sparatoria di massa nella piazza principale di Cracovia, in Polonia, lascia sei morti e altri sedici feriti."
   },
   {
    "testo": "President of Paraguay Santiago Peña is impeached, arrested, and replaced by Vice President Pedro Alliana amid a banking crisis involving Ueno Bank.",
@@ -82,10 +82,188 @@
  ],
  "giorni": [
   {
+   "data": "2026-11-09",
+   "voci": []
+  },
+  {
    "data": "2026-11-08",
    "voci": [
     {
-     "testo": "A train derails near Giza, Egypt, killing seven people and wounding over 100 more.",
+     "testo": "At least five people are killed, including four children, and several injured people are rescued after heavy rain and flooding caused a sandbank to collapse in Deir el-Balah, Gaza.",
+     "contesto": [
+      "Middle Eastern crisis",
+      "Gaza war",
+      "Gaza humanitarian crisis"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter"
+      }
+     ],
+     "link": [
+      "Sandbank",
+      "Deir el-Balah",
+      "Gaza Strip"
+     ],
+     "testo_it": "Almeno cinque persone sono state uccise, tra cui quattro bambini, e diverse persone ferite sono state salvate dopo che forti piogge e inondazioni hanno causato il crollo di una banchina di sabbia a Deir el-Balah, Gaza.",
+     "contesto_it": [
+      "Crisi del Medio Oriente",
+      "Guerra di Gaza",
+      "Crisi umanitaria di Gaza"
+     ]
+    },
+    {
+     "testo": "Several floors of Aramco Tower, a skyscraper owned by Saudi Aramco located in the King Abdullah Financial District of Riyadh, Saudi Arabia, are damaged after a Houthi ballistic missile is intercepted over the city by Saudi air defense systems. No casualties or injuries are reported.",
+     "contesto": [
+      "Middle Eastern crisis",
+      "Yemeni civil war",
+      "Houthi-Saudi conflict"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province"
+      },
+      {
+       "nome": "BBC News",
+       "url": "https://www.bbc.com/news/articles/c6ly3mjx958eo"
+      }
+     ],
+     "link": [
+      "Aramco Tower",
+      "Saudi Aramco",
+      "King Abdullah Financial District",
+      "Riyadh",
+      "Saudi Arabia",
+      "Houthis",
+      "Ballistic missile",
+      "Anti-aircraft warfare"
+     ],
+     "testo_it": "Diversi piani della Torre di Aramco, un grattacielo di proprietà di Saudi Aramco situato nel King Abdullah Financial District di Riyadh, in Arabia Saudita, sono danneggiati dopo che un missile balistico Houthi viene intercettato sulla città dai sistemi di difesa aerea sauditi.",
+     "contesto_it": [
+      "Crisi del Medio Oriente",
+      "Guerra civile yemenita",
+      "Conflitto Houthi-saudita"
+     ]
+    },
+    {
+     "testo": "Iranian state media reports that explosions are heard on Qeshm Island in the Strait of Hormuz after reporting that the U.S. military fired projectiles.",
+     "contesto": [
+      "Middle Eastern crisis",
+      "2026 Iran war"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Middle East Eye",
+       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-heard-irans-qeshm-island-state-media-reports"
+      }
+     ],
+     "link": [
+      "Iran",
+      "Islamic Republic of Iran Broadcasting",
+      "Qeshm Island",
+      "Strait of Hormuz",
+      "United States Armed Forces"
+     ],
+     "testo_it": "I media statali iraniani riferiscono che le esplosioni sono state udite sull'isola di Qeshm nello Stretto di Hormuz dopo aver riferito che l'esercito americano ha sparato proiettili.",
+     "contesto_it": [
+      "Crisi del Medio Oriente",
+      "Guerra in Iran (2026)"
+     ]
+    },
+    {
+     "testo": "Production is temporarily suspended at the Khor Mor gas field in Iraqi Kurdistan after a liquefied petroleum gas storage tank at the site is hit by a drone. No group claims responsibility for the attack.",
+     "contesto": [
+      "Middle Eastern crisis"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/business/energy/production-suspended-iraqs-khor-mor-gas-field-after-drone-attack-sources-say-2026-11-08/"
+      },
+      {
+       "nome": "South China Morning Post",
+       "url": "https://www.scmp.com/news/world/middle-east/article/3373721/attack-iraq-gas-complex-disrupts-supply-regions-power-plants-authorities-say"
+      }
+     ],
+     "link": [
+      "Petroleum industry in Iraq",
+      "Iraq",
+      "Iraqi Kurdistan",
+      "Liquefied petroleum gas",
+      "One-way attack drone"
+     ],
+     "testo_it": "La produzione è temporaneamente sospesa nel giacimento di gas di Khor Mor nel Kurdistan iracheno dopo che un serbatoio di stoccaggio di gas di petrolio liquefatto nel sito è stato colpito da un drone. Nessun gruppo rivendica la responsabilità dell'attacco.",
+     "contesto_it": [
+      "Crisi del Medio Oriente"
+     ]
+    },
+    {
+     "testo": "Mexican Navy personnel working with intelligence from the National Intelligence Center and the U.S. DEA, arrest Rafael Álvarez Ayala, the alleged leader of the Jalisco New Generation Cartel cell \"Los Rs\", in Zapopan, Jalisco, Mexico. He is wounded in a shootout during the operation and is wanted on a Michoacán warrant for aggravated homicide.",
+     "contesto": [
+      "Mexican drug war"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/9/mexico-arrests-major-leader-of-jalisco-cartel"
+      },
+      {
+       "nome": "Infobae in Spanish",
+       "url": "https://www.infobae.com/mexico/2026/11/08/tras-enfrentamiento-detienen-en-jalisco-a-rafael-n-alias-el-r2-cabecilla-de-los-rs-del-cjng/"
+      },
+      {
+       "nome": "El Financiero in Spanish",
+       "url": "https://www.elfinanciero.com.mx/nacional/2026/11/08/detienen-a-r2-en-zapopan-lo-vinculan-con-el-asesinato-de-carlos-manzo/"
+      }
+     ],
+     "link": [
+      "Mexican Navy",
+      "National Intelligence Centre (Mexico)",
+      "Drug Enforcement Administration",
+      "Jalisco New Generation Cartel",
+      "Zapopan",
+      "Jalisco",
+      "Mexico"
+     ],
+     "testo_it": "Il personale della Marina messicana che lavora con l'intelligence del National Intelligence Center e della DEA degli Stati Uniti, arresta Rafael Álvarez Ayala, il presunto leader della cella del cartello di nuova generazione Jalisco \"Los Rs\", a Zapopan, Jalisco, Messico. È ferito in una sparatoria durante l'operazione ed è ricercato su un mandato di Michoacán per omicidio aggravato.",
+     "contesto_it": [
+      "Guerra alla droga in Messico"
+     ]
+    },
+    {
+     "testo": "NVIDIA announces it is opening an investigation into CEO Jensen Huang, after American intelligence reported that a close associate of Huang was a spy for China. Huang admitted to an extramarital affair with the associate in a letter to the company earlier in the day.",
+     "contesto": [
+      "China–United States relations, Chinese intelligence activity abroad"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "The New York Times",
+       "url": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html"
+      }
+     ],
+     "link": [
+      "NVIDIA",
+      "CEO",
+      "Jensen Huang",
+      "United States Intelligence Community",
+      "China",
+      "Affair"
+     ],
+     "testo_it": "NVIDIA annuncia l'apertura di un'indagine sul CEO Jensen Huang, dopo che l'intelligence americana ha riferito che uno stretto collaboratore di Huang era una spia per la Cina. Huang ha ammesso di una relazione extraconiugale con l'associato in una lettera alla società all'inizio della giornata.",
+     "contesto_it": [
+      "Relazioni Cina-Stati Uniti, attività di intelligence cinese all'estero"
+     ]
+    },
+    {
+     "testo": "A train derails near Giza, Egypt, killing seven people and wounding 125 more.",
      "contesto": [
       "2026 El Ayyat train collision"
      ],
@@ -94,20 +272,26 @@
       {
        "nome": "AP",
        "url": "https://apnews.com/article/egypt-train-crash-giza-collision-cairo-injuries-4ad591268ce015d85ae302e22185b235"
+      },
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city"
       }
      ],
      "link": [
       "Giza",
       "Egypt"
      ],
-     "testo_it": "Un treno deraglia vicino a Giza, in Egitto, uccidendo sette persone e ferendone altre 100.",
+     "testo_it": "Un treno deraglia vicino a Giza, in Egitto, uccidendo sette persone e ferendone altre 125.",
      "contesto_it": [
       "Collisione del treno El Ayyat (2026)"
      ]
     },
     {
-     "testo": "A magnitude 5.7 earthquake strikes central Japan with its epicenter in Shizuoka Prefecture, while also primarily affecting Aichi, Gifu, Nagano and Yamanashi Prefectures. 22 people are injured.",
-     "contesto": [],
+     "testo": "A Mw 5.7 earthquake strikes central Japan with its epicenter in Shizuoka Prefecture, while also affecting Aichi, Gifu, Nagano and Yamanashi prefectures. At least 22 people are injured.",
+     "contesto": [
+      "Earthquakes in Japan"
+     ],
      "categoria": "Disasters and accidents",
      "fonti": [
       {
@@ -115,7 +299,7 @@
        "url": "https://apnews.com/article/earthquake-japan-170119b720b08d9f40028e5bc40feb17"
       },
       {
-       "nome": "NHK World",
+       "nome": "NHK World-Japan",
        "url": "https://www3.nhk.or.jp/nhkworld/news/20261108de72261/"
       }
      ],
@@ -128,10 +312,215 @@
       "Nagano Prefecture",
       "Yamanashi Prefecture"
      ],
-     "testo_it": "Un terremoto di magnitudo 5,7 colpisce il Giappone centrale con il suo epicentro nella prefettura di Shizuoka, mentre colpisce principalmente le prefetture di Aichi, Gifu, Nagano e Yamanashi."
+     "testo_it": "Un terremoto Mw 5.7 colpisce il Giappone centrale con il suo epicentro nella prefettura di Shizuoka, mentre colpisce anche le prefetture di Aichi, Gifu, Nagano e Yamanashi. Almeno 22 persone sono ferite.",
+     "contesto_it": [
+      "Terremoti in Giappone"
+     ]
     },
     {
-     "testo": "In stock car racing, Hendrick Motorsports' Kyle Larson wins his third career NASCAR Cup Series championship, becoming the first driver to win two consecutive championships since 2010.",
+     "testo": "Three people are killed and more than 300 others are rescued from severe flooding in Erbil, Kurdistan Region, Iraq.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "Shafaq",
+       "url": "https://shafaq.com/en/Kurdistan/Erbil-floods-kill-three-over-300-rescued"
+      }
+     ],
+     "link": [
+      "Erbil",
+      "Kurdistan Region",
+      "Iraq"
+     ],
+     "testo_it": "Tre persone sono state uccise e più di 300 sono state salvate da gravi inondazioni a Erbil, nella regione del Kurdistan, in Iraq."
+    },
+    {
+     "testo": "A bus traveling towards Zagreb, Croatia, overturns on the A3 motorway, killing at least two people and injuring 20 others.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/croatia-bus-crash-highway-4943f3e00b96d73414eeff6b8fc39eb8"
+      }
+     ],
+     "link": [
+      "Zagreb",
+      "Croatia",
+      "A3 (Croatia)"
+     ],
+     "testo_it": "Un autobus che viaggia verso Zagabria, in Croazia, ribalta l'autostrada A3, uccidendo almeno due persone e ferendone altre 20."
+    },
+    {
+     "testo": "At least 34 people are killed when a small boat carrying migrants capsizes off the coast of Kébémer, Louga, Senegal.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "DW",
+       "url": "https://www.dw.com/en/many-killed-after-migrant-boat-sinks-off-senegal/a-79890883"
+      },
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal"
+      }
+     ],
+     "link": [
+      "Kébémer",
+      "Louga region",
+      "Senegal"
+     ],
+     "testo_it": "Almeno 34 persone vengono uccise quando una piccola barca che trasporta migranti si rovescia al largo delle coste di Kébémer, Louga, Senegal."
+    },
+    {
+     "testo": "Former National Congress Party politician Ahmed Haroun, who is wanted by the International Criminal Court for genocide in Sudan's Darfur region during war, is detained by the Sudanese army.",
+     "contesto": [
+      "International Criminal Court investigation in Darfur"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "AFP via Arab News",
+       "url": "https://www.arabnews.com/middle-east/sudan-detains-chairman-of-former-ruling-party-ahmed-haroun-two-party-officials-say-3010516"
+      }
+     ],
+     "link": [
+      "National Congress Party (Sudan)",
+      "Ahmed Haroun",
+      "International Criminal Court",
+      "Darfur genocide (2003–2005)",
+      "Sudan",
+      "Darfur",
+      "War in Darfur",
+      "Sudanese Armed Forces"
+     ],
+     "testo_it": "L'ex politico del Partito del Congresso Nazionale Ahmed Haroun, ricercato dalla Corte Penale Internazionale per il genocidio nella regione del Darfur in Sudan durante la guerra, è detenuto dall'esercito sudanese.",
+     "contesto_it": [
+      "Indagine della Corte penale internazionale in Darfur"
+     ]
+    },
+    {
+     "testo": "The Maltese Civil Court orders four investment companies, including two from Malta and two from Luxembourg, to pay the Vatican Bank €24.1 million in damages over a 2013 deal involving the Kappa Fund.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "Times of Malta",
+       "url": "https://timesofmalta.com/article/malta-court-awards-vatican-bank-241m-budapest-property-dispute.1136763"
+      },
+      {
+       "nome": "Vatican News",
+       "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/malta-court-awards-vatican-bank-millions-investment-case.html"
+      }
+     ],
+     "link": [
+      "Malta",
+      "Judiciary of Malta",
+      "Luxembourg",
+      "Institute for the Works of Religion"
+     ],
+     "testo_it": "La Corte civile maltese ordina a quattro società di investimento, tra cui due di Malta e due di Lussemburgo, di pagare alla Banca Vaticana 24,1 milioni di euro di danni nell'ambito di un accordo del 2013 che coinvolge il Fondo Kappa."
+    },
+    {
+     "testo": "Authorities of El Hierro in the Spanish Canary Islands declare a state of emergency following a surge of over 3,300 migrants and refugees arriving on the island this month.",
+     "contesto": [
+      "Immigration to Spain"
+     ],
+     "categoria": "Politics and Elections",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx"
+      }
+     ],
+     "link": [
+      "El Hierro",
+      "Spain",
+      "Canary Islands",
+      "State of emergency"
+     ],
+     "testo_it": "Le autorità di El Hierro nelle Isole Canarie spagnole dichiarano lo stato di emergenza a seguito di un'ondata di oltre 3.300 migranti e rifugiati che arrivano sull'isola questo mese.",
+     "contesto_it": [
+      "Immigrazione in Spagna"
+     ]
+    },
+    {
+     "testo": "Three people are arrested as pro-Palestine protesters are confronted by pro-Israel counterprotesters in Rittenhouse Square, Philadelphia, Pennsylvania, United States, amidst a boycott of six Jewish-owned restaurants targeted by a cycling club over their support of Israel.",
+     "contesto": [
+      "Gaza war protests"
+     ],
+     "categoria": "Politics and Elections",
+     "fonti": [
+      {
+       "nome": "NBC News",
+       "url": "https://www.nbcnews.com/news/us-news/billboards-urge-boycott-boycott-jewish-owned-businesses-rcna608119"
+      }
+     ],
+     "link": [
+      "Palestine",
+      "Israel",
+      "Rittenhouse Square",
+      "Philadelphia",
+      "Pennsylvania",
+      "Jewish",
+      "Cycling club"
+     ],
+     "testo_it": "Tre persone vengono arrestate mentre i manifestanti filo-palestinesi si trovano di fronte a controprotettori filo-israeliani a Rittenhouse Square, Philadelphia, Pennsylvania, Stati Uniti, in mezzo a un boicottaggio di sei ristoranti di proprietà ebraica presi di mira da un club ciclistico per il loro sostegno a Israele.",
+     "contesto_it": [
+      "Proteste di guerra a Gaza"
+     ]
+    },
+    {
+     "testo": "More than 200,000 people march in Amsterdam, Netherlands, to protest against the Israel's genocide in Gaza and the Dutch government's support of the Israeli military.",
+     "contesto": [
+      "Gaza war protests"
+     ],
+     "categoria": "Politics and Elections",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam"
+      }
+     ],
+     "link": [
+      "Amsterdam",
+      "Netherlands",
+      "Gaza genocide",
+      "Dutch government",
+      "Israeli military"
+     ],
+     "testo_it": "Più di 200.000 persone marciano ad Amsterdam, nei Paesi Bassi, per protestare contro il genocidio di Israele a Gaza e il sostegno del governo olandese all'esercito israeliano.",
+     "contesto_it": [
+      "Proteste di guerra a Gaza"
+     ]
+    },
+    {
+     "testo": "In association football, Inter Miami player Lionel Messi is awarded the 2026 Golden Boot Award after scoring 26 goals in one season, becoming the first player in league history to win the award in consecutive years.",
+     "contesto": [
+      "2026 Major League Soccer season"
+     ],
+     "categoria": "Sports",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/sports/2026/11/8/messi-becomes-first-player-to-win-back-to-back-mls-golden-boot-awards"
+      }
+     ],
+     "link": [
+      "Association football",
+      "Inter Miami",
+      "Lionel Messi",
+      "MLS Golden Boot",
+      "2026 Inter Miami CF season",
+      "History of Major League Soccer"
+     ],
+     "testo_it": "Nel calcio di associazione, Lionel Messi, giocatore dell'Inter Miami, riceve il Golden Boot Award 2026 dopo aver segnato 26 gol in una stagione, diventando il primo giocatore nella storia della lega a vincere il premio in anni consecutivi.",
+     "contesto_it": [
+      "Stagione di calcio della Major League (2026)"
+     ]
+    },
+    {
+     "testo": "In stock car racing, Hendrick Motorsports' driver Kyle Larson wins his third career NASCAR Cup Series championship, becoming the first driver to win two consecutive championships since 2010.",
      "contesto": [
       "2026 NASCAR Cup Series"
      ],
@@ -149,7 +538,7 @@
       "NASCAR",
       "NASCAR Cup Series"
      ],
-     "testo_it": "Nelle corse automobilistiche di serie, Kyle Larson di Hendrick Motorsports vince il suo terzo campionato NASCAR Cup Series in carriera, diventando il primo pilota a vincere due campionati consecutivi dal 2010.",
+     "testo_it": "Nelle corse automobilistiche di serie, il pilota di Hendrick Motorsports Kyle Larson vince il suo terzo campionato NASCAR Cup Series, diventando il primo pilota a vincere due campionati consecutivi dal 2010.",
      "contesto_it": [
       "NASCAR Cup Series (2026)"
      ]
@@ -160,7 +549,7 @@
    "data": "2026-11-07",
    "voci": [
     {
-     "testo": "Sudan's armed forces (SAF) says that they have recaptured the West Kordofan town of Iyal Bakhit. Additionally, the SAF also says that they have downed a Rapid Support Forces drone.",
+     "testo": "Sudanese Armed Forces (SAF) says that they have recaptured the town of Iyal Bakhit in West Kordofan, Sudan. The SAF also reportedly downs a Rapid Support Forces drone.",
      "contesto": [
       "Sudanese civil war",
       "Kordofan campaign"
@@ -173,12 +562,13 @@
       }
      ],
      "link": [
-      "Sudan",
       "Sudanese Armed Forces",
       "West Kordofan",
-      "Rapid Support Forces"
+      "Sudan",
+      "Rapid Support Forces",
+      "Drone warfare"
      ],
-     "testo_it": "Le forze armate sudanesi (SAF) dicono di aver riconquistato la città di Iyal Bakhit, nel Kordofan occidentale. Inoltre, la SAF dice anche di aver abbattuto un drone delle forze di supporto rapido.",
+     "testo_it": "Le forze armate sudanesi (SAF) dicono di aver riconquistato la città di Iyal Bakhit a West Kordofan, Sudan. La SAF ha anche riferito di aver abbattuto un drone delle forze di supporto rapido.",
      "contesto_it": [
       "Guerra civile sudanese",
       "Campagna Kordofan"
@@ -257,7 +647,29 @@
      ]
     },
     {
-     "testo": "Twenty-one people are killed and one person has been rescued after a migrant boat sinks off the coast of Kebemer, Senegal.",
+     "testo": "A family of twelve are killed in an arson attack during a bandit raid in Maradun, Zamfara State, Nigeria. Seven others are kidnapped.",
+     "contesto": [
+      "Nigerian bandit conflict"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Nigerian Info",
+       "url": "https://www.nigeriainfo.fm/news/homepageabuja/bandits-kill-12-family-members-in-zamfara-abduct-residents/"
+      }
+     ],
+     "link": [
+      "Maradun",
+      "Zamfara State",
+      "Nigeria"
+     ],
+     "testo_it": "Una famiglia di dodici persone viene uccisa in un incendio doloso durante un raid di banditi a Maradun, nello stato di Zamfara, in Nigeria.",
+     "contesto_it": [
+      "Conflitto bandito nigeriano"
+     ]
+    },
+    {
+     "testo": "Twenty-one people are killed and one person has been rescued after a migrant boat sinks off the coast of Kebemer, Louga region, Senegal.",
      "contesto": [],
      "categoria": "Disasters and accidents",
      "fonti": [
@@ -268,12 +680,48 @@
      ],
      "link": [
       "Kebemer",
+      "Louga region",
       "Senegal"
      ],
-     "testo_it": "Ventuno persone vengono uccise e una persona è stata salvata dopo che una barca di migranti affonda al largo della costa di Kebemer, in Senegal."
+     "testo_it": "Ventuno persone vengono uccise e una persona è stata salvata dopo che una barca di migranti affonda al largo della costa di Kebemer, regione di Louga, Senegal."
     },
     {
-     "testo": "Unions, the yellow vests, and student protesters hold a fourth consecutive weekend of protests across France with about 146,000 participants.",
+     "testo": "At least 12 people, mostly bus passengers, are killed and 13 others are injured in a multiple-vehicle collision near Atalaya, Valparaíso Region, Chile.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "AFP via The Sun",
+       "url": "https://thesun.my/news/12-killed-13-injured-in-three-vehicle-collision-in-chile/"
+      }
+     ],
+     "link": [
+      "Bus",
+      "Multiple-vehicle collision",
+      "Valparaíso Region",
+      "Chile"
+     ],
+     "testo_it": "Almeno 12 persone, per lo più passeggeri di autobus, vengono uccise e altre 13 sono ferite in una collisione a più veicoli vicino ad Atalaya, nella regione di Valparaíso, in Cile."
+    },
+    {
+     "testo": "Nine people are killed and five others are injured when a truck collides with a minibus in Özalp, Van Province, Turkey.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "Daily Sabah",
+       "url": "https://www.dailysabah.com/turkiye/9-killed-5-injured-in-truck-minibus-collision-in-eastern-turkiye/news"
+      }
+     ],
+     "link": [
+      "Özalp, Van",
+      "Van Province",
+      "Turkey"
+     ],
+     "testo_it": "Nove persone vengono uccise e altre cinque ferite quando un camion si scontra con un minibus a Özalp, nella provincia di Van, in Turchia."
+    },
+    {
+     "testo": "Unions, yellow vests protesters, and student protesters hold a fourth consecutive weekend of protests across France with about 146,000 participants.",
      "contesto": [
       "2026 French student protests"
      ],
@@ -309,8 +757,8 @@
        "url": "https://www.abc.net.au/news/2026-11-08/israel-president-prime-minister-government-picked-eisenkot/107360472"
       },
       {
-       "nome": "AFP via The Korea Herald",
-       "url": "https://www.koreaherald.com/article/10929589"
+       "nome": "The Times of Israel",
+       "url": "https://www.timesofisrael.com/liveblog_entry/herzog-announces-he-will-task-eisenkot-tomorrow-with-forming-new-government-after-meeting-him-and-netanyahu/"
       }
      ],
      "link": [
@@ -329,7 +777,7 @@
      ]
     },
     {
-     "testo": "New Zealanders vote to elect 120 members of the House of Representatives, with 11 additional overhang seats. National leader Christopher Luxon and Labour leader Chris Hipkins both seek reappointment as the country's prime minister. Preliminary results see Labour lead in the popular vote and the Nationals having the most amount of seats, with special votes yet to be counted.",
+     "testo": "New Zealanders vote to elect 120 members of the House of Representatives, with 11 additional overhang seats. National Party leader Christopher Luxon and Labour leader Chris Hipkins both seek reappointment as the country's prime minister. Preliminary results see Labour lead in the popular vote and the Nationals having the most amount of seats, with special votes yet to be counted.",
      "contesto": [
       "2026 New Zealand general election"
      ],
@@ -356,7 +804,7 @@
       "Popular vote",
       "Special vote"
      ],
-     "testo_it": "I neozelandesi votano per eleggere 120 membri della Camera dei Rappresentanti, con 11 ulteriori seggi a sbalzo. Il leader nazionale Christopher Luxon e il leader laburista Chris Hipkins cercano entrambi di essere riconfermati come primo ministro del paese. Risultati preliminari vedono il leader laburista nel voto popolare e i nazionali hanno il maggior numero di seggi, con voti speciali ancora da contare.",
+     "testo_it": "I neozelandesi votano per eleggere 120 membri della Camera dei Rappresentanti, con 11 ulteriori seggi a sbalzo. Il leader del partito nazionale Christopher Luxon e il leader laburista Chris Hipkins cercano entrambi di essere riconfermati come primo ministro del paese. Risultati preliminari vedono il leader laburista nel voto popolare e i nazionali hanno il maggior numero di seggi, con voti speciali ancora da contare.",
      "contesto_it": [
       "Elezioni generali in Nuova Zelanda (2026)"
      ]
@@ -389,7 +837,7 @@
    "data": "2026-11-06",
    "voci": [
     {
-     "testo": "The death toll from an armed attack yesterday by suspected Allied Democratic Forces militants on several villages in North Kivu, eastern Democratic Republic of Congo, has risen to 33.",
+     "testo": "The death toll from an armed attack yesterday by suspected Allied Democratic Forces militants on several villages in North Kivu, eastern Democratic Republic of Congo, rises to 33.",
      "contesto": [
       "Kivu conflict",
       "Allied Democratic Forces insurgency"
@@ -406,7 +854,7 @@
       "North Kivu",
       "Democratic Republic of Congo"
      ],
-     "testo_it": "Il bilancio delle vittime di un attacco armato di ieri da parte di sospetti militanti delle Forze Democratiche Alleate in diversi villaggi nel Nord Kivu, nella Repubblica Democratica del Congo orientale, è salito a 33.",
+     "testo_it": "Il bilancio delle vittime di un attacco armato di ieri da parte di sospetti militanti delle Forze Democratiche Alleate in diversi villaggi nel Nord Kivu, nella Repubblica Democratica del Congo orientale, sale a 33.",
      "contesto_it": [
       "Conflitto Kivu",
       "insurrezione delle forze democratiche alleate"
@@ -437,7 +885,9 @@
     },
     {
      "testo": "Politician Julio Portillo and three police officers are killed in an assassination shooting in Río Hondo, Zacapa Department, Guatemala, by unknown gunmen.",
-     "contesto": [],
+     "contesto": [
+      "Crime in Guatemala"
+     ],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
       {
@@ -453,7 +903,61 @@
       "Zacapa Department",
       "Guatemala"
      ],
-     "testo_it": "Il politico Julio Portillo e tre agenti di polizia vengono uccisi in una sparatoria a Río Hondo, Dipartimento di Zacapa, Guatemala, da uomini armati sconosciuti."
+     "testo_it": "Il politico Julio Portillo e tre agenti di polizia vengono uccisi in una sparatoria a Río Hondo, Dipartimento di Zacapa, Guatemala, da uomini armati sconosciuti.",
+     "contesto_it": [
+      "Criminalità in Guatemala"
+     ]
+    },
+    {
+     "testo": "Three gunmen were killed after an encounter against authorities in the ejido Las Trancas, Navolato, Sinaloa, México.",
+     "contesto": [
+      "Mexican drug war"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "El Universal in Spanish",
+       "url": "https://www.eluniversal.com.mx/estados/enfrentamiento-deja-tres-civiles-armados-muertos-en-navolato-sinaloa-aseguran-un-vehiculo-armas-cargadores-y-equipo-tactico/"
+      }
+     ],
+     "link": [
+      "Ejido",
+      "Navolato Municipality",
+      "Sinaloa",
+      "México"
+     ],
+     "testo_it": "Tre uomini armati sono stati uccisi dopo un incontro contro le autorità nell'ejido Las Trancas, Navolato, Sinaloa, México.",
+     "contesto_it": [
+      "Guerra alla droga in Messico"
+     ]
+    },
+    {
+     "testo": "Edgar Aarón Vázquez, founder and leader of the Nuevo Imperio cartel, is killed in an operation in Naucalpan, State of Mexico. He was implicated in the murder of a federal agent, as well as kidnapping, extortion, homicide, dispossession of property, money laundering, fuel theft, and drug trafficking to the United States and Canada.",
+     "contesto": [
+      "Mexican drug war"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Excélsior in Spanish",
+       "url": "https://www.excelsior.com.mx/nacional/abaten-lider-cartel-nuevo-imperio-eu-acuso-proteger-capo-exatleta"
+      }
+     ],
+     "link": [
+      "Naucalpan",
+      "State of Mexico",
+      "National Guard (Mexico)",
+      "Kidnapping",
+      "Extortion",
+      "Homicide",
+      "Money laundering",
+      "Gasoline theft",
+      "Illegal drug trade"
+     ],
+     "testo_it": "Edgar Aarón Vázquez, fondatore e leader del cartello di Nuevo Imperio, viene ucciso in un'operazione a Naucalpan, nello Stato del Messico. È stato implicato nell'omicidio di un agente federale, nonché nel rapimento, estorsione, omicidio, espropriazione di proprietà, riciclaggio di denaro, furto di carburante e traffico di droga negli Stati Uniti e in Canada.",
+     "contesto_it": [
+      "Guerra alla droga in Messico"
+     ]
     },
     {
      "testo": "Australia deploys a C-130 Hercules aircraft, a Cessna Citation aircraft, and 20 personnel to help extinguish wildfires in East Kalimantan, Indonesia.",
@@ -577,9 +1081,9 @@
      ]
     },
     {
-     "testo": "Between 100 and 200 people are arrested by Dutch police after protesters break into and temporarily occupy a construction site for a Microsoft data center in Sloterdijk, Amsterdam, during an anti-data-center rally.",
+     "testo": "At least 100 people are arrested by police after protesters break into and temporarily occupy a construction site for a Microsoft data center in Sloterdijk, Amsterdam, Netherlands, during an anti-data-center rally.",
      "contesto": [
-      "2026 European unrest"
+      "2026 European unrest, Opposition to AI data centers"
      ],
      "categoria": "Law and crime",
      "fonti": [
@@ -593,17 +1097,18 @@
       }
      ],
      "link": [
-      "Netherlands",
+      "National Police Corps (Netherlands)",
       "Occupation (protest)",
       "Microsoft",
       "Data center",
       "Sloterdijk, Amsterdam",
       "Amsterdam",
+      "Netherlands",
       "Opposition to AI data centers"
      ],
-     "testo_it": "Tra le 100 e le 200 persone vengono arrestate dalla polizia olandese dopo che i manifestanti irrompono e occupano temporaneamente un cantiere per un centro dati Microsoft a Sloterdijk, Amsterdam, durante una manifestazione anti-data center.",
+     "testo_it": "Almeno 100 persone vengono arrestate dalla polizia dopo che i manifestanti irrompono e occupano temporaneamente un cantiere per un centro dati Microsoft a Sloterdijk, Amsterdam, Paesi Bassi, durante una manifestazione anti-data center.",
      "contesto_it": [
-      "Insurrezioni europee (2026)"
+      "Insurrezioni europee (2026), Opposizione ai data center AI"
      ]
     },
     {
@@ -652,7 +1157,7 @@
      "testo_it": "Il direttore della fotografia americano Thomas Markle viene arrestato a Tampa, in Florida, per accuse di possesso di materiale per abusi sessuali su minori."
     },
     {
-     "testo": "Colombia Migration expel 80 Venezuelan nationals suspected of criminal activity, including theft, drug trafficking, and extortion.",
+     "testo": "The Colombian border control agency expels 80 Venezuelan nationals suspected of criminal activity, including theft, drug trafficking, and extortion.",
      "contesto": [],
      "categoria": "Law and crime",
      "fonti": [
@@ -662,12 +1167,13 @@
       }
      ],
      "link": [
+      "Colombia",
       "Colombia Migration",
       "Venezuela",
       "Crime in Colombia",
       "Illegal drug trade in Colombia"
      ],
-     "testo_it": "Colombia Migrazione espelle 80 cittadini venezuelani sospettati di attività criminali, tra cui furto, traffico di droga ed estorsione."
+     "testo_it": "L'agenzia di controllo delle frontiere colombiane espelle 80 cittadini venezuelani sospettati di attività criminali, tra cui furto, traffico di droga ed estorsione."
     },
     {
      "testo": "Au Kam San, a former pro-democracy legislator of Macau, is convicted in a closed-door trial of \"subversion against the political power of the state\" and sentenced to 12 years and 6 months in prison. It is the first conviction under the Macau National Security Law, which was revised by lawmakers in 2023 to broaden its scope and to allow for closed-door trials.",
@@ -1999,368 +2505,6 @@
      "contesto_it": [
       "Coppa Asia AFC (2027), conflitto Houthi-saudita"
      ]
-    }
-   ]
-  },
-  {
-   "data": "2026-11-02",
-   "voci": [
-    {
-     "testo": "Israeli forces withdraw from areas around Hebron in the occupied West Bank after a multi-day operation following the killing of two Israeli soldiers at a checkpoint.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "Gaza war",
-      "2026 West Bank lockdown"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AFP via RFI",
-       "url": "https://www.rfi.fr/en/international-news/20261102-israel-army-withdraws-after-hebron-operation"
-      },
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/amp/news/2026/11/2/hebron-governor-says-israeli-forces-withdraw-from-city-after-10-day-siege"
-      }
-     ],
-     "link": [
-      "Israel",
-      "Israel Defense Forces",
-      "Hebron",
-      "Israeli occupation of the West Bank",
-      "West Bank"
-     ],
-     "testo_it": "Le forze israeliane si ritirano dalle aree intorno a Hebron, nella Cisgiordania occupata, dopo un'operazione di più giorni in seguito all'uccisione di due soldati israeliani a un checkpoint.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Guerra di Gaza",
-      "Blocco della Cisgiordania (2026)"
-     ]
-    },
-    {
-     "testo": "The United States military carries out airstrikes on Iranian targets across the Strait of Hormuz after Iranian surface-to-air missiles attack American aircraft in the Strait.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "2026 Iran war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz"
-      },
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/iran-us-trump-netanyahu-israel-war-b4519ef86bafe2672e0855d7a48ce309"
-      }
-     ],
-     "link": [
-      "United States Armed Forces",
-      "Airstrike",
-      "Iran",
-      "Strait of Hormuz",
-      "Surface-to-air missile"
-     ],
-     "testo_it": "L'esercito degli Stati Uniti effettua attacchi aerei su obiettivi iraniani attraverso lo Stretto di Hormuz dopo che i missili terra-aria iraniani attaccano gli aerei americani nello Stretto.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Guerra in Iran (2026)"
-     ]
-    },
-    {
-     "testo": "Russian forces drop at least nine bombs on a school building serving as a civilian shelter and humanitarian aid distribution centre in Komyshuvakha, Zaporizhzhia Oblast, Ukraine, killing at least 33 people and leaving 50 others missing.",
-     "contesto": [
-      "Russo-Ukrainian war",
-      "Russian attacks on civilians in the Russo-Ukrainian war, Zaporizhzhia strikes"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "CNN",
-       "url": "https://edition.cnn.com/2026/11/03/europe/ukraine-russia-zaporiszhzha-school-strike-intl"
-      }
-     ],
-     "link": [
-      "Russia",
-      "Russian Armed Forces",
-      "Education in Ukraine",
-      "Civil defense",
-      "List of humanitarian aid to Ukraine during the Russo-Ukrainian war",
-      "Komyshuvakha, Zaporizhzhia Oblast",
-      "Zaporizhzhia Oblast",
-      "Ukraine"
-     ],
-     "testo_it": "Le forze russe sganciano almeno nove bombe su un edificio scolastico che funge da rifugio civile e centro di distribuzione di aiuti umanitari a Komyshuvakha, nell'Oblast' di Zaporizhia, in Ucraina, uccidendo almeno 33 persone e lasciandone altre 50 disperse.",
-     "contesto_it": [
-      "Guerra russo-ucraina",
-      "Attacchi russi contro i civili nella guerra russo-ucraina, attacchi di Zaporizhia"
-     ]
-    },
-    {
-     "testo": "Salvadoran, Haitian, and Gang Suppression Force soldiers launch an offensive in Plain of the Cul-de-Sac which extends from Haiti to the Dominican Republic, killing at least a dozen gang members.",
-     "contesto": [
-      "Haitian conflict",
-      "Salvadoran military intervention in Haiti"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "EFE in Spanish",
-       "url": "https://efe.com/mundo/2026-11-03/soldados-el-salvador-operacion-haiti/"
-      }
-     ],
-     "link": [
-      "Armed Forces of El Salvador",
-      "Armed Forces of Haiti",
-      "Gang Suppression Force",
-      "Plain of the Cul-de-Sac",
-      "Haiti",
-      "Dominican Republic"
-     ],
-     "testo_it": "Soldati salvadoregni, haitiani e della Forza di Soppressione di Gang lanciano un'offensiva nella Piana del Cul-de-Sac che si estende da Haiti alla Repubblica Dominicana, uccidendo almeno una dozzina di membri della banda.",
-     "contesto_it": [
-      "Conflitto haitiano",
-      "Intervento militare salvadoregno ad Haiti"
-     ]
-    },
-    {
-     "testo": "Three people are killed and five more injured in two separated mass shootings at two drug rehabilitation centers in Mazatlán, Sinaloa, Mexico.",
-     "contesto": [
-      "Mexican drug war",
-      "Infighting in the Sinaloa Cartel"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "La Jornada in Spanish",
-       "url": "https://www.jornada.com.mx/noticia/2026/11/01/estados/atacan-centros-de-rehabilitacion-en-mazatlan-y-matan-a-3-personas"
-      }
-     ],
-     "link": [
-      "Mass shooting",
-      "Drug rehabilitation",
-      "Mazatlán",
-      "Sinaloa",
-      "Mexico"
-     ],
-     "testo_it": "Tre persone vengono uccise e altre cinque ferite in due sparatorie di massa separate in due centri di riabilitazione della droga a Mazatlán, Sinaloa, Messico.",
-     "contesto_it": [
-      "Guerra alla droga in Messico",
-      "Lotta nel cartello di Sinaloa"
-     ]
-    },
-    {
-     "testo": "The Rapid Support Forces launches drone strikes against three distribution stations in Sudan's Kassala and Northern states.",
-     "contesto": [
-      "Sudanese civil war",
-      "War crimes in the Sudanese civil war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Sudan Tribune",
-       "url": "https://sudantribune.com/article/320792"
-      }
-     ],
-     "link": [
-      "Rapid Support Forces",
-      "Sudan",
-      "Kassala State",
-      "Northern State (Sudan)",
-      "States of Sudan"
-     ],
-     "testo_it": "Le forze di supporto rapido lanciano attacchi con droni contro tre stazioni di distribuzione nel Kassala del Sudan e negli stati del Nord.",
-     "contesto_it": [
-      "Guerra civile sudanese",
-      "Crimini di guerra nella guerra civile sudanese"
-     ]
-    },
-    {
-     "testo": "A truck bomb explodes near a military base in Planadas, Tolima Department, Colombia, killing four people, including a baby, and wounding several others.",
-     "contesto": [
-      "Colombian conflict"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "BBC News",
-       "url": "https://www.bbc.com/news/articles/cqn06n30l406o"
-      },
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/ukraines-zelenskiy-russian-bombing-kills-18-southeastern-zaporizhzhia-region-2026-11-02/"
-      }
-     ],
-     "link": [
-      "Car bomb",
-      "National Army of Colombia",
-      "Planadas",
-      "Tolima Department",
-      "Colombia"
-     ],
-     "testo_it": "Un camion bomba esplode vicino a una base militare a Planadas, Dipartimento di Tolima, Colombia, uccidendo quattro persone, tra cui un bambino, e ferendone molte altre.",
-     "contesto_it": [
-      "Conflitto colombiano"
-     ]
-    },
-    {
-     "testo": "An unidentified person throws an IED bomb at the home of Villa El Salvador mayor-elect Marcelino Huamán Cano in Lima, Peru, while he was with his family, causing property damage but no reported injuries.",
-     "contesto": [
-      "Peruvian security crisis"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Perú.21 in Spanish",
-       "url": "https://peru21.pe/policiales/villa-el-salvador-detonan-explosivo-en-casa-de-alcalde-electo-marcelino-huaman-cuando-estaba-con-su-familia/"
-      }
-     ],
-     "link": [
-      "Improvised explosive device",
-      "Villa El Salvador",
-      "Lima",
-      "Peru"
-     ],
-     "testo_it": "Una persona non identificata lancia una bomba IED a casa del sindaco eletto di Villa El Salvador Marcelino Huamán Cano a Lima, in Perù, mentre era con la sua famiglia, causando danni alla proprietà ma senza feriti segnalati.",
-     "contesto_it": [
-      "Crisi della sicurezza peruviana"
-     ]
-    },
-    {
-     "testo": "Uganda begins withdrawing its troops from Somalia, planning to remove all personnel deployed under bilateral and African Union missions by the end of 2027, ending nearly two decades of operations.",
-     "contesto": [
-      "Somali Civil War"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AFP via Arab News",
-       "url": "https://www.arabnews.com/world/uganda-withdrawing-troops-from-somalia-in-blow-to-anti-extremist-mission-3009438"
-      }
-     ],
-     "link": [
-      "Uganda",
-      "Uganda People's Defence Force",
-      "Somalia",
-      "African Union"
-     ],
-     "testo_it": "L'Uganda inizia a ritirare le sue truppe dalla Somalia, prevedendo di rimuovere tutto il personale schierato sotto missioni bilaterali e dell'Unione Africana entro la fine del 2027, ponendo fine a quasi due decenni di operazioni.",
-     "contesto_it": [
-      "Guerra civile somala"
-     ]
-    },
-    {
-     "testo": "The United States announces the suspensions of Rwanda and South Africa from duty-free trade benefits under the African Growth and Opportunity Act beginning January 1, 2027, citing trade barriers, human rights concerns, and threats to U.S. interests.",
-     "contesto": [
-      "Rwanda–United States relations, South Africa–United States relations"
-     ],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/africa/us-suspend-south-africa-rwanda-duty-free-trade-access-2026-11-02/"
-      }
-     ],
-     "link": [
-      "United States",
-      "Rwanda",
-      "South Africa",
-      "Duty-free trade",
-      "African Growth and Opportunity Act",
-      "Trade barrier",
-      "Human rights"
-     ],
-     "testo_it": "Gli Stati Uniti annunciano le sospensioni del Ruanda e del Sudafrica dai benefici del commercio duty-free ai sensi dell'African Growth and Opportunity Act a partire dal 1 ° gennaio 2027, citando barriere commerciali, preoccupazioni per i diritti umani e minacce agli interessi degli Stati Uniti.",
-     "contesto_it": [
-      "Relazioni Ruanda-Stati Uniti d'America, relazioni Sud Africa-Stati Uniti d'America"
-     ]
-    },
-    {
-     "testo": "Eight people are killed after they were electrocuted when a vehicle comes into contact with a high-voltage power line in Jhunjhunu, Rajasthan, India.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "Xinhua",
-       "url": "https://english.news.cn/20261102/0a5788a4c490493781903b35adfa486a/c.html"
-      }
-     ],
-     "link": [
-      "High-voltage direct current",
-      "Overhead power line",
-      "Jhunjhunu",
-      "Rajasthan",
-      "India"
-     ],
-     "testo_it": "Otto persone vengono uccise dopo essere state elettrificate quando un veicolo entra in contatto con una linea elettrica ad alta tensione a Jhunjhunu, Rajasthan, India."
-    },
-    {
-     "testo": "The United States Food and Drug Administration approves the first generic version of lenacapavir, a twice-yearly HIV prevention injection expected to cost about US$40 annually in 120 low- and middle-income countries.",
-     "contesto": [],
-     "categoria": "Health and environment",
-     "fonti": [
-      {
-       "nome": "AFP via France 24",
-       "url": "https://www.france24.com/en/live-news/20261102-us-approves-cheap-generic-of-breakthrough-hiv-shot-for-poorer-countries"
-      }
-     ],
-     "link": [
-      "United States",
-      "Food and Drug Administration",
-      "Generic version",
-      "Lenacapavir",
-      "HIV prevention",
-      "US$",
-      "Least developed countries",
-      "Newly industrialized country"
-     ],
-     "testo_it": "La Food and Drug Administration degli Stati Uniti approva la prima versione generica di lenacapavir, un'iniezione di prevenzione dell'HIV due volte all'anno che dovrebbe costare circa $ 40 all'anno in 120 paesi a basso e medio reddito."
-    },
-    {
-     "testo": "A second wave of cyberattacks target freezers and refrigerators in supermarkets in multiple European countries, causing them to overheat and spoil.",
-     "contesto": [
-      "2026 French supermarket refrigerator hack"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/business/retail-consumer/temperature-soars-swedish-grocery-store-freezers-one-store-blames-hackers-2026-11-02/"
-      }
-     ],
-     "link": [
-      "Cyberattack",
-      "Europe",
-      "Food spoilage"
-     ],
-     "testo_it": "Una seconda ondata di attacchi informatici ha preso di mira congelatori e frigoriferi nei supermercati di diversi paesi europei, causando loro il surriscaldamento e il deterioramento.",
-     "contesto_it": [
-      "francese supermercato frigorifero hack (2026)"
-     ]
-    },
-    {
-     "testo": "The Spanish interior ministry reportedly deports 16 migrants, including those from Bangladesh, Cameroon, Nigeria, Senegal, and Yemen, from Ceuta to Morocco following the migrant crisis in July.",
-     "contesto": [],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "The New Arab",
-       "url": "https://www.newarab.com/news/spain-deports-ceuta-african-asian-asylum-seekers-morocco"
-      }
-     ],
-     "link": [
-      "Spain",
-      "Ministry of the Interior (Spain)",
-      "Bangladeshis",
-      "Demographics of Cameroon",
-      "Nigerian people in Spain",
-      "Demographics of Senegal",
-      "Yemenis",
-      "Ceuta",
-      "Morocco",
-      "2026 Ceuta migrant crisis"
-     ],
-     "testo_it": "Il ministero dell'Interno spagnolo ha deportato 16 migranti, compresi quelli provenienti da Bangladesh, Camerun, Nigeria, Senegal e Yemen, da Ceuta al Marocco dopo la crisi migratoria di luglio."
     }
    ]
   }
