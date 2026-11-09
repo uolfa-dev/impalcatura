@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-09T06:47:23Z",
+ "generato": "2026-11-09T19:54:07Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -83,7 +83,95 @@
  "giorni": [
   {
    "data": "2026-11-09",
-   "voci": []
+   "voci": [
+    {
+     "testo": "The 24-year-old man responsible for the drive-by mass shooting at the Main Square in Kraków, Poland, two days ago, which killed six people and injured 16 others, dies at a hospital after being seriously wounded in a shootout with police.",
+     "contesto": [
+      "2026 Kraków shooting"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/9/poland-mass-shooting-assailant-dies-in-hospital-police-say"
+      }
+     ],
+     "link": [
+      "Drive-by shooting",
+      "Mass shooting",
+      "Main Square, Kraków",
+      "Kraków",
+      "Poland",
+      "Shootout",
+      "Police of Poland"
+     ],
+     "testo_it": "L'uomo di 24 anni responsabile della sparatoria di massa nella piazza principale di Cracovia, in Polonia, due giorni fa, che ha ucciso sei persone e ne ha ferite altre 16, muore in un ospedale dopo essere stato gravemente ferito in una sparatoria con la polizia.",
+     "contesto_it": [
+      "Tiro a segno a Cracovia (2026)"
+     ]
+    },
+    {
+     "testo": "The Pitt Rivers Museum in Oxford, England, United Kingdom, returns the remains of 39 Naga people, collected during the British Raj, to a delegation from Nagaland, India, following six years of discussions over repatriation.",
+     "contesto": [],
+     "categoria": "Arts and culture",
+     "fonti": [
+      {
+       "nome": "AFP via France 24",
+       "url": "https://www.france24.com/en/live-news/20261109-oxford-museum-makes-historic-return-of-naga-human-remains"
+      }
+     ],
+     "link": [
+      "Pitt Rivers Museum",
+      "Oxford",
+      "England",
+      "United Kingdom",
+      "Naga people",
+      "British Raj",
+      "Nagaland",
+      "India",
+      "Repatriation (cultural property)"
+     ],
+     "testo_it": "Il Pitt Rivers Museum di Oxford, Inghilterra, Regno Unito, restituisce i resti di 39 Naga, raccolti durante il Raj britannico, a una delegazione da Nagaland, India, dopo sei anni di discussioni sul rimpatrio."
+    },
+    {
+     "testo": "An explosion at a factory in Aliağa, Turkey, leaves sixteen people dead and thirteen others injured.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "BBC News",
+       "url": "https://www.bbc.com/news/articles/cq2d6d5z9y5jo"
+      }
+     ],
+     "link": [
+      "Aliağa",
+      "Turkey"
+     ],
+     "testo_it": "Un'esplosione in una fabbrica di Aliağa, in Turchia, lascia sedici morti e altri tredici feriti."
+    },
+    {
+     "testo": "English actor Russell Brand is sentenced to 10 years and 6 months imprisonment for one rape and three counts of sexual assault.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "CNN",
+       "url": "https://edition.cnn.com/2026/11/09/entertainment/russell-brand-rape-sentence-prison-intl"
+      },
+      {
+       "nome": "RTÉ News",
+       "url": "https://www.rte.ie/news/uk/2026/1109/1598469-russell-brand-court/"
+      }
+     ],
+     "link": [
+      "English people",
+      "Russell Brand",
+      "Rape",
+      "Sexual offences in the United Kingdom"
+     ],
+     "testo_it": "L'attore inglese Russell Brand viene condannato a 10 anni e 6 mesi di reclusione per uno stupro e tre capi d'accusa di violenza sessuale."
+    }
+   ]
   },
   {
    "data": "2026-11-08",
@@ -115,11 +203,11 @@
      ]
     },
     {
-     "testo": "Several floors of Aramco Tower, a skyscraper owned by Saudi Aramco located in the King Abdullah Financial District of Riyadh, Saudi Arabia, are damaged after a Houthi ballistic missile is intercepted over the city by Saudi air defense systems. No casualties or injuries are reported.",
+     "testo": "Several floors of Aramco Tower, a skyscraper owned by Saudi Aramco located in Riyadh, Saudi Arabia, are damaged after a Houthi ballistic missile is intercepted over the city by Saudi air defense systems. No casualties or injuries are reported.",
      "contesto": [
       "Middle Eastern crisis",
       "Yemeni civil war",
-      "Houthi-Saudi conflict"
+      "Houthi–Saudi conflict"
      ],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
@@ -135,14 +223,13 @@
      "link": [
       "Aramco Tower",
       "Saudi Aramco",
-      "King Abdullah Financial District",
       "Riyadh",
       "Saudi Arabia",
       "Houthis",
       "Ballistic missile",
       "Anti-aircraft warfare"
      ],
-     "testo_it": "Diversi piani della Torre di Aramco, un grattacielo di proprietà di Saudi Aramco situato nel King Abdullah Financial District di Riyadh, in Arabia Saudita, sono danneggiati dopo che un missile balistico Houthi viene intercettato sulla città dai sistemi di difesa aerea sauditi.",
+     "testo_it": "Diversi piani della Torre di Aramco, un grattacielo di proprietà di Saudi Aramco situato a Riyadh, in Arabia Saudita, sono danneggiati dopo che un missile balistico Houthi è stato intercettato sulla città dai sistemi di difesa aerea sauditi.",
      "contesto_it": [
       "Crisi del Medio Oriente",
       "Guerra civile yemenita",
@@ -187,7 +274,7 @@
        "url": "https://www.reuters.com/business/energy/production-suspended-iraqs-khor-mor-gas-field-after-drone-attack-sources-say-2026-11-08/"
       },
       {
-       "nome": "South China Morning Post",
+       "nome": "AFP via South China Morning Post",
        "url": "https://www.scmp.com/news/world/middle-east/article/3373721/attack-iraq-gas-complex-disrupts-supply-regions-power-plants-authorities-say"
       }
      ],
@@ -204,7 +291,7 @@
      ]
     },
     {
-     "testo": "Mexican Navy personnel working with intelligence from the National Intelligence Center and the U.S. DEA, arrest Rafael Álvarez Ayala, the alleged leader of the Jalisco New Generation Cartel cell \"Los Rs\", in Zapopan, Jalisco, Mexico. He is wounded in a shootout during the operation and is wanted on a Michoacán warrant for aggravated homicide.",
+     "testo": "Mexican Navy personnel, working with intelligence from the National Intelligence Center and the United States Drug Enforcement Administration, arrest Rafael Álvarez Ayala, the alleged leader of the Jalisco New Generation Cartel cell \"Los Rs\", in Zapopan, Jalisco, Mexico. He is wounded in a shootout during the operation and is wanted on a Michoacán warrant for aggravated homicide.",
      "contesto": [
       "Mexican drug war"
      ],
@@ -226,24 +313,30 @@
      "link": [
       "Mexican Navy",
       "National Intelligence Centre (Mexico)",
+      "United States",
       "Drug Enforcement Administration",
       "Jalisco New Generation Cartel",
       "Zapopan",
       "Jalisco",
-      "Mexico"
+      "Mexico",
+      "Michoacán"
      ],
-     "testo_it": "Il personale della Marina messicana che lavora con l'intelligence del National Intelligence Center e della DEA degli Stati Uniti, arresta Rafael Álvarez Ayala, il presunto leader della cella del cartello di nuova generazione Jalisco \"Los Rs\", a Zapopan, Jalisco, Messico. È ferito in una sparatoria durante l'operazione ed è ricercato su un mandato di Michoacán per omicidio aggravato.",
+     "testo_it": "Il personale della Marina messicana, che lavora con l'intelligence del National Intelligence Center e della Drug Enforcement Administration degli Stati Uniti, arresta Rafael Álvarez Ayala, il presunto leader della cella del cartello di nuova generazione Jalisco \"Los Rs\", a Zapopan, Jalisco, Messico. È ferito in una sparatoria durante l'operazione ed è ricercato su un mandato di Michoacán per omicidio aggravato.",
      "contesto_it": [
       "Guerra alla droga in Messico"
      ]
     },
     {
-     "testo": "NVIDIA announces it is opening an investigation into CEO Jensen Huang, after American intelligence reported that a close associate of Huang was a spy for China. Huang admitted to an extramarital affair with the associate in a letter to the company earlier in the day.",
+     "testo": "NVIDIA announces it is opening an investigation into CEO Jensen Huang after American intelligence reported that a close associate of Huang was a spy for China. Huang admitted to an extramarital affair with the associate in a letter to the company earlier in the day.",
      "contesto": [
       "China–United States relations, Chinese intelligence activity abroad"
      ],
      "categoria": "Business and economy",
      "fonti": [
+      {
+       "nome": "BBC News",
+       "url": "https://www.bbc.com/news/live/cm78p221e313t"
+      },
       {
        "nome": "The New York Times",
        "url": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html"
@@ -257,13 +350,13 @@
       "China",
       "Affair"
      ],
-     "testo_it": "NVIDIA annuncia l'apertura di un'indagine sul CEO Jensen Huang, dopo che l'intelligence americana ha riferito che uno stretto collaboratore di Huang era una spia per la Cina. Huang ha ammesso di una relazione extraconiugale con l'associato in una lettera alla società all'inizio della giornata.",
+     "testo_it": "NVIDIA annuncia l'apertura di un'indagine sul CEO Jensen Huang dopo che l'intelligence americana ha riferito che uno stretto collaboratore di Huang era una spia per la Cina. Huang ha ammesso di una relazione extraconiugale con l'associato in una lettera alla società all'inizio della giornata.",
      "contesto_it": [
       "Relazioni Cina-Stati Uniti, attività di intelligence cinese all'estero"
      ]
     },
     {
-     "testo": "A train derails near Giza, Egypt, killing seven people and wounding 125 more.",
+     "testo": "A train derails near El Ayyat, Giza Governorate, Egypt, killing seven people and wounding 125 more.",
      "contesto": [
       "2026 El Ayyat train collision"
      ],
@@ -279,10 +372,11 @@
       }
      ],
      "link": [
-      "Giza",
+      "El Ayyat",
+      "Giza Governorate",
       "Egypt"
      ],
-     "testo_it": "Un treno deraglia vicino a Giza, in Egitto, uccidendo sette persone e ferendone altre 125.",
+     "testo_it": "Un treno deraglia nei pressi di El Ayyat, Governatorato di Giza, in Egitto, uccidendo sette persone e ferendone altre 125.",
      "contesto_it": [
       "Collisione del treno El Ayyat (2026)"
      ]
@@ -316,6 +410,46 @@
      "contesto_it": [
       "Terremoti in Giappone"
      ]
+    },
+    {
+     "testo": "At least 39 people are killed when a small boat carrying migrants capsizes off the coast of Kébémer, Louga, Senegal.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "AFP via France 24",
+       "url": "https://www.france24.com/en/live-news/20261109-senegal-officials-raise-migrant-boat-death-toll-to-39"
+      }
+     ],
+     "link": [
+      "Kébémer",
+      "Louga region",
+      "Senegal"
+     ],
+     "testo_it": "Almeno 39 persone vengono uccise quando una piccola barca che trasporta migranti si rovescia al largo delle coste di Kébémer, Louga, Senegal."
+    },
+    {
+     "testo": "A fire at a high-rise apartment building in Taiyuan, Shanxi, China, kills 14 people and leaves 25 others hospitalized.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/china/apartment-building-fire-northern-china-kills-14-2026-11-09/"
+      },
+      {
+       "nome": "South China Morning Post",
+       "url": "https://www.scmp.com/news/china/politics/article/3373750/fire-northern-china-high-rise-building-kills-14-injures-dozens-more"
+      }
+     ],
+     "link": [
+      "Tower block",
+      "Apartment",
+      "Taiyuan",
+      "Shanxi",
+      "China"
+     ],
+     "testo_it": "Un incendio in un grattacielo a Taiyuan, nello Shanxi, in Cina, uccide 14 persone e ne lascia altre 25 ricoverate in ospedale."
     },
     {
      "testo": "Three people are killed and more than 300 others are rescued from severe flooding in Erbil, Kurdistan Region, Iraq.",
@@ -352,25 +486,25 @@
      "testo_it": "Un autobus che viaggia verso Zagabria, in Croazia, ribalta l'autostrada A3, uccidendo almeno due persone e ferendone altre 20."
     },
     {
-     "testo": "At least 34 people are killed when a small boat carrying migrants capsizes off the coast of Kébémer, Louga, Senegal.",
-     "contesto": [],
+     "testo": "An Super Puma H-225 helicopter crashes in South Kalimantan during a forest firefighting mission, killing one person.",
+     "contesto": [
+      "2026 Indonesia wildfires"
+     ],
      "categoria": "Disasters and accidents",
      "fonti": [
       {
-       "nome": "DW",
-       "url": "https://www.dw.com/en/many-killed-after-migrant-boat-sinks-off-senegal/a-79890883"
-      },
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal"
+       "nome": "BBC",
+       "url": "https://www.bbc.com/news/articles/cxnv0442ml6vo"
       }
      ],
      "link": [
-      "Kébémer",
-      "Louga region",
-      "Senegal"
+      "Eurocopter EC225 Super Puma",
+      "South Kalimantan"
      ],
-     "testo_it": "Almeno 34 persone vengono uccise quando una piccola barca che trasporta migranti si rovescia al largo delle coste di Kébémer, Louga, Senegal."
+     "testo_it": "Un elicottero Super Puma H-225 si schianta nel Kalimantan meridionale durante una missione antincendio nella foresta, uccidendo una persona.",
+     "contesto_it": [
+      "Incendi boschivi in Indonesia (2026)"
+     ]
     },
     {
      "testo": "Former National Congress Party politician Ahmed Haroun, who is wanted by the International Criminal Court for genocide in Sudan's Darfur region during war, is detained by the Sudanese army.",
@@ -422,11 +556,11 @@
      "testo_it": "La Corte civile maltese ordina a quattro società di investimento, tra cui due di Malta e due di Lussemburgo, di pagare alla Banca Vaticana 24,1 milioni di euro di danni nell'ambito di un accordo del 2013 che coinvolge il Fondo Kappa."
     },
     {
-     "testo": "Authorities of El Hierro in the Spanish Canary Islands declare a state of emergency following a surge of over 3,300 migrants and refugees arriving on the island this month.",
+     "testo": "Authorities of El Hierro in the Canary Islands, Spain, declare a state of emergency following a surge of over 3,300 migrants and refugees arriving on the island this month.",
      "contesto": [
       "Immigration to Spain"
      ],
-     "categoria": "Politics and Elections",
+     "categoria": "Politics and elections",
      "fonti": [
       {
        "nome": "Al Jazeera",
@@ -435,11 +569,10 @@
      ],
      "link": [
       "El Hierro",
-      "Spain",
       "Canary Islands",
       "State of emergency"
      ],
-     "testo_it": "Le autorità di El Hierro nelle Isole Canarie spagnole dichiarano lo stato di emergenza a seguito di un'ondata di oltre 3.300 migranti e rifugiati che arrivano sull'isola questo mese.",
+     "testo_it": "Le autorità di El Hierro nelle Isole Canarie, in Spagna, dichiarano lo stato di emergenza a seguito di un aumento di oltre 3.300 migranti e rifugiati che arrivano sull'isola questo mese.",
      "contesto_it": [
       "Immigrazione in Spagna"
      ]
@@ -449,7 +582,7 @@
      "contesto": [
       "Gaza war protests"
      ],
-     "categoria": "Politics and Elections",
+     "categoria": "Politics and elections",
      "fonti": [
       {
        "nome": "NBC News",
@@ -471,11 +604,11 @@
      ]
     },
     {
-     "testo": "More than 200,000 people march in Amsterdam, Netherlands, to protest against the Israel's genocide in Gaza and the Dutch government's support of the Israeli military.",
+     "testo": "More than 200,000 people march in Amsterdam, Netherlands, to protest against Israel's genocide in Gaza and the Dutch government's support of the Israeli military.",
      "contesto": [
       "Gaza war protests"
      ],
-     "categoria": "Politics and Elections",
+     "categoria": "Politics and elections",
      "fonti": [
       {
        "nome": "Al Jazeera",
@@ -492,6 +625,32 @@
      "testo_it": "Più di 200.000 persone marciano ad Amsterdam, nei Paesi Bassi, per protestare contro il genocidio di Israele a Gaza e il sostegno del governo olandese all'esercito israeliano.",
      "contesto_it": [
       "Proteste di guerra a Gaza"
+     ]
+    },
+    {
+     "testo": "In Formula racing, Mercedes-Benz wins its ninth World Constructors' Championship after drivers George Russell and Kimi Antonelli finished fourth and fifth, respectively, at the São Paulo Grand Prix in Brazil.",
+     "contesto": [
+      "2026 Formula One World Championship"
+     ],
+     "categoria": "Sports",
+     "fonti": [
+      {
+       "nome": "Daily Tribune",
+       "url": "https://tribune.net.ph/2026/11/09/mercedes-reigns-again-as-silver-arrows-clinch-2026-constructors-championship"
+      }
+     ],
+     "link": [
+      "Formula racing",
+      "Mercedes-Benz in Formula One",
+      "List of Formula One World Constructors' Champions",
+      "George Russell (racing driver)",
+      "Kimi Antonelli",
+      "2026 São Paulo Grand Prix",
+      "Brazil"
+     ],
+     "testo_it": "Nelle gare di Formula, Mercedes-Benz vince il suo nono Campionato Mondiale Costruttori dopo che i piloti George Russell e Kimi Antonelli sono finiti rispettivamente quarto e quinto, al Gran Premio di San Paolo in Brasile.",
+     "contesto_it": [
+      "Campionato del Mondo di Formula 1 (2026)"
      ]
     },
     {
