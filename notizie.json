@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-10T15:00:04Z",
+ "generato": "2026-11-10T21:22:03Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -85,13 +85,39 @@
    "data": "2026-11-10",
    "voci": [
     {
-     "testo": "Eleven people are killed and 48 injured in a multiple-vehicle collision involving over 50 trucks and cars on Trakia (A1) highway in Yambol, Bulgaria.",
+     "testo": "The military court in Goma, North Kivu, Democratic Republic of the Congo, sentences 66 soldiers to death on charges of cowardice, mutiny, and failure to obey orders, after they were arrested following clashes with Front for the Refoundation of the Nation rebels.",
+     "contesto": [
+      "Democratic Republic of the Congo–Rwanda conflict, Capital punishment in the Democratic Republic of the Congo"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "DW",
+       "url": "https://www.dw.com/en/dr-congo-66-soldiers-sentenced-to-death-for-cowardice-in-conflict-with-frn-rebels/a-79906794"
+      }
+     ],
+     "link": [
+      "Court-martial",
+      "Goma",
+      "North Kivu",
+      "Democratic Republic of the Congo",
+      "Armed Forces of the Democratic Republic of the Congo",
+      "Mutiny",
+      "Front for the Refoundation of the Nation"
+     ],
+     "testo_it": "Il tribunale militare di Goma, Nord Kivu, Repubblica Democratica del Congo, condanna a morte 66 soldati con l'accusa di codardia, ammutinamento e incapacità di obbedire agli ordini, dopo che sono stati arrestati a seguito di scontri con il Fronte per la Rifondazione dei ribelli della Nazione.",
+     "contesto_it": [
+      "Repubblica Democratica del Congo-Rwanda conflitto, pena capitale nella Repubblica Democratica del Congo"
+     ]
+    },
+    {
+     "testo": "Eleven people are killed and at least 51 others are seriously injured in a multiple-vehicle collision involving over 80 trucks and cars on the Trakia A1 motorway near Yambol, Bulgaria.",
      "contesto": [],
      "categoria": "Disasters and accidents",
      "fonti": [
       {
-       "nome": "Euronews",
-       "url": "https://www.euronews.com/2026/11/10/at-least-10-victims-in-bulgarian-motorway-pile-up-involving-more-than-50-vehicles"
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/10/at-least-12-people-killed-in-motorway-crash-in-southeastern-bulgaria"
       }
      ],
      "link": [
@@ -100,10 +126,121 @@
       "Yambol",
       "Bulgaria"
      ],
-     "testo_it": "Undici persone vengono uccise e 48 ferite in una collisione a più veicoli che coinvolge oltre 50 camion e auto sull'autostrada Trakia (A1) a Yambol, in Bulgaria."
+     "testo_it": "Undici persone vengono uccise e almeno altre 51 sono gravemente ferite in una collisione a più veicoli che coinvolge oltre 80 camion e auto sull'autostrada Trakia A1 vicino a Yambol, in Bulgaria."
     },
     {
-     "testo": "Australian prime minister Anthony Albanese announces plans to introduce mandatory safeguards for artificial intelligence companies, including security incident reporting and independent model evaluations, and establish a regulatory body to oversee compliance.",
+     "testo": "Five schoolgirls are killed and 21 others are injured when a school bus plunges into a pond in Kandal province, Cambodia.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/cambodia-traffic-accidents-school-bus-e0c3e6316356dcbe3c4ff9fbed68a62b"
+      }
+     ],
+     "link": [
+      "Kandal province",
+      "Cambodia"
+     ],
+     "testo_it": "Cinque studentesse vengono uccise e altre 21 ferite quando uno scuolabus si tuffa in uno stagno nella provincia di Kandal, in Cambogia."
+    },
+    {
+     "testo": "An explosive device kills a police officer and injures another while they were responding to a shooting in Oviedo, Asturias, Spain.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/spain-police-killed-explosive-e16086184fbee0e74f9e4b8e9992e075"
+      }
+     ],
+     "link": [
+      "Explosive device",
+      "National Police Corps (Spain)",
+      "Oviedo",
+      "Asturias",
+      "Spain"
+     ],
+     "testo_it": "Un ordigno esplosivo uccide un agente di polizia e ne ferisce un altro mentre stavano rispondendo a una sparatoria a Oviedo, nelle Asturie, in Spagna."
+    },
+    {
+     "testo": "The British Judicial Committee of the Privy Council overturns provisions criminalizing consensual same-sex sexual activity between adults in Trinidad and Tobago, ruling them unconstitutional following a legal challenge by activist Jason Jones.",
+     "contesto": [
+      "LGBTQ rights in Trinidad and Tobago"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "CNN",
+       "url": "https://edition.cnn.com/2026/11/10/americas/trinidad-tobago-gay-sex-law-latam-intl"
+      }
+     ],
+     "link": [
+      "United Kingdom",
+      "Judicial Committee of the Privy Council",
+      "Criminalization of homosexuality",
+      "Same-sex sexual practices",
+      "Trinidad and Tobago",
+      "Jason Jones (activist)"
+     ],
+     "testo_it": "Il British Judicial Committee del Privy Council ribalta le disposizioni che criminalizzano l'attività sessuale consensuale tra adulti a Trinidad e Tobago, giudicandoli incostituzionali a seguito di una sfida legale dell'attivista Jason Jones.",
+     "contesto_it": [
+      "Diritti LGBTQ a Trinidad e Tobago"
+     ]
+    },
+    {
+     "testo": "The Metropolitan Police arrests a U.S. Army personnel near Gloucester, England, on suspicions of espionage activity in connection with Russia.",
+     "contesto": [
+      "United Kingdom–United States relations, Russia–United Kingdom relations"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "DW",
+       "url": "https://www.dw.com/en/us-american-soldier-arrested-uk-spying-russia/a-79913240"
+      }
+     ],
+     "link": [
+      "Metropolitan Police",
+      "United States Army",
+      "Gloucester",
+      "England",
+      "Espionage",
+      "Russia"
+     ],
+     "testo_it": "La polizia metropolitana arresta un personale dell'esercito statunitense vicino a Gloucester, in Inghilterra, con l'accusa di attività di spionaggio in connessione con la Russia.",
+     "contesto_it": [
+      "Relazioni Regno Unito-Stati Uniti, relazioni Russia-Regno Unito"
+     ]
+    },
+    {
+     "testo": "Indonesian vice president Gibran Rakabuming Raka announces his intention to resign following controversies about the authenticity of his high-school diploma.",
+     "contesto": [
+      "Gibran Rakabuming Raka diploma controversy"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "Nikkei Asia",
+       "url": "https://asia.nikkei.com/politics/indonesian-vp-gibran-to-resign-presidential-office-says"
+      },
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/asia-pacific/indonesia-vice-president-expresses-intention-resign-presidential-official-says-2026-11-10/"
+      }
+     ],
+     "link": [
+      "Indonesian people",
+      "Vice President of Indonesia",
+      "Gibran Rakabuming Raka"
+     ],
+     "testo_it": "Il vicepresidente indonesiano Gibran Rakabuming Raka annuncia la sua intenzione di dimettersi a seguito di controversie sull'autenticità del suo diploma di scuola superiore.",
+     "contesto_it": [
+      "Gibran Rakabuming Raka diploma polemica"
+     ]
+    },
+    {
+     "testo": "Australian prime minister Anthony Albanese announces plans to introduce mandatory safeguards for artificial intelligence companies, including security incident reporting and independent model evaluations, and establish a new regulatory body to oversee compliance.",
      "contesto": [
       "AI boom"
      ],
@@ -112,6 +249,10 @@
       {
        "nome": "AFP",
        "url": "https://www.afp.com/en/australia-adopt-mandatory-ai-safeguards"
+      },
+      {
+       "nome": "ABC News",
+       "url": "https://www.abc.net.au/news/2026-11-10/openai-medicare-hack-government-loophole/107368330"
       }
      ],
      "link": [
@@ -123,7 +264,7 @@
       "Computer security incident management",
       "Regulation of artificial intelligence"
      ],
-     "testo_it": "Il primo ministro australiano Anthony Albanese ha annunciato l'intenzione di introdurre garanzie obbligatorie per le società di intelligenza artificiale, tra cui rapporti sugli incidenti di sicurezza e valutazioni di modelli indipendenti, e di istituire un organismo di regolamentazione per supervisionare la conformità.",
+     "testo_it": "Il primo ministro australiano Anthony Albanese annuncia l'intenzione di introdurre garanzie obbligatorie per le società di intelligenza artificiale, tra cui rapporti sugli incidenti di sicurezza e valutazioni di modelli indipendenti, e di istituire un nuovo organismo di regolamentazione per supervisionare la conformità.",
      "contesto_it": [
       "Boom AI"
      ]
@@ -186,7 +327,7 @@
      ]
     },
     {
-     "testo": "M. John Harrison wins the 2026 Booker Prize for his post-apocalyptic novel The End of Everything.",
+     "testo": "English author M. John Harrison wins the 2026 Booker Prize for his post-apocalyptic novel The End of Everything.",
      "contesto": [
       "2026 Booker Prize"
      ],
@@ -203,7 +344,7 @@
       "Apocalyptic and post-apocalyptic fiction",
       "The End of Everything (Harrison novel)"
      ],
-     "testo_it": "M. John Harrison vince il Booker Prize 2026 per il suo romanzo post-apocalittico La fine di tutto.",
+     "testo_it": "L'autore inglese M. John Harrison vince il Premio Booker 2026 per il suo romanzo post-apocalittico The End of Everything.",
      "contesto_it": [
       "Premio Booker (2026)"
      ]
@@ -327,6 +468,24 @@
      ]
     },
     {
+     "testo": "At least five people are reported missing after two boats collide off the coast of Trinidad. Search and rescue operations are underway by the Trinbagonian Coast Guard.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/trinidad-tobago-boat-accident-63915335673045954c5580f00cb8d617"
+      }
+     ],
+     "link": [
+      "Trinidad",
+      "Search and rescue",
+      "Trinidad and Tobago",
+      "Trinidad and Tobago Defence Force"
+     ],
+     "testo_it": "Almeno cinque persone sono scomparse dopo che due barche si sono scontrate al largo della costa di Trinidad. Le operazioni di ricerca e soccorso sono in corso dalla Guardia Costiera Trinbagoniana."
+    },
+    {
      "testo": "Cypriot president Nikos Christodoulides and Northern Cypriot president Tufan Erhürman agree to establish two additional crossings across the United Nations Buffer Zone in Cyprus and hold further peace negotiations.",
      "contesto": [
       "Cyprus problem"
@@ -399,6 +558,23 @@
      "contesto_it": [
       "La censura in Russia"
      ]
+    },
+    {
+     "testo": "In college football, the College Football Playoff announces it will expand from 12 to 24 teams starting in the 2027 season.",
+     "contesto": [],
+     "categoria": "Sports",
+     "fonti": [
+      {
+       "nome": "ESPN",
+       "url": "https://www.espn.com/college-football/story/_/id/50433738/cfp-playoff-24-team-format-faq"
+      }
+     ],
+     "link": [
+      "College football",
+      "College Football Playoff",
+      "2027 College Football Playoff National Championship"
+     ],
+     "testo_it": "Nel football universitario, il College Football Playoff annuncia che si espanderà da 12 a 24 squadre a partire dalla stagione 2027."
     }
    ]
   },
