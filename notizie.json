@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-10T03:39:10Z",
+ "generato": "2026-11-10T15:00:04Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -83,11 +83,82 @@
  "giorni": [
   {
    "data": "2026-11-10",
-   "voci": []
+   "voci": [
+    {
+     "testo": "Eleven people are killed and 48 injured in a multiple-vehicle collision involving over 50 trucks and cars on Trakia (A1) highway in Yambol, Bulgaria.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "Euronews",
+       "url": "https://www.euronews.com/2026/11/10/at-least-10-victims-in-bulgarian-motorway-pile-up-involving-more-than-50-vehicles"
+      }
+     ],
+     "link": [
+      "Multiple-vehicle collision",
+      "Trakia motorway",
+      "Yambol",
+      "Bulgaria"
+     ],
+     "testo_it": "Undici persone vengono uccise e 48 ferite in una collisione a più veicoli che coinvolge oltre 50 camion e auto sull'autostrada Trakia (A1) a Yambol, in Bulgaria."
+    },
+    {
+     "testo": "Australian prime minister Anthony Albanese announces plans to introduce mandatory safeguards for artificial intelligence companies, including security incident reporting and independent model evaluations, and establish a regulatory body to oversee compliance.",
+     "contesto": [
+      "AI boom"
+     ],
+     "categoria": "Science and technology",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/australia-adopt-mandatory-ai-safeguards"
+      }
+     ],
+     "link": [
+      "Australia",
+      "Prime Minister of Australia",
+      "Anthony Albanese",
+      "AI safety",
+      "Artificial intelligence",
+      "Computer security incident management",
+      "Regulation of artificial intelligence"
+     ],
+     "testo_it": "Il primo ministro australiano Anthony Albanese ha annunciato l'intenzione di introdurre garanzie obbligatorie per le società di intelligenza artificiale, tra cui rapporti sugli incidenti di sicurezza e valutazioni di modelli indipendenti, e di istituire un organismo di regolamentazione per supervisionare la conformità.",
+     "contesto_it": [
+      "Boom AI"
+     ]
+    }
+   ]
   },
   {
    "data": "2026-11-09",
    "voci": [
+    {
+     "testo": "The Wall Street Journal reports that the United States has evacuated aircraft from the RAF Mildenhall base in the United Kingdom, citing threats from Iran.",
+     "contesto": [
+      "2026 Iran war",
+      "United Kingdom involvement in the 2026 Iran war"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/europe/us-aircraft-evacuated-second-uk-base-due-iran-threat-wsj-reports-2026-11-10/"
+      }
+     ],
+     "link": [
+      "The Wall Street Journal",
+      "United States",
+      "RAF Mildenhall",
+      "United Kingdom",
+      "Iran"
+     ],
+     "testo_it": "Il Wall Street Journal riferisce che gli Stati Uniti hanno evacuato gli aerei dalla base della RAF Mildenhall nel Regno Unito, citando minacce dall'Iran.",
+     "contesto_it": [
+      "Guerra in Iran (2026)",
+      "Il coinvolgimento del Regno Unito nella guerra del 2026 in Iran"
+     ]
+    },
     {
      "testo": "The 24-year-old man responsible for the drive-by mass shooting at the Main Square in Kraków, Poland, two days ago, which killed six people and injured 16 others, dies at a hospital after being seriously wounded in a shootout with police.",
      "contesto": [
@@ -115,6 +186,29 @@
      ]
     },
     {
+     "testo": "M. John Harrison wins the 2026 Booker Prize for his post-apocalyptic novel The End of Everything.",
+     "contesto": [
+      "2026 Booker Prize"
+     ],
+     "categoria": "Arts and culture",
+     "fonti": [
+      {
+       "nome": "The Guardian",
+       "url": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize"
+      }
+     ],
+     "link": [
+      "M. John Harrison",
+      "Booker Prize",
+      "Apocalyptic and post-apocalyptic fiction",
+      "The End of Everything (Harrison novel)"
+     ],
+     "testo_it": "M. John Harrison vince il Booker Prize 2026 per il suo romanzo post-apocalittico La fine di tutto.",
+     "contesto_it": [
+      "Premio Booker (2026)"
+     ]
+    },
+    {
      "testo": "The Pitt Rivers Museum in Oxford, England, United Kingdom, returns the remains of 39 Naga people, collected during the British Raj, to a delegation from Nagaland, India, following six years of discussions over repatriation.",
      "contesto": [],
      "categoria": "Arts and culture",
@@ -136,23 +230,6 @@
       "Repatriation (cultural property)"
      ],
      "testo_it": "Il Pitt Rivers Museum di Oxford, Inghilterra, Regno Unito, restituisce i resti di 39 Naga, raccolti durante il Raj britannico, a una delegazione da Nagaland, India, dopo sei anni di discussioni sul rimpatrio."
-    },
-    {
-     "testo": "M. John Harrison wins the 2026 Booker Prize for his post-apocalyptic novel The End of Everything.",
-     "contesto": [],
-     "categoria": "Arts and culture",
-     "fonti": [
-      {
-       "nome": "The Guardian",
-       "url": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize"
-      }
-     ],
-     "link": [
-      "M. John Harrison",
-      "2026 Booker Prize",
-      "The End of Everything (Harrison novel)"
-     ],
-     "testo_it": "M. John Harrison vince il Booker Prize 2026 per il suo romanzo post-apocalittico La fine di tutto."
     },
     {
      "testo": "Paraguayan president Pedro Alliana appoints economist Jorge Schreiner to lead the central bank following Ueno Bank's collapse. The Senate approves Schreiner's appointment.",
@@ -177,6 +254,33 @@
      "testo_it": "Il presidente paraguaiano Pedro Alliana nomina l'economista Jorge Schreiner a capo della banca centrale dopo il crollo di Ueno Bank. Il Senato approva la nomina di Schreiner.",
      "contesto_it": [
       "Paraguay crisi bancaria (2026)"
+     ]
+    },
+    {
+     "testo": "The Chinese commerce ministry extends the suspension of export restrictions on certain rare earths, industrial diamonds, and lithium battery technology to January 10, 2027, amid ongoing trade negotiations with the United States.",
+     "contesto": [
+      "China–United States trade war"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/china/china-extends-suspension-new-rare-earth-controls-until-january-2026-11-09/"
+      }
+     ],
+     "link": [
+      "China",
+      "Ministry of Commerce (China)",
+      "Export restriction",
+      "Rare-earth industry in China",
+      "Mining industry of China",
+      "Lithium batteries in China",
+      "Trade negotiation",
+      "United States"
+     ],
+     "testo_it": "Il ministero del commercio cinese estende la sospensione delle restrizioni all'esportazione su alcune terre rare, diamanti industriali e tecnologia delle batterie al litio fino al 10 gennaio 2027, tra i negoziati commerciali in corso con gli Stati Uniti.",
+     "contesto_it": [
+      "Guerra commerciale Cina-Stati Uniti"
      ]
     },
     {
@@ -272,7 +376,7 @@
      "testo_it": "L'attore inglese Russell Brand viene condannato a 10 anni e 6 mesi di reclusione per uno stupro e tre capi d'accusa di violenza sessuale."
     },
     {
-     "testo": "Russian independent newspaper Novaya Gazeta closes its offices in Moscow, citing pressure from Russian authorities and security services, including restrictions on its operations, loss of media registration, and blocked donations.",
+     "testo": "Russian independent newspaper Novaya Gazeta ceases operations as it closes its offices in Moscow, citing pressure from Russian authorities and security services, including restrictions on its operations, loss of media registration, and blocked donations.",
      "contesto": [
       "Censorship in Russia"
      ],
@@ -291,7 +395,7 @@
       "Russian authorities",
       "Federal Security Service"
      ],
-     "testo_it": "Il quotidiano indipendente russo Novaya Gazeta chiude i suoi uffici a Mosca, citando le pressioni delle autorità russe e dei servizi di sicurezza, comprese le restrizioni sulle sue operazioni, la perdita della registrazione dei media e le donazioni bloccate.",
+     "testo_it": "Il quotidiano indipendente russo Novaya Gazeta cessa le operazioni mentre chiude i suoi uffici a Mosca, citando le pressioni delle autorità russe e dei servizi di sicurezza, comprese le restrizioni sulle sue operazioni, la perdita della registrazione dei media e le donazioni bloccate.",
      "contesto_it": [
       "La censura in Russia"
      ]
@@ -755,7 +859,7 @@
     {
      "testo": "In Formula racing, Mercedes-Benz wins its ninth World Constructors' Championship after drivers George Russell and Kimi Antonelli finished fourth and fifth, respectively, at the São Paulo Grand Prix in Brazil.",
      "contesto": [
-      "2026 Formula One World Championship"
+      "2026 Formula One World Championship, 2026 São Paulo Grand Prix"
      ],
      "categoria": "Sports",
      "fonti": [
@@ -770,12 +874,12 @@
       "List of Formula One World Constructors' Champions",
       "George Russell (racing driver)",
       "Kimi Antonelli",
-      "2026 São Paulo Grand Prix",
+      "Brazilian Grand Prix",
       "Brazil"
      ],
      "testo_it": "Nelle gare di Formula, Mercedes-Benz vince il suo nono Campionato Mondiale Costruttori dopo che i piloti George Russell e Kimi Antonelli sono finiti rispettivamente quarto e quinto, al Gran Premio di San Paolo in Brasile.",
      "contesto_it": [
-      "Campionato del Mondo di Formula 1 (2026)"
+      "Campionato del Mondo di Formula Uno (2026), Gran Premio di San Paolo (2026)"
      ]
     },
     {
