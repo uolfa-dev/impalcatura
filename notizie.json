@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-10T21:22:03Z",
+ "generato": "2026-11-11T01:20:06Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -82,8 +82,56 @@
  ],
  "giorni": [
   {
+   "data": "2026-11-11",
+   "voci": []
+  },
+  {
    "data": "2026-11-10",
    "voci": [
+    {
+     "testo": "A third round of United States-mediated talks between Ukrainian and Russian delegations begins in Abu Dhabi, United Arab Emirates, focusing on the humanitarian impact of the war, prisoners of war, and security guarantees. Earlier in the day, the American and Ukrainian teams held a separate meeting with representatives of the United Kingdom, France, Germany, Italy, NATO, and the European Commission.",
+     "contesto": [
+      "Russo-Ukrainian war",
+      "Peace negotiations in the Russo-Ukrainian war, United States and the Russo-Ukrainian war",
+      "2026 United States–Ukraine–Russia meetings in Abu Dhabi"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/russia-ukraine-war-putin-zelenskyy-uae-3d878a3e56d5df5bd198a6d20c824d18"
+      },
+      {
+       "nome": "DW",
+       "url": "https://www.dw.com/en/us-russia-and-ukraine-start-talks-in-abu-dhabi/live-79906232"
+      },
+      {
+       "nome": "The Guardian",
+       "url": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks"
+      }
+     ],
+     "link": [
+      "United States",
+      "Ukraine",
+      "Russia",
+      "Abu Dhabi",
+      "United Arab Emirates",
+      "Humanitarian impact of the Russo-Ukrainian war (2022–present)",
+      "Prisoners of war in the Russo-Ukrainian war (2022–present)",
+      "United Kingdom",
+      "France",
+      "Germany",
+      "Italy",
+      "NATO",
+      "European Commission"
+     ],
+     "testo_it": "Un terzo round di colloqui mediati dagli Stati Uniti tra delegazioni ucraine e russe inizia ad Abu Dhabi, negli Emirati Arabi Uniti, concentrandosi sull'impatto umanitario della guerra, sui prigionieri di guerra e sulle garanzie di sicurezza. All'inizio della giornata, le squadre americane e ucraine hanno tenuto un incontro separato con rappresentanti del Regno Unito, Francia, Germania, Italia, NATO e Commissione europea.",
+     "contesto_it": [
+      "Guerra russo-ucraina",
+      "Negoziati di pace nella guerra russo-ucraina, negli Stati Uniti e nella guerra russo-ucraina",
+      "Incontri Stati Uniti-Ucraina-Russia ad Abu Dhabi (2026)"
+     ]
+    },
     {
      "testo": "The military court in Goma, North Kivu, Democratic Republic of the Congo, sentences 66 soldiers to death on charges of cowardice, mutiny, and failure to obey orders, after they were arrested following clashes with Front for the Refoundation of the Nation rebels.",
      "contesto": [
@@ -108,6 +156,33 @@
      "testo_it": "Il tribunale militare di Goma, Nord Kivu, Repubblica Democratica del Congo, condanna a morte 66 soldati con l'accusa di codardia, ammutinamento e incapacità di obbedire agli ordini, dopo che sono stati arrestati a seguito di scontri con il Fronte per la Rifondazione dei ribelli della Nazione.",
      "contesto_it": [
       "Repubblica Democratica del Congo-Rwanda conflitto, pena capitale nella Repubblica Democratica del Congo"
+     ]
+    },
+    {
+     "testo": "At least eight people, including two police reservists, are killed by suspected al-Shabaab militants in Mandera County, Kenya, near the border with Somalia.",
+     "contesto": [
+      "Terrorism in Kenya, Somali Civil War"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "AFP via AA",
+       "url": "https://aa.com.tr/en/africa/suspected-al-shabaab-militants-kill-8-in-northeastern-kenya-ambush/4119429"
+      },
+      {
+       "nome": "Internazionale",
+       "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/10/eight-people-killed-in-kenya-s-northeast-in-suspected-al-shabaab-attack"
+      }
+     ],
+     "link": [
+      "Kenya Police",
+      "Mandera County",
+      "Kenya",
+      "Somalia"
+     ],
+     "testo_it": "Almeno otto persone, tra cui due riservisti della polizia, sono state uccise da sospetti militanti di al-Shabaab nella contea di Mandera, in Kenya, vicino al confine con la Somalia.",
+     "contesto_it": [
+      "Il terrorismo in Kenya, guerra civile somala"
      ]
     },
     {
@@ -139,29 +214,40 @@
       }
      ],
      "link": [
+      "Pond",
       "Kandal province",
       "Cambodia"
      ],
      "testo_it": "Cinque studentesse vengono uccise e altre 21 ferite quando uno scuolabus si tuffa in uno stagno nella provincia di Kandal, in Cambogia."
     },
     {
-     "testo": "An explosive device kills a police officer and injures another while they were responding to a shooting in Oviedo, Asturias, Spain.",
+     "testo": "The United States Food and Drug Administration orders manufacturers of GLP-1 medicines such as semaglutide and tirzepatide, originally intended for the treatment of type 2 diabetes but also commonly used for weight loss, to add warnings that use of such drugs may increase the risk of developing non-arteritic anterior ischemic optic neuropathy, an optic nerve disorder that can cause permanent blindness.",
      "contesto": [],
-     "categoria": "Disasters and accidents",
+     "categoria": "Health and environment",
      "fonti": [
       {
-       "nome": "AP",
-       "url": "https://apnews.com/article/spain-police-killed-explosive-e16086184fbee0e74f9e4b8e9992e075"
+       "nome": "BBC News",
+       "url": "https://www.bbc.com/news/articles/crwydyde0lp3o"
+      },
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-orders-new-eye-risk-warnings-ozempic-zepbound-2026-11-09/"
       }
      ],
      "link": [
-      "Explosive device",
-      "National Police Corps (Spain)",
-      "Oviedo",
-      "Asturias",
-      "Spain"
+      "United States",
+      "Food and Drug Administration",
+      "GLP-1 receptor agonist",
+      "Semaglutide",
+      "Tirzepatide",
+      "Type 2 diabetes",
+      "Anti-obesity medication",
+      "Weight loss",
+      "Non-arteritic anterior ischemic optic neuropathy",
+      "Optic nerve",
+      "Visual impairment"
      ],
-     "testo_it": "Un ordigno esplosivo uccide un agente di polizia e ne ferisce un altro mentre stavano rispondendo a una sparatoria a Oviedo, nelle Asturie, in Spagna."
+     "testo_it": "La Food and Drug Administration degli Stati Uniti ordina ai produttori di farmaci GLP-1 come semaglutide e tirzepatide, originariamente destinati al trattamento del diabete di tipo 2, ma anche comunemente usati per la perdita di peso, di aggiungere avvertimenti che l'uso di tali farmaci può aumentare il rischio di sviluppare neuropatia ottica ischemica anteriore non arteritica, un disturbo del nervo ottico che può causare cecità permanente."
     },
     {
      "testo": "The British Judicial Committee of the Privy Council overturns provisions criminalizing consensual same-sex sexual activity between adults in Trinidad and Tobago, ruling them unconstitutional following a legal challenge by activist Jason Jones.",
@@ -173,6 +259,10 @@
       {
        "nome": "CNN",
        "url": "https://edition.cnn.com/2026/11/10/americas/trinidad-tobago-gay-sex-law-latam-intl"
+      },
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/uk/uk-court-overturns-trinidad-tobago-law-criminalising-homosexual-sex-2026-11-10/"
       }
      ],
      "link": [
@@ -214,16 +304,36 @@
      ]
     },
     {
+     "testo": "An explosive device kills a police officer and his K9 dog and injures another while they were responding to a shooting in Oviedo, Asturias, Spain.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/spain-police-killed-explosive-e16086184fbee0e74f9e4b8e9992e075"
+      },
+      {
+       "nome": "BBC",
+       "url": "https://www.bbc.com/news/articles/cwm262pzezy0o"
+      }
+     ],
+     "link": [
+      "Explosive device",
+      "National Police Corps (Spain)",
+      "Police dog",
+      "Oviedo",
+      "Asturias",
+      "Spain"
+     ],
+     "testo_it": "Un ordigno esplosivo uccide un ufficiale di polizia e il suo cane K9 e ne ferisce un altro mentre stavano rispondendo a una sparatoria a Oviedo, nelle Asturie, in Spagna."
+    },
+    {
      "testo": "Indonesian vice president Gibran Rakabuming Raka announces his intention to resign following controversies about the authenticity of his high-school diploma.",
      "contesto": [
       "Gibran Rakabuming Raka diploma controversy"
      ],
      "categoria": "Politics and elections",
      "fonti": [
-      {
-       "nome": "Nikkei Asia",
-       "url": "https://asia.nikkei.com/politics/indonesian-vp-gibran-to-resign-presidential-office-says"
-      },
       {
        "nome": "Reuters",
        "url": "https://www.reuters.com/world/asia-pacific/indonesia-vice-president-expresses-intention-resign-presidential-official-says-2026-11-10/"
@@ -2042,7 +2152,8 @@
      "link": [
       "Spree killer",
       "Afyonkarahisar Province",
-      "Turkey"
+      "Turkey",
+      "Perpetrator"
      ],
      "testo_it": "Otto persone vengono uccise e un altro viene ferito in una sparatoria in tre località separate nella provincia di Afyonkarahisar, in Turchia.",
      "contesto_it": [
@@ -2325,295 +2436,6 @@
       "BC Partners"
      ],
      "testo_it": "Nel golf, il tour professionale LIV Golf cessa le operazioni dopo cinque stagioni e liquida le sue attività, a seguito di procedure fallimentari e del ritiro del sostegno finanziario da parte del Fondo di investimento pubblico dell'Arabia Saudita e del potenziale investitore BC Partners Credit."
-    }
-   ]
-  },
-  {
-   "data": "2026-11-04",
-   "voci": [
-    {
-     "testo": "Over 50 people are injured and police vehicles are torched as garment workers clash with police in Savar.",
-     "contesto": [
-      "2026 Bangladesh garment workers protests"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "The Financial Express",
-       "url": "https://thefinancialexpress.com.bd/national/over-50-injured-as-garment-workers-clash-with-police-in-savar"
-      }
-     ],
-     "link": [
-      "Textile industry in Bangladesh",
-      "Bangladesh Police",
-      "Savar"
-     ],
-     "testo_it": "Oltre 50 persone sono rimaste ferite e i veicoli della polizia sono stati incendiati mentre i lavoratori del vestiario si scontravano con la polizia a Savar.",
-     "contesto_it": [
-      "Proteste dei lavoratori del Bangladesh (2026)"
-     ]
-    },
-    {
-     "testo": "Two women are killed in a airstrike by Sudan's army on a water source in Umm Badr, North Kordofan.",
-     "contesto": [
-      "Sudanese civil war",
-      "War crimes in the Sudanese civil war, Kordofan campaign"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Sudan Tribune",
-       "url": "https://sudantribune.com/article/320888"
-      }
-     ],
-     "link": [
-      "Sudan",
-      "Sudanese Army",
-      "Umm Badr",
-      "North Kordofan"
-     ],
-     "testo_it": "Due donne vengono uccise in un attacco aereo da parte dell'esercito sudanese su una fonte d'acqua a Umm Badr, North Kordofan.",
-     "contesto_it": [
-      "Guerra civile sudanese",
-      "Crimini di guerra nella guerra civile sudanese, campagna Kordofan"
-     ]
-    },
-    {
-     "testo": "The Bangladeshi garment industry wage board agrees to increase minimum wages following five days of worker protests and clashes with police. Workers demand ৳30,000 (US$240) monthly, up from ৳12,500 (US$100), while the board has not specified the increase.",
-     "contesto": [
-      "2026 Bangladesh garment workers protests"
-     ],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "AFP",
-       "url": "https://www.afp.com/en/bangladesh-increase-garment-sector-pay-after-protests"
-      }
-     ],
-     "link": [
-      "Bangladesh",
-      "Textile industry in Bangladesh",
-      "Worker standards board",
-      "Minimum wage",
-      "Strike action",
-      "Bangladesh Police",
-      "Bangladeshi taka",
-      "US$"
-     ],
-     "testo_it": "La commissione salariale dell'industria dell'abbigliamento del Bangladesh accetta di aumentare i salari minimi dopo cinque giorni di proteste dei lavoratori e scontri con la polizia. I lavoratori chiedono  30.000 (US $ 240) al mese, da  12.500 (US $ 100), mentre il consiglio non ha specificato l'aumento.",
-     "contesto_it": [
-      "Proteste dei lavoratori del Bangladesh (2026)"
-     ]
-    },
-    {
-     "testo": "Five people are killed while two others are injured in an explosion at a suspected illegal fireworks factory in Malasiqui, Pangasinan, Philippines.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "The Philippine Star",
-       "url": "https://www.philstar.com/nation/2026/11/06/2568219/5-killed-pangasinan-firecracker-factory-explosion/"
-      }
-     ],
-     "link": [
-      "Firework",
-      "Malasiqui, Pangasinan",
-      "Philippines"
-     ],
-     "testo_it": "Cinque persone sono state uccise mentre altre due sono rimaste ferite in un'esplosione in una sospetta fabbrica illegale di fuochi d'artificio a Malasiqui, Pangasinan, Filippine."
-    },
-    {
-     "testo": "A fire and explosion at a Panasonic subsidiary's factory in Hsinchu County, Taiwan, kills two employees and injures five others.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/asia-pacific/two-confirmed-dead-after-taiwan-panasonic-factory-fire-2026-11-05/"
-      }
-     ],
-     "link": [
-      "Panasonic",
-      "Subsidiary",
-      "Hsinchu County",
-      "Taiwan"
-     ],
-     "testo_it": "Un incendio e un'esplosione nella fabbrica di una filiale Panasonic nella contea di Hsinchu, Taiwan, uccidono due dipendenti e ne feriscono altri cinque."
-    },
-    {
-     "testo": "The Singaporean parliament amends the Transboundary Haze Pollution Act of 2014, introducing arrest powers, permitting trials in absentia, and increasing maximum fines tenfold to S$20 million (US$15 million) following widespread air pollution from Indonesian wildfires.",
-     "contesto": [
-      "2026 Southeast Asian haze"
-     ],
-     "categoria": "Health and environment",
-     "fonti": [
-      {
-       "nome": "AFP",
-       "url": "https://www.afp.com/en/singapore-toughens-haze-law-arrest-powers-bigger-fines"
-      }
-     ],
-     "link": [
-      "Singapore",
-      "Parliament of Singapore",
-      "Transboundary Haze Pollution Act of 2014",
-      "Law enforcement in Singapore",
-      "Trial in absentia",
-      "S$",
-      "Environmental issues in Singapore",
-      "Indonesia",
-      "2026 Indonesia wildfires"
-     ],
-     "testo_it": "Il parlamento di Singapore modifica il Transboundary Haze Pollution Act del 2014, introducendo poteri di arresto, consentendo processi in contumacia e aumentando le multe massime di dieci volte a 20 milioni di dollari (15 milioni di dollari) a seguito dell'inquinamento atmosferico diffuso dagli incendi indonesiano.",
-     "contesto_it": [
-      "Foschia del sud-est asiatico (2026)"
-     ]
-    },
-    {
-     "testo": "The United Kingdom's Office for National Statistics reports that deaths linked to cocaine use have overtaken deaths from heroin in England and Wales for the first time on record. The increase in deaths from cocaine use is blamed on increased purity of the drug and its widespread availability across the UK in recent years.",
-     "contesto": [],
-     "categoria": "Health and environment",
-     "fonti": [
-      {
-       "nome": "BBC News",
-       "url": "https://www.bbc.co.uk/news/articles/cmdxw051np9jo"
-      }
-     ],
-     "link": [
-      "United Kingdom",
-      "Office for National Statistics",
-      "Cocaine",
-      "Heroin",
-      "England and Wales"
-     ],
-     "testo_it": "L'Ufficio per le statistiche nazionali del Regno Unito riferisce che le morti legate all'uso di cocaina hanno superato per la prima volta le morti per eroina in Inghilterra e Galles. L'aumento delle morti per uso di cocaina è attribuito all'aumento della purezza della droga e alla sua diffusa disponibilità in tutto il Regno Unito negli ultimi anni."
-    },
-    {
-     "testo": "Philippine authorities seize a 200-kilogram (440 lb) shipment of methamphetamine, whose origin is traced to Laos, at the Manila International Container Port. The shipment had arrived six days after Laotian police found similar contraband destined for the Philippines.",
-     "contesto": [
-      "Illegal drug trade in the Philippines"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "Arab News",
-       "url": "https://www.arabnews.com/world/philippines-seizes-200-kg-of-methamphetamine-at-manila-port-3009754"
-      },
-      {
-       "nome": "Philippine Daily Inquirer",
-       "url": "https://globalnation.inquirer.net/345789/this-time-shabu-cargo-from-laos-reaches-ph-before-seizure"
-      }
-     ],
-     "link": [
-      "Philippines",
-      "Methamphetamine",
-      "Laos",
-      "Port of Manila",
-      "2026 Laos private jet drug smuggling case"
-     ],
-     "testo_it": "Le autorità filippine sequestrano una spedizione di 200 chilogrammi (440 lb) di metanfetamina, la cui origine è rintracciata in Laos, presso il porto internazionale dei container di Manila. La spedizione era arrivata sei giorni dopo che la polizia laotiana aveva trovato un contrabbando simile destinato alle Filippine.",
-     "contesto_it": [
-      "Il traffico illegale di droga nelle Filippine"
-     ]
-    },
-    {
-     "testo": "Former American internet personality and YouTuber Bryant Moreland (known online as EDP445) is arrested in Las Vegas, Nevada, U.S., on multiple felony sex crime charges following self-incriminating statements made in a recent documentary by American director Mike Clum including a 2021 incident in Bakersfield, California.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "The New York Times",
-       "url": "https://www.nytimes.com/2026/11/06/us/edp445-youtuber-arrested-sex-crimes.html"
-      },
-      {
-       "nome": "The Hindustan Times",
-       "url": "https://www.hindustantimes.com/world-news/us-news/youtuber-edp445-bryant-moreland-arrested-in-las-vegas-over-alleged-sex-crimes-involving-a-minor-101793832237507.html"
-      }
-     ],
-     "link": [
-      "YouTube",
-      "EDP445",
-      "Las Vegas",
-      "Nevada",
-      "United States",
-      "Sex crime",
-      "Mike Clum",
-      "Bakersfield, California",
-      "California"
-     ],
-     "testo_it": "L'ex personaggio di Internet americano e YouTuber Bryant Moreland (noto online come EDP445) viene arrestato a Las Vegas, Nevada, Stati Uniti, con molteplici accuse di crimine sessuale a seguito di dichiarazioni auto incriminanti fatte in un recente documentario del regista americano Mike Clum tra cui un incidente del 2021 a Bakersfield, in California."
-    },
-    {
-     "testo": "Hackers steal approximately €100 million (US$112 million) from French bank Crédit Mutuel through unauthorized transactions using the bank's account.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "Firstpost",
-       "url": "https://www.firstpost.com/business/french-bank-hit-by-cyberattack-hackers-siphon-off-nearly-112-million-14058157.html"
-      }
-     ],
-     "link": [
-      "Euro",
-      "France",
-      "Crédit Mutuel"
-     ],
-     "testo_it": "Gli hacker rubano circa 100 milioni di euro dalla banca francese Crédit Mutuel attraverso transazioni non autorizzate utilizzando il conto della banca."
-    },
-    {
-     "testo": "President of the Bolivian Supreme Court Romer Saucedo announces that he is leaving the country following an investigation into drug trafficking in which senior judicial officials, such as former Attorney General Roger Mariaca, have been arrested.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "La Tercera",
-       "url": "https://www.latercera.com/mundo/noticia/bolivia-el-presidente-del-tribunal-supremo-de-justicia-huye-tras-orden-de-captura-por-narcotrafico/"
-      }
-     ],
-     "link": [
-      "Supreme Tribunal of Justice of Bolivia",
-      "Drug trafficking"
-     ],
-     "testo_it": "Il presidente della Corte Suprema boliviana Romer Saucedo annuncia che lascerà il paese a seguito di un'indagine sul traffico di droga in cui sono stati arrestati alti funzionari giudiziari, come l'ex procuratore generale Roger Mariaca."
-    },
-    {
-     "testo": "Hungary makes Communist-era secret police records publicly accessible through a database containing approximately 60,000 names linked to former state security services. Prime Minister Péter Magyar announces that additional documents will become available in February 2027.",
-     "contesto": [],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/hungary-opens-communist-era-informer-files-belated-reckoning-with-cold-war-past-2026-11-04/"
-      }
-     ],
-     "link": [
-      "Hungary",
-      "Hungarian People's Republic",
-      "Secret police",
-      "Database",
-      "Ministry of Internal Affairs III",
-      "Prime Minister of Hungary",
-      "Péter Magyar"
-     ],
-     "testo_it": "L'Ungheria rende accessibili al pubblico i registri della polizia segreta dell'era comunista attraverso un database contenente circa 60.000 nomi legati all'ex servizio di sicurezza statale."
-    },
-    {
-     "testo": "The Neil Gehrels Swift Observatory, a space telescope for studying gamma-ray bursts, re-enters Earth's atmosphere over Sumatra, ending its mission of nearly 22 years.",
-     "contesto": [],
-     "categoria": "Science and technology",
-     "fonti": [
-      {
-       "nome": "NASA",
-       "url": "https://science.nasa.gov/blogs/swift/2026/11/02/nasas-swift-observatory-to-re-enter-atmosphere/"
-      }
-     ],
-     "link": [
-      "Neil Gehrels Swift Observatory",
-      "Space telescope",
-      "Gamma-ray burst",
-      "Atmospheric entry",
-      "Sumatra"
-     ],
-     "testo_it": "Il Neil Gehrels Swift Observatory, un telescopio spaziale per studiare i lampi di raggi gamma, rientra nell'atmosfera terrestre sopra Sumatra, ponendo fine alla sua missione di quasi 22 anni."
     }
    ]
   }
