@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-11T11:08:52Z",
+ "generato": "2026-11-11T19:41:43Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -99,7 +99,275 @@
  "giorni": [
   {
    "data": "2026-11-11",
-   "voci": []
+   "voci": [
+    {
+     "testo": "Ten police personnel, including two senior officers, are killed in a clash after insurgents ambushed police vehicles in Kohat District, Khyber Pakhtunkhwa, Pakistan.",
+     "contesto": [
+      "Insurgency in Khyber Pakhtunkhwa"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/pakistan-militants-attack-kohat-afghanistan-police-ttp-260c8876601c767a4111b17fa9dd255c"
+      }
+     ],
+     "link": [
+      "Khyber Pakhtunkhwa Police",
+      "Ambush",
+      "Kohat District",
+      "Khyber Pakhtunkhwa",
+      "Pakistan"
+     ],
+     "testo_it": "Dieci agenti di polizia, tra cui due alti ufficiali, vengono uccisi in uno scontro dopo che gli insorti hanno teso un'imboscata ai veicoli della polizia nel distretto di Kohat, Khyber Pakhtunkhwa, in Pakistan.",
+     "contesto_it": [
+      "Insurrezione a Khyber Pakhtunkhwa"
+     ]
+    },
+    {
+     "testo": "The American ocean liner SS United States is sunken off Florida and becomes the world's largest artificial reef.",
+     "contesto": [],
+     "categoria": "Arts and culture",
+     "fonti": [
+      {
+       "nome": "Pensacola News Journal",
+       "url": "https://www.pnj.com/story/news/local/escambia-county/2026/11/11/ss-united-states-sinking-nov-11-timeline-and-where-to-watch/92713208007/"
+      }
+     ],
+     "link": [
+      "United States",
+      "Ocean liner",
+      "SS United States",
+      "Florida",
+      "Artificial reef"
+     ],
+     "testo_it": "Il transatlantico americano SS Stati Uniti è affondato al largo della Florida e diventa la più grande barriera corallina artificiale del mondo."
+    },
+    {
+     "testo": "The German cabinet approves draft legislation establishing a strategic natural gas reserve of 24 terawatt-hours, equivalent to approximately 10% of national storage capacity, to maintain gas supplies during emergencies.",
+     "contesto": [
+      "2026 Iran war fuel crisis, German economic crisis"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "AFP via France 24",
+       "url": "https://www.france24.com/en/live-news/20261111-germany-to-create-strategic-gas-reserve-to-guard-against-emergencies"
+      }
+     ],
+     "link": [
+      "Germany",
+      "Merz cabinet",
+      "Law of Germany",
+      "Strategic natural gas reserve",
+      "Terawatt-hours",
+      "Energy in Germany"
+     ],
+     "testo_it": "Il governo tedesco approva il progetto di legge che istituisce una riserva strategica di gas naturale di 24 terawatt-ora, pari a circa il 10% della capacità di stoccaggio nazionale, per mantenere le forniture di gas durante le emergenze.",
+     "contesto_it": [
+      "Crisi dei combustibili da guerra in Iran (2026), crisi economica tedesca"
+     ]
+    },
+    {
+     "testo": "Portugal closes approximately 8,000 schools nationwide and suspends non-essential public services as Storm Charles approaches. The second day of the Web Summit in Lisbon is also cancelled.",
+     "contesto": [
+      "2026–27 European windstorm season"
+     ],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/portugal-storm-charles-wind-rain-schools-462f7dfd9a5abb0ea0a21d5163d49f37"
+      },
+      {
+       "nome": "Deadline",
+       "url": "https://deadline.com/2026/11/web-summit-cancels-day-two-as-storm-charles-hits-lisbon-1237220064/"
+      }
+     ],
+     "link": [
+      "Portugal",
+      "Education in Portugal",
+      "Storm Charles",
+      "Web Summit",
+      "Lisbon"
+     ],
+     "testo_it": "Il Portogallo chiude circa 8.000 scuole a livello nazionale e sospende i servizi pubblici non essenziali con l'avvicinarsi di Storm Charles. Il secondo giorno del Web Summit di Lisbona è anche annullato.",
+     "contesto_it": [
+      "Stagione europea delle tempeste (2026-27)"
+     ]
+    },
+    {
+     "testo": "The German defence ministry announces that the Bundeswehr will discontinue using Chinese-made drones for military training and exercises, replacing them with German or other European models to address security concerns.",
+     "contesto": [
+      "China–Germany relations"
+     ],
+     "categoria": "International relations",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/germany-military-chinese-drones-replaced-01cc05bde8132f468da742193fcbc489"
+      },
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/asia-pacific/german-military-bans-commercially-available-chinese-drones-spiegel-reports-2026-11-10/"
+      }
+     ],
+     "link": [
+      "Germany",
+      "Federal Ministry of Defence (Germany)",
+      "Bundeswehr",
+      "China",
+      "List of unmanned aerial vehicles of China",
+      "Cyberwarfare and China"
+     ],
+     "testo_it": "Il ministero della Difesa tedesco annuncia che la Bundeswehr interromperà l'uso di droni di fabbricazione cinese per l'addestramento militare e le esercitazioni, sostituendoli con modelli tedeschi o altri modelli europei per affrontare le preoccupazioni per la sicurezza.",
+     "contesto_it": [
+      "Relazioni Cina-Germania"
+     ]
+    },
+    {
+     "testo": "Kenyan president William Ruto signs a deal for Sudan to lift its 20-month ban on imports of tea from Kenya.",
+     "contesto": [
+      "Kenya–Sudan relations"
+     ],
+     "categoria": "International relations",
+     "fonti": [
+      {
+       "nome": "Business Daily Africa",
+       "url": "https://www.businessdailyafrica.com/bd/markets/commodities/sudan-lifts-20-month-ban-on-kenyan-tea-after-ruto-deal-5667376"
+      }
+     ],
+     "link": [
+      "Kenya",
+      "President of Kenya",
+      "William Ruto",
+      "Sudan",
+      "Import quota",
+      "Tea production in Kenya",
+      "Kenya"
+     ],
+     "testo_it": "Il presidente keniano William Ruto firma un accordo per il Sudan per revocare il divieto di importazione di tè dal Kenya.",
+     "contesto_it": [
+      "Relazioni Kenya-Sudan"
+     ]
+    },
+    {
+     "testo": "More than 6,000 schools across Italy are evacuated following bomb threats.",
+     "contesto": [
+      "2026 European infrastructure disruption",
+      "2026 European bomb threats"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "BBC News",
+       "url": "https://www.bbc.com/news/articles/cwz0k79pr8z2o"
+      }
+     ],
+     "link": [
+      "Education in Italy",
+      "Italy",
+      "Bomb threats"
+     ],
+     "testo_it": "Più di 6.000 scuole in tutta Italia vengono evacuate a seguito di minacce di bombe.",
+     "contesto_it": [
+      "Interruzione delle infrastrutture europee (2026)",
+      "Minacce di bombe europee (2026)"
+     ]
+    },
+    {
+     "testo": "Former Red Brigades member Leonardo Bertulazzi escapes house arrest in Buenos Aires, Argentina, while awaiting extradition to Italy to serve a 27-year prison sentence for kidnapping and membership in an armed group. Argentine security forces search for him.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "AFP via France 24",
+       "url": "https://www.france24.com/en/live-news/20261111-74-year-old-italian-ex-marxist-escapes-house-arrest-in-argentina"
+      }
+     ],
+     "link": [
+      "Red Brigades",
+      "House arrest",
+      "Buenos Aires",
+      "Argentina",
+      "Extradition",
+      "Italy",
+      "Law enforcement in Argentina"
+     ],
+     "testo_it": "L'ex membro delle Brigate Rosse Leonardo Bertulazzi fugge dagli arresti domiciliari a Buenos Aires, in Argentina, in attesa dell'estradizione in Italia per scontare una pena detentiva di 27 anni per rapimento e appartenenza a un gruppo armato."
+    },
+    {
+     "testo": "Two people are arrested in connection with an explosive attack on the headquarters of Colombian broadcaster RCN Televisión in Cali, Valle del Cauca.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "AFP via Gulf News",
+       "url": "https://gulfnews.com/world/americas/colombian-media-outlet-attacked-with-explosives-1.500744157"
+      }
+     ],
+     "link": [
+      "Colombia",
+      "RCN Televisión",
+      "Cali",
+      "Valle del Cauca Department"
+     ],
+     "testo_it": "Due persone sono state arrestate in connessione con un attacco esplosivo al quartier generale dell'emittente televisiva colombiana RCN Televisión a Cali, Valle del Cauca."
+    },
+    {
+     "testo": "The Brazilian Superior Electoral Court fines Meta Platforms R$7.5 million (US$1.34 million) for failing to comply with judicial orders concerning the 2026 presidential election, while finding insufficient evidence of deliberate electoral interference.",
+     "contesto": [
+      "2026 Brazilian general election"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "AFP via Le Monde",
+       "url": "https://www.lemonde.fr/en/international/article/2026/11/11/brazil-fines-meta-1-3-million-over-election-controversy_6777388_4.html"
+      }
+     ],
+     "link": [
+      "Brazil",
+      "Superior Electoral Court",
+      "Meta Platforms",
+      "Brazilian real",
+      "US$",
+      "Judiciary of Brazil",
+      "President of Brazil",
+      "Foreign electoral intervention"
+     ],
+     "testo_it": "La Corte Elettorale Superiore Brasiliana multa Meta Platforms $ 7,5 milioni (US $ 1,34 milioni) per non aver rispettato gli ordini giudiziari relativi alle elezioni presidenziali del 2026, pur trovando prove insufficienti di interferenze elettorali deliberate.",
+     "contesto_it": [
+      "Elezioni generali in Brasile (2026)"
+     ]
+    },
+    {
+     "testo": "Polish president Karol Nawrocki and at least 500,000 people participate in the annual patriotic march celebrating the National Independence Day in Warsaw, Poland.",
+     "contesto": [
+      "Independence March (Poland)"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "Zero",
+       "url": "https://zero.pl/news/narodowe-swieto-niepodleglosci-obchody-i-marsz-niepodleglosci"
+      }
+     ],
+     "link": [
+      "Poland",
+      "President of Poland",
+      "Karol Nawrocki",
+      "Independence March (Poland)",
+      "National Independence Day (Poland)",
+      "Warsaw",
+      "Poland"
+     ],
+     "testo_it": "Il presidente polacco Karol Nawrocki e almeno 500.000 persone partecipano alla marcia patriottica annuale che celebra la Giornata dell'Indipendenza Nazionale a Varsavia, in Polonia.",
+     "contesto_it": [
+      "Independence March (Polonia)"
+     ]
+    }
+   ]
   },
   {
    "data": "2026-11-10",
@@ -149,9 +417,35 @@
      ]
     },
     {
-     "testo": "The military court in Goma, North Kivu, Democratic Republic of the Congo, sentences 66 soldiers to death on charges of cowardice, mutiny, and failure to obey orders, after they were arrested following clashes with Front for the Refoundation of the Nation rebels.",
+     "testo": "El Salvador announces it has launched a joint military operation with the Haitian police against the 400 Mawozo gang, in which 20 people are killed and a house linked to its leader, Wilson Joseph, is destroyed.",
      "contesto": [
-      "Democratic Republic of the Congo–Rwanda conflict, Capital punishment in the Democratic Republic of the Congo"
+      "Haitian conflict",
+      "Salvadoran military intervention in Haiti, El Salvador–Haiti relations"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead"
+      }
+     ],
+     "link": [
+      "El Salvador",
+      "Armed Forces of El Salvador",
+      "Haiti",
+      "Haitian National Police",
+      "400 Mawozo"
+     ],
+     "testo_it": "El Salvador annuncia di aver lanciato un'operazione militare congiunta con la polizia haitiana contro la banda dei 400 Mawozo, in cui 20 persone vengono uccise e una casa legata al suo leader, Wilson Joseph, viene distrutta.",
+     "contesto_it": [
+      "Conflitto haitiano",
+      "Intervento militare salvadoregno ad Haiti, relazioni El Salvador-Haiti"
+     ]
+    },
+    {
+     "testo": "A military court in Goma, North Kivu, Democratic Republic of the Congo, sentences 66 soldiers to death on charges of cowardice, mutiny, and failure to obey orders, after they were arrested following clashes with Front for the Refoundation of the Nation rebels.",
+     "contesto": [
+      "Democratic Republic of the Congo–Rwanda conflict"
      ],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
@@ -166,12 +460,13 @@
       "North Kivu",
       "Democratic Republic of the Congo",
       "Armed Forces of the Democratic Republic of the Congo",
+      "Capital punishment in the Democratic Republic of the Congo",
       "Mutiny",
       "Front for the Refoundation of the Nation"
      ],
-     "testo_it": "Il tribunale militare di Goma, Nord Kivu, Repubblica Democratica del Congo, condanna a morte 66 soldati con l'accusa di codardia, ammutinamento e incapacità di obbedire agli ordini, dopo che sono stati arrestati a seguito di scontri con il Fronte per la Rifondazione dei ribelli della Nazione.",
+     "testo_it": "Un tribunale militare a Goma, Nord Kivu, Repubblica Democratica del Congo, condanna a morte 66 soldati con l'accusa di codardia, ammutinamento e incapacità di obbedire agli ordini, dopo che sono stati arrestati a seguito di scontri con il Fronte per la Rifondazione dei ribelli della Nazione.",
      "contesto_it": [
-      "Repubblica Democratica del Congo-Rwanda conflitto, pena capitale nella Repubblica Democratica del Congo"
+      "Repubblica Democratica del Congo-Rwanda conflitto"
      ]
     },
     {
@@ -292,6 +587,26 @@
      "testo_it": "Cinque studentesse vengono uccise e altre 21 ferite quando uno scuolabus si tuffa in uno stagno nella provincia di Kandal, in Cambogia."
     },
     {
+     "testo": "The British Columbia Conservation Officer Service kills a female grizzly bear and her three cubs after DNA evidence confirmed that the bears killed a mother and daughter near Bella Coola, Canada.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "AFP via ABS-CBN News",
+       "url": "https://www.abs-cbn.com/news/world/2026/11/11/four-bears-blamed-and-put-down-after-fatal-mauling-in-canada-0852"
+      }
+     ],
+     "link": [
+      "British Columbia Conservation Officer Service",
+      "Grizzly bear",
+      "DNA evidence",
+      "List of fatal bear attacks in North America",
+      "Bella Coola, British Columbia",
+      "Canada"
+     ],
+     "testo_it": "Il British Columbia Conservation Officer Service uccide un'orsa grizzly e i suoi tre cuccioli dopo che le prove del DNA hanno confermato che gli orsi hanno ucciso una madre e una figlia vicino a Bella Coola, in Canada."
+    },
+    {
      "testo": "The Thai cabinet approves new environmental regulations for data centers, including limits on noise and temperature increases, requirements for cooling-water recycling and testing, and industrial zoning for facilities consuming more than 20 megawatts.",
      "contesto": [],
      "categoria": "Health and environment",
@@ -344,27 +659,25 @@
      "testo_it": "La Food and Drug Administration degli Stati Uniti ordina ai produttori di farmaci GLP-1 come semaglutide e tirzepatide, originariamente destinati al trattamento del diabete di tipo 2, ma anche comunemente usati per la perdita di peso, di aggiungere avvertimenti che l'uso di tali farmaci può aumentare il rischio di sviluppare neuropatia ottica ischemica anteriore non arteritica, un disturbo del nervo ottico che può causare cecità permanente."
     },
     {
-     "testo": "El Salvador announces a joint military operation with the Haitian police against the 400 Mawozo gang, in which 20 people are killed and a house linked to its leader, Wilson Joseph, is destroyed.",
+     "testo": "Indonesian police detain 154 people following clashes with protesters in Yogyakarta. The Yogyakarta Legal Aid Institute reports that two people are hospitalized and 13 others remain uncontactable.",
      "contesto": [
-      "El Salvador–Haiti relations, Haitian conflict, Salvadoran military intervention in Haiti"
+      "2025–2026 Indonesian protests"
      ],
-     "categoria": "International relations",
+     "categoria": "Law and crime",
      "fonti": [
       {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead"
+       "nome": "AFP via New Straits Times",
+       "url": "https://www.nst.com.my/world/region/2026/11/1575315/indonesia-detains-dozens-after-night-protest-violence"
       }
      ],
      "link": [
-      "El Salvador",
-      "Armed Forces of El Salvador",
-      "Haiti",
-      "Haitian National Police",
-      "400 Mawozo"
+      "Indonesia",
+      "Indonesian National Police",
+      "Yogyakarta"
      ],
-     "testo_it": "El Salvador annuncia un'operazione militare congiunta con la polizia haitiana contro la banda di 400 Mawozo, in cui 20 persone vengono uccise e una casa legata al suo leader, Wilson Joseph, viene distrutta.",
+     "testo_it": "La polizia indonesiana detiene 154 persone a seguito di scontri con i manifestanti a Yogyakarta. Lo Yogyakarta Legal Aid Institute riferisce che due persone sono ricoverate in ospedale e altre 13 rimangono incontattabili.",
      "contesto_it": [
-      "Relazioni El Salvador-Haiti, conflitto haitiano, intervento militare salvadoregno ad Haiti"
+      "Proteste indonesiane (2025-2026)"
      ]
     },
     {
