@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-11T01:20:06Z",
+ "generato": "2026-11-11T11:08:52Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -9,6 +9,22 @@
   "completa": true
  },
  "itn": [
+  {
+   "testo": "In stock car racing, Kyle Larson wins the NASCAR Cup Series.",
+   "contesto": [],
+   "categoria": "In primo piano",
+   "fonti": [
+    {
+     "nome": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2026_NASCAR_Cup_Series"
+    }
+   ],
+   "link": [
+    "Kyle Larson",
+    "2026 NASCAR Cup Series"
+   ],
+   "testo_it": "Nelle gare di stock car, Kyle Larson vince la NASCAR Cup Series."
+  },
   {
    "testo": "A mass shooting in the Main Square of Kraków, Poland, leaves six people dead and sixteen others injured.",
    "contesto": [],
@@ -89,10 +105,10 @@
    "data": "2026-11-10",
    "voci": [
     {
-     "testo": "A third round of United States-mediated talks between Ukrainian and Russian delegations begins in Abu Dhabi, United Arab Emirates, focusing on the humanitarian impact of the war, prisoners of war, and security guarantees. Earlier in the day, the American and Ukrainian teams held a separate meeting with representatives of the United Kingdom, France, Germany, Italy, NATO, and the European Commission.",
+     "testo": "A third round of United States-mediated talks between Ukrainian and Russian delegations begins in Abu Dhabi, United Arab Emirates, focusing on the humanitarian impact of the war, prisoners of war, and security guarantees. Earlier in the day, the American and Ukrainian teams held a separate meeting with representatives of France, Germany, Italy, the United Kingdom, the European Commission, and NATO.",
      "contesto": [
       "Russo-Ukrainian war",
-      "Peace negotiations in the Russo-Ukrainian war, United States and the Russo-Ukrainian war",
+      "Peace negotiations in the Russo-Ukrainian war, United Arab Emirates in the 2026 Iran war, United States and the Russo-Ukrainian war",
       "2026 United States–Ukraine–Russia meetings in Abu Dhabi"
      ],
      "categoria": "Armed conflicts and attacks",
@@ -118,17 +134,17 @@
       "United Arab Emirates",
       "Humanitarian impact of the Russo-Ukrainian war (2022–present)",
       "Prisoners of war in the Russo-Ukrainian war (2022–present)",
-      "United Kingdom",
       "France",
       "Germany",
       "Italy",
-      "NATO",
-      "European Commission"
+      "United Kingdom",
+      "European Commission",
+      "NATO"
      ],
-     "testo_it": "Un terzo round di colloqui mediati dagli Stati Uniti tra delegazioni ucraine e russe inizia ad Abu Dhabi, negli Emirati Arabi Uniti, concentrandosi sull'impatto umanitario della guerra, sui prigionieri di guerra e sulle garanzie di sicurezza. All'inizio della giornata, le squadre americane e ucraine hanno tenuto un incontro separato con rappresentanti del Regno Unito, Francia, Germania, Italia, NATO e Commissione europea.",
+     "testo_it": "Un terzo round di colloqui mediati dagli Stati Uniti tra delegazioni ucraine e russe inizia ad Abu Dhabi, negli Emirati Arabi Uniti, concentrandosi sull'impatto umanitario della guerra, sui prigionieri di guerra e sulle garanzie di sicurezza. All'inizio della giornata, le squadre americane e ucraine hanno tenuto un incontro separato con rappresentanti di Francia, Germania, Italia, Regno Unito, Commissione europea e NATO.",
      "contesto_it": [
       "Guerra russo-ucraina",
-      "Negoziati di pace nella guerra russo-ucraina, negli Stati Uniti e nella guerra russo-ucraina",
+      "Negoziati di pace nella guerra russo-ucraina, negli Emirati Arabi Uniti nella guerra in Iran del 2026, negli Stati Uniti e nella guerra russo-ucraina",
       "Incontri Stati Uniti-Ucraina-Russia ad Abu Dhabi (2026)"
      ]
     },
@@ -159,7 +175,7 @@
      ]
     },
     {
-     "testo": "At least eight people, including two police reservists, are killed by suspected al-Shabaab militants in Mandera County, Kenya, near the border with Somalia.",
+     "testo": "Eight people, including five workers and two police reservists, are killed by suspected al-Shabaab militants in Mandera County, Kenya, near the border with Somalia, during an ambush against a vehicle.",
      "contesto": [
       "Terrorism in Kenya, Somali Civil War"
      ],
@@ -170,23 +186,78 @@
        "url": "https://aa.com.tr/en/africa/suspected-al-shabaab-militants-kill-8-in-northeastern-kenya-ambush/4119429"
       },
       {
-       "nome": "Internazionale",
-       "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/10/eight-people-killed-in-kenya-s-northeast-in-suspected-al-shabaab-attack"
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/africa/eight-people-killed-kenyas-northeast-suspected-al-shabaab-attack-2026-11-10/"
       }
      ],
      "link": [
       "Kenya Police",
+      "Al-Shabaab (militant group)",
       "Mandera County",
       "Kenya",
-      "Somalia"
+      "Somalia",
+      "Ambush"
      ],
-     "testo_it": "Almeno otto persone, tra cui due riservisti della polizia, sono state uccise da sospetti militanti di al-Shabaab nella contea di Mandera, in Kenya, vicino al confine con la Somalia.",
+     "testo_it": "Otto persone, tra cui cinque lavoratori e due riservisti della polizia, sono state uccise da sospetti militanti di al-Shabaab nella contea di Mandera, in Kenya, vicino al confine con la Somalia, durante un'imboscata contro un veicolo.",
      "contesto_it": [
       "Il terrorismo in Kenya, guerra civile somala"
      ]
     },
     {
-     "testo": "Eleven people are killed and at least 51 others are seriously injured in a multiple-vehicle collision involving over 80 trucks and cars on the Trakia A1 motorway near Yambol, Bulgaria.",
+     "testo": "The Venezuelan National Assembly unanimously approves a reform of the electricity law which allows private companies and joint ventures to invest in the nationalised electricity sector, which the government has controlled since 2007.",
+     "contesto": [
+      "Energy crisis in Venezuela"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "AFP via RFI",
+       "url": "https://www.rfi.fr/en/international-news/20261111-venezuela-opens-electricity-sector-to-private-investment"
+      }
+     ],
+     "link": [
+      "Venezuela",
+      "National Assembly of Venezuela",
+      "Energy policy of Venezuela",
+      "Private companies",
+      "Joint venture",
+      "Nationalised",
+      "Electricity sector in Venezuela",
+      "Government of Venezuela"
+     ],
+     "testo_it": "L'Assemblea nazionale venezuelana approva all'unanimità una riforma della legge sull'elettricità che consente alle imprese private e alle joint venture di investire nel settore elettrico nazionalizzato, che il governo controlla dal 2007.",
+     "contesto_it": [
+      "Crisi energetica in Venezuela"
+     ]
+    },
+    {
+     "testo": "The Monetary Authority of Singapore launches a gold reserve service for foreign central banks, international financial institutions, and sovereign entities, and announces expanded tax exemptions for wholesale gold services.",
+     "contesto": [],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "AFP via The Daily Star",
+       "url": "https://www.thedailystar.net/business/global-economy/news/singapore-launches-gold-storage-service-central-banks-4319921"
+      },
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/asia-pacific/singapore-launch-gold-vault-service-foreign-central-banks-2026-11-10/"
+      }
+     ],
+     "link": [
+      "Monetary Authority of Singapore",
+      "Singapore",
+      "Gold reserve",
+      "Central bank",
+      "International financial institutions",
+      "Sovereign entities",
+      "Tax exemption",
+      "Wholesale"
+     ],
+     "testo_it": "L'Autorità Monetaria di Singapore lancia un servizio di riserva d'oro per le banche centrali estere, le istituzioni finanziarie internazionali e le entità sovrane e annuncia esenzioni fiscali ampliate per i servizi di oro all'ingrosso."
+    },
+    {
+     "testo": "Twelve people are killed and at least 46 others are seriously injured in a multiple-vehicle collision involving over 50 trucks and cars on the Trakia A1 motorway near Yambol, Bulgaria.",
      "contesto": [],
      "categoria": "Disasters and accidents",
      "fonti": [
@@ -201,7 +272,7 @@
       "Yambol",
       "Bulgaria"
      ],
-     "testo_it": "Undici persone vengono uccise e almeno altre 51 sono gravemente ferite in una collisione a più veicoli che coinvolge oltre 80 camion e auto sull'autostrada Trakia A1 vicino a Yambol, in Bulgaria."
+     "testo_it": "Dodici persone vengono uccise e almeno altre 46 sono gravemente ferite in una collisione a più veicoli che coinvolge oltre 50 camion e auto sull'autostrada Trakia A1 vicino a Yambol, in Bulgaria."
     },
     {
      "testo": "Five schoolgirls are killed and 21 others are injured when a school bus plunges into a pond in Kandal province, Cambodia.",
@@ -219,6 +290,29 @@
       "Cambodia"
      ],
      "testo_it": "Cinque studentesse vengono uccise e altre 21 ferite quando uno scuolabus si tuffa in uno stagno nella provincia di Kandal, in Cambogia."
+    },
+    {
+     "testo": "The Thai cabinet approves new environmental regulations for data centers, including limits on noise and temperature increases, requirements for cooling-water recycling and testing, and industrial zoning for facilities consuming more than 20 megawatts.",
+     "contesto": [],
+     "categoria": "Health and environment",
+     "fonti": [
+      {
+       "nome": "AFP via The Straits Times",
+       "url": "https://www.straitstimes.com/asia/se-asia/thailand-sets-noise-water-use-limits-for-data-centres"
+      }
+     ],
+     "link": [
+      "Thailand",
+      "Cabinet of Thailand",
+      "Environmental issues in Thailand",
+      "Data center",
+      "Waste management in Thailand",
+      "Water cooling",
+      "Reclaimed water",
+      "Water testing",
+      "Industrial zoning"
+     ],
+     "testo_it": "Il governo thailandese approva nuove normative ambientali per i data center, tra cui limiti agli aumenti di rumore e temperatura, requisiti per il riciclaggio e i test delle acque di raffreddamento e zonizzazione industriale per le strutture che consumano più di 20 megawatt."
     },
     {
      "testo": "The United States Food and Drug Administration orders manufacturers of GLP-1 medicines such as semaglutide and tirzepatide, originally intended for the treatment of type 2 diabetes but also commonly used for weight loss, to add warnings that use of such drugs may increase the risk of developing non-arteritic anterior ischemic optic neuropathy, an optic nerve disorder that can cause permanent blindness.",
@@ -250,6 +344,30 @@
      "testo_it": "La Food and Drug Administration degli Stati Uniti ordina ai produttori di farmaci GLP-1 come semaglutide e tirzepatide, originariamente destinati al trattamento del diabete di tipo 2, ma anche comunemente usati per la perdita di peso, di aggiungere avvertimenti che l'uso di tali farmaci può aumentare il rischio di sviluppare neuropatia ottica ischemica anteriore non arteritica, un disturbo del nervo ottico che può causare cecità permanente."
     },
     {
+     "testo": "El Salvador announces a joint military operation with the Haitian police against the 400 Mawozo gang, in which 20 people are killed and a house linked to its leader, Wilson Joseph, is destroyed.",
+     "contesto": [
+      "El Salvador–Haiti relations, Haitian conflict, Salvadoran military intervention in Haiti"
+     ],
+     "categoria": "International relations",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead"
+      }
+     ],
+     "link": [
+      "El Salvador",
+      "Armed Forces of El Salvador",
+      "Haiti",
+      "Haitian National Police",
+      "400 Mawozo"
+     ],
+     "testo_it": "El Salvador annuncia un'operazione militare congiunta con la polizia haitiana contro la banda di 400 Mawozo, in cui 20 persone vengono uccise e una casa legata al suo leader, Wilson Joseph, viene distrutta.",
+     "contesto_it": [
+      "Relazioni El Salvador-Haiti, conflitto haitiano, intervento militare salvadoregno ad Haiti"
+     ]
+    },
+    {
      "testo": "The British Judicial Committee of the Privy Council overturns provisions criminalizing consensual same-sex sexual activity between adults in Trinidad and Tobago, ruling them unconstitutional following a legal challenge by activist Jason Jones.",
      "contesto": [
       "LGBTQ rights in Trinidad and Tobago"
@@ -279,7 +397,7 @@
      ]
     },
     {
-     "testo": "The Metropolitan Police arrests a U.S. Army personnel near Gloucester, England, on suspicions of espionage activity in connection with Russia.",
+     "testo": "Police arrest an American soldier near Gloucester, England, on suspicions of espionage activity in connection with Russia.",
      "contesto": [
       "United Kingdom–United States relations, Russia–United Kingdom relations"
      ],
@@ -298,7 +416,7 @@
       "Espionage",
       "Russia"
      ],
-     "testo_it": "La polizia metropolitana arresta un personale dell'esercito statunitense vicino a Gloucester, in Inghilterra, con l'accusa di attività di spionaggio in connessione con la Russia.",
+     "testo_it": "La polizia arresta un soldato americano vicino a Gloucester, in Inghilterra, con l'accusa di attività di spionaggio in relazione alla Russia.",
      "contesto_it": [
       "Relazioni Regno Unito-Stati Uniti, relazioni Russia-Regno Unito"
      ]
@@ -313,7 +431,7 @@
        "url": "https://apnews.com/article/spain-police-killed-explosive-e16086184fbee0e74f9e4b8e9992e075"
       },
       {
-       "nome": "BBC",
+       "nome": "BBC News",
        "url": "https://www.bbc.com/news/articles/cwm262pzezy0o"
       }
      ],
@@ -326,6 +444,30 @@
       "Spain"
      ],
      "testo_it": "Un ordigno esplosivo uccide un ufficiale di polizia e il suo cane K9 e ne ferisce un altro mentre stavano rispondendo a una sparatoria a Oviedo, nelle Asturie, in Spagna."
+    },
+    {
+     "testo": "British news outlets The Guardian and ITV News identify comedian and author David Walliams as the subject of sexual misconduct allegations after the High Court of Justice rejects his attempt to prevent their publication. Walliams denies the allegations.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "CNN",
+       "url": "https://edition.cnn.com/2026/11/10/entertainment/david-walliams-celebrity-injunction-sexual-misconduct-intl"
+      },
+      {
+       "nome": "RTÉ News",
+       "url": "https://www.rte.ie/news/2026/1110/1598675-walliams-named-in-failed-injunction/"
+      }
+     ],
+     "link": [
+      "Mass media in the United Kingdom",
+      "The Guardian",
+      "ITV News",
+      "David Walliams",
+      "Sexual offences in the United Kingdom",
+      "High Court of Justice"
+     ],
+     "testo_it": "I media britannici The Guardian e ITV News identificano il comico e autore David Walliams come oggetto di accuse di cattiva condotta sessuale dopo che l'Alta Corte di giustizia ha respinto il suo tentativo di impedire la loro pubblicazione."
     },
     {
      "testo": "Indonesian vice president Gibran Rakabuming Raka announces his intention to resign following controversies about the authenticity of his high-school diploma.",
