@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-11T19:41:43Z",
+ "generato": "2026-11-12T02:20:10Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -77,31 +77,65 @@
     "2026 United States elections"
    ],
    "testo_it": "Negli Stati Uniti, il Partito Democratico vince la maggioranza sia alla Camera dei Rappresentanti che al Senato nelle elezioni di medio termine."
-  },
-  {
-   "testo": "In motorsport, Kimi Antonelli becomes the youngest ever winner of the Formula One World Championship.",
-   "contesto": [],
-   "categoria": "In primo piano",
-   "fonti": [
-    {
-     "nome": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/2026_Formula_One_World_Championship"
-    }
-   ],
-   "link": [
-    "Motorsport",
-    "Kimi Antonelli",
-    "2026 Formula One World Championship"
-   ],
-   "testo_it": "Nel motorsport, Kimi Antonelli diventa il più giovane vincitore del Campionato del Mondo di Formula Uno."
   }
  ],
  "giorni": [
   {
+   "data": "2026-11-12",
+   "voci": []
+  },
+  {
    "data": "2026-11-11",
    "voci": [
     {
-     "testo": "Ten police personnel, including two senior officers, are killed in a clash after insurgents ambushed police vehicles in Kohat District, Khyber Pakhtunkhwa, Pakistan.",
+     "testo": "At least 22 people are killed by Islamic State-affiliated Allied Democratic Forces rebels across eight locations in Mambasa Territory, Ituri Province, Democratic Republic of the Congo.",
+     "contesto": [
+      "Allied Democratic Forces insurgency, Ituri war"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/congo-islamic-state-group-mambasa-attack-kidnapping-c1c568db3a670679818aa426cf28fc80"
+      }
+     ],
+     "link": [
+      "Islamic State – Central Africa Province",
+      "Allied Democratic Forces",
+      "Mambasa Territory",
+      "Ituri Province",
+      "Democratic Republic of the Congo"
+     ],
+     "testo_it": "Almeno 22 persone sono state uccise dai ribelli delle Forze Democratiche Alleate affiliati allo Stato Islamico in otto località nel territorio di Mambasa, nella provincia di Ituri, nella Repubblica Democratica del Congo.",
+     "contesto_it": [
+      "Insurrezione delle forze democratiche alleate, guerra Ituri"
+     ]
+    },
+    {
+     "testo": "Three Central Reserve Police Force (CPRF) personnel are injured after militants open fire on a checkpoint near Mir Bazar in Kulgam district, Jammu and Kashmir, India. Security forces launch a search operation to locate the attackers.",
+     "contesto": [
+      "Insurgency in Jammu and Kashmir"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "The Hindu",
+       "url": "https://www.thehindu.com/news/national/kulgam-jammu-kashmir-crpf-attack-updates-november-11-2026/article71689037.ece"
+      }
+     ],
+     "link": [
+      "Central Reserve Police Force",
+      "Kulgam district",
+      "Jammu and Kashmir",
+      "India"
+     ],
+     "testo_it": "Tre membri del personale della Central Reserve Police Force (CPRF) sono rimasti feriti dopo che i militanti hanno aperto il fuoco su un posto di blocco vicino a Mir Bazar nel distretto di Kulgam, Jammu e Kashmir, in India.",
+     "contesto_it": [
+      "Insurrezione in Jammu e Kashmir"
+     ]
+    },
+    {
+     "testo": "Ten police personnel, including two senior officers, are killed in a clash after insurgents ambushed police vehicles in Kohat District, Khyber Pakhtunkhwa, Pakistan. The Pakistani Taliban claims responsibility for the attack.",
      "contesto": [
       "Insurgency in Khyber Pakhtunkhwa"
      ],
@@ -117,17 +151,60 @@
       "Ambush",
       "Kohat District",
       "Khyber Pakhtunkhwa",
-      "Pakistan"
+      "Pakistan",
+      "Pakistani Taliban"
      ],
-     "testo_it": "Dieci agenti di polizia, tra cui due alti ufficiali, vengono uccisi in uno scontro dopo che gli insorti hanno teso un'imboscata ai veicoli della polizia nel distretto di Kohat, Khyber Pakhtunkhwa, in Pakistan.",
+     "testo_it": "Dieci agenti di polizia, tra cui due alti ufficiali, vengono uccisi in uno scontro dopo che gli insorti hanno teso un'imboscata ai veicoli della polizia nel distretto di Kohat, Khyber Pakhtunkhwa, Pakistan.",
      "contesto_it": [
       "Insurrezione a Khyber Pakhtunkhwa"
      ]
     },
     {
-     "testo": "The American ocean liner SS United States is sunken off Florida and becomes the world's largest artificial reef.",
+     "testo": "Pope Leo XIV departs Argentina and arrives in Peru during his papal trip to South America. Peru unveils a 14 m (46 ft)-tall statue of him, described as the world's tallest.",
      "contesto": [],
      "categoria": "Arts and culture",
+     "fonti": [
+      {
+       "nome": "IJR",
+       "url": "https://ijr.com/discover/peru-unveils-world-s-tallest-pope-leo-statue-965b6898"
+      }
+     ],
+     "link": [
+      "Pope",
+      "Leo XIV",
+      "Peru",
+      "Papal travel",
+      "South America"
+     ],
+     "testo_it": "Papa Leone XIV lascia l'Argentina e arriva in Perù durante il suo viaggio papale in Sud America. Il Perù svela una statua alta 14 m (46 piedi) di lui, descritta come la più alta del mondo."
+    },
+    {
+     "testo": "The Kenyan health ministry reports that the country has discharged its last Ebola patient from a hospital in Nairobi after eleven contact cases were treated. Kenya will be declared Ebola-free on December 23 if no one else exhibits symptoms.",
+     "contesto": [
+      "2026 Ebola epidemic"
+     ],
+     "categoria": "Health and environment",
+     "fonti": [
+      {
+       "nome": "DW",
+       "url": "https://www.dw.com/en/kenya-ebola-free-patient-leaves-hospital/a-79921240"
+      }
+     ],
+     "link": [
+      "Kenya",
+      "Ministry of Health (Kenya)",
+      "Ebola",
+      "Nairobi"
+     ],
+     "testo_it": "Il ministero della Sanità keniota riferisce che il paese ha dimesso il suo ultimo paziente con Ebola da un ospedale di Nairobi dopo che undici casi di contatto sono stati trattati. Il Kenya sarà dichiarato libero da Ebola il 23 dicembre se nessun altro esibisce sintomi.",
+     "contesto_it": [
+      "Epidemia di Ebola (2026)"
+     ]
+    },
+    {
+     "testo": "The American ocean liner SS United States is sunk off the coast of Destin–Fort Walton Beach, Florida, United States, to become the world's largest artificial reef.",
+     "contesto": [],
+     "categoria": "Health and environment",
      "fonti": [
       {
        "nome": "Pensacola News Journal",
@@ -138,10 +215,12 @@
       "United States",
       "Ocean liner",
       "SS United States",
+      "Destin, Florida",
+      "Fort Walton Beach, Florida",
       "Florida",
       "Artificial reef"
      ],
-     "testo_it": "Il transatlantico americano SS Stati Uniti è affondato al largo della Florida e diventa la più grande barriera corallina artificiale del mondo."
+     "testo_it": "Il transatlantico americano SS United States è affondato al largo della costa di Destin-Fort Walton Beach, Florida, Stati Uniti, per diventare la più grande barriera corallina artificiale del mondo."
     },
     {
      "testo": "The German cabinet approves draft legislation establishing a strategic natural gas reserve of 24 terawatt-hours, equivalent to approximately 10% of national storage capacity, to maintain gas supplies during emergencies.",
@@ -197,7 +276,27 @@
      ]
     },
     {
-     "testo": "The German defence ministry announces that the Bundeswehr will discontinue using Chinese-made drones for military training and exercises, replacing them with German or other European models to address security concerns.",
+     "testo": "A three-story apartment building partially collapses in Brooklyn, New York City, United States, killed one person and injuring at least four others.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "NBC News",
+       "url": "https://www.nbcnews.com/video/at-least-1-person-dead-4-injured-after-a-building-collapse-in-brooklyn-273302597757"
+      },
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/brooklyn-building-collapse-202ddc195fbf2dcf14e85d004f3ac130"
+      }
+     ],
+     "link": [
+      "Brooklyn",
+      "New York City"
+     ],
+     "testo_it": "Un condominio di tre piani crolla parzialmente a Brooklyn, New York City, negli Stati Uniti, uccidendo una persona e ferendone almeno altre quattro."
+    },
+    {
+     "testo": "The German defence ministry announces that the armed forces will discontinue using Chinese-made drones for military training and exercises, replacing them with German or other European models to address security concerns.",
      "contesto": [
       "China–Germany relations"
      ],
@@ -213,14 +312,13 @@
       }
      ],
      "link": [
-      "Germany",
       "Federal Ministry of Defence (Germany)",
       "Bundeswehr",
       "China",
       "List of unmanned aerial vehicles of China",
       "Cyberwarfare and China"
      ],
-     "testo_it": "Il ministero della Difesa tedesco annuncia che la Bundeswehr interromperà l'uso di droni di fabbricazione cinese per l'addestramento militare e le esercitazioni, sostituendoli con modelli tedeschi o altri modelli europei per affrontare le preoccupazioni per la sicurezza.",
+     "testo_it": "Il ministero della Difesa tedesco annuncia che le forze armate interromperanno l'uso di droni di fabbricazione cinese per l'addestramento e le esercitazioni militari, sostituendoli con modelli tedeschi o altri modelli europei per affrontare le preoccupazioni per la sicurezza.",
      "contesto_it": [
       "Relazioni Cina-Germania"
      ]
@@ -243,8 +341,7 @@
       "William Ruto",
       "Sudan",
       "Import quota",
-      "Tea production in Kenya",
-      "Kenya"
+      "Tea production in Kenya"
      ],
      "testo_it": "Il presidente keniano William Ruto firma un accordo per il Sudan per revocare il divieto di importazione di tè dal Kenya.",
      "contesto_it": [
@@ -252,16 +349,38 @@
      ]
     },
     {
+     "testo": "The Russian foreign ministry announces that Russian ambassador to the United States Alexander Darchiev has died of a chronic illness.",
+     "contesto": [],
+     "categoria": "International relations",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/russian-ambassador-us-dies-foreign-ministry-says-2026-11-11/"
+      }
+     ],
+     "link": [
+      "Ministry of Foreign Affairs (Russia)",
+      "Ambassador of Russia to the United States",
+      "Alexander Darchiev",
+      "Chronic condition"
+     ],
+     "testo_it": "Il ministero degli Esteri russo annuncia che l'ambasciatore russo negli Stati Uniti Alexander Darchiev è morto per una malattia cronica."
+    },
+    {
      "testo": "More than 6,000 schools across Italy are evacuated following bomb threats.",
      "contesto": [
       "2026 European infrastructure disruption",
-      "2026 European bomb threats"
+      "European bomb threat wave"
      ],
      "categoria": "Law and crime",
      "fonti": [
       {
        "nome": "BBC News",
        "url": "https://www.bbc.com/news/articles/cwz0k79pr8z2o"
+      },
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/least-300-italian-schools-evacuated-after-email-bomb-alerts-2026-11-11/"
       }
      ],
      "link": [
@@ -272,11 +391,34 @@
      "testo_it": "Più di 6.000 scuole in tutta Italia vengono evacuate a seguito di minacce di bombe.",
      "contesto_it": [
       "Interruzione delle infrastrutture europee (2026)",
-      "Minacce di bombe europee (2026)"
+      "Onda di minaccia della bomba europea"
      ]
     },
     {
-     "testo": "Former Red Brigades member Leonardo Bertulazzi escapes house arrest in Buenos Aires, Argentina, while awaiting extradition to Italy to serve a 27-year prison sentence for kidnapping and membership in an armed group. Argentine security forces search for him.",
+     "testo": "Two people are arrested in connection with an explosive attack on the headquarters of Colombian broadcaster RCN Televisión in Cali, Valle del Cauca.",
+     "contesto": [
+      "Colombian conflict"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "AFP via Gulf News",
+       "url": "https://gulfnews.com/world/americas/colombian-media-outlet-attacked-with-explosives-1.500744157"
+      }
+     ],
+     "link": [
+      "Colombia",
+      "RCN Televisión",
+      "Cali",
+      "Valle del Cauca Department"
+     ],
+     "testo_it": "Due persone sono state arrestate in connessione con un attacco esplosivo al quartier generale dell'emittente televisiva colombiana RCN Televisión a Cali, Valle del Cauca.",
+     "contesto_it": [
+      "Conflitto colombiano"
+     ]
+    },
+    {
+     "testo": "Former Red Brigades member Leonardo Bertulazzi escapes house arrest in Buenos Aires, Argentina, while awaiting extradition to Italy to serve a 27-year prison sentence for kidnapping and membership in an armed group. Argentine security forces launch search operations for him.",
      "contesto": [],
      "categoria": "Law and crime",
      "fonti": [
@@ -297,22 +439,42 @@
      "testo_it": "L'ex membro delle Brigate Rosse Leonardo Bertulazzi fugge dagli arresti domiciliari a Buenos Aires, in Argentina, in attesa dell'estradizione in Italia per scontare una pena detentiva di 27 anni per rapimento e appartenenza a un gruppo armato."
     },
     {
-     "testo": "Two people are arrested in connection with an explosive attack on the headquarters of Colombian broadcaster RCN Televisión in Cali, Valle del Cauca.",
-     "contesto": [],
-     "categoria": "Law and crime",
+     "testo": "After a week of counting affidavit ballots, CNN and The Associated Press project the election to the U.S. Senate in Mississippi for Democratic candidate Scott Colom, defeating the incumbent Republican Cindy Hyde-Smith and becoming the first black senator from the state since Blanche Bruce in the 1874–75 United States Senate elections.",
+     "contesto": [
+      "2026 United States elections",
+      "2026 United States Senate elections",
+      "2026 United States Senate election in Mississippi"
+     ],
+     "categoria": "Politics and elections",
      "fonti": [
       {
-       "nome": "AFP via Gulf News",
-       "url": "https://gulfnews.com/world/americas/colombian-media-outlet-attacked-with-explosives-1.500744157"
+       "nome": "AP",
+       "url": "https://apnews.com/live/trump-congress-midterm-elections-politics-news-updates-11-11-2026"
+      },
+      {
+       "nome": "CNN",
+       "url": "https://www.cnn.com/2026/11/11/politics/live-news/hegseth-impeachment-congress"
       }
      ],
      "link": [
-      "Colombia",
-      "RCN Televisión",
-      "Cali",
-      "Valle del Cauca Department"
+      "Affidavit ballot",
+      "CNN",
+      "The Associated Press",
+      "U.S. Senate",
+      "Mississippi",
+      "Democratic Party (United States)",
+      "Scott Colom",
+      "Republican Party (United States)",
+      "Cindy Hyde-Smith",
+      "Blanche Bruce",
+      "1874–75 United States Senate elections"
      ],
-     "testo_it": "Due persone sono state arrestate in connessione con un attacco esplosivo al quartier generale dell'emittente televisiva colombiana RCN Televisión a Cali, Valle del Cauca."
+     "testo_it": "Dopo una settimana di conteggio delle schede giurate, la CNN e l'Associated Press proiettano l'elezione al Senato degli Stati Uniti in Mississippi per il candidato democratico Scott Colom, sconfiggendo l'incumbente Repubblicana Cindy Hyde-Smith e diventando il primo senatore nero dallo stato dopo Blanche Bruce nelle elezioni del Senato degli Stati Uniti 1874-75.",
+     "contesto_it": [
+      "Elezioni negli Stati Uniti (2026)",
+      "Elezioni al Senato degli Stati Uniti (2026)",
+      "Elezioni al Senato degli Stati Uniti in Mississippi (2026)"
+     ]
     },
     {
      "testo": "The Brazilian Superior Electoral Court fines Meta Platforms R$7.5 million (US$1.34 million) for failing to comply with judicial orders concerning the 2026 presidential election, while finding insufficient evidence of deliberate electoral interference.",
@@ -344,12 +506,12 @@
     {
      "testo": "Polish president Karol Nawrocki and at least 500,000 people participate in the annual patriotic march celebrating the National Independence Day in Warsaw, Poland.",
      "contesto": [
-      "Independence March (Poland)"
+      "Independence March"
      ],
      "categoria": "Politics and elections",
      "fonti": [
       {
-       "nome": "Zero",
+       "nome": "Zero in Polish",
        "url": "https://zero.pl/news/narodowe-swieto-niepodleglosci-obchody-i-marsz-niepodleglosci"
       }
      ],
@@ -357,14 +519,60 @@
       "Poland",
       "President of Poland",
       "Karol Nawrocki",
-      "Independence March (Poland)",
       "National Independence Day (Poland)",
       "Warsaw",
       "Poland"
      ],
      "testo_it": "Il presidente polacco Karol Nawrocki e almeno 500.000 persone partecipano alla marcia patriottica annuale che celebra la Giornata dell'Indipendenza Nazionale a Varsavia, in Polonia.",
      "contesto_it": [
-      "Independence March (Polonia)"
+      "Marcia dell'Indipendenza"
+     ]
+    },
+    {
+     "testo": "Cybersecurity firm CloudSek reports that the Kazakhstan-linked hacker group Silent Lynx used an autonomous agent to breach Tajikistan's government database and steal more than 2,000 national security-related documents.",
+     "contesto": [],
+     "categoria": "Science and technology",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/legal/government/kazakhstan-linked-hackers-used-ai-steal-tajik-government-documents-researchers-2026-11-11/"
+      },
+      {
+       "nome": "The Record",
+       "url": "https://therecord.media/suspected-kazakhstan-phishing-central-asia-espionage"
+      }
+     ],
+     "link": [
+      "Cybersecurity",
+      "Kazakhstan",
+      "Hacker group",
+      "Autonomous agent",
+      "Tajikistan",
+      "Government database",
+      "State Committee for National Security (Tajikistan)"
+     ],
+     "testo_it": "La società di sicurezza informatica CloudSek riferisce che il gruppo di hacker collegato al Kazakistan Silent Lynx ha utilizzato un agente autonomo per violare il database governativo del Tagikistan e rubare più di 2.000 documenti relativi alla sicurezza nazionale."
+    },
+    {
+     "testo": "The United States men's national under-17 soccer team withdraws from the upcoming FIFA U-17 World Cup in Qatar, citing safety concerns.",
+     "contesto": [
+      "2026 FIFA U-17 World Cup"
+     ],
+     "categoria": "Sports",
+     "fonti": [
+      {
+       "nome": "ESPN",
+       "url": "https://www.espn.com/soccer/story/_/id/50455133/usa-fifa-mens-u17-world-cup-qatar-safety"
+      }
+     ],
+     "link": [
+      "United States men's national under-17 soccer team",
+      "FIFA U-17 World Cup",
+      "Qatar"
+     ],
+     "testo_it": "La nazionale di calcio maschile degli Stati Uniti Under 17 si ritira dalla prossima Coppa del Mondo FIFA U-17 in Qatar, citando preoccupazioni per la sicurezza.",
+     "contesto_it": [
+      "Coppa del Mondo FIFA U-17 (2026)"
      ]
     }
    ]
@@ -417,7 +625,7 @@
      ]
     },
     {
-     "testo": "El Salvador announces it has launched a joint military operation with the Haitian police against the 400 Mawozo gang, in which 20 people are killed and a house linked to its leader, Wilson Joseph, is destroyed.",
+     "testo": "El Salvador announces it has launched a joint military operation with the Haitian police against the 400 Mawozo gang, killing 20 people and destroying a house linked to its leader, Wilson Joseph.",
      "contesto": [
       "Haitian conflict",
       "Salvadoran military intervention in Haiti, El Salvador–Haiti relations"
@@ -436,7 +644,7 @@
       "Haitian National Police",
       "400 Mawozo"
      ],
-     "testo_it": "El Salvador annuncia di aver lanciato un'operazione militare congiunta con la polizia haitiana contro la banda dei 400 Mawozo, in cui 20 persone vengono uccise e una casa legata al suo leader, Wilson Joseph, viene distrutta.",
+     "testo_it": "El Salvador annuncia di aver lanciato un'operazione militare congiunta con la polizia haitiana contro la banda dei 400 Mawozo, uccidendo 20 persone e distruggendo una casa legata al suo leader, Wilson Joseph.",
      "contesto_it": [
       "Conflitto haitiano",
       "Intervento militare salvadoregno ad Haiti, relazioni El Salvador-Haiti"
@@ -587,13 +795,17 @@
      "testo_it": "Cinque studentesse vengono uccise e altre 21 ferite quando uno scuolabus si tuffa in uno stagno nella provincia di Kandal, in Cambogia."
     },
     {
-     "testo": "The British Columbia Conservation Officer Service kills a female grizzly bear and her three cubs after DNA evidence confirmed that the bears killed a mother and daughter near Bella Coola, Canada.",
+     "testo": "The British Columbia Conservation Officer Service kills a female grizzly bear and her three cubs after DNA evidence confirmed that the bears killed two people near Bella Coola, B.C., Canada.",
      "contesto": [],
      "categoria": "Disasters and accidents",
      "fonti": [
       {
        "nome": "AFP via ABS-CBN News",
        "url": "https://www.abs-cbn.com/news/world/2026/11/11/four-bears-blamed-and-put-down-after-fatal-mauling-in-canada-0852"
+      },
+      {
+       "nome": "BBC News",
+       "url": "https://www.bbc.com/news/articles/cwg5r8zrm11mo"
       }
      ],
      "link": [
@@ -604,11 +816,13 @@
       "Bella Coola, British Columbia",
       "Canada"
      ],
-     "testo_it": "Il British Columbia Conservation Officer Service uccide un'orsa grizzly e i suoi tre cuccioli dopo che le prove del DNA hanno confermato che gli orsi hanno ucciso una madre e una figlia vicino a Bella Coola, in Canada."
+     "testo_it": "Il British Columbia Conservation Officer Service uccide un'orsa grizzly e i suoi tre cuccioli dopo che le prove del DNA hanno confermato che gli orsi hanno ucciso due persone vicino a Bella Coola, B.C., Canada."
     },
     {
      "testo": "The Thai cabinet approves new environmental regulations for data centers, including limits on noise and temperature increases, requirements for cooling-water recycling and testing, and industrial zoning for facilities consuming more than 20 megawatts.",
-     "contesto": [],
+     "contesto": [
+      "AI boom"
+     ],
      "categoria": "Health and environment",
      "fonti": [
       {
@@ -627,7 +841,10 @@
       "Water testing",
       "Industrial zoning"
      ],
-     "testo_it": "Il governo thailandese approva nuove normative ambientali per i data center, tra cui limiti agli aumenti di rumore e temperatura, requisiti per il riciclaggio e i test delle acque di raffreddamento e zonizzazione industriale per le strutture che consumano più di 20 megawatt."
+     "testo_it": "Il governo thailandese approva nuove normative ambientali per i data center, tra cui limiti agli aumenti di rumore e temperatura, requisiti per il riciclaggio e i test delle acque di raffreddamento e zonizzazione industriale per le strutture che consumano più di 20 megawatt.",
+     "contesto_it": [
+      "Boom AI"
+     ]
     },
     {
      "testo": "The United States Food and Drug Administration orders manufacturers of GLP-1 medicines such as semaglutide and tirzepatide, originally intended for the treatment of type 2 diabetes but also commonly used for weight loss, to add warnings that use of such drugs may increase the risk of developing non-arteritic anterior ischemic optic neuropathy, an optic nerve disorder that can cause permanent blindness.",
@@ -659,7 +876,7 @@
      "testo_it": "La Food and Drug Administration degli Stati Uniti ordina ai produttori di farmaci GLP-1 come semaglutide e tirzepatide, originariamente destinati al trattamento del diabete di tipo 2, ma anche comunemente usati per la perdita di peso, di aggiungere avvertimenti che l'uso di tali farmaci può aumentare il rischio di sviluppare neuropatia ottica ischemica anteriore non arteritica, un disturbo del nervo ottico che può causare cecità permanente."
     },
     {
-     "testo": "Indonesian police detain 154 people following clashes with protesters in Yogyakarta. The Yogyakarta Legal Aid Institute reports that two people are hospitalized and 13 others remain uncontactable.",
+     "testo": "Indonesian police detain 154 people following clashes with protesters in Yogyakarta, Java. The Yogyakarta Legal Aid Institute reports that two people are hospitalized and 13 others remain missing.",
      "contesto": [
       "2025–2026 Indonesian protests"
      ],
@@ -673,15 +890,16 @@
      "link": [
       "Indonesia",
       "Indonesian National Police",
-      "Yogyakarta"
+      "Yogyakarta",
+      "Java"
      ],
-     "testo_it": "La polizia indonesiana detiene 154 persone a seguito di scontri con i manifestanti a Yogyakarta. Lo Yogyakarta Legal Aid Institute riferisce che due persone sono ricoverate in ospedale e altre 13 rimangono incontattabili.",
+     "testo_it": "La polizia indonesiana detiene 154 persone a seguito di scontri con i manifestanti a Yogyakarta, Java. Lo Yogyakarta Legal Aid Institute riferisce che due persone sono ricoverate in ospedale e altre 13 sono scomparse.",
      "contesto_it": [
       "Proteste indonesiane (2025-2026)"
      ]
     },
     {
-     "testo": "The British Judicial Committee of the Privy Council overturns provisions criminalizing consensual same-sex sexual activity between adults in Trinidad and Tobago, ruling them unconstitutional following a legal challenge by activist Jason Jones.",
+     "testo": "The Judicial Committee of the Privy Council overturns colonial-era provisions criminalizing consensual same-sex sexual activity between adults in Trinidad and Tobago, ruling them unconstitutional following a legal challenge by activist Jason Jones.",
      "contesto": [
       "LGBTQ rights in Trinidad and Tobago"
      ],
@@ -697,14 +915,13 @@
       }
      ],
      "link": [
-      "United Kingdom",
       "Judicial Committee of the Privy Council",
       "Criminalization of homosexuality",
       "Same-sex sexual practices",
       "Trinidad and Tobago",
       "Jason Jones (activist)"
      ],
-     "testo_it": "Il British Judicial Committee del Privy Council ribalta le disposizioni che criminalizzano l'attività sessuale consensuale tra adulti a Trinidad e Tobago, giudicandoli incostituzionali a seguito di una sfida legale dell'attivista Jason Jones.",
+     "testo_it": "Il Comitato Giudiziario del Privy Council ribalta le disposizioni dell'era coloniale che criminalizzano l'attività sessuale consensuale tra adulti a Trinidad e Tobago, giudicandoli incostituzionali a seguito di una sfida legale dell'attivista Jason Jones.",
      "contesto_it": [
       "Diritti LGBTQ a Trinidad e Tobago"
      ]
@@ -1123,6 +1340,25 @@
      "contesto_it": [
       "La censura in Russia"
      ]
+    },
+    {
+     "testo": "D.R. Congolese president Félix Tshisekedi signs a law allowing constitutional changes through referendums.",
+     "contesto": [],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/africa/congolese-president-signs-contested-referendum-law-amid-fears-over-third-term-2026-11-11/"
+      }
+     ],
+     "link": [
+      "Democratic Republic of the Congo",
+      "President of the Democratic Republic of the Congo",
+      "Félix Tshisekedi",
+      "Constitution of the Democratic Republic of the Congo",
+      "Referendum"
+     ],
+     "testo_it": "Il presidente congolese Félix Tshisekedi firma una legge che consente cambiamenti costituzionali attraverso referendum."
     },
     {
      "testo": "In college football, the College Football Playoff announces it will expand from 12 to 24 teams starting in the 2027 season.",
@@ -2490,407 +2726,6 @@
       "Prime Minister of Belgium"
      ],
      "testo_it": "Il re Filippo del Belgio rifiuta le dimissioni di Bart De Wever come primo ministro, dicendogli di continuare con i negoziati di bilancio."
-    }
-   ]
-  },
-  {
-   "data": "2026-11-05",
-   "voci": [
-    {
-     "testo": "A police officer is killed and another injured in a stabbing attack outside the Sri Lankan embassy in Amman, Jordan. The suspect is arrested. The event is described as a terrorist attack.",
-     "contesto": [],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Ammon News",
-       "url": "https://en.ammonnews.net/mobile/article/96865"
-      },
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/5/security-%E2%81%A0officer-killed-in-stabbing-attack-in-jordans-capital"
-      }
-     ],
-     "link": [
-      "Public Security Directorate",
-      "Stabbing as a terrorist tactic",
-      "Sri Lanka",
-      "Diplomatic mission",
-      "Amman",
-      "Jordan",
-      "Terrorism in Jordan"
-     ],
-     "testo_it": "Un agente di polizia viene ucciso e un altro ferito in un attacco di accoltellamento fuori dall'ambasciata dello Sri Lanka ad Amman, in Giordania. Il sospetto viene arrestato. L'evento è descritto come un attacco terroristico."
-    },
-    {
-     "testo": "Mexico approves the Digital Economy Act for Digital and Electronic Payments, which allows it to designate sectors in which digital payments are the only accepted means of payment.",
-     "contesto": [],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "N+ in Spanish",
-       "url": "https://www.nmas.com.mx/economia/aplica-a-partir-de-hoy-jueves-5-noviembre-2026-ley-economia-digital-reducir-uso-efectivo/"
-      }
-     ],
-     "link": [
-      "Mexico",
-      "Economy of Mexico",
-      "E-commerce payment system"
-     ],
-     "testo_it": "Il Messico approva la legge sull'economia digitale per i pagamenti digitali ed elettronici, che consente di designare settori in cui i pagamenti digitali sono l'unico mezzo di pagamento accettato."
-    },
-    {
-     "testo": "Eleven people are killed and 33 more injured after the collision of a passenger bus with a truck in Pakpattan District, Punjab, Pakistan.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/pakistan-passenger-bus-truck-accident-punjab-province-6fdc57a6e561f283c48cded6759956ea"
-      }
-     ],
-     "link": [
-      "Pakpattan District",
-      "Punjab, Pakistan",
-      "Pakistan"
-     ],
-     "testo_it": "Undici persone vengono uccise e 33 feriti dopo la collisione di un autobus passeggeri con un camion nel distretto di Pakpattan, Punjab, Pakistan."
-    },
-    {
-     "testo": "Six people are killed and nine more injured after a fire at a two-story home in Brooklyn, New York City, United States.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/fatal-fire-brooklyn-new-york-bb3c0c9753d0e64ec994cc892f32170e"
-      },
-      {
-       "nome": "Sky News",
-       "url": "https://news.sky.com/story/new-york-fire-kills-six-and-injures-nine-including-firefighters-and-police-officers-13608446"
-      }
-     ],
-     "link": [
-      "Brooklyn",
-      "New York City",
-      "United States"
-     ],
-     "testo_it": "Sei persone vengono uccise e altre nove ferite dopo un incendio in una casa a due piani a Brooklyn, New York City, Stati Uniti."
-    },
-    {
-     "testo": "Six more people are found dead under the debris of a building that collapsed two weeks ago in Nairobi, Kenya, bringing the death toll to eight. Sixteen others are still missing.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/kenya-building-collapse-nairobi-death-toll-5c66ab1fdf995e92dad8aabae5358ba9"
-      }
-     ],
-     "link": [
-      "Nairobi",
-      "Kenya"
-     ],
-     "testo_it": "Altre sei persone sono state trovate morte sotto i detriti di un edificio crollato due settimane fa a Nairobi, in Kenya, portando il bilancio delle vittime a otto."
-    },
-    {
-     "testo": "Eight people are killed and another is injured in a shooting spree at three separated locations in Afyonkarahisar Province, Turkey. The perpetrator is arrested.",
-     "contesto": [
-      "2026 Afyonkarahisar shootings"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/turkey-attacker-shooting-spree-8-dead-17a03eb1f79183017eb35016f60c8a98"
-      }
-     ],
-     "link": [
-      "Spree killer",
-      "Afyonkarahisar Province",
-      "Turkey",
-      "Perpetrator"
-     ],
-     "testo_it": "Otto persone vengono uccise e un altro viene ferito in una sparatoria in tre località separate nella provincia di Afyonkarahisar, in Turchia.",
-     "contesto_it": [
-      "Fucilazioni di Afyonkarahisar (2026)"
-     ]
-    },
-    {
-     "testo": "The Nepali supreme court directs the government to regulate cannabis cultivation for medicinal, scientific, agricultural, horticultural, and industrial purposes.",
-     "contesto": [
-      "Cannabis in Nepal"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "AFP via France 24",
-       "url": "https://www.france24.com/en/live-news/20261105-nepal-court-gives-green-light-to-controlled-cannabis-cultivation"
-      }
-     ],
-     "link": [
-      "Nepal",
-      "Supreme Court of Nepal",
-      "Balen Shah cabinet",
-      "Cannabis cultivation",
-      "Medical cannabis",
-      "Cannabis industry"
-     ],
-     "testo_it": "La corte suprema nepalese ordina al governo di regolamentare la coltivazione di cannabis per scopi medicinali, scientifici, agricoli, orticoli e industriali.",
-     "contesto_it": [
-      "Cannabis in Nepal"
-     ]
-    },
-    {
-     "testo": "Six people are arrested in connection with a corruption investigation involving ruling PSOE officials and the transport ministry in Spain.",
-     "contesto": [
-      "Koldo affair"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "Ara",
-       "url": "https://en.ara.cat/politics/six-arrested-in-new-secret-piece-of-the-koldo-case_1_5900925.html"
-      }
-     ],
-     "link": [
-      "Corruption in Spain",
-      "Spanish Socialist Workers' Party",
-      "Ministry of Transport (Spain)",
-      "Spain"
-     ],
-     "testo_it": "Sei persone sono state arrestate in relazione a un'indagine sulla corruzione che ha coinvolto funzionari del PSOE e il ministero dei trasporti in Spagna.",
-     "contesto_it": [
-      "affare Koldo"
-     ]
-    },
-    {
-     "testo": "Cuban authorities release independent journalist Yoani Sánchez and activists Berta Soler and María Cristina Labrada after detaining them for several hours in Havana.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "AFP",
-       "url": "https://www.afp.com/en/journalist-yoani-sanchez-activists-released-detention-cuba"
-      }
-     ],
-     "link": [
-      "Cuba",
-      "Mass media in Cuba",
-      "Yoani Sánchez",
-      "Berta Soler",
-      "Havana"
-     ],
-     "testo_it": "Le autorità cubane rilasciano il giornalista indipendente Yoani Sánchez e gli attivisti Berta Soler e María Cristina Labrada dopo averli arrestati per diverse ore all'Avana."
-    },
-    {
-     "testo": "The Hong Kong High Court sentences pro-democracy activist Joshua Wong to an additional 10 years in prison under the national security law for conspiring with foreign entities to impose sanctions against China and Hong Kong.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "AFP",
-       "url": "https://www.afp.com/en/hong-kong-activist-joshua-wong-given-10-more-years-collusion"
-      }
-     ],
-     "link": [
-      "Hong Kong High Court",
-      "Pro-democracy camp (Hong Kong)",
-      "Joshua Wong",
-      "Prisons in Hong Kong",
-      "2020 Hong Kong national security law",
-      "International sanctions",
-      "China",
-      "Hong Kong"
-     ],
-     "testo_it": "L'Alta Corte di Hong Kong condanna l'attivista pro-democrazia Joshua Wong ad altri 10 anni di carcere in base alla legge sulla sicurezza nazionale per aver cospirato con entità straniere per imporre sanzioni contro la Cina e Hong Kong."
-    },
-    {
-     "testo": "The syndicate of unions organizes a general strike across France, supported by the yellow vests movement, activists, and student protesters.",
-     "contesto": [
-      "2026 European unrest",
-      "2026 French student protests, Yellow vests protests"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "CNN",
-       "url": "https://www.cnn.com/2026/11/05/world/live-news/france-strikes-protests-action-schools-intl"
-      }
-     ],
-     "link": [
-      "Union syndicale Solidaires",
-      "General strike",
-      "France",
-      "Yellow vests movement"
-     ],
-     "testo_it": "Il sindacato dei sindacati organizza uno sciopero generale in tutta la Francia, sostenuto dal movimento dei gilet gialli, attivisti e manifestanti studenteschi.",
-     "contesto_it": [
-      "Insurrezioni europee (2026)",
-      "Proteste studentesche francesi (2026), proteste dei gilet gialli"
-     ]
-    },
-    {
-     "testo": "Grenadians vote to elect 15 members of the House of Representatives. Incumbent prime minister Dickon Mitchell wins a second consecutive NDC government, with opposition NNP leader Emmalin Pierre losing her seat in St. Andrew South East.",
-     "contesto": [
-      "2026 Grenadian general election"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/grenada-election-mitchell-david-slavery-e1b1b344507f5c6180983e0271c463ad"
-      },
-      {
-       "nome": "St. Vincent Times",
-       "url": "https://www.stvincenttimes.com/mitchells-ndc-wins-14-of-15-seats-in-grenada-election/"
-      }
-     ],
-     "link": [
-      "Grenada",
-      "House of Representatives (Grenada)",
-      "List of heads of government of Grenada",
-      "Dickon Mitchell",
-      "National Democratic Congress (Grenada)",
-      "Leader of the Opposition (Grenada)",
-      "New National Party (Grenada)",
-      "Emmalin Pierre",
-      "Saint Andrew South East (Grenada)"
-     ],
-     "testo_it": "Il primo ministro in carica Dickon Mitchell vince un secondo governo NDC consecutivo, con il leader dell'opposizione Emmalin Pierre che perde il suo seggio a St. Andrew South East.",
-     "contesto_it": [
-      "Elezioni generali in Gran Bretagna (2026)"
-     ]
-    },
-    {
-     "testo": "Paraguayan president Santiago Peña announces his resignation after the collapse of ueno bank, and the Chamber of Deputies unanimously votes to begin an impeachment trial against him.",
-     "contesto": [
-      "2026 Paraguay banking crisis"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/ueno-bank-collapse-paraguay-banking-crisis-santiago-pena-impeachment-eccea1c9a64808b5cd7e6e1d5542084f"
-      },
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/americas/paraguay-president-pea-resigns-under-mounting-pressure-bank-collapse-2026-11-05/"
-      }
-     ],
-     "link": [
-      "Paraguay",
-      "President of Paraguay",
-      "Santiago Peña",
-      "Resignation",
-      "Ueno bank",
-      "Chamber of Deputies of Paraguay",
-      "Impeachment"
-     ],
-     "testo_it": "Il presidente paraguaiano Santiago Peña annuncia le sue dimissioni dopo il crollo della banca Ueno, e la Camera dei Deputati vota all'unanimità per iniziare un processo di impeachment contro di lui.",
-     "contesto_it": [
-      "Paraguay crisi bancaria (2026)"
-     ]
-    },
-    {
-     "testo": "The Federal High Court of Nigeria invalidates former vice president Atiku Abubakar's nomination as the African Democratic Congress candidate for the 2027 presidential election, ruling that the party's leadership was improperly constituted.",
-     "contesto": [
-      "2027 Nigerian general election"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/africa/nigerian-court-voids-candidacy-opposition-adcs-atiku-2027-election-2026-11-05/"
-      }
-     ],
-     "link": [
-      "Federal High Court of Nigeria",
-      "Nigeria",
-      "Vice President of Nigeria",
-      "Atiku Abubakar",
-      "African Democratic Congress",
-      "President of Nigeria",
-      "Constitution of Nigeria"
-     ],
-     "testo_it": "L'Alta Corte Federale della Nigeria invalida la nomina dell'ex vice presidente Atiku Abubakar come candidato del Congresso Democratico Africano per le elezioni presidenziali del 2027, stabilendo che la leadership del partito era costituita in modo improprio.",
-     "contesto_it": [
-      "Elezioni generali nigeriane (2027)"
-     ]
-    },
-    {
-     "testo": "The Supreme Court of Somalia nullifies the amendments to the country's constitution, ruling that the term of president Hassan Sheikh Mohamud expired on 15 May 2026, while ordering new elections within 90 days.",
-     "contesto": [
-      "Constitutional crisis in Somalia, Controversies of Hassan Sheikh Mohamud"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "AFP via Modern Ghana",
-       "url": "https://www.modernghana.com/news/1542285/somalia-faces-fresh-chaos-as-court-finds-president.html"
-      },
-      {
-       "nome": "Somali Guardian",
-       "url": "https://www.somaliguardian.com/news/somalia-news/somalia-supreme-court-nullifies-constitutional-amendments-orders-elections-90-days/"
-      }
-     ],
-     "link": [
-      "Supreme Court of Somalia",
-      "Somalia",
-      "Constitution of Somalia",
-      "President of Somalia",
-      "Hassan Sheikh Mohamud",
-      "Elections in Somalia"
-     ],
-     "testo_it": "La Corte Suprema della Somalia annulla gli emendamenti alla costituzione del paese, decretando che il mandato del presidente Hassan Sheikh Mohamud è scaduto il 15 maggio 2026, mentre ordina nuove elezioni entro 90 giorni.",
-     "contesto_it": [
-      "Crisi costituzionale in Somalia, polemiche di Hassan Sheikh Mohamud"
-     ]
-    },
-    {
-     "testo": "Belarus sentences Roman Catholic priest Anatoly Parakhnevich to three years in prison for opposing the war in Ukraine.",
-     "contesto": [
-      "Protests against the Russo-Ukrainian war, Belarusian involvement in the Russo-Ukrainian war"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/belarus-catholic-priest-crackdown-lukashenko-ukraine-war-0cbca46fc4d8125dfa53ec626232b11e"
-      }
-     ],
-     "link": [
-      "Belarus",
-      "Catholic Church in Belarus",
-      "Priesthood in the Catholic Church",
-      "Russo-Ukrainian war (2022–present)",
-      "Ukraine"
-     ],
-     "testo_it": "La Bielorussia condanna il sacerdote cattolico romano Anatoly Parakhnevich a tre anni di carcere per essersi opposto alla guerra in Ucraina.",
-     "contesto_it": [
-      "Proteste contro la guerra russo-ucraina, coinvolgimento bielorusso nella guerra russo-ucraina"
-     ]
-    },
-    {
-     "testo": "In golf, professional tour LIV Golf ceases operations after five seasons and liquidates its assets, following bankruptcy proceedings and the withdrawal of financial support from Saudi Arabia's Public Investment Fund and prospective investor BC Partners Credit.",
-     "contesto": [],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "AFP via France 24",
-       "url": "https://www.france24.com/en/live-news/20261105-liv-golf-league-to-shut-down-after-five-years"
-      }
-     ],
-     "link": [
-      "Golf",
-      "Professional golf tours",
-      "LIV Golf",
-      "Liquidate",
-      "Bankruptcy",
-      "Saudi Arabia",
-      "Public Investment Fund",
-      "BC Partners"
-     ],
-     "testo_it": "Nel golf, il tour professionale LIV Golf cessa le operazioni dopo cinque stagioni e liquida le sue attività, a seguito di procedure fallimentari e del ritiro del sostegno finanziario da parte del Fondo di investimento pubblico dell'Arabia Saudita e del potenziale investitore BC Partners Credit."
     }
    ]
   }
