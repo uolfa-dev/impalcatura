@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-12T02:20:10Z",
+ "generato": "2026-11-12T11:27:09Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -9,6 +9,21 @@
   "completa": true
  },
  "itn": [
+  {
+   "testo": "Novaya Gazeta, one of Russia's oldest and most prominent independent newspapers, closes under pressure from the Russian authorities.",
+   "contesto": [],
+   "categoria": "In primo piano",
+   "fonti": [
+    {
+     "nome": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Novaya_Gazeta"
+    }
+   ],
+   "link": [
+    "Novaya Gazeta"
+   ],
+   "testo_it": "Novaya Gazeta, uno dei giornali indipendenti più antichi e importanti della Russia, chiude sotto la pressione delle autorità russe."
+  },
   {
    "testo": "In stock car racing, Kyle Larson wins the NASCAR Cup Series.",
    "contesto": [],
@@ -59,24 +74,6 @@
     "Ueno Bank"
    ],
    "testo_it": "Il presidente del Paraguay Santiago Peña viene messo sotto accusa, arrestato e sostituito dal vicepresidente Pedro Alliana in mezzo a una crisi bancaria che coinvolge Ueno Bank."
-  },
-  {
-   "testo": "In the United States, the Democratic Party wins a majority in both the House of Representatives and the Senate in the midterm elections.",
-   "contesto": [],
-   "categoria": "In primo piano",
-   "fonti": [
-    {
-     "nome": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/2026_United_States_elections"
-    }
-   ],
-   "link": [
-    "Democratic Party (United States)",
-    "United States House of Representatives",
-    "United States Senate",
-    "2026 United States elections"
-   ],
-   "testo_it": "Negli Stati Uniti, il Partito Democratico vince la maggioranza sia alla Camera dei Rappresentanti che al Senato nelle elezioni di medio termine."
   }
  ],
  "giorni": [
@@ -87,6 +84,36 @@
   {
    "data": "2026-11-11",
    "voci": [
+    {
+     "testo": "Israeli attacks kill at least nine Palestinians across Gaza, including five at the Nasser Medical Complex in Khan Younis.",
+     "contesto": [
+      "Gaza war",
+      "Attacks on health facilities during the Gaza war"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza"
+      },
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/middle-east/israeli-strike-southern-gaza-hospital-kills-four-gaza-civil-defence-says-2026-11-11/"
+      }
+     ],
+     "link": [
+      "Israel",
+      "Palestinians",
+      "Gaza Strip",
+      "Nasser Medical Complex",
+      "Khan Younis"
+     ],
+     "testo_it": "Gli attacchi israeliani uccidono almeno nove palestinesi in tutta Gaza, di cui cinque al Nasser Medical Complex di Khan Younis.",
+     "contesto_it": [
+      "Guerra di Gaza",
+      "Attacchi alle strutture sanitarie durante la guerra di Gaza"
+     ]
+    },
     {
      "testo": "At least 22 people are killed by Islamic State-affiliated Allied Democratic Forces rebels across eight locations in Mambasa Territory, Ituri Province, Democratic Republic of the Congo.",
      "contesto": [
@@ -112,12 +139,16 @@
      ]
     },
     {
-     "testo": "Three Central Reserve Police Force (CPRF) personnel are injured after militants open fire on a checkpoint near Mir Bazar in Kulgam district, Jammu and Kashmir, India. Security forces launch a search operation to locate the attackers.",
+     "testo": "Three Central Reserve Police Force personnel are injured after militants open fire on a checkpoint near Mir Bazar in Kulgam district, Jammu and Kashmir, India. Security forces launch a search operation to locate the attackers.",
      "contesto": [
       "Insurgency in Jammu and Kashmir"
      ],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
+      {
+       "nome": "Gulf News",
+       "url": "https://gulfnews.com/world/asia/india/india-terrorists-attack-crpf-personnel-in-jk-3-hurt-1.500743618"
+      },
       {
        "nome": "The Hindu",
        "url": "https://www.thehindu.com/news/national/kulgam-jammu-kashmir-crpf-attack-updates-november-11-2026/article71689037.ece"
@@ -126,10 +157,10 @@
      "link": [
       "Central Reserve Police Force",
       "Kulgam district",
-      "Jammu and Kashmir",
+      "Jammu and Kashmir (union territory)",
       "India"
      ],
-     "testo_it": "Tre membri del personale della Central Reserve Police Force (CPRF) sono rimasti feriti dopo che i militanti hanno aperto il fuoco su un posto di blocco vicino a Mir Bazar nel distretto di Kulgam, Jammu e Kashmir, in India.",
+     "testo_it": "Tre membri della polizia della riserva centrale sono feriti dopo che i militanti hanno aperto il fuoco su un posto di blocco vicino a Mir Bazar nel distretto di Kulgam, Jammu e Kashmir, in India. Le forze di sicurezza lanciano un'operazione di ricerca per individuare gli aggressori.",
      "contesto_it": [
       "Insurrezione in Jammu e Kashmir"
      ]
@@ -158,69 +189,6 @@
      "contesto_it": [
       "Insurrezione a Khyber Pakhtunkhwa"
      ]
-    },
-    {
-     "testo": "Pope Leo XIV departs Argentina and arrives in Peru during his papal trip to South America. Peru unveils a 14 m (46 ft)-tall statue of him, described as the world's tallest.",
-     "contesto": [],
-     "categoria": "Arts and culture",
-     "fonti": [
-      {
-       "nome": "IJR",
-       "url": "https://ijr.com/discover/peru-unveils-world-s-tallest-pope-leo-statue-965b6898"
-      }
-     ],
-     "link": [
-      "Pope",
-      "Leo XIV",
-      "Peru",
-      "Papal travel",
-      "South America"
-     ],
-     "testo_it": "Papa Leone XIV lascia l'Argentina e arriva in Perù durante il suo viaggio papale in Sud America. Il Perù svela una statua alta 14 m (46 piedi) di lui, descritta come la più alta del mondo."
-    },
-    {
-     "testo": "The Kenyan health ministry reports that the country has discharged its last Ebola patient from a hospital in Nairobi after eleven contact cases were treated. Kenya will be declared Ebola-free on December 23 if no one else exhibits symptoms.",
-     "contesto": [
-      "2026 Ebola epidemic"
-     ],
-     "categoria": "Health and environment",
-     "fonti": [
-      {
-       "nome": "DW",
-       "url": "https://www.dw.com/en/kenya-ebola-free-patient-leaves-hospital/a-79921240"
-      }
-     ],
-     "link": [
-      "Kenya",
-      "Ministry of Health (Kenya)",
-      "Ebola",
-      "Nairobi"
-     ],
-     "testo_it": "Il ministero della Sanità keniota riferisce che il paese ha dimesso il suo ultimo paziente con Ebola da un ospedale di Nairobi dopo che undici casi di contatto sono stati trattati. Il Kenya sarà dichiarato libero da Ebola il 23 dicembre se nessun altro esibisce sintomi.",
-     "contesto_it": [
-      "Epidemia di Ebola (2026)"
-     ]
-    },
-    {
-     "testo": "The American ocean liner SS United States is sunk off the coast of Destin–Fort Walton Beach, Florida, United States, to become the world's largest artificial reef.",
-     "contesto": [],
-     "categoria": "Health and environment",
-     "fonti": [
-      {
-       "nome": "Pensacola News Journal",
-       "url": "https://www.pnj.com/story/news/local/escambia-county/2026/11/11/ss-united-states-sinking-nov-11-timeline-and-where-to-watch/92713208007/"
-      }
-     ],
-     "link": [
-      "United States",
-      "Ocean liner",
-      "SS United States",
-      "Destin, Florida",
-      "Fort Walton Beach, Florida",
-      "Florida",
-      "Artificial reef"
-     ],
-     "testo_it": "Il transatlantico americano SS United States è affondato al largo della costa di Destin-Fort Walton Beach, Florida, Stati Uniti, per diventare la più grande barriera corallina artificiale del mondo."
     },
     {
      "testo": "The German cabinet approves draft legislation establishing a strategic natural gas reserve of 24 terawatt-hours, equivalent to approximately 10% of national storage capacity, to maintain gas supplies during emergencies.",
@@ -276,27 +244,125 @@
      ]
     },
     {
-     "testo": "A three-story apartment building partially collapses in Brooklyn, New York City, United States, killed one person and injuring at least four others.",
+     "testo": "Partial 3-story apartment building collapse in Brooklyn, New York City, United States, killing 2 people and injuring at least 10 others. Next ‌to a construction site.",
      "contesto": [],
      "categoria": "Disasters and accidents",
      "fonti": [
       {
-       "nome": "NBC News",
-       "url": "https://www.nbcnews.com/video/at-least-1-person-dead-4-injured-after-a-building-collapse-in-brooklyn-273302597757"
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/one-dead-several-injured-after-new-york-building-collapses"
       },
       {
-       "nome": "AP",
-       "url": "https://apnews.com/article/brooklyn-building-collapse-202ddc195fbf2dcf14e85d004f3ac130"
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/building-collapse-brooklyn-kills-least-one-injures-10-2026-11-12/"
       }
      ],
      "link": [
       "Brooklyn",
-      "New York City"
+      "New York City",
+      "United States"
      ],
-     "testo_it": "Un condominio di tre piani crolla parzialmente a Brooklyn, New York City, negli Stati Uniti, uccidendo una persona e ferendone almeno altre quattro."
+     "testo_it": "Il crollo parziale di un condominio di 3 piani a Brooklyn, New York City, Stati Uniti, ha ucciso 2 persone e ne ha ferite almeno altre 10. Accanto a un cantiere."
     },
     {
-     "testo": "The German defence ministry announces that the armed forces will discontinue using Chinese-made drones for military training and exercises, replacing them with German or other European models to address security concerns.",
+     "testo": "The Kenyan health ministry reports that the country has discharged its last Ebola patient from a hospital in Nairobi after eleven contact cases were treated. Kenya will be declared Ebola-free on December 23 if no one else exhibits symptoms.",
+     "contesto": [
+      "2026 Ebola epidemic"
+     ],
+     "categoria": "Health and environment",
+     "fonti": [
+      {
+       "nome": "DW",
+       "url": "https://www.dw.com/en/kenya-ebola-free-patient-leaves-hospital/a-79921240"
+      }
+     ],
+     "link": [
+      "Kenya",
+      "Ministry of Health (Kenya)",
+      "Ebola",
+      "Nairobi"
+     ],
+     "testo_it": "Il ministero della Sanità keniota riferisce che il paese ha dimesso il suo ultimo paziente con Ebola da un ospedale di Nairobi dopo che undici casi di contatto sono stati trattati. Il Kenya sarà dichiarato libero da Ebola il 23 dicembre se nessun altro esibisce sintomi.",
+     "contesto_it": [
+      "Epidemia di Ebola (2026)"
+     ]
+    },
+    {
+     "testo": "The number of confirmed Ebola cases in the Democratic Republic of the Congo surpasses 11,000, with at least 5,387 deaths, affecting 8 of the country's 26 provinces.",
+     "contesto": [
+      "2026 Ebola epidemic"
+     ],
+     "categoria": "Health and environment",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths"
+      }
+     ],
+     "link": [
+      "Provinces of the Democratic Republic of the Congo"
+     ],
+     "testo_it": "Il numero di casi confermati di Ebola nella Repubblica Democratica del Congo supera 11.000, con almeno 5.387 morti, che colpiscono 8 delle 26 province del paese.",
+     "contesto_it": [
+      "Epidemia di Ebola (2026)"
+     ]
+    },
+    {
+     "testo": "The American ocean liner SS United States is sunk off the coast of Destin–Fort Walton Beach, Florida, United States, to become the world's largest artificial reef.",
+     "contesto": [],
+     "categoria": "Health and environment",
+     "fonti": [
+      {
+       "nome": "Pensacola News Journal",
+       "url": "https://www.pnj.com/story/news/local/escambia-county/2026/11/11/ss-united-states-sinking-nov-11-timeline-and-where-to-watch/92713208007/"
+      },
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/famed-ship-heads-afterlife-artificial-reef-deliberate-sinking-off-florida-2026-11-12/"
+      }
+     ],
+     "link": [
+      "United States",
+      "Ocean liner",
+      "SS United States",
+      "Destin, Florida",
+      "Fort Walton Beach, Florida",
+      "Florida",
+      "Artificial reef"
+     ],
+     "testo_it": "Il transatlantico americano SS United States è affondato al largo della costa di Destin-Fort Walton Beach, Florida, Stati Uniti, per diventare la più grande barriera corallina artificiale del mondo."
+    },
+    {
+     "testo": "Iran designates the Argentinian naval and air forces as terrorist organizations, in response to Argentina designating the Islamic Revolutionary Guard Corps as such in March.",
+     "contesto": [
+      "Argentina–Iran relations"
+     ],
+     "categoria": "International relations",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist"
+      },
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/americas/iran-designates-argentinas-navy-air-force-terrorist-organizations-2026-11-11/"
+      }
+     ],
+     "link": [
+      "Iran",
+      "Argentina",
+      "Argentine Navy",
+      "Argentine Air Force",
+      "List of designated terrorist groups",
+      "Islamic Revolutionary Guard Corps"
+     ],
+     "testo_it": "L'Iran designa le forze navali e aeree argentine come organizzazioni terroristiche, in risposta all'Argentina che designa il Corpo delle Guardie Rivoluzionarie Islamiche come tale a marzo.",
+     "contesto_it": [
+      "Relazioni Argentina-Iran"
+     ]
+    },
+    {
+     "testo": "Germany announces that its military will discontinue using Chinese-made drones for military training and exercises, replacing them with German or other European models to address security concerns.",
      "contesto": [
       "China–Germany relations"
      ],
@@ -312,15 +378,42 @@
       }
      ],
      "link": [
-      "Federal Ministry of Defence (Germany)",
       "Bundeswehr",
       "China",
       "List of unmanned aerial vehicles of China",
       "Cyberwarfare and China"
      ],
-     "testo_it": "Il ministero della Difesa tedesco annuncia che le forze armate interromperanno l'uso di droni di fabbricazione cinese per l'addestramento e le esercitazioni militari, sostituendoli con modelli tedeschi o altri modelli europei per affrontare le preoccupazioni per la sicurezza.",
+     "testo_it": "La Germania annuncia che i suoi militari interromperanno l'uso di droni di fabbricazione cinese per l'addestramento e le esercitazioni militari, sostituendoli con modelli tedeschi o altri modelli europei per affrontare le preoccupazioni per la sicurezza.",
      "contesto_it": [
       "Relazioni Cina-Germania"
+     ]
+    },
+    {
+     "testo": "Russia bans two French lawmakers, Arthur Delaporte and Sacha Houlié, and two journalists, Ariane Chemin and Paul Gogo, from entering the country for allegedly harassing Xenia Fedorova, the head of RT France, from 2017 to 2023.",
+     "contesto": [
+      "France–Russia relations"
+     ],
+     "categoria": "International relations",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/11/russia-bans-two-french-lawmakers-two-journalists-in-tit-for-tat-move"
+      }
+     ],
+     "link": [
+      "Russia",
+      "France",
+      "National Assembly (France)",
+      "Arthur Delaporte",
+      "Sacha Houlié",
+      "Mass media in France",
+      "Ariane Chemin",
+      "Xenia Fedorova",
+      "RT en Français"
+     ],
+     "testo_it": "La Russia vieta a due legislatori francesi, Arthur Delaporte e Sacha Houlié, e a due giornalisti, Ariane Chemin e Paul Gogo, di entrare nel paese per aver presumibilmente molestato Xenia Fedorova, il capo di RT France, dal 2017 al 2023.",
+     "contesto_it": [
+      "Relazioni Francia-Russia"
      ]
     },
     {
@@ -347,24 +440,6 @@
      "contesto_it": [
       "Relazioni Kenya-Sudan"
      ]
-    },
-    {
-     "testo": "The Russian foreign ministry announces that Russian ambassador to the United States Alexander Darchiev has died of a chronic illness.",
-     "contesto": [],
-     "categoria": "International relations",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/russian-ambassador-us-dies-foreign-ministry-says-2026-11-11/"
-      }
-     ],
-     "link": [
-      "Ministry of Foreign Affairs (Russia)",
-      "Ambassador of Russia to the United States",
-      "Alexander Darchiev",
-      "Chronic condition"
-     ],
-     "testo_it": "Il ministero degli Esteri russo annuncia che l'ambasciatore russo negli Stati Uniti Alexander Darchiev è morto per una malattia cronica."
     },
     {
      "testo": "More than 6,000 schools across Italy are evacuated following bomb threats.",
@@ -418,7 +493,7 @@
      ]
     },
     {
-     "testo": "Former Red Brigades member Leonardo Bertulazzi escapes house arrest in Buenos Aires, Argentina, while awaiting extradition to Italy to serve a 27-year prison sentence for kidnapping and membership in an armed group. Argentine security forces launch search operations for him.",
+     "testo": "Former Red Brigades member Leonardo Bertulazzi escapes house arrest in Buenos Aires, Argentina, while awaiting extradition to Italy to serve a 27-year prison sentence for kidnapping and membership in an armed group. Argentine security forces launch a manhunt for him.",
      "contesto": [],
      "categoria": "Law and crime",
      "fonti": [
@@ -434,19 +509,23 @@
       "Argentina",
       "Extradition",
       "Italy",
-      "Law enforcement in Argentina"
+      "Law enforcement in Argentina",
+      "Manhunt (law enforcement)"
      ],
      "testo_it": "L'ex membro delle Brigate Rosse Leonardo Bertulazzi fugge dagli arresti domiciliari a Buenos Aires, in Argentina, in attesa dell'estradizione in Italia per scontare una pena detentiva di 27 anni per rapimento e appartenenza a un gruppo armato."
     },
     {
-     "testo": "After a week of counting affidavit ballots, CNN and The Associated Press project the election to the U.S. Senate in Mississippi for Democratic candidate Scott Colom, defeating the incumbent Republican Cindy Hyde-Smith and becoming the first black senator from the state since Blanche Bruce in the 1874–75 United States Senate elections.",
+     "testo": "After a week of counting affidavit ballots, the Associated Press and CNN project the election to the U.S. Senate in Mississippi for Democratic candidate Scott Colom, defeating the incumbent Republican Cindy Hyde-Smith and becoming the first black senator from the state since Blanche Bruce in the 1874–75 elections.",
      "contesto": [
-      "2026 United States elections",
       "2026 United States Senate elections",
       "2026 United States Senate election in Mississippi"
      ],
      "categoria": "Politics and elections",
      "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/mississippi-democrat-flips-us-senate-seat-stunning-upset"
+      },
       {
        "nome": "AP",
        "url": "https://apnews.com/live/trump-congress-midterm-elections-politics-news-updates-11-11-2026"
@@ -458,20 +537,21 @@
      ],
      "link": [
       "Affidavit ballot",
+      "Associated Press",
       "CNN",
-      "The Associated Press",
       "U.S. Senate",
       "Mississippi",
       "Democratic Party (United States)",
       "Scott Colom",
       "Republican Party (United States)",
       "Cindy Hyde-Smith",
+      "List of African-American United States senators",
+      "U.S. state",
       "Blanche Bruce",
       "1874–75 United States Senate elections"
      ],
-     "testo_it": "Dopo una settimana di conteggio delle schede giurate, la CNN e l'Associated Press proiettano l'elezione al Senato degli Stati Uniti in Mississippi per il candidato democratico Scott Colom, sconfiggendo l'incumbente Repubblicana Cindy Hyde-Smith e diventando il primo senatore nero dallo stato dopo Blanche Bruce nelle elezioni del Senato degli Stati Uniti 1874-75.",
+     "testo_it": "Dopo una settimana di voti giurati, l'Associated Press e la CNN proiettano le elezioni al Senato degli Stati Uniti in Mississippi per il candidato democratico Scott Colom, sconfiggendo l'incumbente repubblicana Cindy Hyde-Smith e diventando il primo senatore nero dallo stato dopo Blanche Bruce nelle elezioni del 1874-75.",
      "contesto_it": [
-      "Elezioni negli Stati Uniti (2026)",
       "Elezioni al Senato degli Stati Uniti (2026)",
       "Elezioni al Senato degli Stati Uniti in Mississippi (2026)"
      ]
@@ -504,6 +584,60 @@
      ]
     },
     {
+     "testo": "Millions of workers across Spain launch a general strike to demand government intervention over the country's housing crisis, as an escalation of the ongoing protests.",
+     "contesto": [
+      "2026 Spanish housing protests"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins"
+      },
+      {
+       "nome": "El País",
+       "url": "https://english.elpais.com/spain/2026-11-11/spains-unions-call-the-first-general-strike-in-14-years.html"
+      }
+     ],
+     "link": [
+      "Spain",
+      "General strike",
+      "Government of Spain",
+      "Housing crisis",
+      "2026 Spanish housing protests"
+     ],
+     "testo_it": "Milioni di lavoratori in tutta la Spagna lanciano uno sciopero generale per chiedere l'intervento del governo sulla crisi abitativa del paese, come un'escalation delle proteste in corso.",
+     "contesto_it": [
+      "Proteste immobiliari spagnole (2026)"
+     ]
+    },
+    {
+     "testo": "Indonesian vice president Gibran Rakabuming Raka submits his resignation amid questions about his educational qualifications. Bloomberg News reports that President Prabowo Subianto accepts the resignation, although the government has not publicly confirmed its acceptance.",
+     "contesto": [
+      "Gibran Rakabuming Raka diploma controversy"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/asia-pacific/indonesias-vice-president-has-resigned-three-political-sources-say-2026-11-11/"
+      }
+     ],
+     "link": [
+      "Indonesia",
+      "Vice President of Indonesia",
+      "Gibran Rakabuming Raka",
+      "Bloomberg News",
+      "President of Indonesia",
+      "Prabowo Subianto",
+      "Government of Indonesia"
+     ],
+     "testo_it": "Il vicepresidente indonesiano Gibran Rakabuming Raka presenta le sue dimissioni tra le domande sulle sue qualifiche educative. Bloomberg News riferisce che il presidente Prabowo Subianto accetta le dimissioni, anche se il governo non ha confermato pubblicamente la sua accettazione.",
+     "contesto_it": [
+      "Gibran Rakabuming Raka diploma polemica"
+     ]
+    },
+    {
      "testo": "Polish president Karol Nawrocki and at least 500,000 people participate in the annual patriotic march celebrating the National Independence Day in Warsaw, Poland.",
      "contesto": [
       "Independence March"
@@ -529,17 +663,43 @@
      ]
     },
     {
+     "testo": "The Romanian Intelligence Service (SRI) reports that it stopped a December 2025 cyberattack against an unidentified government institution, attributing it to the Russia-linked trojan package Turla. The SRI finds no evidence that sensitive information was stolen.",
+     "contesto": [
+      "Cyberwarfare by Russia"
+     ],
+     "categoria": "Science and technology",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/technology/romanian-intelligence-agency-says-it-identified-russian-linked-cyber-attack-2026-11-11/"
+      }
+     ],
+     "link": [
+      "Romania",
+      "Romanian Intelligence Service",
+      "Cyberattack",
+      "Government of Romania",
+      "Russia",
+      "Trojan horse (computing)",
+      "Turla (malware)"
+     ],
+     "testo_it": "Il servizio di intelligence rumeno (SRI) riferisce di aver fermato un attacco informatico del dicembre 2025 contro un'istituzione governativa non identificata, attribuendolo al pacchetto trojan collegato alla Russia Turla.",
+     "contesto_it": [
+      "La guerra cibernetica in Russia"
+     ]
+    },
+    {
      "testo": "Cybersecurity firm CloudSek reports that the Kazakhstan-linked hacker group Silent Lynx used an autonomous agent to breach Tajikistan's government database and steal more than 2,000 national security-related documents.",
      "contesto": [],
      "categoria": "Science and technology",
      "fonti": [
       {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/legal/government/kazakhstan-linked-hackers-used-ai-steal-tajik-government-documents-researchers-2026-11-11/"
-      },
-      {
        "nome": "The Record",
        "url": "https://therecord.media/suspected-kazakhstan-phishing-central-asia-espionage"
+      },
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/legal/government/kazakhstan-linked-hackers-used-ai-steal-tajik-government-documents-researchers-2026-11-11/"
       }
      ],
      "link": [
@@ -554,12 +714,16 @@
      "testo_it": "La società di sicurezza informatica CloudSek riferisce che il gruppo di hacker collegato al Kazakistan Silent Lynx ha utilizzato un agente autonomo per violare il database governativo del Tagikistan e rubare più di 2.000 documenti relativi alla sicurezza nazionale."
     },
     {
-     "testo": "The United States men's national under-17 soccer team withdraws from the upcoming FIFA U-17 World Cup in Qatar, citing safety concerns.",
+     "testo": "The United States men's national under-17 soccer team withdraws from the upcoming FIFA U-17 World Cup in Qatar, citing safety concerns related to the Houthi–Saudi conflict.",
      "contesto": [
       "2026 FIFA U-17 World Cup"
      ],
      "categoria": "Sports",
      "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/us-withdraws-u17-world-cup-qatar-over-security-fears"
+      },
       {
        "nome": "ESPN",
        "url": "https://www.espn.com/soccer/story/_/id/50455133/usa-fifa-mens-u17-world-cup-qatar-safety"
@@ -568,9 +732,10 @@
      "link": [
       "United States men's national under-17 soccer team",
       "FIFA U-17 World Cup",
-      "Qatar"
+      "Qatar",
+      "Houthi–Saudi conflict"
      ],
-     "testo_it": "La nazionale di calcio maschile degli Stati Uniti Under 17 si ritira dalla prossima Coppa del Mondo FIFA U-17 in Qatar, citando preoccupazioni per la sicurezza.",
+     "testo_it": "La nazionale maschile degli Stati Uniti under-17 si ritira dalla prossima Coppa del Mondo FIFA U-17 in Qatar, citando preoccupazioni per la sicurezza legate al conflitto Houthi-saudita.",
      "contesto_it": [
       "Coppa del Mondo FIFA U-17 (2026)"
      ]
