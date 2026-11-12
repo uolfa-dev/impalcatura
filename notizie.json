@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-12T11:27:09Z",
+ "generato": "2026-11-12T20:01:56Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -9,6 +9,23 @@
   "completa": true
  },
  "itn": [
+  {
+   "testo": "In literature, The End of Everything by M. John Harrison wins the Booker Prize.",
+   "contesto": [],
+   "categoria": "In primo piano",
+   "fonti": [
+    {
+     "nome": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_End_of_Everything_(Harrison_novel)"
+    }
+   ],
+   "link": [
+    "The End of Everything (Harrison novel)",
+    "M. John Harrison",
+    "Booker Prize"
+   ],
+   "testo_it": "In letteratura, The End of Everything di M. John Harrison vince il Booker Prize."
+  },
   {
    "testo": "Novaya Gazeta, one of Russia's oldest and most prominent independent newspapers, closes under pressure from the Russian authorities.",
    "contesto": [],
@@ -56,36 +73,188 @@
     "Kraków"
    ],
    "testo_it": "Una sparatoria di massa nella piazza principale di Cracovia, in Polonia, lascia sei morti e altri sedici feriti."
-  },
-  {
-   "testo": "President of Paraguay Santiago Peña is impeached, arrested, and replaced by Vice President Pedro Alliana amid a banking crisis involving Ueno Bank.",
-   "contesto": [],
-   "categoria": "In primo piano",
-   "fonti": [
-    {
-     "nome": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/2026_Paraguay_banking_crisis"
-    }
-   ],
-   "link": [
-    "Santiago Peña",
-    "Pedro Alliana",
-    "2026 Paraguay banking crisis",
-    "Ueno Bank"
-   ],
-   "testo_it": "Il presidente del Paraguay Santiago Peña viene messo sotto accusa, arrestato e sostituito dal vicepresidente Pedro Alliana in mezzo a una crisi bancaria che coinvolge Ueno Bank."
   }
  ],
  "giorni": [
   {
    "data": "2026-11-12",
-   "voci": []
+   "voci": [
+    {
+     "testo": "At least 10 people, including five with gunshot wounds, are injured in Munshiganj Sadar, Bangladesh during a clash involving gunfire and crude bomb explosions between two factions of the ruling Bangladesh Nationalist Party.",
+     "contesto": [],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "The Business Standard",
+       "url": "https://www.tbsnews.net/bangladesh/10-injured-five-shot-rival-bnp-factions-clash-munshiganj-1600101"
+      }
+     ],
+     "link": [
+      "Munshiganj Sadar Upazila",
+      "Bangladesh",
+      "Bangladesh Nationalist Party"
+     ],
+     "testo_it": "Almeno 10 persone, tra cui cinque con ferite da arma da fuoco, sono rimaste ferite a Munshiganj Sadar, in Bangladesh, durante uno scontro che ha coinvolto spari e esplosioni di bombe crude tra due fazioni del partito nazionalista al governo del Bangladesh."
+    },
+    {
+     "testo": "Jensen Huang resigns as chief executive officer (CEO) and president of Nvidia and leaves the company's board following reports of two extramarital affairs, including one involving a suspected Chinese intelligence agent. Chief financial officer Colette Kress becomes interim CEO.",
+     "contesto": [
+      "Nvidia alleged spying scandal"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/nvidia-ceo-jensen-huang-resigns"
+      },
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/"
+      }
+     ],
+     "link": [
+      "Jensen Huang",
+      "Chief executive officer",
+      "Nvidia",
+      "Board of directors",
+      "Extramarital affair",
+      "China",
+      "Chinese intelligence activity abroad",
+      "Chief financial officer",
+      "Colette Kress"
+     ],
+     "testo_it": "Jensen Huang si dimette da amministratore delegato (CEO) e presidente di Nvidia e lascia il consiglio di amministrazione della società a seguito di rapporti di due affari extraconiugali, tra cui uno che coinvolge un sospetto agente di intelligence cinese.",
+     "contesto_it": [
+      "Nvidia accusato di spionaggio scandalo"
+     ]
+    },
+    {
+     "testo": "Fourteen people are killed and 30 more injured in a multiple-vehicle collision involving 18 cars and five trucks in the Emirate of Fujairah, United Arab Emirates.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident"
+      }
+     ],
+     "link": [
+      "Multiple-vehicle collision",
+      "Emirate of Fujairah",
+      "United Arab Emirates"
+     ],
+     "testo_it": "Quattordici persone vengono uccise e altre 30 ferite in una collisione a più veicoli che coinvolge 18 auto e cinque camion nell'emirato di Fujairah, negli Emirati Arabi Uniti."
+    },
+    {
+     "testo": "Four more children in Bangladesh are reported to be killed from measles, bringing the death toll past 1,299.",
+     "contesto": [
+      "2026 Bangladesh measles outbreak"
+     ],
+     "categoria": "Health and environment",
+     "fonti": [
+      {
+       "nome": "BSS",
+       "url": "https://www.bssnews.net/news/445020"
+      }
+     ],
+     "link": [
+      "Bangladesh",
+      "Measles"
+     ],
+     "testo_it": "Altri quattro bambini in Bangladesh sono stati uccisi dal morbillo, portando il bilancio delle vittime oltre 1.299.",
+     "contesto_it": [
+      "Bangladesh focolaio di morbillo (2026)"
+     ]
+    },
+    {
+     "testo": "A British court convicts two Iranian men of spying on journalists from London-based broadcaster Iran International. One of them is also convicted of preparing a violent attack, while a third defendant is acquitted.",
+     "contesto": [
+      "Iranian external operations"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "AFP via RFI",
+       "url": "https://www.rfi.fr/en/middle-east/20261112-iran-pair-guilty-of-spying-on-london-based-journalists-for-tehran"
+      },
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/britain-iran-spying-tehran-sepahvand-manesh-journalists-273c38362d3c0a0e8ece8a2075442dd0"
+      }
+     ],
+     "link": [
+      "United Kingdom",
+      "Judiciaries of the United Kingdom",
+      "Iran",
+      "Espionage",
+      "Mass media in the United Kingdom",
+      "London",
+      "Iran International",
+      "Terrorism in the United Kingdom"
+     ],
+     "testo_it": "Un tribunale britannico condanna due iraniani a spiare i giornalisti dell'emittente iraniana con sede a Londra, uno dei quali è anche condannato per aver preparato un attacco violento, mentre un terzo imputato è assolto.",
+     "contesto_it": [
+      "Operazioni esterne iraniane"
+     ]
+    },
+    {
+     "testo": "At least five people are shot, including one fatally, in Logan Circle, Washington D.C., United States. The suspected gunman later kills himself after barricading himself from police inside a nearby apartment.",
+     "contesto": [
+      "Mass shootings in the United States"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/12/police-say-at-least-five-people-shot-at-busy-thoroughfare-in-washington-dc"
+      },
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/dc-shooting-logan-circle-3cee6a4ada875fcc18e932e536c63dcd"
+      }
+     ],
+     "link": [
+      "Logan Circle (Washington, D.C.)",
+      "Washington D.C.",
+      "United States",
+      "Metropolitan Police Department of the District of Columbia"
+     ],
+     "testo_it": "Almeno cinque persone vengono fucilate, di cui una mortalmente, a Logan Circle, Washington D.C., Stati Uniti. Il sospetto uomo armato si uccide in seguito dopo essersi barricato dalla polizia all'interno di un appartamento vicino.",
+     "contesto_it": [
+      "Sparatorie di massa negli Stati Uniti"
+     ]
+    }
+   ]
   },
   {
    "data": "2026-11-11",
    "voci": [
     {
-     "testo": "Israeli attacks kill at least nine Palestinians across Gaza, including five at the Nasser Medical Complex in Khan Younis.",
+     "testo": "Iran attacks ship navigation systems on Didamar Island, Oman. Unknown damage is caused.",
+     "contesto": [
+      "2026 Iran war",
+      "2026 Iranian strikes on Oman"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/middle-east/iran-attacks-shipping-navigation-systems-omans-didamar-island-sources-say-2026-11-11/"
+      }
+     ],
+     "link": [
+      "Iran",
+      "Ship navigation",
+      "Oman"
+     ],
+     "testo_it": "L'Iran attacca i sistemi di navigazione delle navi sull'isola di Didamar, in Oman.",
+     "contesto_it": [
+      "Guerra in Iran (2026)",
+      "Scioperi iraniani sull'Oman (2026)"
+     ]
+    },
+    {
+     "testo": "Israel launches an airstrike against the Nasser Medical Complex in Khan Younis, killing six Palestinians, including a surgeon, and wounding over 20 more. Four more people are also killed in other airstrikes in the Gaza Strip.",
      "contesto": [
       "Gaza war",
       "Attacks on health facilities during the Gaza war"
@@ -103,12 +272,13 @@
      ],
      "link": [
       "Israel",
-      "Palestinians",
-      "Gaza Strip",
+      "Airstrike",
       "Nasser Medical Complex",
-      "Khan Younis"
+      "Khan Younis",
+      "Palestinians",
+      "Gaza Strip"
      ],
-     "testo_it": "Gli attacchi israeliani uccidono almeno nove palestinesi in tutta Gaza, di cui cinque al Nasser Medical Complex di Khan Younis.",
+     "testo_it": "Israele lancia un attacco aereo contro il complesso medico di Nasser a Khan Younis, uccidendo sei palestinesi, tra cui un chirurgo, e ferendone altri 20. Altre quattro persone vengono uccise anche in altri attacchi aerei nella Striscia di Gaza.",
      "contesto_it": [
       "Guerra di Gaza",
       "Attacchi alle strutture sanitarie durante la guerra di Gaza"
@@ -166,7 +336,7 @@
      ]
     },
     {
-     "testo": "Ten police personnel, including two senior officers, are killed in a clash after insurgents ambushed police vehicles in Kohat District, Khyber Pakhtunkhwa, Pakistan. The Pakistani Taliban claims responsibility for the attack.",
+     "testo": "Pakistani Taliban carries out an ambush against police personnel in Kohat District, Khyber Pakhtunkhwa, Pakistan, killing ten officers. Eighteen gunmen are also killed in the ensuing shootout.",
      "contesto": [
       "Insurgency in Khyber Pakhtunkhwa"
      ],
@@ -178,14 +348,15 @@
       }
      ],
      "link": [
-      "Khyber Pakhtunkhwa Police",
+      "Pakistani Taliban",
       "Ambush",
+      "Khyber Pakhtunkhwa Police",
       "Kohat District",
       "Khyber Pakhtunkhwa",
       "Pakistan",
-      "Pakistani Taliban"
+      "Shootout"
      ],
-     "testo_it": "Dieci agenti di polizia, tra cui due alti ufficiali, vengono uccisi in uno scontro dopo che gli insorti hanno teso un'imboscata ai veicoli della polizia nel distretto di Kohat, Khyber Pakhtunkhwa, Pakistan.",
+     "testo_it": "I talebani pakistani compiono un'imboscata contro il personale di polizia nel distretto di Kohat, Khyber Pakhtunkhwa, in Pakistan, uccidendo dieci ufficiali. Diciotto uomini armati vengono uccisi anche nella successiva sparatoria.",
      "contesto_it": [
       "Insurrezione a Khyber Pakhtunkhwa"
      ]
@@ -213,6 +384,29 @@
      "testo_it": "Il governo tedesco approva il progetto di legge che istituisce una riserva strategica di gas naturale di 24 terawatt-ora, pari a circa il 10% della capacità di stoccaggio nazionale, per mantenere le forniture di gas durante le emergenze.",
      "contesto_it": [
       "Crisi dei combustibili da guerra in Iran (2026), crisi economica tedesca"
+     ]
+    },
+    {
+     "testo": "The Central Bank of Paraguay reports providing partial refunds to 1,812,348 eligible Ueno Bank depositors following the Ueno's collapse.",
+     "contesto": [
+      "2026 Paraguay banking crisis"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "France 24",
+       "url": "https://www.france24.com/en/americas/20261112-paraguay-partially-refunds-ueno-bank-depositors-after-collapse"
+      }
+     ],
+     "link": [
+      "Central Bank of Paraguay",
+      "Paraguay",
+      "Ueno Bank",
+      "Depositor"
+     ],
+     "testo_it": "La Banca Centrale del Paraguay riferisce di aver fornito rimborsi parziali a 1.812.348 depositanti idonei della Ueno Bank in seguito al crollo della Ueno.",
+     "contesto_it": [
+      "Paraguay crisi bancaria (2026)"
      ]
     },
     {
@@ -244,13 +438,15 @@
      ]
     },
     {
-     "testo": "Partial 3-story apartment building collapse in Brooklyn, New York City, United States, killing 2 people and injuring at least 10 others. Next ‌to a construction site.",
-     "contesto": [],
+     "testo": "A 3-story apartment building collapses near a construction site in Brooklyn, New York City, United States, killing eight people and wounding 19 more.",
+     "contesto": [
+      "2026 New York City building collapse"
+     ],
      "categoria": "Disasters and accidents",
      "fonti": [
       {
        "nome": "AFP",
-       "url": "https://www.afp.com/en/one-dead-several-injured-after-new-york-building-collapses"
+       "url": "https://www.afp.com/en/eight-dead-new-york-building-collapse"
       },
       {
        "nome": "Reuters",
@@ -258,11 +454,15 @@
       }
      ],
      "link": [
+      "2026 New York City building collapse",
       "Brooklyn",
       "New York City",
       "United States"
      ],
-     "testo_it": "Il crollo parziale di un condominio di 3 piani a Brooklyn, New York City, Stati Uniti, ha ucciso 2 persone e ne ha ferite almeno altre 10. Accanto a un cantiere."
+     "testo_it": "Un condominio di 3 piani crolla vicino a un cantiere a Brooklyn, New York City, Stati Uniti, uccidendo otto persone e ferendone altre 19.",
+     "contesto_it": [
+      "Il crollo dell'edificio di New York City (2026)"
+     ]
     },
     {
      "testo": "The Kenyan health ministry reports that the country has discharged its last Ebola patient from a hospital in Nairobi after eleven contact cases were treated. Kenya will be declared Ebola-free on December 23 if no one else exhibits symptoms.",
@@ -925,22 +1125,25 @@
      "testo_it": "L'Autorità Monetaria di Singapore lancia un servizio di riserva d'oro per le banche centrali estere, le istituzioni finanziarie internazionali e le entità sovrane e annuncia esenzioni fiscali ampliate per i servizi di oro all'ingrosso."
     },
     {
-     "testo": "Twelve people are killed and at least 46 others are seriously injured in a multiple-vehicle collision involving over 50 trucks and cars on the Trakia A1 motorway near Yambol, Bulgaria.",
+     "testo": "Eleven people are killed and at least 50 others are seriously injured in a multiple-vehicle collision involving 86 trucks and cars [bg] on the Trakia A1 motorway near Yambol, Bulgaria.",
      "contesto": [],
      "categoria": "Disasters and accidents",
      "fonti": [
       {
        "nome": "Al Jazeera",
        "url": "https://www.aljazeera.com/news/2026/11/10/at-least-12-people-killed-in-motorway-crash-in-southeastern-bulgaria"
+      },
+      {
+       "nome": "Plovdiv24",
+       "url": "https://www.plovdiv24.bg/novini/Bylgaria/Dron-zasne-nevizhdanite-mashtabi-na-tragediyata-na-AM-Trakiya-86-koli-i-kamioni-11-zhertvi-i-50-raneni-3054257"
       }
      ],
      "link": [
-      "Multiple-vehicle collision",
       "Trakia motorway",
       "Yambol",
       "Bulgaria"
      ],
-     "testo_it": "Dodici persone vengono uccise e almeno altre 46 sono gravemente ferite in una collisione a più veicoli che coinvolge oltre 50 camion e auto sull'autostrada Trakia A1 vicino a Yambol, in Bulgaria."
+     "testo_it": "Undici persone vengono uccise e almeno altre 50 sono gravemente ferite in una collisione a più veicoli che coinvolge 86 camion e auto [bg] sull'autostrada Trakia A1 vicino a Yambol, in Bulgaria."
     },
     {
      "testo": "Five schoolgirls are killed and 21 others are injured when a school bus plunges into a pond in Kandal province, Cambodia.",
@@ -1698,6 +1901,25 @@
      ]
     },
     {
+     "testo": "At least 10 people are injured in Araihazar, Narayanganj, Bangladesh, during a clash between two factions of the Bangladesh Nationalist Party at a National Revolution and Solidarity Day program.",
+     "contesto": [],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Prothom Alo in Bengali",
+       "url": "https://www.prothomalo.com/bangladesh/district/ihc0h3av1v"
+      }
+     ],
+     "link": [
+      "Araihazar Upazila",
+      "Narayanganj District",
+      "Bangladesh",
+      "Bangladesh Nationalist Party",
+      "National Revolution and Solidarity Day"
+     ],
+     "testo_it": "Almeno 10 persone sono rimaste ferite ad Araihazar, Narayanganj, Bangladesh, durante uno scontro tra due fazioni del Partito Nazionalista del Bangladesh in occasione di un programma di Giornata della Rivoluzione Nazionale e della Solidarietà."
+    },
+    {
      "testo": "NVIDIA announces it is opening an investigation into CEO Jensen Huang after American intelligence reported that a close associate of Huang was a spy for China. Huang admitted to an extramarital affair with the associate in a letter to the company earlier in the day.",
      "contesto": [
       "Nvidia alleged spying scandal"
@@ -2222,6 +2444,25 @@
      "contesto_it": [
       "Conflitto bandito nigeriano"
      ]
+    },
+    {
+     "testo": "At least 12 people are injured in Jamalganj, Sunamganj, Bangladesh, during a clash between two factions of the Bangladesh Nationalist Party at a National Revolution and Solidarity Day program.",
+     "contesto": [],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "The Business Standard",
+       "url": "https://www.tbsnews.net/bangladesh/12-injured-bnp-factions-clash-over-7-november-programmes-sunamganj-1595606"
+      }
+     ],
+     "link": [
+      "Jamalganj Upazila",
+      "Sunamganj District",
+      "Bangladesh",
+      "Bangladesh Nationalist Party",
+      "National Revolution and Solidarity Day"
+     ],
+     "testo_it": "Almeno 12 persone sono rimaste ferite a Jamalganj, Sunamganj, Bangladesh, durante uno scontro tra due fazioni del Partito Nazionalista del Bangladesh in occasione di un programma di Giornata della Rivoluzione Nazionale e della Solidarietà."
     },
     {
      "testo": "Twenty-one people are killed and one person has been rescued after a migrant boat sinks off the coast of Kebemer, Louga region, Senegal.",
