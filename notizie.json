@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-12T20:01:56Z",
+ "generato": "2026-11-13T01:54:37Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -10,7 +10,7 @@
  },
  "itn": [
   {
-   "testo": "In literature, The End of Everything by M. John Harrison wins the Booker Prize.",
+   "testo": "The End of Everything by M. John Harrison wins the Booker Prize.",
    "contesto": [],
    "categoria": "In primo piano",
    "fonti": [
@@ -24,7 +24,7 @@
     "M. John Harrison",
     "Booker Prize"
    ],
-   "testo_it": "In letteratura, The End of Everything di M. John Harrison vince il Booker Prize."
+   "testo_it": "La fine di tutto di M. John Harrison vince il Booker Prize."
   },
   {
    "testo": "Novaya Gazeta, one of Russia's oldest and most prominent independent newspapers, closes under pressure from the Russian authorities.",
@@ -77,10 +77,14 @@
  ],
  "giorni": [
   {
+   "data": "2026-11-13",
+   "voci": []
+  },
+  {
    "data": "2026-11-12",
    "voci": [
     {
-     "testo": "At least 10 people, including five with gunshot wounds, are injured in Munshiganj Sadar, Bangladesh during a clash involving gunfire and crude bomb explosions between two factions of the ruling Bangladesh Nationalist Party.",
+     "testo": "At least 10 people, including five with gunshot wounds, are injured in Munshiganj Sadar, Bangladesh, during a clash involving gunfire and crude bomb explosions between two factions of the ruling Bangladesh Nationalist Party.",
      "contesto": [],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
@@ -97,9 +101,34 @@
      "testo_it": "Almeno 10 persone, tra cui cinque con ferite da arma da fuoco, sono rimaste ferite a Munshiganj Sadar, in Bangladesh, durante uno scontro che ha coinvolto spari e esplosioni di bombe crude tra due fazioni del partito nazionalista al governo del Bangladesh."
     },
     {
+     "testo": "Salvadoran and Haitian soldiers take control of the Stade Sylvio Cator in Port-au-Prince after two years of gang control.",
+     "contesto": [
+      "Haitian conflict",
+      "Salvadoran military intervention in Haiti"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "El Mundo",
+       "url": "https://diario.elmundo.sv/politica/bukele-lanza-ultimatum-a-pandillas-haitianas-tras-recuperar-estadio"
+      }
+     ],
+     "link": [
+      "El Salvador",
+      "Haiti",
+      "Stade Sylvio Cator",
+      "Port-au-Prince"
+     ],
+     "testo_it": "Soldati salvadoregni e haitiani prendono il controllo dello Stade Sylvio Cator a Port-au-Prince dopo due anni di controllo delle bande.",
+     "contesto_it": [
+      "Conflitto haitiano",
+      "Intervento militare salvadoregno ad Haiti"
+     ]
+    },
+    {
      "testo": "Jensen Huang resigns as chief executive officer (CEO) and president of Nvidia and leaves the company's board following reports of two extramarital affairs, including one involving a suspected Chinese intelligence agent. Chief financial officer Colette Kress becomes interim CEO.",
      "contesto": [
-      "Nvidia alleged spying scandal"
+      "Jensen Huang spying scandal"
      ],
      "categoria": "Business and economy",
      "fonti": [
@@ -125,8 +154,44 @@
      ],
      "testo_it": "Jensen Huang si dimette da amministratore delegato (CEO) e presidente di Nvidia e lascia il consiglio di amministrazione della società a seguito di rapporti di due affari extraconiugali, tra cui uno che coinvolge un sospetto agente di intelligence cinese.",
      "contesto_it": [
-      "Nvidia accusato di spionaggio scandalo"
+      "Jensen Huang spia lo scandalo"
      ]
+    },
+    {
+     "testo": "Huang is accused of having a third \"intimate relationship\" with a second Nvidia employee.",
+     "contesto": [
+      "Jensen Huang spying scandal"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/"
+      }
+     ],
+     "link": [],
+     "testo_it": "Huang è accusato di avere una terza “relazione intima” con un secondo dipendente di Nvidia.",
+     "contesto_it": [
+      "Jensen Huang spia lo scandalo"
+     ]
+    },
+    {
+     "testo": "A major outage impacts multiple Microsoft services including Microsoft 365, Copilot and Teams.",
+     "contesto": [],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "BBC News",
+       "url": "https://www.bbc.com/news/articles/c5gm3g9ldz8xo"
+      }
+     ],
+     "link": [
+      "Microsoft",
+      "Microsoft 365",
+      "Microsoft Copilot",
+      "Microsoft Teams"
+     ],
+     "testo_it": "Un'interruzione importante ha un impatto su più servizi Microsoft, tra cui Microsoft 365, Copilot e Teams."
     },
     {
      "testo": "Fourteen people are killed and 30 more injured in a multiple-vehicle collision involving 18 cars and five trucks in the Emirate of Fujairah, United Arab Emirates.",
@@ -144,6 +209,39 @@
       "United Arab Emirates"
      ],
      "testo_it": "Quattordici persone vengono uccise e altre 30 ferite in una collisione a più veicoli che coinvolge 18 auto e cinque camion nell'emirato di Fujairah, negli Emirati Arabi Uniti."
+    },
+    {
+     "testo": "Ten people are killed and five more injured as a bus crashes in to a slope in Bhimphedi, Nepal.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/nepal-van-accident-tihar-mountain-road-5a40f5b0091d0189f9185fbb833eb652"
+      }
+     ],
+     "link": [
+      "Slope",
+      "Bhimphedi",
+      "Nepal"
+     ],
+     "testo_it": "Dieci persone vengono uccise e altre cinque ferite mentre un autobus si schianta su un pendio a Bhimphedi, in Nepal."
+    },
+    {
+     "testo": "A military helicopter crashes on the ground in Samankoy, Turkey, killing four soldiers.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/helicopter-crash-s70-malatya-3f86266878442b826fc592e49fe2caee"
+      }
+     ],
+     "link": [
+      "Turkey",
+      "Turkish Armed Forces"
+     ],
+     "testo_it": "Un elicottero militare si schianta a terra a Samankoy, in Turchia, uccidendo quattro soldati."
     },
     {
      "testo": "Four more children in Bangladesh are reported to be killed from measles, bringing the death toll past 1,299.",
@@ -232,6 +330,7 @@
     {
      "testo": "Iran attacks ship navigation systems on Didamar Island, Oman. Unknown damage is caused.",
      "contesto": [
+      "Middle Eastern crisis",
       "2026 Iran war",
       "2026 Iranian strikes on Oman"
      ],
@@ -245,10 +344,12 @@
      "link": [
       "Iran",
       "Ship navigation",
+      "As Salamah Archipelago",
       "Oman"
      ],
      "testo_it": "L'Iran attacca i sistemi di navigazione delle navi sull'isola di Didamar, in Oman.",
      "contesto_it": [
+      "Crisi del Medio Oriente",
       "Guerra in Iran (2026)",
       "Scioperi iraniani sull'Oman (2026)"
      ]
@@ -256,6 +357,7 @@
     {
      "testo": "Israel launches an airstrike against the Nasser Medical Complex in Khan Younis, killing six Palestinians, including a surgeon, and wounding over 20 more. Four more people are also killed in other airstrikes in the Gaza Strip.",
      "contesto": [
+      "Middle Eastern crisis",
       "Gaza war",
       "Attacks on health facilities during the Gaza war"
      ],
@@ -280,6 +382,7 @@
      ],
      "testo_it": "Israele lancia un attacco aereo contro il complesso medico di Nasser a Khan Younis, uccidendo sei palestinesi, tra cui un chirurgo, e ferendone altri 20. Altre quattro persone vengono uccise anche in altri attacchi aerei nella Striscia di Gaza.",
      "contesto_it": [
+      "Crisi del Medio Oriente",
       "Guerra di Gaza",
       "Attacchi alle strutture sanitarie durante la guerra di Gaza"
      ]
@@ -387,7 +490,7 @@
      ]
     },
     {
-     "testo": "The Central Bank of Paraguay reports providing partial refunds to 1,812,348 eligible Ueno Bank depositors following the Ueno's collapse.",
+     "testo": "The Central Bank of Paraguay reports providing partial refunds to 1,812,348 eligible Ueno Bank depositors following the bank's collapse.",
      "contesto": [
       "2026 Paraguay banking crisis"
      ],
@@ -404,7 +507,7 @@
       "Ueno Bank",
       "Depositor"
      ],
-     "testo_it": "La Banca Centrale del Paraguay riferisce di aver fornito rimborsi parziali a 1.812.348 depositanti idonei della Ueno Bank in seguito al crollo della Ueno.",
+     "testo_it": "La Banca Centrale del Paraguay riferisce di aver fornito rimborsi parziali a 1.812.348 depositanti Ueno Bank idonei in seguito al crollo della banca.",
      "contesto_it": [
       "Paraguay crisi bancaria (2026)"
      ]
@@ -500,6 +603,7 @@
       }
      ],
      "link": [
+      "Democratic Republic of the Congo",
       "Provinces of the Democratic Republic of the Congo"
      ],
      "testo_it": "Il numero di casi confermati di Ebola nella Repubblica Democratica del Congo supera 11.000, con almeno 5.387 morti, che colpiscono 8 delle 26 province del paese.",
@@ -2626,512 +2730,6 @@
       "Charles Caudrelier"
      ],
      "testo_it": "Nella vela, il francese Tom Laperche vince la Route du Rhum 2026 in un record di sei giorni, 13 ore, 27 minuti e 40 secondi, battendo il 2022 di Charles Caudrelier di sei ore e 19 minuti."
-    }
-   ]
-  },
-  {
-   "data": "2026-11-06",
-   "voci": [
-    {
-     "testo": "The death toll from an armed attack yesterday by suspected Allied Democratic Forces militants on several villages in North Kivu, eastern Democratic Republic of Congo, rises to 33.",
-     "contesto": [
-      "Kivu conflict",
-      "Allied Democratic Forces insurgency"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AA",
-       "url": "https://www.aa.com.tr/en/africa/death-toll-from-adf-attack-in-dr-congo-rises-to-33/4114820"
-      }
-     ],
-     "link": [
-      "Allied Democratic Forces",
-      "North Kivu",
-      "Democratic Republic of Congo"
-     ],
-     "testo_it": "Il bilancio delle vittime di un attacco armato di ieri da parte di sospetti militanti delle Forze Democratiche Alleate in diversi villaggi nel Nord Kivu, nella Repubblica Democratica del Congo orientale, sale a 33.",
-     "contesto_it": [
-      "Conflitto Kivu",
-      "insurrezione delle forze democratiche alleate"
-     ]
-    },
-    {
-     "testo": "Saudi Arabia launches an airstrike against a market in Taiz Governorate, Yemen, killing 30 people and wounding eight more.",
-     "contesto": [
-      "Houthi–Saudi conflict"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/yemen-airstrikes-market-houthis-bcc2409ada0398125173d84261bd1fff"
-      }
-     ],
-     "link": [
-      "Saudi Arabia",
-      "Airstrike",
-      "Taiz Governorate",
-      "Yemen"
-     ],
-     "testo_it": "L'Arabia Saudita lancia un attacco aereo contro un mercato nel Governatorato di Taiz, Yemen, uccidendo 30 persone e ferendone altre otto.",
-     "contesto_it": [
-      "Conflitto Houthi-saudita"
-     ]
-    },
-    {
-     "testo": "Politician Julio Portillo and three police officers are killed in an assassination shooting in Río Hondo, Zacapa Department, Guatemala, by unknown gunmen.",
-     "contesto": [
-      "Crime in Guatemala"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack"
-      }
-     ],
-     "link": [
-      "Politics of Guatemala",
-      "Law enforcement in Guatemala",
-      "Assassination",
-      "Río Hondo, Zacapa",
-      "Zacapa Department",
-      "Guatemala"
-     ],
-     "testo_it": "Il politico Julio Portillo e tre agenti di polizia vengono uccisi in una sparatoria a Río Hondo, Dipartimento di Zacapa, Guatemala, da uomini armati sconosciuti.",
-     "contesto_it": [
-      "Criminalità in Guatemala"
-     ]
-    },
-    {
-     "testo": "Three gunmen were killed after an encounter against authorities in the ejido Las Trancas, Navolato, Sinaloa, México.",
-     "contesto": [
-      "Mexican drug war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "El Universal in Spanish",
-       "url": "https://www.eluniversal.com.mx/estados/enfrentamiento-deja-tres-civiles-armados-muertos-en-navolato-sinaloa-aseguran-un-vehiculo-armas-cargadores-y-equipo-tactico/"
-      }
-     ],
-     "link": [
-      "Ejido",
-      "Navolato Municipality",
-      "Sinaloa",
-      "México"
-     ],
-     "testo_it": "Tre uomini armati sono stati uccisi dopo un incontro contro le autorità nell'ejido Las Trancas, Navolato, Sinaloa, México.",
-     "contesto_it": [
-      "Guerra alla droga in Messico"
-     ]
-    },
-    {
-     "testo": "Edgar Aarón Vázquez, founder and leader of the Nuevo Imperio cartel, is killed in an operation in Naucalpan, State of Mexico. He was implicated in the murder of a federal agent, as well as kidnapping, extortion, homicide, dispossession of property, money laundering, fuel theft, and drug trafficking to the United States and Canada.",
-     "contesto": [
-      "Mexican drug war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Excélsior in Spanish",
-       "url": "https://www.excelsior.com.mx/nacional/abaten-lider-cartel-nuevo-imperio-eu-acuso-proteger-capo-exatleta"
-      }
-     ],
-     "link": [
-      "Naucalpan",
-      "State of Mexico",
-      "National Guard (Mexico)",
-      "Kidnapping",
-      "Extortion",
-      "Homicide",
-      "Money laundering",
-      "Gasoline theft",
-      "Illegal drug trade"
-     ],
-     "testo_it": "Edgar Aarón Vázquez, fondatore e leader del cartello di Nuevo Imperio, viene ucciso in un'operazione a Naucalpan, nello Stato del Messico. È stato implicato nell'omicidio di un agente federale, nonché nel rapimento, estorsione, omicidio, espropriazione di proprietà, riciclaggio di denaro, furto di carburante e traffico di droga negli Stati Uniti e in Canada.",
-     "contesto_it": [
-      "Guerra alla droga in Messico"
-     ]
-    },
-    {
-     "testo": "Australia deploys a C-130 Hercules aircraft, a Cessna Citation aircraft, and 20 personnel to help extinguish wildfires in East Kalimantan, Indonesia.",
-     "contesto": [
-      "2026 Indonesia wildfires, Australia–Indonesia relations"
-     ],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AFP",
-       "url": "https://www.afp.com/en/australia-sends-military-aircraft-help-fight-indonesia-fires"
-      }
-     ],
-     "link": [
-      "Australia",
-      "C-130 Hercules",
-      "Cessna Citation family",
-      "Wildfire",
-      "East Kalimantan",
-      "Indonesia"
-     ],
-     "testo_it": "L'Australia schiera un C-130 Hercules, un Cessna Citation e 20 membri del personale per aiutare a spegnere gli incendi nel Kalimantan orientale, in Indonesia.",
-     "contesto_it": [
-      "Indonesia incendi (2026), Australia-Indonesia relazioni"
-     ]
-    },
-    {
-     "testo": "Two people are killed and 16 injured in a bus crash in Lent, Ain, France.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/france-bus-crash-e024a5428966dd6c3415c881bc503811"
-      },
-      {
-       "nome": "Le Monde",
-       "url": "https://www.lemonde.fr/en/france/article/2026/11/06/at-least-two-people-killed-after-bus-carrying-schoolchildren-crashes-in-france_6773528_7.html"
-      }
-     ],
-     "link": [
-      "Lent, Ain",
-      "Ain",
-      "France"
-     ],
-     "testo_it": "Due persone vengono uccise e 16 ferite in un incidente in autobus a Quaresima, Ain, Francia."
-    },
-    {
-     "testo": "The United States Centers for Disease Control and Prevention reports 5,182 measles cases in 2026, the country's highest annual total since 1991. State health agencies report at least eight measles-related deaths.",
-     "contesto": [
-      "Measles resurgence in the United States"
-     ],
-     "categoria": "Health and environment",
-     "fonti": [
-      {
-       "nome": "AFP via France 24",
-       "url": "https://www.france24.com/en/live-news/20261106-us-reports-highest-number-of-measles-cases-in-35-years"
-      }
-     ],
-     "link": [
-      "United States",
-      "Centers for Disease Control and Prevention",
-      "Measles",
-      "State health agency"
-     ],
-     "testo_it": "I Centers for Disease Control and Prevention degli Stati Uniti riportano 5.182 casi di morbillo nel 2026, il totale annuale più alto del paese dal 1991. Le agenzie sanitarie statali riportano almeno otto decessi correlati al morbillo.",
-     "contesto_it": [
-      "Il risorgere del morbillo negli Stati Uniti"
-     ]
-    },
-    {
-     "testo": "The Standing Committee of the National People's Congress of China adopts a law regulating Chinese research, tourism, shipping, and other activities in Antarctica, requiring environmental safeguards, waste management, and permits subject to safety conditions.",
-     "contesto": [],
-     "categoria": "Health and environment",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/legal/litigation/china-adopts-law-antarctic-activities-environmental-protection-2026-11-06/"
-      }
-     ],
-     "link": [
-      "Standing Committee of the National People's Congress",
-      "National People's Congress",
-      "China",
-      "Chinese law",
-      "Science and technology in China",
-      "Tourism in Antarctica",
-      "Transport in Antarctica",
-      "Antarctica",
-      "Environmental policy of China",
-      "Waste management"
-     ],
-     "testo_it": "Il Comitato permanente del Congresso nazionale del popolo della Cina adotta una legge che regola la ricerca cinese, il turismo, il trasporto marittimo e altre attività in Antartide, che richiede garanzie ambientali, gestione dei rifiuti e permessi soggetti a condizioni di sicurezza."
-    },
-    {
-     "testo": "Malaysia's UMNO party pays a RM50-million (US$12 million) fine for imprisoned former prime minister Najib Razak, fulfilling a condition of his royal pardon. The Attorney-General's Chambers subsequently seeks to delay his transfer to house arrest.",
-     "contesto": [
-      "1MDB scandal"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "AFP via France 24",
-       "url": "https://www.france24.com/en/live-news/20261106-jailed-malaysian-ex-pm-najib-pays-fine-meeting-condition-for-house-arrest"
-      }
-     ],
-     "link": [
-      "Malaysia",
-      "UMNO",
-      "Malaysian ringgit",
-      "US$",
-      "Prime Minister of Malaysia",
-      "Najib Razak",
-      "Royal pardon",
-      "Attorney General's Chambers of Malaysia",
-      "House arrest"
-     ],
-     "testo_it": "Il partito malese UMNO paga una multa di RM50 milioni ($12 milioni) per l'ex primo ministro imprigionato Najib Razak, soddisfacendo una condizione del suo perdono reale.",
-     "contesto_it": [
-      "Scandalo 1MDB"
-     ]
-    },
-    {
-     "testo": "At least 100 people are arrested by police after protesters break into and temporarily occupy a construction site for a Microsoft data center in Sloterdijk, Amsterdam, Netherlands, during an anti-data-center rally.",
-     "contesto": [
-      "2026 European unrest, Opposition to AI data centers"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam"
-      },
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/europe/activists-breach-microsoft-data-centre-construction-site-protests-spread-europe-2026-11-06/"
-      }
-     ],
-     "link": [
-      "National Police Corps (Netherlands)",
-      "Occupation (protest)",
-      "Microsoft",
-      "Data center",
-      "Sloterdijk, Amsterdam",
-      "Amsterdam",
-      "Netherlands",
-      "Opposition to AI data centers"
-     ],
-     "testo_it": "Almeno 100 persone vengono arrestate dalla polizia dopo che i manifestanti irrompono e occupano temporaneamente un cantiere per un centro dati Microsoft a Sloterdijk, Amsterdam, Paesi Bassi, durante una manifestazione anti-data center.",
-     "contesto_it": [
-      "Insurrezioni europee (2026), Opposizione ai data center AI"
-     ]
-    },
-    {
-     "testo": "Kenyan cult leader Paul Mackenzie is sentenced to 200 years in prison for the mass murder of children.",
-     "contesto": [
-      "Shakahola Forest incident"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/africa/kenyan-court-sentences-cult-leader-200-years-prison-murder-190-children-2026-11-06/"
-      }
-     ],
-     "link": [
-      "Kenyan",
-      "Good News International Ministries",
-      "Mass murder"
-     ],
-     "testo_it": "Il leader del culto keniano Paul Mackenzie è stato condannato a 200 anni di carcere per omicidio di massa di bambini.",
-     "contesto_it": [
-      "Incidente della foresta di Shakahola"
-     ]
-    },
-    {
-     "testo": "American cinematographer Thomas Markle is arrested in Tampa, Florida, over allegations of possessing child sexual abuse material.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "BBC News",
-       "url": "https://www.bbc.co.uk/news/live/cwnv03203yvmt"
-      },
-      {
-       "nome": "CBS News",
-       "url": "https://www.cbsnews.com/news/thomas-markle-sr-meghan-father-arrested-florida/"
-      }
-     ],
-     "link": [
-      "United States",
-      "Thomas Markle",
-      "Tampa",
-      "Florida",
-      "Child sexual abuse laws in the United States"
-     ],
-     "testo_it": "Il direttore della fotografia americano Thomas Markle viene arrestato a Tampa, in Florida, per accuse di possesso di materiale per abusi sessuali su minori."
-    },
-    {
-     "testo": "The Colombian border control agency expels 80 Venezuelan nationals suspected of criminal activity, including theft, drug trafficking, and extortion.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "AFP via France 24",
-       "url": "https://www.france24.com/en/live-news/20261106-colombia-expels-80-allegedly-criminal-venezuelans"
-      }
-     ],
-     "link": [
-      "Colombia",
-      "Colombia Migration",
-      "Venezuela",
-      "Crime in Colombia",
-      "Illegal drug trade in Colombia"
-     ],
-     "testo_it": "L'agenzia di controllo delle frontiere colombiane espelle 80 cittadini venezuelani sospettati di attività criminali, tra cui furto, traffico di droga ed estorsione."
-    },
-    {
-     "testo": "Au Kam San, a former pro-democracy legislator of Macau, is convicted in a closed-door trial of \"subversion against the political power of the state\" and sentenced to 12 years and 6 months in prison. It is the first conviction under the Macau National Security Law, which was revised by lawmakers in 2023 to broaden its scope and to allow for closed-door trials.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "BBC News",
-       "url": "https://www.bbc.com/news/articles/cmdx33v9vvr2o"
-      }
-     ],
-     "link": [
-      "Au Kam San",
-      "Pro-democracy camp (Macau)",
-      "Legislative Assembly of Macau",
-      "Macau",
-      "In camera",
-      "Inciting subversion of state power",
-      "Macau National Security Law"
-     ],
-     "testo_it": "Au Kam San, un ex legislatore pro-democrazia di Macao, è stato condannato in un processo a porte chiuse di \"sovversione contro il potere politico dello stato\" e condannato a 12 anni e 6 mesi di carcere. È la prima condanna ai sensi della legge sulla sicurezza nazionale di Macao, che è stata rivista dai legislatori nel 2023 per ampliare la sua portata e consentire processi a porte chiuse."
-    },
-    {
-     "testo": "The High Court of Tanzania acquits Chadema chairperson Tundu Lissu of treason but sentences him to four years in prison for incitement related to statements opposing the 2025 general election results.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "AFP via France 24",
-       "url": "https://www.france24.com/en/live-news/20261106-tanzania-opposition-leader-avoids-death-penalty-in-treason-trial"
-      }
-     ],
-     "link": [
-      "High Court of Tanzania",
-      "Tanzania",
-      "Chadema",
-      "Tundu Lissu",
-      "Treason",
-      "Incitement",
-      "2025 Tanzanian election protests",
-      "2025 Tanzanian general election"
-     ],
-     "testo_it": "L'Alta Corte della Tanzania assolve il presidente del Chadema Tundu Lissu per tradimento, ma lo condanna a quattro anni di carcere per incitamento a dichiarazioni contrarie ai risultati delle elezioni generali del 2025."
-    },
-    {
-     "testo": "A court in Istanbul, Turkey, orders the detention of legislator and former family minister Fatma Betül Sayan Kaya pending trial on charges of violating capital markets legislation and membership in a criminal organization amid an investigation into investment fund manipulation.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/turkey-ex-minister-arrested-fund-scandal-f8e9cbd71d20cce682ac2e3461b9e13a"
-      }
-     ],
-     "link": [
-      "Judicial system of Turkey",
-      "Istanbul",
-      "Turkey",
-      "Grand National Assembly of Turkey",
-      "Ministry of Family and Social Services",
-      "Fatma Betül Sayan Kaya",
-      "Capital market",
-      "Crime in Turkey",
-      "Investment fund",
-      "Market manipulation"
-     ],
-     "testo_it": "Un tribunale di Istanbul, in Turchia, ordina la detenzione del legislatore ed ex ministro della famiglia Fatma Betül Sayan Kaya in attesa di processo con l'accusa di aver violato la legislazione sui mercati dei capitali e l'appartenenza a un'organizzazione criminale in mezzo a un'indagine sulla manipolazione dei fondi di investimento."
-    },
-    {
-     "testo": "The Paraguayan Senate unanimously removes Santiago Peña as the country's president over alleged conflicts of interest involving Ueno Bank, whose accounts the central bank froze. Congress postpones consideration of Peña's resignation to allow impeachment proceedings.",
-     "contesto": [
-      "2026 Paraguay banking crisis"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "AFP",
-       "url": "https://www.afp.com/en/paraguay-senate-begins-president-impeachment-trial"
-      },
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/americas/paraguay-senate-votes-impeach-president-pea-2026-11-06/"
-      }
-     ],
-     "link": [
-      "Paraguay",
-      "Senate of Paraguay",
-      "Santiago Peña",
-      "President of Paraguay",
-      "Conflicts of interest",
-      "Ueno Bank",
-      "Central Bank of Paraguay",
-      "Congress of Paraguay"
-     ],
-     "testo_it": "Il Senato paraguaiano rimuove all'unanimità Santiago Peña come presidente del paese per presunti conflitti di interesse che coinvolgono Ueno Bank, i cui conti la banca centrale si è congelata. Il Congresso rinvia la considerazione delle dimissioni di Peña per consentire procedimenti di impeachment.",
-     "contesto_it": [
-      "Paraguay crisi bancaria (2026)"
-     ]
-    },
-    {
-     "testo": "The Public Prosecutor's Office orders the arrest of Santiago Peña, who is placed under house arrest.",
-     "contesto": [
-      "2026 Paraguay banking crisis"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "UPI",
-       "url": "https://www.upi.com/Top_News/World-News/2026/11/06/latam-paraguay-president-impached-arrested/1841794018965/"
-      }
-     ],
-     "link": [
-      "Public Ministry of Paraguay",
-      "House arrest"
-     ],
-     "testo_it": "La Procura ordina l'arresto di Santiago Peña, che viene posto agli arresti domiciliari.",
-     "contesto_it": [
-      "Paraguay crisi bancaria (2026)"
-     ]
-    },
-    {
-     "testo": "Vice President Pedro Alliana is sworn in as the interim president of Paraguay.",
-     "contesto": [
-      "2026 Paraguay banking crisis"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/americas/paraguays-alliana-sworn-president-after-pea-impeachment-2026-11-06/"
-      }
-     ],
-     "link": [
-      "Vice President of Paraguay",
-      "Pedro Alliana"
-     ],
-     "testo_it": "Il vicepresidente Pedro Alliana ha prestato giuramento come presidente ad interim del Paraguay.",
-     "contesto_it": [
-      "Paraguay crisi bancaria (2026)"
-     ]
-    },
-    {
-     "testo": "King Philippe of Belgium refuses Bart De Wever's resignation as the prime minister, telling him to continue with budget negotiations.",
-     "contesto": [],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "Euronews",
-       "url": "https://www.euronews.com/2026/11/06/belgian-king-refuses-pm-bart-de-wevers-resignation-and-asks-him-to-restart-budget-talks"
-      },
-      {
-       "nome": "Xinhua",
-       "url": "https://english.news.cn/20261106/5c03e1c1987748fc9d9df9925a23d7d6/c.html"
-      }
-     ],
-     "link": [
-      "Philippe of Belgium",
-      "Belgium",
-      "Bart De Wever",
-      "Prime Minister of Belgium"
-     ],
-     "testo_it": "Il re Filippo del Belgio rifiuta le dimissioni di Bart De Wever come primo ministro, dicendogli di continuare con i negoziati di bilancio."
     }
    ]
   }
