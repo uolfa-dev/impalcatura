@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-13T01:54:37Z",
+ "generato": "2026-11-13T11:10:02Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -9,6 +9,23 @@
   "completa": true
  },
  "itn": [
+  {
+   "testo": "Nvidia CEO Jensen Huang resigns amidst allegations of being targeted by Chinese spies and of having extramarital affairs.",
+   "contesto": [],
+   "categoria": "In primo piano",
+   "fonti": [
+    {
+     "nome": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Jensen_Huang"
+    }
+   ],
+   "link": [
+    "Nvidia",
+    "Jensen Huang",
+    "Jensen Huang spying scandal"
+   ],
+   "testo_it": "Il CEO di Nvidia Jensen Huang si dimette tra le accuse di essere stato preso di mira da spie cinesi e di avere relazioni extraconiugali."
+  },
   {
    "testo": "The End of Everything by M. John Harrison wins the Booker Prize.",
    "contesto": [],
@@ -56,33 +73,104 @@
     "2026 NASCAR Cup Series"
    ],
    "testo_it": "Nelle gare di stock car, Kyle Larson vince la NASCAR Cup Series."
-  },
-  {
-   "testo": "A mass shooting in the Main Square of Kraków, Poland, leaves six people dead and sixteen others injured.",
-   "contesto": [],
-   "categoria": "In primo piano",
-   "fonti": [
-    {
-     "nome": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/2026_Krak%C3%B3w_shooting"
-    }
-   ],
-   "link": [
-    "2026 Kraków shooting",
-    "Main Square, Kraków",
-    "Kraków"
-   ],
-   "testo_it": "Una sparatoria di massa nella piazza principale di Cracovia, in Polonia, lascia sei morti e altri sedici feriti."
   }
  ],
  "giorni": [
   {
    "data": "2026-11-13",
-   "voci": []
+   "voci": [
+    {
+     "testo": "Iran claims it has destroyed an early-warning radar in Bahrain as a retaliation for a US strike on telecommunication infrastructure on Sirik Island.",
+     "contesto": [
+      "Middle Eastern crisis",
+      "2026 Iran war",
+      "2026 Iranian strikes on Bahrain"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Türkiye Today",
+       "url": "https://www.turkiyetoday.com/region/irgc-claims-strike-on-us-early-warning-radar-in-bahrain-after-sirik-attack-3232293?s=1"
+      }
+     ],
+     "link": [
+      "Early-warning radar"
+     ],
+     "testo_it": "L'Iran afferma di aver distrutto un radar di allarme in Bahrain come rappresaglia per un attacco degli Stati Uniti alle infrastrutture di telecomunicazione sull'isola di Sirik.",
+     "contesto_it": [
+      "Crisi del Medio Oriente",
+      "Guerra in Iran (2026)",
+      "Scioperi iraniani contro il Bahrein (2026)"
+     ]
+    }
+   ]
   },
   {
    "data": "2026-11-12",
    "voci": [
+    {
+     "testo": "Haitian and Salvadoran soldiers take control of the Stade Sylvio Cator in Port-au-Prince after two years of gang control.",
+     "contesto": [
+      "Haitian conflict",
+      "Salvadoran military intervention in Haiti"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "France 24",
+       "url": "https://www.france24.com/en/americas/20261113-haitian-police-retake-national-stadium-from-gangs-after-two-years"
+      }
+     ],
+     "link": [
+      "Haiti",
+      "El Salvador",
+      "Stade Sylvio Cator",
+      "Port-au-Prince"
+     ],
+     "testo_it": "I soldati haitiani e salvadoregni prendono il controllo dello Stade Sylvio Cator a Port-au-Prince dopo due anni di controllo delle bande.",
+     "contesto_it": [
+      "Conflitto haitiano",
+      "Intervento militare salvadoregno ad Haiti"
+     ]
+    },
+    {
+     "testo": "Ukrainian president Volodymyr Zelenskyy and United States special envoy Jared Kushner announce that European representatives will join future peace negotiations with Russia, which Russian president Vladimir Putin agrees to while maintaining his territorial demands and rejecting foreign peacekeeping troops in Ukraine.",
+     "contesto": [
+      "Russo-Ukrainian war",
+      "Peace negotiations in the Russo-Ukrainian war, United States and the Russo-Ukrainian war"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "AFP via New Straits Times",
+       "url": "https://www.nst.com.my/amp/world/world/2026/11/1576502/us-ukraine-say-europe-join-russia-talks-putin-sticks-hardline-stance"
+      },
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/europe/us-envoys-arrive-moscow-latest-round-ukrainian-peace-talks-with-putin-2026-11-12/"
+      }
+     ],
+     "link": [
+      "Ukraine",
+      "President of Ukraine",
+      "Volodymyr Zelenskyy",
+      "United States",
+      "United States special envoy",
+      "Jared Kushner",
+      "Europe",
+      "Peace negotiations",
+      "Russia",
+      "President of Russia",
+      "Vladimir Putin",
+      "Russian occupation of Ukraine",
+      "Proposed multinational force in Ukraine"
+     ],
+     "testo_it": "Il presidente ucraino Volodymyr Zelenskyy e l'inviato speciale degli Stati Uniti Jared Kushner annunciano che i rappresentanti europei si uniranno ai futuri negoziati di pace con la Russia, che il presidente russo Vladimir Putin accetta di mantenere le sue richieste territoriali e di respingere le truppe di pace straniere in Ucraina.",
+     "contesto_it": [
+      "Guerra russo-ucraina",
+      "Negoziati di pace nella guerra russo-ucraina, negli Stati Uniti e nella guerra russo-ucraina"
+     ]
+    },
     {
      "testo": "At least 10 people, including five with gunshot wounds, are injured in Munshiganj Sadar, Bangladesh, during a clash involving gunfire and crude bomb explosions between two factions of the ruling Bangladesh Nationalist Party.",
      "contesto": [],
@@ -99,31 +187,6 @@
       "Bangladesh Nationalist Party"
      ],
      "testo_it": "Almeno 10 persone, tra cui cinque con ferite da arma da fuoco, sono rimaste ferite a Munshiganj Sadar, in Bangladesh, durante uno scontro che ha coinvolto spari e esplosioni di bombe crude tra due fazioni del partito nazionalista al governo del Bangladesh."
-    },
-    {
-     "testo": "Salvadoran and Haitian soldiers take control of the Stade Sylvio Cator in Port-au-Prince after two years of gang control.",
-     "contesto": [
-      "Haitian conflict",
-      "Salvadoran military intervention in Haiti"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "El Mundo",
-       "url": "https://diario.elmundo.sv/politica/bukele-lanza-ultimatum-a-pandillas-haitianas-tras-recuperar-estadio"
-      }
-     ],
-     "link": [
-      "El Salvador",
-      "Haiti",
-      "Stade Sylvio Cator",
-      "Port-au-Prince"
-     ],
-     "testo_it": "Soldati salvadoregni e haitiani prendono il controllo dello Stade Sylvio Cator a Port-au-Prince dopo due anni di controllo delle bande.",
-     "contesto_it": [
-      "Conflitto haitiano",
-      "Intervento militare salvadoregno ad Haiti"
-     ]
     },
     {
      "testo": "Jensen Huang resigns as chief executive officer (CEO) and president of Nvidia and leaves the company's board following reports of two extramarital affairs, including one involving a suspected Chinese intelligence agent. Chief financial officer Colette Kress becomes interim CEO.",
@@ -158,46 +221,14 @@
      ]
     },
     {
-     "testo": "Huang is accused of having a third \"intimate relationship\" with a second Nvidia employee.",
-     "contesto": [
-      "Jensen Huang spying scandal"
-     ],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/"
-      }
-     ],
-     "link": [],
-     "testo_it": "Huang è accusato di avere una terza “relazione intima” con un secondo dipendente di Nvidia.",
-     "contesto_it": [
-      "Jensen Huang spia lo scandalo"
-     ]
-    },
-    {
-     "testo": "A major outage impacts multiple Microsoft services including Microsoft 365, Copilot and Teams.",
-     "contesto": [],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "BBC News",
-       "url": "https://www.bbc.com/news/articles/c5gm3g9ldz8xo"
-      }
-     ],
-     "link": [
-      "Microsoft",
-      "Microsoft 365",
-      "Microsoft Copilot",
-      "Microsoft Teams"
-     ],
-     "testo_it": "Un'interruzione importante ha un impatto su più servizi Microsoft, tra cui Microsoft 365, Copilot e Teams."
-    },
-    {
      "testo": "Fourteen people are killed and 30 more injured in a multiple-vehicle collision involving 18 cars and five trucks in the Emirate of Fujairah, United Arab Emirates.",
      "contesto": [],
      "categoria": "Disasters and accidents",
      "fonti": [
+      {
+       "nome": "AFP via The Daily Star",
+       "url": "https://www.thedailystar.net/news/world/news/truck-crash-uae-kills-14-injures-30-4322351"
+      },
       {
        "nome": "Al Jazeera",
        "url": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident"
@@ -211,7 +242,7 @@
      "testo_it": "Quattordici persone vengono uccise e altre 30 ferite in una collisione a più veicoli che coinvolge 18 auto e cinque camion nell'emirato di Fujairah, negli Emirati Arabi Uniti."
     },
     {
-     "testo": "Ten people are killed and five more injured as a bus crashes in to a slope in Bhimphedi, Nepal.",
+     "testo": "A bus veers off a mountain road in Bhimphedi, Nepal, killing ten people and wounding five more.",
      "contesto": [],
      "categoria": "Disasters and accidents",
      "fonti": [
@@ -221,14 +252,14 @@
       }
      ],
      "link": [
-      "Slope",
+      "Mountain",
       "Bhimphedi",
       "Nepal"
      ],
-     "testo_it": "Dieci persone vengono uccise e altre cinque ferite mentre un autobus si schianta su un pendio a Bhimphedi, in Nepal."
+     "testo_it": "Un autobus vira fuori da una strada di montagna a Bhimphedi, Nepal, uccidendo dieci persone e ferendone altre cinque."
     },
     {
-     "testo": "A military helicopter crashes on the ground in Samankoy, Turkey, killing four soldiers.",
+     "testo": "A military helicopter crashes in Malatya, Turkey, killing four soldiers.",
      "contesto": [],
      "categoria": "Disasters and accidents",
      "fonti": [
@@ -238,13 +269,14 @@
       }
      ],
      "link": [
-      "Turkey",
-      "Turkish Armed Forces"
+      "Turkish Armed Forces",
+      "Malatya",
+      "Turkey"
      ],
-     "testo_it": "Un elicottero militare si schianta a terra a Samankoy, in Turchia, uccidendo quattro soldati."
+     "testo_it": "Un elicottero militare si schianta a Malatya, in Turchia, uccidendo quattro soldati."
     },
     {
-     "testo": "Four more children in Bangladesh are reported to be killed from measles, bringing the death toll past 1,299.",
+     "testo": "Four more children in Bangladesh are reported to have died from measles, bringing the death toll past 1,299.",
      "contesto": [
       "2026 Bangladesh measles outbreak"
      ],
@@ -259,7 +291,7 @@
       "Bangladesh",
       "Measles"
      ],
-     "testo_it": "Altri quattro bambini in Bangladesh sono stati uccisi dal morbillo, portando il bilancio delle vittime oltre 1.299.",
+     "testo_it": "Altri quattro bambini in Bangladesh sono morti di morbillo, portando il bilancio delle vittime oltre 1.299.",
      "contesto_it": [
       "Bangladesh focolaio di morbillo (2026)"
      ]
@@ -296,7 +328,7 @@
      ]
     },
     {
-     "testo": "At least five people are shot, including one fatally, in Logan Circle, Washington D.C., United States. The suspected gunman later kills himself after barricading himself from police inside a nearby apartment.",
+     "testo": "One person is killed and four more are injured in a shooting spree in Logan Circle, Washington D.C., United States. The suspected gunman later kills himself after barricading himself from police inside a nearby apartment.",
      "contesto": [
       "Mass shootings in the United States"
      ],
@@ -312,14 +344,78 @@
       }
      ],
      "link": [
+      "Spree killer",
       "Logan Circle (Washington, D.C.)",
       "Washington D.C.",
       "United States",
       "Metropolitan Police Department of the District of Columbia"
      ],
-     "testo_it": "Almeno cinque persone vengono fucilate, di cui una mortalmente, a Logan Circle, Washington D.C., Stati Uniti. Il sospetto uomo armato si uccide in seguito dopo essersi barricato dalla polizia all'interno di un appartamento vicino.",
+     "testo_it": "Una persona viene uccisa e altre quattro sono ferite in una sparatoria a Logan Circle, Washington D.C., Stati Uniti. Il sospetto uomo armato si uccide in seguito dopo essersi barricato dalla polizia all'interno di un appartamento vicino.",
      "contesto_it": [
       "Sparatorie di massa negli Stati Uniti"
+     ]
+    },
+    {
+     "testo": "Europol announces that Operation TorNado, an international investigation into illegal dark web marketplaces, resulted in 354 arrests across 14 countries and the seizure of approximately 5.7 tonnes of drugs, 209 firearms, and €211 million (US$234 million) in assets.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/global-police-crackdown-dark-web-nets-350-arrests"
+      }
+     ],
+     "link": [
+      "Europol",
+      "Dark web",
+      "Darknet market",
+      "Euro",
+      "US$"
+     ],
+     "testo_it": "Europol annuncia che l'operazione TorNado, un'indagine internazionale sui mercati illegali del dark web, ha provocato 354 arresti in 14 paesi e il sequestro di circa 5,7 tonnellate di droghe, 209 armi da fuoco e 211 milioni di euro (234 milioni di dollari) di beni."
+    },
+    {
+     "testo": "A major outage impacts multiple Microsoft services, including Microsoft 365, Copilot and Teams, worldwide.",
+     "contesto": [],
+     "categoria": "Science and technology",
+     "fonti": [
+      {
+       "nome": "BBC News",
+       "url": "https://www.bbc.com/news/articles/c5gm3g9ldz8xo"
+      }
+     ],
+     "link": [
+      "Internet outage",
+      "Microsoft",
+      "Microsoft 365",
+      "Microsoft Copilot",
+      "Microsoft Teams"
+     ],
+     "testo_it": "Un'interruzione importante ha un impatto su più servizi Microsoft, tra cui Microsoft 365, Copilot e Teams, in tutto il mondo."
+    },
+    {
+     "testo": "Finland announces visa restrictions preventing Russian athletes, including neutral competitors, from entering for sporting events beginning November 16. Norway also announces similar restrictions on Russian and Belarusian athletes and their support staff.",
+     "contesto": [
+      "International sporting sanctions during the Russian invasion of Ukraine, Finland–Russia relations, Norway–Russia relations"
+     ],
+     "categoria": "Sports",
+     "fonti": [
+      {
+       "nome": "AFP via RFI",
+       "url": "https://www.rfi.fr/en/international-news/20261112-finland-norway-block-visas-for-russian-athletes"
+      }
+     ],
+     "link": [
+      "Finland",
+      "Visa policy of Finland",
+      "Russia",
+      "Authorised Neutral Athletes",
+      "Norway",
+      "Belarus"
+     ],
+     "testo_it": "La Finlandia annuncia restrizioni sui visti che impediscono agli atleti russi, compresi i concorrenti neutrali, di partecipare agli eventi sportivi a partire dal 16 novembre. La Norvegia annuncia anche restrizioni simili agli atleti russi e bielorussi e al loro personale di supporto.",
+     "contesto_it": [
+      "Sanzioni sportive internazionali durante l'invasione russa dell'Ucraina, relazioni Finlandia-Russia, relazioni Norvegia-Russia"
      ]
     }
    ]
