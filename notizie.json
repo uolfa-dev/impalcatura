@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-13T11:10:02Z",
+ "generato": "2026-11-13T19:49:53Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -80,7 +80,7 @@
    "data": "2026-11-13",
    "voci": [
     {
-     "testo": "Iran claims it has destroyed an early-warning radar in Bahrain as a retaliation for a US strike on telecommunication infrastructure on Sirik Island.",
+     "testo": "Iran claims it has destroyed an early-warning radar in Bahrain as a retaliation for a US strike on telecommunication infrastructure on Sirik.",
      "contesto": [
       "Middle Eastern crisis",
       "2026 Iran war",
@@ -94,14 +94,91 @@
       }
      ],
      "link": [
-      "Early-warning radar"
+      "Early-warning radar",
+      "Bahrain",
+      "Bandar Sirik"
      ],
-     "testo_it": "L'Iran afferma di aver distrutto un radar di allarme in Bahrain come rappresaglia per un attacco degli Stati Uniti alle infrastrutture di telecomunicazione sull'isola di Sirik.",
+     "testo_it": "L'Iran afferma di aver distrutto un radar di allarme in Bahrain come rappresaglia per un attacco degli Stati Uniti alle infrastrutture di telecomunicazione su Sirik.",
      "contesto_it": [
       "Crisi del Medio Oriente",
       "Guerra in Iran (2026)",
       "Scioperi iraniani contro il Bahrein (2026)"
      ]
+    },
+    {
+     "testo": "The last recorded song by the late American country singer Dolly Parton, a duet with Bono, is released as part U2's 16th album Carnaval De Luz, months after her death in August.",
+     "contesto": [
+      "2026 in American music"
+     ],
+     "categoria": "Arts and culture",
+     "fonti": [
+      {
+       "nome": "CNN",
+       "url": "https://www.cnn.com/2026/11/13/entertainment/dolly-parton-u2-torn-released-intl-scli"
+      }
+     ],
+     "link": [
+      "List of songs recorded by Dolly Parton",
+      "Dolly Parton",
+      "Duet",
+      "Bono",
+      "U2",
+      "Carnaval De Luz"
+     ],
+     "testo_it": "L'ultima canzone registrata dalla cantante country americana Dolly Parton, un duetto con Bono, viene pubblicata come parte del sedicesimo album degli U2 Carnaval De Luz, mesi dopo la sua morte nel mese di agosto.",
+     "contesto_it": [
+      "2026 nella musica americana"
+     ]
+    },
+    {
+     "testo": "Twenty-four people are killed and eleven more injured in a bus–truck collision in Golaghat, India.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/13/truck-and-bus-crash-in-indias-assam-state-kills-at-least-24-people"
+      }
+     ],
+     "link": [
+      "Golaghat",
+      "India"
+     ],
+     "testo_it": "Ventiquattro persone vengono uccise e altre undici ferite in uno scontro tra autobus e camion a Golaghat, in India."
+    },
+    {
+     "testo": "Six people are killed and five more injured after an under construction building partially collapses in Nairobi, Kenya.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "Xinhua",
+       "url": "https://english.news.cn/africa/20261113/75a689cf03b845409fd909fec59f84ba/c.html"
+      }
+     ],
+     "link": [
+      "Nairobi",
+      "Kenya"
+     ],
+     "testo_it": "Sei persone vengono uccise e altre cinque ferite dopo che un edificio in costruzione crolla parzialmente a Nairobi, in Kenya."
+    },
+    {
+     "testo": "Metropolitan Police announce a criminal investigation into David Walliams about \"alleged serious sexual offences\". The police say they are separate to those investigated by ITN and The Guardian.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "BBC News",
+       "url": "https://www.bbc.com/news/articles/cwx2emg4xe72o"
+      }
+     ],
+     "link": [
+      "Metropolitan Police",
+      "David Walliams",
+      "ITN",
+      "The Guardian"
+     ],
+     "testo_it": "La polizia metropolitana annuncia un'indagine penale su David Walliams su \"presunti reati sessuali gravi\". La polizia dice che sono separati da quelli indagati da ITN e The Guardian."
     }
    ]
   },
@@ -189,6 +266,27 @@
      "testo_it": "Almeno 10 persone, tra cui cinque con ferite da arma da fuoco, sono rimaste ferite a Munshiganj Sadar, in Bangladesh, durante uno scontro che ha coinvolto spari e esplosioni di bombe crude tra due fazioni del partito nazionalista al governo del Bangladesh."
     },
     {
+     "testo": "Guatemala receives the remains of 1967 Nobel Prize in Literature recipient Miguel Ángel Asturias from France, 52 years after his death. President Bernardo Arévalo attends a ceremony ahead of the writer's burial in Guatemala City.",
+     "contesto": [],
+     "categoria": "Arts and culture",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/remains-guatemalan-nobel-laureate-asturias-return-home-france"
+      }
+     ],
+     "link": [
+      "Guatemala",
+      "1967 Nobel Prize in Literature",
+      "Miguel Ángel Asturias",
+      "France",
+      "President of Guatemala",
+      "Bernardo Arévalo",
+      "Guatemala City"
+     ],
+     "testo_it": "Il Guatemala riceve i resti del premio Nobel per la letteratura del 1967 Miguel Ángel Asturias dalla Francia, 52 anni dopo la sua morte. Il presidente Bernardo Arévalo partecipa a una cerimonia prima della sepoltura dello scrittore a Città del Guatemala."
+    },
+    {
      "testo": "Jensen Huang resigns as chief executive officer (CEO) and president of Nvidia and leaves the company's board following reports of two extramarital affairs, including one involving a suspected Chinese intelligence agent. Chief financial officer Colette Kress becomes interim CEO.",
      "contesto": [
       "Jensen Huang spying scandal"
@@ -240,6 +338,22 @@
       "United Arab Emirates"
      ],
      "testo_it": "Quattordici persone vengono uccise e altre 30 ferite in una collisione a più veicoli che coinvolge 18 auto e cinque camion nell'emirato di Fujairah, negli Emirati Arabi Uniti."
+    },
+    {
+     "testo": "A passenger van plunges off a road in Gilgit-Baltistan, Pakistan, killing eleven people and wounding three more.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/pakistan-passenger-bus-river-gilgit-baltistan-1f7616e4b3ed9420cbf0bd4d5b4fde9f"
+      }
+     ],
+     "link": [
+      "Gilgit-Baltistan",
+      "Pakistan"
+     ],
+     "testo_it": "Un furgone passeggeri precipita da una strada nel Gilgit-Baltistan, in Pakistan, uccidendo undici persone e ferendone altre tre."
     },
     {
      "testo": "A bus veers off a mountain road in Bhimphedi, Nepal, killing ten people and wounding five more.",
@@ -385,8 +499,7 @@
       }
      ],
      "link": [
-      "Internet outage",
-      "Microsoft",
+      "2026 Microsoft outage",
       "Microsoft 365",
       "Microsoft Copilot",
       "Microsoft Teams"
@@ -1325,8 +1438,10 @@
      "testo_it": "L'Autorità Monetaria di Singapore lancia un servizio di riserva d'oro per le banche centrali estere, le istituzioni finanziarie internazionali e le entità sovrane e annuncia esenzioni fiscali ampliate per i servizi di oro all'ingrosso."
     },
     {
-     "testo": "Eleven people are killed and at least 50 others are seriously injured in a multiple-vehicle collision involving 86 trucks and cars [bg] on the Trakia A1 motorway near Yambol, Bulgaria.",
-     "contesto": [],
+     "testo": "Eleven people are killed and at least 50 others are seriously injured in a multiple-vehicle collision involving 86 trucks and cars on the Trakia A1 motorway near Yambol, Bulgaria.",
+     "contesto": [
+      "2026 Trakia motorway crash [bg]"
+     ],
      "categoria": "Disasters and accidents",
      "fonti": [
       {
@@ -1339,11 +1454,15 @@
       }
      ],
      "link": [
+      "Multiple-vehicle collision",
       "Trakia motorway",
       "Yambol",
       "Bulgaria"
      ],
-     "testo_it": "Undici persone vengono uccise e almeno altre 50 sono gravemente ferite in una collisione a più veicoli che coinvolge 86 camion e auto [bg] sull'autostrada Trakia A1 vicino a Yambol, in Bulgaria."
+     "testo_it": "Undici persone vengono uccise e almeno altre 50 sono gravemente ferite in una collisione a più veicoli che coinvolge 86 camion e auto sull'autostrada Trakia A1 vicino a Yambol, in Bulgaria.",
+     "contesto_it": [
+      "Trakia incidente autostradale [bg] (2026)"
+     ]
     },
     {
      "testo": "Five schoolgirls are killed and 21 others are injured when a school bus plunges into a pond in Kandal province, Cambodia.",
