@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-13T19:49:53Z",
+ "generato": "2026-11-14T01:29:34Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -10,7 +10,7 @@
  },
  "itn": [
   {
-   "testo": "Nvidia CEO Jensen Huang resigns amidst allegations of being targeted by Chinese spies and of having extramarital affairs.",
+   "testo": "Nvidia CEO Jensen Huang resigns amidst allegations of being targeted by a Chinese spy and of having extramarital affairs.",
    "contesto": [],
    "categoria": "In primo piano",
    "fonti": [
@@ -24,7 +24,19 @@
     "Jensen Huang",
     "Jensen Huang spying scandal"
    ],
-   "testo_it": "Il CEO di Nvidia Jensen Huang si dimette tra le accuse di essere stato preso di mira da spie cinesi e di avere relazioni extraconiugali."
+   "testo_it": "Il CEO di Nvidia Jensen Huang si dimette tra le accuse di essere stato preso di mira da una spia cinese e di avere relazioni extraconiugali."
+  },
+  {
+   "testo": "American ocean liner SS United States is scuttled in the Gulf of Mexico to create the largest artificial reef.",
+   "contesto": [],
+   "categoria": "In primo piano",
+   "fonti": [],
+   "link": [
+    "SS United States",
+    "Scuttling",
+    "Artificial reef"
+   ],
+   "testo_it": "Il transatlantico americano SS Stati Uniti è affondato nel Golfo del Messico per creare la più grande barriera corallina artificiale."
   },
   {
    "testo": "The End of Everything by M. John Harrison wins the Booker Prize.",
@@ -57,25 +69,13 @@
     "Novaya Gazeta"
    ],
    "testo_it": "Novaya Gazeta, uno dei giornali indipendenti più antichi e importanti della Russia, chiude sotto la pressione delle autorità russe."
-  },
-  {
-   "testo": "In stock car racing, Kyle Larson wins the NASCAR Cup Series.",
-   "contesto": [],
-   "categoria": "In primo piano",
-   "fonti": [
-    {
-     "nome": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/2026_NASCAR_Cup_Series"
-    }
-   ],
-   "link": [
-    "Kyle Larson",
-    "2026 NASCAR Cup Series"
-   ],
-   "testo_it": "Nelle gare di stock car, Kyle Larson vince la NASCAR Cup Series."
   }
  ],
  "giorni": [
+  {
+   "data": "2026-11-14",
+   "voci": []
+  },
   {
    "data": "2026-11-13",
    "voci": [
@@ -94,6 +94,7 @@
       }
      ],
      "link": [
+      "Iran",
       "Early-warning radar",
       "Bahrain",
       "Bandar Sirik"
@@ -106,7 +107,7 @@
      ]
     },
     {
-     "testo": "The last recorded song by the late American country singer Dolly Parton, a duet with Bono, is released as part U2's 16th album Carnaval De Luz, months after her death in August.",
+     "testo": "The last recorded song by the late American country singer Dolly Parton, a duet with Bono, is released as part of U2's 16th album Carnaval de Luz, months after her death in August.",
      "contesto": [
       "2026 in American music"
      ],
@@ -123,11 +124,54 @@
       "Duet",
       "Bono",
       "U2",
-      "Carnaval De Luz"
+      "Carnaval de Luz"
      ],
-     "testo_it": "L'ultima canzone registrata dalla cantante country americana Dolly Parton, un duetto con Bono, viene pubblicata come parte del sedicesimo album degli U2 Carnaval De Luz, mesi dopo la sua morte nel mese di agosto.",
+     "testo_it": "L'ultima canzone registrata dalla cantante country americana Dolly Parton, un duetto con Bono, viene pubblicata come parte del sedicesimo album degli U2 Carnaval de Luz, mesi dopo la sua morte nel mese di agosto.",
      "contesto_it": [
       "2026 nella musica americana"
+     ]
+    },
+    {
+     "testo": "A tanker and the cruise ship American Heritage collide in the Mississippi River. The cruise ship, carrying 130 people, sinks. All aboard the American Heritage survive, with some taken to local hospitals for treatment of minor injuries.",
+     "contesto": [
+      "2026 New Orleans ship collision"
+     ],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "CNN",
+       "url": "https://edition.cnn.com/2026/11/13/us/new-orleans-river-cruise-collision"
+      }
+     ],
+     "link": [
+      "Queen of the Mississippi (2015 ship)",
+      "Mississippi River"
+     ],
+     "testo_it": "Una petroliera e la nave da crociera American Heritage si scontrano nel fiume Mississippi. La nave da crociera, che trasporta 130 persone, affonda. Tutti a bordo dell'American Heritage sopravvivono, con alcuni portati agli ospedali locali per il trattamento di lesioni minori.",
+     "contesto_it": [
+      "Crollo della nave New Orleans (2026)"
+     ]
+    },
+    {
+     "testo": "The Federal Aviation Administration issues a nationwide ground stop for all flights in the United States due to \"extraordinary circumstances involving communications failures\".",
+     "contesto": [
+      "2026 FAA ground stop"
+     ],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/us/faa-issues-national-ground-stop-due-extraordinary-circumstance-reasons-safety-2026-11-13/"
+      }
+     ],
+     "link": [
+      "Federal Aviation Administration",
+      "Ground stop",
+      "United States"
+     ],
+     "testo_it": "La Federal Aviation Administration emette una fermata a livello nazionale per tutti i voli negli Stati Uniti a causa di \"circostanze straordinarie che coinvolgono fallimenti delle comunicazioni\".",
+     "contesto_it": [
+      "Fermata di terra FAA (2026)"
      ]
     },
     {
@@ -163,7 +207,7 @@
      "testo_it": "Sei persone vengono uccise e altre cinque ferite dopo che un edificio in costruzione crolla parzialmente a Nairobi, in Kenya."
     },
     {
-     "testo": "Metropolitan Police announce a criminal investigation into David Walliams about \"alleged serious sexual offences\". The police say they are separate to those investigated by ITN and The Guardian.",
+     "testo": "In the United Kingdom, Metropolitan Police announce a criminal investigation into David Walliams about \"alleged serious sexual offences\". The police say they are separate to those investigated by ITN and The Guardian.",
      "contesto": [],
      "categoria": "Law and crime",
      "fonti": [
@@ -178,7 +222,7 @@
       "ITN",
       "The Guardian"
      ],
-     "testo_it": "La polizia metropolitana annuncia un'indagine penale su David Walliams su \"presunti reati sessuali gravi\". La polizia dice che sono separati da quelli indagati da ITN e The Guardian."
+     "testo_it": "Nel Regno Unito, la polizia metropolitana annuncia un'indagine penale su David Walliams su \"presunti reati sessuali gravi\". La polizia dice che sono separati da quelli indagati da ITN e The Guardian."
     }
    ]
   },
@@ -264,6 +308,32 @@
       "Bangladesh Nationalist Party"
      ],
      "testo_it": "Almeno 10 persone, tra cui cinque con ferite da arma da fuoco, sono rimaste ferite a Munshiganj Sadar, in Bangladesh, durante uno scontro che ha coinvolto spari e esplosioni di bombe crude tra due fazioni del partito nazionalista al governo del Bangladesh."
+    },
+    {
+     "testo": "U.S. Rep-elect Bobby Pulido of Texas's 15th congressional district wins a Latin Grammy Award for Best Tejano Album.",
+     "contesto": [
+      "27th Annual Latin Grammy Awards"
+     ],
+     "categoria": "Arts and culture",
+     "fonti": [
+      {
+       "nome": "The Washington Post",
+       "url": "https://www.washingtonpost.com/politics/2026/11/12/rep-elect-bobby-pulido-wins-latin-grammy/"
+      }
+     ],
+     "link": [
+      "United States House of Representatives",
+      "2026 United States House of Representatives elections",
+      "Bobby Pulido",
+      "Texas",
+      "Texas's 15th congressional district",
+      "Latin Grammy Awards",
+      "Latin Grammy Award for Best Tejano Album"
+     ],
+     "testo_it": "Bobby Pulido del 15 ° distretto congressuale del Texas vince un Grammy Latin Award per il miglior album di Tejano.",
+     "contesto_it": [
+      "27a edizione dei Latin Grammy Awards"
+     ]
     },
     {
      "testo": "Guatemala receives the remains of 1967 Nobel Prize in Literature recipient Miguel Ángel Asturias from France, 52 years after his death. President Bernardo Arévalo attends a ceremony ahead of the writer's burial in Guatemala City.",
@@ -490,7 +560,9 @@
     },
     {
      "testo": "A major outage impacts multiple Microsoft services, including Microsoft 365, Copilot and Teams, worldwide.",
-     "contesto": [],
+     "contesto": [
+      "2026 Microsoft outage"
+     ],
      "categoria": "Science and technology",
      "fonti": [
       {
@@ -504,7 +576,10 @@
       "Microsoft Copilot",
       "Microsoft Teams"
      ],
-     "testo_it": "Un'interruzione importante ha un impatto su più servizi Microsoft, tra cui Microsoft 365, Copilot e Teams, in tutto il mondo."
+     "testo_it": "Un'interruzione importante ha un impatto su più servizi Microsoft, tra cui Microsoft 365, Copilot e Teams, in tutto il mondo.",
+     "contesto_it": [
+      "Interruzione di Microsoft (2026)"
+     ]
     },
     {
      "testo": "Finland announces visa restrictions preventing Russian athletes, including neutral competitors, from entering for sporting events beginning November 16. Norway also announces similar restrictions on Russian and Belarusian athletes and their support staff.",
@@ -2638,313 +2713,6 @@
      "contesto_it": [
       "PGA Tour (2026)"
      ]
-    }
-   ]
-  },
-  {
-   "data": "2026-11-07",
-   "voci": [
-    {
-     "testo": "Sudanese Armed Forces (SAF) says that they have recaptured the town of Iyal Bakhit in West Kordofan, Sudan. The SAF also reportedly downs a Rapid Support Forces drone.",
-     "contesto": [
-      "Sudanese civil war",
-      "Kordofan campaign"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Sudan Tribune",
-       "url": "https://sudantribune.com/article/320981"
-      }
-     ],
-     "link": [
-      "Sudanese Armed Forces",
-      "West Kordofan",
-      "Sudan",
-      "Rapid Support Forces",
-      "Drone warfare"
-     ],
-     "testo_it": "Le forze armate sudanesi (SAF) dicono di aver riconquistato la città di Iyal Bakhit a West Kordofan, Sudan. La SAF ha anche riferito di aver abbattuto un drone delle forze di supporto rapido.",
-     "contesto_it": [
-      "Guerra civile sudanese",
-      "Campagna Kordofan"
-     ]
-    },
-    {
-     "testo": "Six people are killed and 15 more injured in a drive-by mass shooting in the center of Kraków, Poland. The perpetrator, who also killed his parents and his sister at their home in Ostrowiec Świętokrzyski, is wounded by police and arrested.",
-     "contesto": [
-      "2026 Kraków shooting"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/europe/two-kiled-least-10-injured-shooting-polish-city-krakow-tvn24-reports-2026-11-07/"
-      }
-     ],
-     "link": [
-      "Drive-by shooting",
-      "Mass shooting",
-      "Kraków",
-      "Poland",
-      "Ostrowiec Świętokrzyski",
-      "Police of Poland"
-     ],
-     "testo_it": "Sei persone vengono uccise e altre 15 ferite in una sparatoria di massa nel centro di Cracovia, in Polonia. L'autore, che ha ucciso anche i suoi genitori e sua sorella nella loro casa a Ostrowiec Świętokrzyski, è ferito dalla polizia e arrestato.",
-     "contesto_it": [
-      "Tiro a segno a Cracovia (2026)"
-     ]
-    },
-    {
-     "testo": "Saudi airstrikes hit homes near Sanaa, Yemen, killing at least 27 people and wounding 36 others.",
-     "contesto": [
-      "Houthi–Saudi conflict"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/yemen-houthi-saudi-attacks-1b5aef5b86be2e96e1cd8a18165afaf6"
-      }
-     ],
-     "link": [
-      "Saudi Arabia",
-      "Airstrike",
-      "Sanaa",
-      "Yemen"
-     ],
-     "testo_it": "Gli attacchi aerei sauditi hanno colpito le case vicino a Sanaa, nello Yemen, uccidendo almeno 27 persone e ferendone altre 36.",
-     "contesto_it": [
-      "Conflitto Houthi-saudita"
-     ]
-    },
-    {
-     "testo": "A drone strike of unknown origin is launched against a military base in Santa Rosa del Sur, Bolívar Department, Colombia, killing three soldiers and wounding 16 more.",
-     "contesto": [
-      "Colombian conflict"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/colombia-drone-attack-military-base-7eb8bd82e98900f790b6d4e35eb702ec"
-      }
-     ],
-     "link": [
-      "Drone warfare",
-      "National Army of Colombia",
-      "Santa Rosa del Sur",
-      "Bolívar Department",
-      "Colombia"
-     ],
-     "testo_it": "Un attacco di droni di origine sconosciuta viene lanciato contro una base militare a Santa Rosa del Sur, Dipartimento di Bolívar, Colombia, uccidendo tre soldati e ferendone altri 16.",
-     "contesto_it": [
-      "Conflitto colombiano"
-     ]
-    },
-    {
-     "testo": "A family of twelve are killed in an arson attack during a bandit raid in Maradun, Zamfara State, Nigeria. Seven others are kidnapped.",
-     "contesto": [
-      "Nigerian bandit conflict"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Nigerian Info",
-       "url": "https://www.nigeriainfo.fm/news/homepageabuja/bandits-kill-12-family-members-in-zamfara-abduct-residents/"
-      }
-     ],
-     "link": [
-      "Maradun",
-      "Zamfara State",
-      "Nigeria"
-     ],
-     "testo_it": "Una famiglia di dodici persone viene uccisa in un incendio doloso durante un raid di banditi a Maradun, nello stato di Zamfara, in Nigeria.",
-     "contesto_it": [
-      "Conflitto bandito nigeriano"
-     ]
-    },
-    {
-     "testo": "At least 12 people are injured in Jamalganj, Sunamganj, Bangladesh, during a clash between two factions of the Bangladesh Nationalist Party at a National Revolution and Solidarity Day program.",
-     "contesto": [],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "The Business Standard",
-       "url": "https://www.tbsnews.net/bangladesh/12-injured-bnp-factions-clash-over-7-november-programmes-sunamganj-1595606"
-      }
-     ],
-     "link": [
-      "Jamalganj Upazila",
-      "Sunamganj District",
-      "Bangladesh",
-      "Bangladesh Nationalist Party",
-      "National Revolution and Solidarity Day"
-     ],
-     "testo_it": "Almeno 12 persone sono rimaste ferite a Jamalganj, Sunamganj, Bangladesh, durante uno scontro tra due fazioni del Partito Nazionalista del Bangladesh in occasione di un programma di Giornata della Rivoluzione Nazionale e della Solidarietà."
-    },
-    {
-     "testo": "Twenty-one people are killed and one person has been rescued after a migrant boat sinks off the coast of Kebemer, Louga region, Senegal.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "Xinhua",
-       "url": "https://english.news.cn/20261108/b421ddd6df0c45a7aff62b629f9a3581/c.html"
-      }
-     ],
-     "link": [
-      "Kebemer",
-      "Louga region",
-      "Senegal"
-     ],
-     "testo_it": "Ventuno persone vengono uccise e una persona è stata salvata dopo che una barca di migranti affonda al largo della costa di Kebemer, regione di Louga, Senegal."
-    },
-    {
-     "testo": "At least 12 people, mostly bus passengers, are killed and 13 others are injured in a multiple-vehicle collision near Atalaya, Valparaíso Region, Chile.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AFP via The Sun",
-       "url": "https://thesun.my/news/12-killed-13-injured-in-three-vehicle-collision-in-chile/"
-      }
-     ],
-     "link": [
-      "Bus",
-      "Multiple-vehicle collision",
-      "Valparaíso Region",
-      "Chile"
-     ],
-     "testo_it": "Almeno 12 persone, per lo più passeggeri di autobus, vengono uccise e altre 13 sono ferite in una collisione a più veicoli vicino ad Atalaya, nella regione di Valparaíso, in Cile."
-    },
-    {
-     "testo": "Nine people are killed and five others are injured when a truck collides with a minibus in Özalp, Van Province, Turkey.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "Daily Sabah",
-       "url": "https://www.dailysabah.com/turkiye/9-killed-5-injured-in-truck-minibus-collision-in-eastern-turkiye/news"
-      }
-     ],
-     "link": [
-      "Özalp, Van",
-      "Van Province",
-      "Turkey"
-     ],
-     "testo_it": "Nove persone vengono uccise e altre cinque ferite quando un camion si scontra con un minibus a Özalp, nella provincia di Van, in Turchia."
-    },
-    {
-     "testo": "Unions, yellow vests protesters, and student protesters hold a fourth consecutive weekend of protests across France with about 146,000 participants.",
-     "contesto": [
-      "2026 French student protests"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "AFP",
-       "url": "https://www.afp.com/en/france-braces-protests-yellow-vests-urge-mass-disobedience"
-      },
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france"
-      }
-     ],
-     "link": [
-      "Yellow vests protests",
-      "France"
-     ],
-     "testo_it": "Sindacati, giubbotti gialli e manifestanti studenteschi organizzano un quarto fine settimana consecutivo di proteste in tutta la Francia con circa 146.000 partecipanti.",
-     "contesto_it": [
-      "Proteste studentesche francesi (2026)"
-     ]
-    },
-    {
-     "testo": "Israeli president Isaac Herzog selects Yashar party leader Gadi Eisenkot to attempt to form a coalition government following inconclusive Knesset elections. Eisenkot will have 28 days to secure sufficient support in the Knesset.",
-     "contesto": [
-      "2026 Israeli legislative election"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "ABC News Australia",
-       "url": "https://www.abc.net.au/news/2026-11-08/israel-president-prime-minister-government-picked-eisenkot/107360472"
-      },
-      {
-       "nome": "The Times of Israel",
-       "url": "https://www.timesofisrael.com/liveblog_entry/herzog-announces-he-will-task-eisenkot-tomorrow-with-forming-new-government-after-meeting-him-and-netanyahu/"
-      }
-     ],
-     "link": [
-      "Israel",
-      "President of Israel",
-      "Isaac Herzog",
-      "Yashar (political party)",
-      "Gadi Eisenkot",
-      "Coalition government",
-      "Hung parliament",
-      "Knesset"
-     ],
-     "testo_it": "Il presidente israeliano Isaac Herzog sceglie il leader del partito Yashar Gadi Eisenkot per tentare di formare un governo di coalizione a seguito di elezioni inconcludenti della Knesset. Eisenkot avrà 28 giorni per ottenere un sostegno sufficiente alla Knesset.",
-     "contesto_it": [
-      "Elezioni legislative israeliane (2026)"
-     ]
-    },
-    {
-     "testo": "New Zealanders vote to elect 120 members of the House of Representatives, with 11 additional overhang seats. National Party leader Christopher Luxon and Labour leader Chris Hipkins both seek reappointment as the country's prime minister. Preliminary results see Labour lead in the popular vote and the Nationals having the most amount of seats, with special votes yet to be counted.",
-     "contesto": [
-      "2026 New Zealand general election"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/new-zealand-election-results-luxon-hipkins-voting-8c1728ae2533201f68d5a5e75fc9e907"
-      },
-      {
-       "nome": "RNZ",
-       "url": "https://www.rnz.co.nz/news/politics_election-2026/2420113/too-close-to-call-wait-begins-for-special-votes-after-cliffhanger-election-night"
-      }
-     ],
-     "link": [
-      "New Zealanders",
-      "New Zealand House of Representatives",
-      "Overhang seat",
-      "New Zealand National Party",
-      "Christopher Luxon",
-      "New Zealand Labour Party",
-      "Chris Hipkins",
-      "Prime Minister of New Zealand",
-      "Popular vote",
-      "Special vote"
-     ],
-     "testo_it": "I neozelandesi votano per eleggere 120 membri della Camera dei Rappresentanti, con 11 ulteriori seggi a sbalzo. Il leader del partito nazionale Christopher Luxon e il leader laburista Chris Hipkins cercano entrambi di essere riconfermati come primo ministro del paese. Risultati preliminari vedono il leader laburista nel voto popolare e i nazionali hanno il maggior numero di seggi, con voti speciali ancora da contare.",
-     "contesto_it": [
-      "Elezioni generali in Nuova Zelanda (2026)"
-     ]
-    },
-    {
-     "testo": "In sailing, Frenchman Tom Laperche wins the 2026 Route du Rhum in a record six days, 13 hours, 27 minutes and 40 seconds, beating Charles Caudrelier's 2022 time by six hours and 19 minutes.",
-     "contesto": [],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "AFP",
-       "url": "https://www.afp.com/en/laperche-wins-route-du-rhum-record-time"
-      },
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/sports/frances-laperche-wins-route-du-rhum-ultim-record-time-2026-11-08/"
-      }
-     ],
-     "link": [
-      "Sailing (sport)",
-      "France",
-      "Route du Rhum",
-      "Charles Caudrelier"
-     ],
-     "testo_it": "Nella vela, il francese Tom Laperche vince la Route du Rhum 2026 in un record di sei giorni, 13 ore, 27 minuti e 40 secondi, battendo il 2022 di Charles Caudrelier di sei ore e 19 minuti."
     }
    ]
   }
