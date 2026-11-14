@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-14T10:37:33Z",
+ "generato": "2026-11-14T18:13:21Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -71,12 +71,90 @@
     "Booker Prize"
    ],
    "testo_it": "La fine di tutto di M. John Harrison vince il Booker Prize."
+  },
+  {
+   "testo": "Novaya Gazeta, one of Russia's oldest and most prominent independent newspapers, closes under pressure from the Russian authorities.",
+   "contesto": [],
+   "categoria": "In primo piano",
+   "fonti": [
+    {
+     "nome": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Novaya_Gazeta"
+    }
+   ],
+   "link": [
+    "Novaya Gazeta"
+   ],
+   "testo_it": "Novaya Gazeta, uno dei giornali indipendenti più antichi e importanti della Russia, chiude sotto la pressione delle autorità russe."
   }
  ],
  "giorni": [
   {
    "data": "2026-11-14",
-   "voci": []
+   "voci": [
+    {
+     "testo": "The Philippines, with the song Sobra-Sobra by Carmelle, wins the inaugural Eurovision Song Contest Asia held in Bangkok, Thailand.",
+     "contesto": [
+      "Eurovision Song Contest Asia"
+     ],
+     "categoria": "Arts and culture",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/thailand-eurovision-asia-2026-carmelle-winner-099ca558c4638949e637d3a8f8061d6d"
+      }
+     ],
+     "link": [
+      "Philippines",
+      "Sobra-Sobra",
+      "Carmelle Collado",
+      "Eurovision Song Contest Asia",
+      "Bangkok",
+      "Thailand"
+     ],
+     "testo_it": "Le Filippine, con la canzone Sobra-Sobra di Carmelle, vincono l'Eurovision Song Contest Asia che si tiene a Bangkok, in Thailandia.",
+     "contesto_it": [
+      "Eurovision Song Contest Asia"
+     ]
+    },
+    {
+     "testo": "The Slagdijkstermolen windmill in Friesland, Netherlands, burns down.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "Omrop Fryslân",
+       "url": "https://www.omropfryslan.nl/nl/nieuws/18947046/historische-slagdijkstermolen-bij-stiens-volledig-verwoest-door-felle-brand"
+      }
+     ],
+     "link": [
+      "Slagdijkstermolen, Feinsum",
+      "Friesland"
+     ],
+     "testo_it": "Il mulino a vento Slagdijkstermolen in Frisia, Paesi Bassi, brucia."
+    },
+    {
+     "testo": "Student protesters, unions, and the yellow vests hold another nationwide protest in France, with over 100,000 participants.",
+     "contesto": [
+      "2026 French civil unrest, 2026 European unrest"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "France 24",
+       "url": "https://www.france24.com/en/france/20261114-live-france-mobilises-in-fifth-wave-of-student-protests"
+      }
+     ],
+     "link": [
+      "Yellow vests movement",
+      "France"
+     ],
+     "testo_it": "I manifestanti studenteschi, i sindacati e i gilet gialli tengono un'altra protesta a livello nazionale in Francia, con oltre 100.000 partecipanti.",
+     "contesto_it": [
+      "Francia disordini civili (2026), disordini europei (2026)"
+     ]
+    }
+   ]
   },
   {
    "data": "2026-11-13",
@@ -139,7 +217,7 @@
     {
      "testo": "The United States Federal Aviation Administration issues a nationwide ground stop for all flights due to \"extraordinary circumstances involving communications failures\". It is later lifted.",
      "contesto": [
-      "2026 FAA communication outage"
+      "2026 FAA ground stop"
      ],
      "categoria": "Disasters and accidents",
      "fonti": [
@@ -159,24 +237,28 @@
      ],
      "testo_it": "La Federal Aviation Administration degli Stati Uniti emette una fermata a livello nazionale per tutti i voli a causa di \"circostanze straordinarie che coinvolgono fallimenti delle comunicazioni\".",
      "contesto_it": [
-      "Interruzione della comunicazione FAA (2026)"
+      "Fermata di terra FAA (2026)"
      ]
     },
     {
-     "testo": "Twenty-four people are killed and eleven more injured in a bus–truck collision in Golaghat, India.",
+     "testo": "Twenty-six people are killed and eleven more are injured in a bus–truck collision in Golaghat, India.",
      "contesto": [],
      "categoria": "Disasters and accidents",
      "fonti": [
       {
        "nome": "Al Jazeera",
        "url": "https://www.aljazeera.com/news/2026/11/13/truck-and-bus-crash-in-indias-assam-state-kills-at-least-24-people"
+      },
+      {
+       "nome": "Xinhua",
+       "url": "https://english.news.cn/20261114/c10c0ba76eb244eaa8c1548b6ad6e206/c.html"
       }
      ],
      "link": [
       "Golaghat",
       "India"
      ],
-     "testo_it": "Ventiquattro persone vengono uccise e altre undici ferite in uno scontro tra autobus e camion a Golaghat, in India."
+     "testo_it": "Ventisei persone sono morte e altre undici sono rimaste ferite in uno scontro tra autobus e camion a Golaghat, in India."
     },
     {
      "testo": "Six people are killed and five more injured after an under construction building partially collapses in Nairobi, Kenya.",
@@ -554,7 +636,7 @@
     {
      "testo": "One person is killed and four more are injured in a shooting spree in Logan Circle, Washington D.C., United States. The suspected gunman later kills himself after barricading himself from police inside a nearby apartment.",
      "contesto": [
-      "Mass shootings in the United States"
+      "2026 Logan Circle shooting"
      ],
      "categoria": "Law and crime",
      "fonti": [
@@ -576,7 +658,7 @@
      ],
      "testo_it": "Una persona viene uccisa e altre quattro sono ferite in una sparatoria a Logan Circle, Washington D.C., Stati Uniti. Il sospetto uomo armato si uccide in seguito dopo essersi barricato dalla polizia all'interno di un appartamento vicino.",
      "contesto_it": [
-      "Sparatorie di massa negli Stati Uniti"
+      "Sparatoria Logan Circle (2026)"
      ]
     },
     {
@@ -1114,6 +1196,24 @@
      "contesto_it": [
       "Conflitto colombiano"
      ]
+    },
+    {
+     "testo": "Ten people are killed and 13 more injured during clashes between police and protestors after a patrol against illegal gold mining in Balato, Guinea.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/guinea-illegal-mining-clashes-3bf55251d4da7159b04e031c8783d7a4"
+      }
+     ],
+     "link": [
+      "Illegal mining",
+      "Gold mining",
+      "Balato",
+      "Guinea"
+     ],
+     "testo_it": "Dieci persone vengono uccise e altri 13 feriti durante gli scontri tra polizia e manifestanti dopo una pattuglia contro l'estrazione illegale di oro a Balato, in Guinea."
     },
     {
      "testo": "Former Red Brigades member Leonardo Bertulazzi escapes house arrest in Buenos Aires, Argentina, while awaiting extradition to Italy to serve a 27-year prison sentence for kidnapping and membership in an armed group. Argentine security forces launch a manhunt for him.",
