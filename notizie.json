@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-14T18:13:21Z",
+ "generato": "2026-11-14T22:32:30Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -27,7 +27,7 @@
    "testo_it": "Il CEO di Nvidia Jensen Huang si dimette tra le accuse di essere stato preso di mira da una spia cinese e di avere relazioni extraconiugali."
   },
   {
-   "testo": "The Salvadoran military intervention in Haiti intensifies with a strike on 400 Mawozo's alleged headquarters and a deployment to Stade Sylvio Cator.",
+   "testo": "The Salvadoran military intervention in Haiti intensifies with an airstrike on 400 Mawozo's alleged headquarters and a deployment to Stade Sylvio Cator.",
    "contesto": [],
    "categoria": "In primo piano",
    "fonti": [
@@ -41,7 +41,7 @@
     "400 Mawozo",
     "Stade Sylvio Cator"
    ],
-   "testo_it": "L'intervento militare salvadoregno ad Haiti si intensifica con un attacco al presunto quartier generale di 400 Mawozo e un dispiegamento a Stade Sylvio Cator."
+   "testo_it": "L'intervento militare salvadoregno ad Haiti si intensifica con un attacco aereo sul presunto quartier generale di 400 Mawozo e un dispiegamento a Stade Sylvio Cator."
   },
   {
    "testo": "American ocean liner SS United States is scuttled in the Gulf of Mexico to create the largest artificial reef.",
@@ -93,28 +93,80 @@
    "data": "2026-11-14",
    "voci": [
     {
-     "testo": "The Philippines, with the song Sobra-Sobra by Carmelle, wins the inaugural Eurovision Song Contest Asia held in Bangkok, Thailand.",
+     "testo": "The Philippines, with the song \"Sobra-Sobra\" by Carmelle, wins the inaugural Eurovision Song Contest Asia held in Bangkok, Thailand.",
      "contesto": [
       "Eurovision Song Contest Asia"
      ],
      "categoria": "Arts and culture",
      "fonti": [
       {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/philippines-wins-eurovisions-first-asia-contest"
+      },
+      {
        "nome": "AP",
        "url": "https://apnews.com/article/thailand-eurovision-asia-2026-carmelle-winner-099ca558c4638949e637d3a8f8061d6d"
       }
      ],
      "link": [
-      "Philippines",
+      "Philippines in the Eurovision Song Contest Asia",
       "Sobra-Sobra",
       "Carmelle Collado",
       "Eurovision Song Contest Asia",
       "Bangkok",
       "Thailand"
      ],
-     "testo_it": "Le Filippine, con la canzone Sobra-Sobra di Carmelle, vincono l'Eurovision Song Contest Asia che si tiene a Bangkok, in Thailandia.",
+     "testo_it": "Le Filippine, con la canzone \"Sobra-Sobra\" di Carmelle, vincono l'Eurovision Song Contest Asia che si tiene a Bangkok, in Thailandia.",
      "contesto_it": [
       "Eurovision Song Contest Asia"
+     ]
+    },
+    {
+     "testo": "The Bangladesh Garment Manufacturers and Exporters Association threatens to indefinitely close unrest-affected factories without pay under the Bangladesh Labour Act 2006, after ongoing wage protests force the shutdown of 55 units and halt production at 147 others.",
+     "contesto": [
+      "2026 Bangladesh garment workers protests"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "The Business Standard",
+       "url": "https://www.tbsnews.net/economy/rmg/rmg-factory-owners-threaten-closures-under-no-work-no-pay-provision-amid-labour-unrest"
+      }
+     ],
+     "link": [
+      "Bangladesh Garment Manufacturers and Exporters Association",
+      "Lockout (industry)",
+      "Textile industry in Bangladesh",
+      "Minimum wage"
+     ],
+     "testo_it": "La Bangladesh Garment Manufacturers and Exporters Association minaccia di chiudere indefinitamente le fabbriche colpite dai disordini senza retribuzione ai sensi del Bangladesh Labour Act 2006, dopo che le proteste salariali in corso costringono la chiusura di 55 unità e fermano la produzione a 147 altre.",
+     "contesto_it": [
+      "Proteste dei lavoratori del Bangladesh (2026)"
+     ]
+    },
+    {
+     "testo": "Canadian prime minister Mark Carney announces that negotiations for a free-trade agreement (FTA) with the Philippines have concluded, with signing expected in 2027. The FTA would eliminate more than 90% of tariff lines.",
+     "contesto": [
+      "Canada–Philippines relations, Free trade agreements of Canada"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/canadas-carney-touts-philippine-trade-deal-asia-tour"
+      }
+     ],
+     "link": [
+      "Canada",
+      "Prime Minister of Canada",
+      "Mark Carney",
+      "Free trade agreement",
+      "Philippines",
+      "Tariff"
+     ],
+     "testo_it": "Il primo ministro canadese Mark Carney annuncia che i negoziati per un accordo di libero scambio (ALS) con le Filippine sono conclusi, con la firma prevista nel 2027. L'ALS eliminerebbe oltre il 90% delle linee tariffarie.",
+     "contesto_it": [
+      "Relazioni Canada-Filippine, Accordi di libero scambio del Canada"
      ]
     },
     {
@@ -123,35 +175,113 @@
      "categoria": "Disasters and accidents",
      "fonti": [
       {
-       "nome": "Omrop Fryslân",
+       "nome": "Omrop Fryslân in Dutch",
        "url": "https://www.omropfryslan.nl/nl/nieuws/18947046/historische-slagdijkstermolen-bij-stiens-volledig-verwoest-door-felle-brand"
       }
      ],
      "link": [
       "Slagdijkstermolen, Feinsum",
-      "Friesland"
+      "Friesland",
+      "Netherlands"
      ],
      "testo_it": "Il mulino a vento Slagdijkstermolen in Frisia, Paesi Bassi, brucia."
     },
     {
+     "testo": "Eight more people in Bangladesh are reported to have died from dengue fever, bringing this year's outbreak's death toll past 491.",
+     "contesto": [],
+     "categoria": "Health and environment",
+     "fonti": [
+      {
+       "nome": "BSS",
+       "url": "https://www.bssnews.net/others/445684"
+      }
+     ],
+     "link": [
+      "Bangladesh",
+      "Dengue fever",
+      "Mortality rate"
+     ],
+     "testo_it": "Altre otto persone in Bangladesh sono morte di febbre dengue, portando il bilancio delle vittime di quest'anno a oltre 491."
+    },
+    {
+     "testo": "Border Guard Bangladesh seize 48 explosive gel sticks, 100 detonators, and 11 fuses during an operation along the Bangladesh–India border in Kanaighat Upazila, Sylhet District, Bangladesh.",
+     "contesto": [
+      "Crime in Bangladesh"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "BSS",
+       "url": "https://www.bssnews.net/district/445828"
+      }
+     ],
+     "link": [
+      "Border Guard Bangladesh",
+      "Explosive",
+      "Detonator",
+      "Fuse (explosives)",
+      "Bangladesh–India border",
+      "Kanaighat Upazila",
+      "Sylhet District",
+      "Bangladesh"
+     ],
+     "testo_it": "La Guardia di frontiera del Bangladesh sequestra 48 bastoncini di gel esplosivo, 100 detonatori e 11 fusibili durante un'operazione lungo il confine Bangladesh-India a Kanaighat Upazila, distretto di Sylhet, Bangladesh.",
+     "contesto_it": [
+      "Criminalità in Bangladesh"
+     ]
+    },
+    {
      "testo": "Student protesters, unions, and the yellow vests hold another nationwide protest in France, with over 100,000 participants.",
      "contesto": [
-      "2026 French civil unrest, 2026 European unrest"
+      "2026 European unrest",
+      "2026 French civil unrest"
      ],
      "categoria": "Politics and elections",
      "fonti": [
       {
        "nome": "France 24",
        "url": "https://www.france24.com/en/france/20261114-live-france-mobilises-in-fifth-wave-of-student-protests"
+      },
+      {
+       "nome": "Türkiye",
+       "url": "https://www.turkiyetoday.com/world/frances-weekend-rallies-draw-106000-by-official-count-while-unions-claim-200000-3232407"
       }
      ],
      "link": [
+      "Education in France",
       "Yellow vests movement",
       "France"
      ],
      "testo_it": "I manifestanti studenteschi, i sindacati e i gilet gialli tengono un'altra protesta a livello nazionale in Francia, con oltre 100.000 partecipanti.",
      "contesto_it": [
-      "Francia disordini civili (2026), disordini europei (2026)"
+      "Insurrezioni europee (2026)",
+      "Insurrezioni civili francesi (2026)"
+     ]
+    },
+    {
+     "testo": "The South Sudanese election commission postpones the country's first presidential and parliamentary elections since independence in 2011 from December 22, 2026, to February 11, 2027, amid political tensions and continuing violence.",
+     "contesto": [
+      "2027 South Sudanese general election"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "AFP via RFI",
+       "url": "https://www.rfi.fr/en/international-news/20261114-south-sudan-postpones-first-national-elections-until-february"
+      }
+     ],
+     "link": [
+      "South Sudan",
+      "Election commission",
+      "President of South Sudan",
+      "Transitional National Legislature (South Sudan)",
+      "Elections in South Sudan",
+      "Politics of South Sudan",
+      "Jonglei clashes (2025–present)"
+     ],
+     "testo_it": "La commissione elettorale sud sudanese rinvia le prime elezioni presidenziali e parlamentari del paese dall'indipendenza nel 2011 dal 22 dicembre 2026 all'11 febbraio 2027, tra tensioni politiche e continue violenze.",
+     "contesto_it": [
+      "Elezioni generali del Sud Sudan (2027)"
      ]
     }
    ]
@@ -205,7 +335,7 @@
       }
      ],
      "link": [
-      "Queen of the Mississippi (2015 ship)",
+      "American Heritage (ship)",
       "Mississippi River",
       "United States"
      ],
@@ -261,7 +391,7 @@
      "testo_it": "Ventisei persone sono morte e altre undici sono rimaste ferite in uno scontro tra autobus e camion a Golaghat, in India."
     },
     {
-     "testo": "Six people are killed and five more injured after an under construction building partially collapses in Nairobi, Kenya.",
+     "testo": "Six people are killed and five more injured after an under-construction building partially collapses in Nairobi, Kenya.",
      "contesto": [],
      "categoria": "Disasters and accidents",
      "fonti": [
@@ -321,6 +451,39 @@
      "testo_it": "Qatar e Turchia firmano un patto di difesa a Istanbul.",
      "contesto_it": [
       "Relazioni Qatar-Turchia"
+     ]
+    },
+    {
+     "testo": "Hungary's National Asset Recovery and Protection Office recovers cash worth around US$19.5 million, including 5 billion Ft, from various locations around the country as part of a bribery investigation into Miklós Seszták, who served as Minister of National Development under former Prime Minister Viktor Orbán from 2014 to 2018.",
+     "contesto": [
+      "Corruption in Hungary"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "Euronews",
+       "url": "https://www.euronews.com/2026/11/14/hungary-seizes-millions-in-cash-found-buried-in-forests-amid-corruption-investigation"
+      },
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/hungary-recovers-20-million-cash-probe-orban-minister-2026-11-14/"
+      }
+     ],
+     "link": [
+      "Hungary",
+      "National Asset Recovery and Protection Office",
+      "Cash",
+      "US$",
+      "Hungarian forint",
+      "Bribery",
+      "Miklós Seszták",
+      "Prime Minister of Hungary",
+      "Viktor Orbán",
+      "Third Orbán government"
+     ],
+     "testo_it": "L'Ufficio nazionale ungherese per il recupero e la protezione degli asset recupera denaro per un valore di circa 19,5 milioni di dollari, tra cui 5 miliardi di Ft, da varie località in tutto il paese come parte di un'indagine di corruzione su Miklós Seszták, che è stato ministro dello sviluppo nazionale sotto l'ex primo ministro Viktor Orbán dal 2014 al 2018.",
+     "contesto_it": [
+      "Corruzione in Ungheria"
      ]
     },
     {
@@ -508,6 +671,34 @@
      "testo_it": "Jensen Huang si dimette da amministratore delegato (CEO) e presidente di Nvidia e lascia il consiglio di amministrazione della società a seguito di rapporti di due affari extraconiugali, tra cui uno che coinvolge un sospetto agente di intelligence cinese.",
      "contesto_it": [
       "Jensen Huang spia lo scandalo"
+     ]
+    },
+    {
+     "testo": "Over 200 garment factories shut down as workers block the Dhaka–Tangail Highway in Gazipur, leading police to fire stun grenades at the protesting workers.",
+     "contesto": [
+      "2026 Bangladesh garment workers protests"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "Prothom Alo",
+       "url": "https://en.prothomalo.com/bangladesh/local-news/ufgmuunpa4"
+      },
+      {
+       "nome": "New Age",
+       "url": "https://www.newagebd.net/post/country/322211/over-200-rmg-units-suspend-production-amid-worker-protests"
+      }
+     ],
+     "link": [
+      "Textile industry in Bangladesh",
+      "N4 (Bangladesh)",
+      "Gazipur District",
+      "Bangladesh Police",
+      "Stun grenade"
+     ],
+     "testo_it": "Oltre 200 fabbriche di abbigliamento chiuse mentre i lavoratori bloccavano l'autostrada Dhaka-Tangail a Gazipur, portando la polizia a sparare granate stordenti contro i lavoratori che protestavano.",
+     "contesto_it": [
+      "Proteste dei lavoratori del Bangladesh (2026)"
      ]
     },
     {
