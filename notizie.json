@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-15T06:43:27Z",
+ "generato": "2026-11-15T16:26:26Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -91,11 +91,138 @@
  "giorni": [
   {
    "data": "2026-11-15",
-   "voci": []
+   "voci": [
+    {
+     "testo": "Amid minimum wage protests by garment workers, 13 garment factories in Gazipur are shut indefinitely under the Bangladesh Labour Act, 2006 and over 50 remain closed in Savar and Ashulia, while 48 platoons of the Border Guard, Ansar, and Special Response Battalion deploy across industrial zones in Dhaka, Gazipur, and Narayanganj.",
+     "contesto": [
+      "2026 Bangladesh garment workers protests"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "The Business Standard",
+       "url": "https://www.tbsnews.net/economy/rmg/13-factories-shut-indefinitely-gazipur-amid-labour-unrest-holiday-declared-five-1602791"
+      }
+     ],
+     "link": [
+      "Minimum wage",
+      "Clothing industry",
+      "Textile industry in Bangladesh",
+      "Gazipur District",
+      "Savar Upazila",
+      "Ashulia",
+      "Platoon",
+      "Border Guard Bangladesh",
+      "Bangladesh Ansar",
+      "Special Response Battalion",
+      "Dhaka District",
+      "Narayanganj District"
+     ],
+     "testo_it": "Tra le proteste per il salario minimo da parte dei lavoratori dell'abbigliamento, 13 fabbriche di abbigliamento a Gazipur sono chiuse a tempo indeterminato ai sensi del Bangladesh Labour Act, 2006 e oltre 50 rimangono chiuse a Savar e Ashulia, mentre 48 plotoon della Guardia di frontiera, Ansar e Special Response Battalion si dispiegano nelle zone industriali di Dhaka, Gazipur e Narayanganj.",
+     "contesto_it": [
+      "Proteste dei lavoratori del Bangladesh (2026)"
+     ]
+    },
+    {
+     "testo": "Cape Verdeans vote to elect a president, where the main two candidates are the incumbent PAICV candidate José Maria Neves and the MpD candidate Joana Rosa.",
+     "contesto": [
+      "2026 Cape Verdean presidential election"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/cape-verde-presidential-election-rosa-neves-b066358194132f21ea91bcbd6699d5e0"
+      }
+     ],
+     "link": [
+      "Cape Verdeans",
+      "President of Cape Verde",
+      "PAICV",
+      "José Maria Neves",
+      "Movement for Democracy (Cape Verde)",
+      "Joana Rosa"
+     ],
+     "testo_it": "I capoverdiani votano per eleggere un presidente, dove i due candidati principali sono il candidato in carica del PAICV José Maria Neves e il candidato del MPD Joana Rosa.",
+     "contesto_it": [
+      "Elezioni presidenziali del Capo Verde (2026)"
+     ]
+    },
+    {
+     "testo": "Gagauzians in Moldova vote to elect a governor and 35 members of the People's Assembly.",
+     "contesto": [
+      "2026 Gagauz general election"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "Radio Moldova",
+       "url": "https://radiomoldova.md/p/89743/gagauzia-voters-to-elect-governor-and-regional-assembly"
+      }
+     ],
+     "link": [
+      "Gagauzians",
+      "Moldova",
+      "Governor of Gagauzia",
+      "People's Assembly of Gagauzia"
+     ],
+     "testo_it": "I gagauziani in Moldavia votano per eleggere un governatore e 35 membri dell'Assemblea popolare.",
+     "contesto_it": [
+      "Elezioni generali di Gagauz (2026)"
+     ]
+    }
+   ]
   },
   {
    "data": "2026-11-14",
    "voci": [
+    {
+     "testo": "Ahmed Abdallah Bishr, the general chief of staff for the Gathering of Sudan Liberation Forces (GSLF), is killed in a drone strike on his home in Nyala in Sudan's South Darfur state.",
+     "contesto": [
+      "Sudanese civil war",
+      "Darfur campaign"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Sudan Tribune",
+       "url": "https://sudantribune.com/article/321241"
+      }
+     ],
+     "link": [
+      "Nyala, Sudan",
+      "Sudan",
+      "South Darfur",
+      "States of Sudan"
+     ],
+     "testo_it": "Ahmed Abdallah Bishr, capo di stato maggiore delle Forze di Liberazione del Sudan (GSLF), viene ucciso in un attacco con droni contro la sua casa a Nyala, nello stato del Sud Darfur in Sudan.",
+     "contesto_it": [
+      "Guerra civile sudanese",
+      "Campagna del Darfur"
+     ]
+    },
+    {
+     "testo": "The Iranian military attacks, with drones and missiles, an American military facility in Bahrain, in one of the largest attacks on the country in months.",
+     "contesto": [
+      "2026 Iran war",
+      "2026 Iranian strikes on Bahrain"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "The National News",
+       "url": "https://www.thenationalnews.com/news/gulf/2026/11/15/bahrain-issues-first-nationwide-alert-in-months-as-iran-claims-attack-on-base-hosting-us-helicopters/"
+      }
+     ],
+     "link": [
+      "Bahrain"
+     ],
+     "testo_it": "Gli attacchi militari iraniani, con droni e missili, una struttura militare americana in Bahrain, in uno dei più grandi attacchi al paese da mesi.",
+     "contesto_it": [
+      "Guerra in Iran (2026)",
+      "Scioperi iraniani contro il Bahrein (2026)"
+     ]
+    },
     {
      "testo": "The Philippines, with the song \"Sobra-Sobra\" by Carmelle, wins the inaugural Eurovision Song Contest Asia held in Bangkok, Thailand.",
      "contesto": [
@@ -132,6 +259,10 @@
      ],
      "categoria": "Business and economy",
      "fonti": [
+      {
+       "nome": "AFP via The Straits Times",
+       "url": "https://www.straitstimes.com/asia/bangladesh-garment-makers-threaten-to-quit-wage-talks"
+      },
       {
        "nome": "The Business Standard",
        "url": "https://www.tbsnews.net/economy/rmg/rmg-factory-owners-threaten-closures-under-no-work-no-pay-provision-amid-labour-unrest"
@@ -226,7 +357,7 @@
      "testo_it": "Altre otto persone in Bangladesh sono morte di febbre dengue, portando il bilancio delle vittime dell'epidemia di quest'anno a 491."
     },
     {
-     "testo": "Border Guard Bangladesh seize 48 explosive gel sticks, 100 detonators, and 11 fuses during an operation along the Bangladesh–India border in Kanaighat Upazila, Sylhet District, Bangladesh.",
+     "testo": "Border Guard Bangladesh seize 48 high-power explosive gel sticks, 100 detonators, and 11 fuses during an operation along the Bangladesh–India border in Kanaighat Upazila, Sylhet District, Bangladesh.",
      "contesto": [
       "Crime in Bangladesh"
      ],
@@ -247,7 +378,7 @@
       "Sylhet District",
       "Bangladesh"
      ],
-     "testo_it": "La Guardia di frontiera del Bangladesh sequestra 48 bastoncini di gel esplosivo, 100 detonatori e 11 fusibili durante un'operazione lungo il confine Bangladesh-India a Kanaighat Upazila, distretto di Sylhet, Bangladesh.",
+     "testo_it": "La Guardia di frontiera del Bangladesh sequestra 48 bastoncini di gel esplosivi ad alta potenza, 100 detonatori e 11 fusibili durante un'operazione lungo il confine Bangladesh-India a Kanaighat Upazila, distretto di Sylhet, Bangladesh.",
      "contesto_it": [
       "Criminalità in Bangladesh"
      ]
