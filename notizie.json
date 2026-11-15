@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-14T22:32:30Z",
+ "generato": "2026-11-15T06:43:27Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -27,7 +27,7 @@
    "testo_it": "Il CEO di Nvidia Jensen Huang si dimette tra le accuse di essere stato preso di mira da una spia cinese e di avere relazioni extraconiugali."
   },
   {
-   "testo": "The Salvadoran military intervention in Haiti intensifies with an airstrike on 400 Mawozo's alleged headquarters and a deployment to Stade Sylvio Cator.",
+   "testo": "The Salvadoran military intervention in Haiti intensifies with airstrikes on 400 Mawozo's alleged headquarters and a deployment to Stade Sylvio Cator.",
    "contesto": [],
    "categoria": "In primo piano",
    "fonti": [
@@ -41,7 +41,7 @@
     "400 Mawozo",
     "Stade Sylvio Cator"
    ],
-   "testo_it": "L'intervento militare salvadoregno ad Haiti si intensifica con un attacco aereo sul presunto quartier generale di 400 Mawozo e un dispiegamento a Stade Sylvio Cator."
+   "testo_it": "L'intervento militare salvadoregno ad Haiti si intensifica con attacchi aerei contro il presunto quartier generale di 400 Mawozo e un dispiegamento a Stade Sylvio Cator."
   },
   {
    "testo": "American ocean liner SS United States is scuttled in the Gulf of Mexico to create the largest artificial reef.",
@@ -89,6 +89,10 @@
   }
  ],
  "giorni": [
+  {
+   "data": "2026-11-15",
+   "voci": []
+  },
   {
    "data": "2026-11-14",
    "voci": [
@@ -170,6 +174,24 @@
      ]
     },
     {
+     "testo": "A bus overturns on the Garzón–Neiva highway in Colombia, killing six people and wounding eleven more.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/colombia-bus-crash-caqueta-driver-sleep-083df4d921603bc7566ce9299174b20d"
+      }
+     ],
+     "link": [
+      "Garzón, Huila",
+      "Neiva, Huila",
+      "Highway",
+      "Colombia"
+     ],
+     "testo_it": "Un autobus capovolge l'autostrada Garzón-Neiva in Colombia, uccidendo sei persone e ferendone altre undici."
+    },
+    {
      "testo": "The Slagdijkstermolen windmill in Friesland, Netherlands, burns down.",
      "contesto": [],
      "categoria": "Disasters and accidents",
@@ -187,7 +209,7 @@
      "testo_it": "Il mulino a vento Slagdijkstermolen in Frisia, Paesi Bassi, brucia."
     },
     {
-     "testo": "Eight more people in Bangladesh are reported to have died from dengue fever, bringing this year's outbreak's death toll past 491.",
+     "testo": "Eight more people in Bangladesh are reported to have died from dengue fever, bringing this year's outbreak's death toll to 491.",
      "contesto": [],
      "categoria": "Health and environment",
      "fonti": [
@@ -201,7 +223,7 @@
       "Dengue fever",
       "Mortality rate"
      ],
-     "testo_it": "Altre otto persone in Bangladesh sono morte di febbre dengue, portando il bilancio delle vittime di quest'anno a oltre 491."
+     "testo_it": "Altre otto persone in Bangladesh sono morte di febbre dengue, portando il bilancio delle vittime dell'epidemia di quest'anno a 491."
     },
     {
      "testo": "Border Guard Bangladesh seize 48 explosive gel sticks, 100 detonators, and 11 fuses during an operation along the Bangladesh–India border in Kanaighat Upazila, Sylhet District, Bangladesh.",
@@ -228,6 +250,32 @@
      "testo_it": "La Guardia di frontiera del Bangladesh sequestra 48 bastoncini di gel esplosivo, 100 detonatori e 11 fusibili durante un'operazione lungo il confine Bangladesh-India a Kanaighat Upazila, distretto di Sylhet, Bangladesh.",
      "contesto_it": [
       "Criminalità in Bangladesh"
+     ]
+    },
+    {
+     "testo": "The Guatemalan Army begins deploying a battalion to the departments of Zacapa, Izabal, and Chiquimula following an attack in the Zacapa Department the previous day that killed five people.",
+     "contesto": [
+      "Crime in Guatemala"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "Prensa Libre in Spanish",
+       "url": "https://www.prensalibre.com/guatemala/justicia/ejercito-moviliza-hasta-600-soldados-tras-siete-asesinatos-en-zacapa-e-izabal-que-revelan-las-investigaciones-breaking/"
+      }
+     ],
+     "link": [
+      "Guatemala",
+      "Armed Forces of Guatemala",
+      "Battalion",
+      "Departments of Guatemala",
+      "Zacapa Department",
+      "Izabal Department",
+      "Chiquimula Department"
+     ],
+     "testo_it": "L'esercito guatemalteco inizia a schierare un battaglione nei dipartimenti di Zacapa, Izabal e Chiquimula a seguito di un attacco nel dipartimento di Zacapa il giorno precedente che ha ucciso cinque persone.",
+     "contesto_it": [
+      "Criminalità in Guatemala"
      ]
     },
     {
@@ -283,6 +331,33 @@
      "contesto_it": [
       "Elezioni generali del Sud Sudan (2027)"
      ]
+    },
+    {
+     "testo": "The Italian Data Protection Authority fines American technology company Meta for €805 million (US$887 million) after it was found that the Facebook Android app had access to users' photos and videos without specific consent or disclosure.",
+     "contesto": [],
+     "categoria": "Science and technology",
+     "fonti": [
+      {
+       "nome": "BBC News",
+       "url": "https://www.bbc.com/news/articles/cwn83gxemk35o"
+      },
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/"
+      }
+     ],
+     "link": [
+      "Italy",
+      "Italian Data Protection Authority",
+      "United States",
+      "Meta Platforms",
+      "Euro",
+      "US$",
+      "Facebook",
+      "Android (operating system)",
+      "Mobile app"
+     ],
+     "testo_it": "L'Autorità Garante per la protezione dei dati personali multa la società americana Meta per 805 milioni di euro (887 milioni di dollari) dopo che è stato scoperto che l'app Facebook Android aveva accesso alle foto e ai video degli utenti senza specifico consenso o divulgazione."
     }
    ]
   },
@@ -1054,6 +1129,32 @@
      "testo_it": "I talebani pakistani compiono un'imboscata contro il personale di polizia nel distretto di Kohat, Khyber Pakhtunkhwa, in Pakistan, uccidendo dieci ufficiali. Diciotto uomini armati vengono uccisi anche nella successiva sparatoria.",
      "contesto_it": [
       "Insurrezione a Khyber Pakhtunkhwa"
+     ]
+    },
+    {
+     "testo": "At least 50 garment factories shut down in Savar and Ashulia, as police use tear gas and stun grenades to disperse striking workers blocking roads.",
+     "contesto": [
+      "2026 Bangladesh garment workers protests"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "The Daily Star",
+       "url": "https://www.thedailystar.net/news/news/labour-unrest-continues-savar-ashulia-50-factories-shut-4321046"
+      }
+     ],
+     "link": [
+      "Textile industry in Bangladesh",
+      "Savar Upazila",
+      "Ashulia",
+      "Bangladesh Police",
+      "Tear gas",
+      "Stun grenade",
+      "Strike action"
+     ],
+     "testo_it": "Almeno 50 fabbriche di abbigliamento chiusero a Savar e Ashulia, mentre la polizia usava gas lacrimogeni e granate stordenti per disperdere i lavoratori che bloccavano le strade.",
+     "contesto_it": [
+      "Proteste dei lavoratori del Bangladesh (2026)"
      ]
     },
     {
@@ -2464,581 +2565,6 @@
       "2027 College Football Playoff National Championship"
      ],
      "testo_it": "Nel football universitario, il College Football Playoff annuncia che si espanderà da 12 a 24 squadre a partire dalla stagione 2027."
-    }
-   ]
-  },
-  {
-   "data": "2026-11-08",
-   "voci": [
-    {
-     "testo": "At least five people are killed, including four children, and several injured people are rescued after heavy rain and flooding caused a sandbank to collapse in Deir el-Balah, Gaza.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "Gaza war",
-      "Gaza humanitarian crisis"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter"
-      }
-     ],
-     "link": [
-      "Sandbank",
-      "Deir el-Balah",
-      "Gaza Strip"
-     ],
-     "testo_it": "Almeno cinque persone sono state uccise, tra cui quattro bambini, e diverse persone ferite sono state salvate dopo che forti piogge e inondazioni hanno causato il crollo di una banchina di sabbia a Deir el-Balah, Gaza.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Guerra di Gaza",
-      "Crisi umanitaria di Gaza"
-     ]
-    },
-    {
-     "testo": "Several floors of Aramco Tower, a skyscraper owned by Saudi Aramco located in Riyadh, Saudi Arabia, are damaged after a Houthi ballistic missile is intercepted over the city by Saudi air defense systems. No casualties or injuries are reported.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "Yemeni civil war",
-      "Houthi–Saudi conflict"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province"
-      },
-      {
-       "nome": "BBC News",
-       "url": "https://www.bbc.com/news/articles/c6ly3mjx958eo"
-      }
-     ],
-     "link": [
-      "Aramco Tower",
-      "Saudi Aramco",
-      "Riyadh",
-      "Saudi Arabia",
-      "Houthis",
-      "Ballistic missile",
-      "Anti-aircraft warfare"
-     ],
-     "testo_it": "Diversi piani della Torre di Aramco, un grattacielo di proprietà di Saudi Aramco situato a Riyadh, in Arabia Saudita, sono danneggiati dopo che un missile balistico Houthi è stato intercettato sulla città dai sistemi di difesa aerea sauditi.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Guerra civile yemenita",
-      "Conflitto Houthi-saudita"
-     ]
-    },
-    {
-     "testo": "Iranian state media reports that explosions are heard on Qeshm Island in the Strait of Hormuz after reporting that the U.S. military fired projectiles.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "2026 Iran war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Middle East Eye",
-       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-heard-irans-qeshm-island-state-media-reports"
-      }
-     ],
-     "link": [
-      "Iran",
-      "Islamic Republic of Iran Broadcasting",
-      "Qeshm Island",
-      "Strait of Hormuz",
-      "United States Armed Forces"
-     ],
-     "testo_it": "I media statali iraniani riferiscono che le esplosioni sono state udite sull'isola di Qeshm nello Stretto di Hormuz dopo aver riferito che l'esercito americano ha sparato proiettili.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Guerra in Iran (2026)"
-     ]
-    },
-    {
-     "testo": "Production is temporarily suspended at the Khor Mor gas field in Iraqi Kurdistan after a liquefied petroleum gas storage tank at the site is hit by a drone. No group claims responsibility for the attack.",
-     "contesto": [
-      "Middle Eastern crisis"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/business/energy/production-suspended-iraqs-khor-mor-gas-field-after-drone-attack-sources-say-2026-11-08/"
-      },
-      {
-       "nome": "AFP via South China Morning Post",
-       "url": "https://www.scmp.com/news/world/middle-east/article/3373721/attack-iraq-gas-complex-disrupts-supply-regions-power-plants-authorities-say"
-      }
-     ],
-     "link": [
-      "Petroleum industry in Iraq",
-      "Iraq",
-      "Iraqi Kurdistan",
-      "Liquefied petroleum gas",
-      "One-way attack drone"
-     ],
-     "testo_it": "La produzione è temporaneamente sospesa nel giacimento di gas di Khor Mor nel Kurdistan iracheno dopo che un serbatoio di stoccaggio di gas di petrolio liquefatto nel sito è stato colpito da un drone. Nessun gruppo rivendica la responsabilità dell'attacco.",
-     "contesto_it": [
-      "Crisi del Medio Oriente"
-     ]
-    },
-    {
-     "testo": "Mexican Navy personnel, working with intelligence from the National Intelligence Center and the United States Drug Enforcement Administration, arrest Rafael Álvarez Ayala, the alleged leader of the Jalisco New Generation Cartel cell \"Los Rs\", in Zapopan, Jalisco, Mexico. He is wounded in a shootout during the operation and is wanted on a Michoacán warrant for aggravated homicide.",
-     "contesto": [
-      "Mexican drug war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/9/mexico-arrests-major-leader-of-jalisco-cartel"
-      },
-      {
-       "nome": "Infobae in Spanish",
-       "url": "https://www.infobae.com/mexico/2026/11/08/tras-enfrentamiento-detienen-en-jalisco-a-rafael-n-alias-el-r2-cabecilla-de-los-rs-del-cjng/"
-      },
-      {
-       "nome": "El Financiero in Spanish",
-       "url": "https://www.elfinanciero.com.mx/nacional/2026/11/08/detienen-a-r2-en-zapopan-lo-vinculan-con-el-asesinato-de-carlos-manzo/"
-      }
-     ],
-     "link": [
-      "Mexican Navy",
-      "National Intelligence Centre (Mexico)",
-      "United States",
-      "Drug Enforcement Administration",
-      "Jalisco New Generation Cartel",
-      "Zapopan",
-      "Jalisco",
-      "Mexico",
-      "Michoacán"
-     ],
-     "testo_it": "Il personale della Marina messicana, che lavora con l'intelligence del National Intelligence Center e della Drug Enforcement Administration degli Stati Uniti, arresta Rafael Álvarez Ayala, il presunto leader della cella del cartello di nuova generazione Jalisco \"Los Rs\", a Zapopan, Jalisco, Messico. È ferito in una sparatoria durante l'operazione ed è ricercato su un mandato di Michoacán per omicidio aggravato.",
-     "contesto_it": [
-      "Guerra alla droga in Messico"
-     ]
-    },
-    {
-     "testo": "At least 10 people are injured in Araihazar, Narayanganj, Bangladesh, during a clash between two factions of the Bangladesh Nationalist Party at a National Revolution and Solidarity Day program.",
-     "contesto": [],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Prothom Alo in Bengali",
-       "url": "https://www.prothomalo.com/bangladesh/district/ihc0h3av1v"
-      }
-     ],
-     "link": [
-      "Araihazar Upazila",
-      "Narayanganj District",
-      "Bangladesh",
-      "Bangladesh Nationalist Party",
-      "National Revolution and Solidarity Day"
-     ],
-     "testo_it": "Almeno 10 persone sono rimaste ferite ad Araihazar, Narayanganj, Bangladesh, durante uno scontro tra due fazioni del Partito Nazionalista del Bangladesh in occasione di un programma di Giornata della Rivoluzione Nazionale e della Solidarietà."
-    },
-    {
-     "testo": "NVIDIA announces it is opening an investigation into CEO Jensen Huang after American intelligence reported that a close associate of Huang was a spy for China. Huang admitted to an extramarital affair with the associate in a letter to the company earlier in the day.",
-     "contesto": [
-      "Nvidia alleged spying scandal"
-     ],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "BBC News",
-       "url": "https://www.bbc.com/news/live/cm78p221e313t"
-      },
-      {
-       "nome": "The New York Times",
-       "url": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html"
-      }
-     ],
-     "link": [
-      "NVIDIA",
-      "CEO",
-      "Jensen Huang",
-      "United States Intelligence Community",
-      "Chinese intelligence activity abroad",
-      "Affair"
-     ],
-     "testo_it": "NVIDIA annuncia l'apertura di un'indagine sul CEO Jensen Huang dopo che l'intelligence americana ha riferito che uno stretto collaboratore di Huang era una spia per la Cina. Huang ha ammesso di una relazione extraconiugale con l'associato in una lettera alla società all'inizio della giornata.",
-     "contesto_it": [
-      "Nvidia accusato di spionaggio scandalo"
-     ]
-    },
-    {
-     "testo": "A train derails near El Ayyat, Giza Governorate, Egypt, killing seven people and wounding 125 more.",
-     "contesto": [
-      "2026 El Ayyat train collision"
-     ],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/egypt-train-crash-giza-collision-cairo-injuries-4ad591268ce015d85ae302e22185b235"
-      },
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city"
-      }
-     ],
-     "link": [
-      "El Ayyat",
-      "Giza Governorate",
-      "Egypt"
-     ],
-     "testo_it": "Un treno deraglia nei pressi di El Ayyat, Governatorato di Giza, in Egitto, uccidendo sette persone e ferendone altre 125.",
-     "contesto_it": [
-      "Collisione del treno El Ayyat (2026)"
-     ]
-    },
-    {
-     "testo": "An Super Puma H-225 helicopter crashes in South Kalimantan during a forest firefighting mission, killing one person.",
-     "contesto": [
-      "2026 Indonesia wildfires"
-     ],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "BBC",
-       "url": "https://www.bbc.com/news/articles/cxnv0442ml6vo"
-      }
-     ],
-     "link": [
-      "Eurocopter EC225 Super Puma",
-      "South Kalimantan"
-     ],
-     "testo_it": "Un elicottero Super Puma H-225 si schianta nel Kalimantan meridionale durante una missione antincendio nella foresta, uccidendo una persona.",
-     "contesto_it": [
-      "Incendi boschivi in Indonesia (2026)"
-     ]
-    },
-    {
-     "testo": "A Mw 5.7 earthquake strikes central Japan with its epicenter in Shizuoka Prefecture, while also affecting Aichi, Gifu, Nagano and Yamanashi prefectures. At least 22 people are injured.",
-     "contesto": [
-      "Earthquakes in Japan"
-     ],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/earthquake-japan-170119b720b08d9f40028e5bc40feb17"
-      },
-      {
-       "nome": "NHK World-Japan",
-       "url": "https://www3.nhk.or.jp/nhkworld/news/20261108de72261/"
-      }
-     ],
-     "link": [
-      "Earthquake",
-      "Japan",
-      "Shizuoka Prefecture",
-      "Aichi Prefecture",
-      "Gifu Prefecture",
-      "Nagano Prefecture",
-      "Yamanashi Prefecture"
-     ],
-     "testo_it": "Un terremoto Mw 5.7 colpisce il Giappone centrale con il suo epicentro nella prefettura di Shizuoka, mentre colpisce anche le prefetture di Aichi, Gifu, Nagano e Yamanashi. Almeno 22 persone sono ferite.",
-     "contesto_it": [
-      "Terremoti in Giappone"
-     ]
-    },
-    {
-     "testo": "The death toll from the boat capsizing yesterday off the coast of Kébémer, Louga, Senegal, increases to 39 people.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AFP via France 24",
-       "url": "https://www.france24.com/en/live-news/20261109-senegal-officials-raise-migrant-boat-death-toll-to-39"
-      }
-     ],
-     "link": [
-      "Kébémer",
-      "Louga region",
-      "Senegal"
-     ],
-     "testo_it": "Il bilancio delle vittime della nave che si è rovesciata ieri al largo delle coste di Kébémer, Louga, Senegal, aumenta a 39 persone."
-    },
-    {
-     "testo": "A fire at a high-rise apartment building in Taiyuan, Shanxi, China, kills 14 people and leaves 25 others hospitalized.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/china/apartment-building-fire-northern-china-kills-14-2026-11-09/"
-      },
-      {
-       "nome": "South China Morning Post",
-       "url": "https://www.scmp.com/news/china/politics/article/3373750/fire-northern-china-high-rise-building-kills-14-injures-dozens-more"
-      }
-     ],
-     "link": [
-      "Tower block",
-      "Apartment",
-      "Taiyuan",
-      "Shanxi",
-      "China"
-     ],
-     "testo_it": "Un incendio in un grattacielo a Taiyuan, nello Shanxi, in Cina, uccide 14 persone e ne lascia altre 25 ricoverate in ospedale."
-    },
-    {
-     "testo": "Three people are killed and more than 300 others are rescued from severe flooding in Erbil, Kurdistan Region, Iraq.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "Shafaq",
-       "url": "https://shafaq.com/en/Kurdistan/Erbil-floods-kill-three-over-300-rescued"
-      }
-     ],
-     "link": [
-      "Erbil",
-      "Kurdistan Region",
-      "Iraq"
-     ],
-     "testo_it": "Tre persone sono state uccise e più di 300 sono state salvate da gravi inondazioni a Erbil, nella regione del Kurdistan, in Iraq."
-    },
-    {
-     "testo": "A bus traveling towards Zagreb, Croatia, overturns on the A3 motorway, killing two people and injuring 20 others.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/croatia-bus-crash-highway-4943f3e00b96d73414eeff6b8fc39eb8"
-      }
-     ],
-     "link": [
-      "Zagreb",
-      "Croatia",
-      "A3 (Croatia)"
-     ],
-     "testo_it": "Un autobus che viaggia verso Zagabria, in Croazia, ribalta l'autostrada A3, uccidendo due persone e ferendone altre 20."
-    },
-    {
-     "testo": "Former National Congress Party politician Ahmed Haroun, who is wanted by the International Criminal Court for genocide in Sudan's Darfur region during war, is detained by the Sudanese army.",
-     "contesto": [
-      "International Criminal Court investigation in Darfur"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "AFP via Arab News",
-       "url": "https://www.arabnews.com/middle-east/sudan-detains-chairman-of-former-ruling-party-ahmed-haroun-two-party-officials-say-3010516"
-      }
-     ],
-     "link": [
-      "National Congress Party (Sudan)",
-      "Ahmed Haroun",
-      "International Criminal Court",
-      "Darfur genocide (2003–2005)",
-      "Sudan",
-      "Darfur",
-      "War in Darfur",
-      "Sudanese Armed Forces"
-     ],
-     "testo_it": "L'ex politico del Partito del Congresso Nazionale Ahmed Haroun, ricercato dalla Corte Penale Internazionale per il genocidio nella regione del Darfur in Sudan durante la guerra, è detenuto dall'esercito sudanese.",
-     "contesto_it": [
-      "Indagine della Corte penale internazionale in Darfur"
-     ]
-    },
-    {
-     "testo": "The Maltese Civil Court orders four investment companies, including two from Malta and two from Luxembourg, to pay the Vatican Bank €24.1 million in damages over a 2013 deal involving the Kappa Fund.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "Times of Malta",
-       "url": "https://timesofmalta.com/article/malta-court-awards-vatican-bank-241m-budapest-property-dispute.1136763"
-      },
-      {
-       "nome": "Vatican News",
-       "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/malta-court-awards-vatican-bank-millions-investment-case.html"
-      }
-     ],
-     "link": [
-      "Malta",
-      "Judiciary of Malta",
-      "Luxembourg",
-      "Institute for the Works of Religion"
-     ],
-     "testo_it": "La Corte civile maltese ordina a quattro società di investimento, tra cui due di Malta e due di Lussemburgo, di pagare alla Banca Vaticana 24,1 milioni di euro di danni nell'ambito di un accordo del 2013 che coinvolge il Fondo Kappa."
-    },
-    {
-     "testo": "Authorities of El Hierro in the Canary Islands, Spain, declare a state of emergency following a surge of over 3,300 migrants and refugees arriving on the island this month.",
-     "contesto": [
-      "Immigration to Spain"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx"
-      }
-     ],
-     "link": [
-      "El Hierro",
-      "Canary Islands",
-      "State of emergency"
-     ],
-     "testo_it": "Le autorità di El Hierro nelle Isole Canarie, in Spagna, dichiarano lo stato di emergenza a seguito di un aumento di oltre 3.300 migranti e rifugiati che arrivano sull'isola questo mese.",
-     "contesto_it": [
-      "Immigrazione in Spagna"
-     ]
-    },
-    {
-     "testo": "Three people are arrested as pro-Palestine protesters are confronted by pro-Israel counterprotesters in Rittenhouse Square, Philadelphia, Pennsylvania, United States, amidst a boycott of six Jewish-owned restaurants targeted by a cycling club over their support of Israel.",
-     "contesto": [
-      "Gaza war protests"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "NBC News",
-       "url": "https://www.nbcnews.com/news/us-news/billboards-urge-boycott-boycott-jewish-owned-businesses-rcna608119"
-      }
-     ],
-     "link": [
-      "Palestine",
-      "Israel",
-      "Rittenhouse Square",
-      "Philadelphia",
-      "Pennsylvania",
-      "Jewish",
-      "Cycling club"
-     ],
-     "testo_it": "Tre persone vengono arrestate mentre i manifestanti filo-palestinesi si trovano di fronte a controprotettori filo-israeliani a Rittenhouse Square, Philadelphia, Pennsylvania, Stati Uniti, in mezzo a un boicottaggio di sei ristoranti di proprietà ebraica presi di mira da un club ciclistico per il loro sostegno a Israele.",
-     "contesto_it": [
-      "Proteste di guerra a Gaza"
-     ]
-    },
-    {
-     "testo": "More than 200,000 people march in Amsterdam, Netherlands, to protest against Israel's genocide in Gaza and the Dutch government's support of the Israeli military.",
-     "contesto": [
-      "Gaza war protests"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam"
-      }
-     ],
-     "link": [
-      "Amsterdam",
-      "Netherlands",
-      "Gaza genocide",
-      "Dutch government",
-      "Israeli military"
-     ],
-     "testo_it": "Più di 200.000 persone marciano ad Amsterdam, nei Paesi Bassi, per protestare contro il genocidio di Israele a Gaza e il sostegno del governo olandese all'esercito israeliano.",
-     "contesto_it": [
-      "Proteste di guerra a Gaza"
-     ]
-    },
-    {
-     "testo": "In Formula racing, Mercedes-Benz wins its ninth World Constructors' Championship after drivers George Russell and Kimi Antonelli finished fourth and fifth, respectively, at the São Paulo Grand Prix in Brazil.",
-     "contesto": [
-      "2026 Formula One World Championship, 2026 São Paulo Grand Prix"
-     ],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "Daily Tribune",
-       "url": "https://tribune.net.ph/2026/11/09/mercedes-reigns-again-as-silver-arrows-clinch-2026-constructors-championship"
-      }
-     ],
-     "link": [
-      "Formula racing",
-      "Mercedes-Benz in Formula One",
-      "List of Formula One World Constructors' Champions",
-      "George Russell (racing driver)",
-      "Kimi Antonelli",
-      "Brazilian Grand Prix",
-      "Brazil"
-     ],
-     "testo_it": "Nelle gare di Formula, Mercedes-Benz vince il suo nono Campionato Mondiale Costruttori dopo che i piloti George Russell e Kimi Antonelli sono finiti rispettivamente quarto e quinto, al Gran Premio di San Paolo in Brasile.",
-     "contesto_it": [
-      "Campionato del Mondo di Formula Uno (2026), Gran Premio di San Paolo (2026)"
-     ]
-    },
-    {
-     "testo": "In association football, Inter Miami player Lionel Messi is awarded the 2026 Golden Boot Award after scoring 26 goals in one season, becoming the first player in league history to win the award in consecutive years.",
-     "contesto": [
-      "2026 Major League Soccer season"
-     ],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/sports/2026/11/8/messi-becomes-first-player-to-win-back-to-back-mls-golden-boot-awards"
-      }
-     ],
-     "link": [
-      "Association football",
-      "Inter Miami",
-      "Lionel Messi",
-      "MLS Golden Boot",
-      "2026 Inter Miami CF season",
-      "History of Major League Soccer"
-     ],
-     "testo_it": "Nel calcio di associazione, Lionel Messi, giocatore dell'Inter Miami, riceve il Golden Boot Award 2026 dopo aver segnato 26 gol in una stagione, diventando il primo giocatore nella storia della lega a vincere il premio in anni consecutivi.",
-     "contesto_it": [
-      "Stagione di calcio della Major League (2026)"
-     ]
-    },
-    {
-     "testo": "In stock car racing, Hendrick Motorsports' driver Kyle Larson wins his third career NASCAR Cup Series championship, becoming the first driver to win two consecutive championships since 2010.",
-     "contesto": [
-      "2026 NASCAR Cup Series"
-     ],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/nascar-championship-kyle-larson-chase-b684d52d336492b1ab3f17c21c1fa5e8"
-      }
-     ],
-     "link": [
-      "Stock car racing",
-      "Hendrick Motorsports",
-      "Kyle Larson",
-      "NASCAR",
-      "NASCAR Cup Series"
-     ],
-     "testo_it": "Nelle corse automobilistiche di serie, il pilota di Hendrick Motorsports Kyle Larson vince il suo terzo campionato NASCAR Cup Series, diventando il primo pilota a vincere due campionati consecutivi dal 2010.",
-     "contesto_it": [
-      "NASCAR Cup Series (2026)"
-     ]
-    },
-    {
-     "testo": "In golf, Blades Brown wins the 2026 World Wide Technology Championship in Los Cabos, Mexico, at 19 years and five months, becoming the youngest PGA Tour winner since 1931 and the fourth-youngest in its history.",
-     "contesto": [
-      "2026 PGA Tour"
-     ],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "AFP via The Philippine Star",
-       "url": "https://www.philstar.com/sports/2026/11/09/2568971/blades-brown-becomes-youngest-pga-tour-winner-1931"
-      }
-     ],
-     "link": [
-      "Golf",
-      "Blades Brown",
-      "World Wide Technology Championship",
-      "Los Cabos",
-      "Mexico",
-      "PGA Tour"
-     ],
-     "testo_it": "Nel golf, Blades Brown vince il 2026 World Wide Technology Championship a Los Cabos, in Messico, a 19 anni e cinque mesi, diventando il più giovane vincitore del PGA Tour dal 1931 e il quarto più giovane della sua storia.",
-     "contesto_it": [
-      "PGA Tour (2026)"
-     ]
     }
    ]
   }
