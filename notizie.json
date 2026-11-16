@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-15T22:56:06Z",
+ "generato": "2026-11-16T06:42:18Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -27,7 +27,7 @@
    "testo_it": "Il CEO di Nvidia Jensen Huang si dimette tra le accuse di essere stato preso di mira da una spia cinese e di avere relazioni extraconiugali."
   },
   {
-   "testo": "The Salvadoran military intervention in Haiti intensifies with airstrikes on 400 Mawozo's alleged headquarters and a deployment to Stade Sylvio Cator.",
+   "testo": "The Salvadoran military intervention in Haiti intensifies with airstrikes on 400 Mawozo's alleged headquarters and a deployment to the Sylvio Cator Stadium.",
    "contesto": [],
    "categoria": "In primo piano",
    "fonti": [
@@ -41,7 +41,7 @@
     "400 Mawozo",
     "Stade Sylvio Cator"
    ],
-   "testo_it": "L'intervento militare salvadoregno ad Haiti si intensifica con attacchi aerei contro il presunto quartier generale di 400 Mawozo e un dispiegamento a Stade Sylvio Cator."
+   "testo_it": "L'intervento militare salvadoregno ad Haiti si intensifica con attacchi aerei su 400 sedi di Mawozo e un dispiegamento allo stadio Sylvio Cator."
   },
   {
    "testo": "American ocean liner SS United States is scuttled in the Gulf of Mexico to create the largest artificial reef.",
@@ -71,37 +71,49 @@
     "Booker Prize"
    ],
    "testo_it": "La fine di tutto di M. John Harrison vince il Booker Prize."
-  },
-  {
-   "testo": "Novaya Gazeta, one of Russia's oldest and most prominent independent newspapers, closes under pressure from the Russian authorities.",
-   "contesto": [],
-   "categoria": "In primo piano",
-   "fonti": [
-    {
-     "nome": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/Novaya_Gazeta"
-    }
-   ],
-   "link": [
-    "Novaya Gazeta"
-   ],
-   "testo_it": "Novaya Gazeta, uno dei giornali indipendenti più antichi e importanti della Russia, chiude sotto la pressione delle autorità russe."
   }
  ],
  "giorni": [
+  {
+   "data": "2026-11-16",
+   "voci": [
+    {
+     "testo": "At least 11 people are killed and over 30 others are injured in a fire at a four-story building in Phuket province, Thailand.",
+     "contesto": [
+      "2026 Phuket fire"
+     ],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "Xinhua",
+       "url": "https://english.news.cn/20261116/6441a98fe2ce4d81bbd6e0b6866ef955/c.html"
+      }
+     ],
+     "link": [
+      "Phuket province",
+      "Thailand"
+     ],
+     "testo_it": "Almeno 11 persone sono morte e oltre 30 sono rimaste ferite in un incendio in un edificio di quattro piani nella provincia di Phuket, in Thailandia.",
+     "contesto_it": [
+      "Fuoco di Phuket (2026)"
+     ]
+    }
+   ]
+  },
   {
    "data": "2026-11-15",
    "voci": [
     {
      "testo": "Iran's Islamic Revolutionary Guard Corps says that a supertanker carrying two million barrels of oil has sunk in the Strait of Hormuz after striking a mine.",
      "contesto": [
+      "Middle Eastern crisis",
       "2026 Iran war",
       "2026 Strait of Hormuz crisis, Ships attacked during the 2026 Iran war"
      ],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
       {
-       "nome": "Arab News",
+       "nome": "AFP via Arab News",
        "url": "https://www.arabnews.com/middle-east/iran-says-supertanker-with-2-million-barrels-of-oil-sank-in-gulf-3012053"
       }
      ],
@@ -114,8 +126,36 @@
      ],
      "testo_it": "Il Corpo delle Guardie Rivoluzionarie Islamiche dell'Iran afferma che una supercisterna che trasporta due milioni di barili di petrolio è affondata nello Stretto di Hormuz dopo aver colpito una miniera.",
      "contesto_it": [
+      "Crisi del Medio Oriente",
       "Guerra in Iran (2026)",
       "Stretto di Hormuz (2026), Navi attaccate durante la guerra in Iran del 2026"
+     ]
+    },
+    {
+     "testo": "Three Palestinians are killed and others are injured in shelling and shooting attacks by Israeli troops in various areas of the Gaza Strip, in a continuation of the violation of the ceasefire agreement signed in October 2025.",
+     "contesto": [
+      "Middle Eastern crisis",
+      "Gaza war"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "AA",
+       "url": "https://www.aa.com.tr/en/middle-east/3-palestinians-killed-in-israeli-attacks-across-gaza-medical-sources/4126079"
+      }
+     ],
+     "link": [
+      "Palestinians",
+      "Shell (projectile)",
+      "Israel",
+      "Israel Defense Forces",
+      "Gaza Strip",
+      "Gaza peace plan"
+     ],
+     "testo_it": "Tre palestinesi vengono uccisi e altri feriti in bombardamenti e sparatorie da parte delle truppe israeliane in varie aree della Striscia di Gaza, in una continuazione della violazione dell'accordo di cessate il fuoco firmato nell'ottobre 2025.",
+     "contesto_it": [
+      "Crisi del Medio Oriente",
+      "Guerra di Gaza"
      ]
     },
     {
@@ -171,21 +211,6 @@
      ]
     },
     {
-     "testo": "Non-profit fanfiction repository website Archive of Our Own is restored to limited functionality 17 days after being targeted in a cybersecurity attack.",
-     "contesto": [],
-     "categoria": "Art and culture",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/ao3-fandom-archive-transformative-9e752c2cf91409434fcde7188140d066"
-      }
-     ],
-     "link": [
-      "Archive of Our Own"
-     ],
-     "testo_it": "Il sito web di repository di fanfiction senza scopo di lucro Archive of Our Own viene ripristinato a funzionalità limitate 17 giorni dopo essere stato preso di mira in un attacco di sicurezza informatica."
-    },
-    {
      "testo": "Amid minimum wage protests by garment workers, 13 garment factories in Gazipur are shut indefinitely under the Bangladesh Labour Act, 2006 and over 50 remain closed in Savar and Ashulia, while 48 platoons of the Border Guard, Ansar, and Special Response Battalion deploy across industrial zones in Dhaka, Gazipur, and Narayanganj.",
      "contesto": [
       "2026 Bangladesh garment workers protests"
@@ -222,8 +247,8 @@
      "categoria": "Disasters and accidents",
      "fonti": [
       {
-       "nome": "Times of Israel",
-       "url": "https://www.timesofisrael.com/liveblog_entry/12-killed-in-western-iran-bus-accident-state-media-says/"
+       "nome": "IRNA English",
+       "url": "https://en.irna.ir/amp/86321950/"
       }
      ],
      "link": [
@@ -249,6 +274,44 @@
       "Belgium"
      ],
      "testo_it": "Cinque persone sono rimaste ferite, di cui tre gravemente, in una sospetta esplosione di gas e incendio in un mercatino di Natale a Maredsous, Vallonia, Belgio."
+    },
+    {
+     "testo": "Eight more children in Bangladesh are reported to have died from measles, bringing the death toll past 1,314.",
+     "contesto": [
+      "2026 Bangladesh measles outbreak"
+     ],
+     "categoria": "Health and environment",
+     "fonti": [
+      {
+       "nome": "UNB via The Daily Star",
+       "url": "https://www.thedailystar.net/news/bangladesh/news/eight-more-die-measles-symptoms-4324846"
+      }
+     ],
+     "link": [
+      "Bangladesh",
+      "Measles",
+      "Mortality rate"
+     ],
+     "testo_it": "Altri otto bambini in Bangladesh sono morti di morbillo, portando il bilancio delle vittime oltre 1.314.",
+     "contesto_it": [
+      "Bangladesh focolaio di morbillo (2026)"
+     ]
+    },
+    {
+     "testo": "Eight more people in Bangladesh are reported to have died from dengue fever, bringing this year's outbreak's death toll to 499.",
+     "contesto": [],
+     "categoria": "Health and environment",
+     "fonti": [
+      {
+       "nome": "BSS",
+       "url": "https://www.bssnews.net/others/446074"
+      }
+     ],
+     "link": [
+      "Dengue fever",
+      "Mortality rate"
+     ],
+     "testo_it": "Altre otto persone in Bangladesh sono morte di febbre dengue, portando il bilancio delle vittime dell'epidemia di quest'anno a 499."
     },
     {
      "testo": "Australia and the Philippines sign a defence cooperation agreement in Manila, simplifying procedures for joint military exercises and expanding maritime surveillance, information sharing, training, and disaster response.",
@@ -353,7 +416,32 @@
      ]
     },
     {
-     "testo": "Gagauzians in Moldova vote to elect a governor and 35 members of the People's Assembly.",
+     "testo": "Neves wins re-election to a second five-year term with 63.8% of the vote, according to provisional results from the election commission. Rosa concedes defeat.",
+     "contesto": [
+      "2026 Cape Verdean presidential election"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "AFP via France 24",
+       "url": "https://www.france24.com/en/live-news/20261115-cape-verde-s-president-jose-maria-neves-re-elected-provisional-election-results"
+      },
+      {
+       "nome": "Inforpress in Portuguese",
+       "url": "https://inforpress.cv/pt/presidenciais2026-joana-rosa-reconhece-derrota-eleitoral-e-reafirma-compromisso-com-a-democracia-e-politica"
+      }
+     ],
+     "link": [
+      "Election commission",
+      "Concession (politics)"
+     ],
+     "testo_it": "Neves vince la rielezione a un secondo mandato quinquennale con il 63,8% dei voti, secondo i risultati provvisori della commissione elettorale. Rosa ammette la sconfitta.",
+     "contesto_it": [
+      "Elezioni presidenziali del Capo Verde (2026)"
+     ]
+    },
+    {
+     "testo": "Gagauzians in Moldova vote to elect a governor and 35 members of the People's Assembly. MP Alexandr Stoianoglo and Fiodor Gagauz [ru] advance to the second round after no candidate received a majority of the vote.",
      "contesto": [
       "2026 Gagauz general election"
      ],
@@ -362,17 +450,92 @@
       {
        "nome": "Radio Moldova",
        "url": "https://radiomoldova.md/p/89743/gagauzia-voters-to-elect-governor-and-regional-assembly"
+      },
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/restive-pro-russian-moldovan-region-holds-elections-2026-11-15/"
       }
      ],
      "link": [
       "Gagauzians",
       "Moldova",
       "Governor of Gagauzia",
-      "People's Assembly of Gagauzia"
+      "People's Assembly of Gagauzia",
+      "Parliament of Moldova",
+      "Alexandr Stoianoglo"
      ],
-     "testo_it": "I gagauziani in Moldavia votano per eleggere un governatore e 35 membri dell'Assemblea popolare.",
+     "testo_it": "I gagauziani in Moldavia votano per eleggere un governatore e 35 membri dell'Assemblea popolare. Il deputato Alexandr Stoianoglo e Fiodor Gagauz [ru] avanzano al secondo turno dopo che nessun candidato ha ricevuto la maggioranza dei voti.",
      "contesto_it": [
       "Elezioni generali di Gagauz (2026)"
+     ]
+    },
+    {
+     "testo": "Non-profit fanfiction repository website Archive of Our Own is restored to limited functionality 17 days after being targeted in a cyberattack.",
+     "contesto": [],
+     "categoria": "Science and technology",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/ao3-fandom-archive-transformative-9e752c2cf91409434fcde7188140d066"
+      }
+     ],
+     "link": [
+      "Fan fiction",
+      "Archive of Our Own",
+      "Cyberattack"
+     ],
+     "testo_it": "Il sito web di repository di fanfiction senza scopo di lucro Archive of Our Own viene ripristinato a funzionalità limitate 17 giorni dopo essere stato preso di mira in un attacco informatico."
+    },
+    {
+     "testo": "In tennis, Kateřina Siniaková and Taylor Townsend win their second and first WTA Finals doubles titles, respectively, after defeating Sara Errani and Jasmine Paolini in the final, 6–4, 6–3.",
+     "contesto": [
+      "2026 WTA Finals",
+      "2026 WTA Finals – Doubles"
+     ],
+     "categoria": "Sports",
+     "fonti": [
+      {
+       "nome": "The Desert Sun",
+       "url": "https://www.desertsun.com/story/sports/tennis/2026/11/15/a-doubles-double-dip-for-townsend-and-siniakova-as-bnp-champs-win-wta-finals/92801016007/"
+      }
+     ],
+     "link": [
+      "Tennis",
+      "Kateřina Siniaková",
+      "Taylor Townsend",
+      "WTA Finals",
+      "Doubles (tennis)",
+      "Sara Errani",
+      "Jasmine Paolini"
+     ],
+     "testo_it": "Nel tennis, Kateřina Siniaková e Taylor Townsend vincono il loro secondo e primo titolo di doppio WTA Finals, rispettivamente, dopo aver sconfitto Sara Errani e Jasmine Paolini in finale, 6-4, 6-3.",
+     "contesto_it": [
+      "WTA Finals (2026)",
+      "WTA Finals – Doppio (2026)"
+     ]
+    },
+    {
+     "testo": "In tennis, Mirra Andreeva wins her first WTA Finals singles title after defeating Elina Svitolina in the final, 7–5, 6–3.",
+     "contesto": [
+      "2026 WTA Finals",
+      "2026 WTA Finals – Singles"
+     ],
+     "categoria": "Sports",
+     "fonti": [
+      {
+       "nome": "AFP via France 24",
+       "url": "https://www.france24.com/en/live-news/20261115-andreeva-defeats-svitolina-to-win-wta-finals"
+      }
+     ],
+     "link": [
+      "Mirra Andreeva",
+      "Singles (tennis)",
+      "Elina Svitolina"
+     ],
+     "testo_it": "Nel tennis, Mirra Andreeva vince il suo primo titolo nella WTA Finals dopo aver sconfitto Elina Svitolina in finale, 7-5, 6-3.",
+     "contesto_it": [
+      "WTA Finals (2026)",
+      "WTA Finals – singolare (2026)"
      ]
     },
     {
@@ -423,6 +586,58 @@
      "contesto_it": [
       "Mondiali di rugby femminile (2026), rivalità sportive tra Australia e Nuova Zelanda"
      ]
+    },
+    {
+     "testo": "In association football, England defeats Spain 3–2 in the group stage of UEFA Nations League A to end Spain's 43-match unbeaten streak, the longest by a national team.",
+     "contesto": [
+      "2026–27 UEFA Nations League"
+     ],
+     "categoria": "Sports",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/nations-league-england-spain-kane-france-7e32be3d9b49ad4d7f6ed0b59ca7410c"
+      }
+     ],
+     "link": [
+      "Association football",
+      "England national football team",
+      "Spain national football team",
+      "Group stage",
+      "2026–27 UEFA Nations League A",
+      "Unbeaten streak",
+      "List of world association football records",
+      "National team"
+     ],
+     "testo_it": "Nella fase a gironi di UEFA Nations League A, l'Inghilterra sconfigge la Spagna per 3-2, ponendo fine alla striscia imbattuta di 43 partite della Spagna, la più lunga di una squadra nazionale.",
+     "contesto_it": [
+      "UEFA Nations League (2026-27)"
+     ]
+    },
+    {
+     "testo": "In Canadian football, the Edmonton Elks win their 15th Canadian Football League title after beating the Montreal Alouettes 37–30 in the Grey Cup. They previously won in 2015.",
+     "contesto": [
+      "2026 Grey Cup"
+     ],
+     "categoria": "Sports",
+     "fonti": [
+      {
+       "nome": "Edmonton Journal",
+       "url": "https://edmontonjournal.com/sports/football/cfl/edmonton-elks/edmonton-elks-grey-cup-montreal-alouettes"
+      }
+     ],
+     "link": [
+      "Canadian football",
+      "Edmonton Elks",
+      "Canadian Football League",
+      "Montreal Alouettes",
+      "Grey Cup",
+      "103rd Grey Cup"
+     ],
+     "testo_it": "Nel calcio canadese, gli Edmonton Elks vincono il loro 15 ° titolo della Canadian Football League dopo aver battuto le Montreal Alouettes 37-30 nella Grey Cup.",
+     "contesto_it": [
+      "Tazza grigia (2026)"
+     ]
     }
    ]
   },
@@ -430,7 +645,7 @@
    "data": "2026-11-14",
    "voci": [
     {
-     "testo": "Ahmed Abdallah Bishr, the general chief of staff for the Gathering of Sudan Liberation Forces (GSLF), is killed in a drone strike on his home in Nyala in Sudan's South Darfur state.",
+     "testo": "Ahmed Abdallah Bishr, the general chief of staff for the Gathering of Sudan Liberation Forces (GSLF), dies of the wounds he suffered a month ago during an assassination attack by drone strike against his home in Nyala, South Darfur, Sudan.",
      "contesto": [
       "Sudanese civil war",
       "Darfur campaign"
@@ -443,12 +658,13 @@
       }
      ],
      "link": [
+      "Assassination",
+      "Drone warfare",
       "Nyala, Sudan",
-      "Sudan",
       "South Darfur",
-      "States of Sudan"
+      "Sudan"
      ],
-     "testo_it": "Ahmed Abdallah Bishr, capo di stato maggiore delle Forze di Liberazione del Sudan (GSLF), viene ucciso in un attacco con droni contro la sua casa a Nyala, nello stato del Sud Darfur in Sudan.",
+     "testo_it": "Ahmed Abdallah Bishr, il capo di stato maggiore delle forze di liberazione del Sudan (GSLF), muore per le ferite che ha subito un mese fa durante un attacco di droni contro la sua casa a Nyala, nel Darfur meridionale, in Sudan.",
      "contesto_it": [
       "Guerra civile sudanese",
       "Campagna del Darfur"
@@ -574,6 +790,23 @@
       "Colombia"
      ],
      "testo_it": "Un autobus capovolge l'autostrada Garzón-Neiva in Colombia, uccidendo sei persone e ferendone altre undici."
+    },
+    {
+     "testo": "Four workers are killed after a methane gas explosion at a mine in Chita, Boyacá Department, Colombia.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/colombia-mine-explosion-chita-bodies-77de9fe1831a8c03696e617149bb92d9"
+      }
+     ],
+     "link": [
+      "Methane",
+      "Mining",
+      "Boyacá Department"
+     ],
+     "testo_it": "Quattro lavoratori vengono uccisi dopo un'esplosione di gas metano in una miniera a Chita, Dipartimento di Boyacá, Colombia."
     },
     {
      "testo": "The Slagdijkstermolen windmill in Friesland, Netherlands, burns down.",
@@ -2623,332 +2856,6 @@
      "contesto_it": [
       "Boom AI"
      ]
-    }
-   ]
-  },
-  {
-   "data": "2026-11-09",
-   "voci": [
-    {
-     "testo": "The Wall Street Journal reports that the United States has evacuated aircraft from the RAF Mildenhall base in the United Kingdom, citing threats from Iran.",
-     "contesto": [
-      "2026 Iran war",
-      "United Kingdom involvement in the 2026 Iran war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/europe/us-aircraft-evacuated-second-uk-base-due-iran-threat-wsj-reports-2026-11-10/"
-      }
-     ],
-     "link": [
-      "The Wall Street Journal",
-      "United States",
-      "RAF Mildenhall",
-      "United Kingdom",
-      "Iran"
-     ],
-     "testo_it": "Il Wall Street Journal riferisce che gli Stati Uniti hanno evacuato gli aerei dalla base della RAF Mildenhall nel Regno Unito, citando minacce dall'Iran.",
-     "contesto_it": [
-      "Guerra in Iran (2026)",
-      "Il coinvolgimento del Regno Unito nella guerra del 2026 in Iran"
-     ]
-    },
-    {
-     "testo": "The 24-year-old man responsible for the drive-by mass shooting at the Main Square in Kraków, Poland, two days ago, which killed six people and injured 16 others, dies at a hospital after being seriously wounded in a shootout with police.",
-     "contesto": [
-      "2026 Kraków shooting"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/9/poland-mass-shooting-assailant-dies-in-hospital-police-say"
-      }
-     ],
-     "link": [
-      "Drive-by shooting",
-      "Mass shooting",
-      "Main Square, Kraków",
-      "Kraków",
-      "Poland",
-      "Shootout",
-      "Police of Poland"
-     ],
-     "testo_it": "L'uomo di 24 anni responsabile della sparatoria di massa nella piazza principale di Cracovia, in Polonia, due giorni fa, che ha ucciso sei persone e ne ha ferite altre 16, muore in un ospedale dopo essere stato gravemente ferito in una sparatoria con la polizia.",
-     "contesto_it": [
-      "Tiro a segno a Cracovia (2026)"
-     ]
-    },
-    {
-     "testo": "English author M. John Harrison wins the 2026 Booker Prize for his post-apocalyptic novel The End of Everything.",
-     "contesto": [
-      "2026 Booker Prize"
-     ],
-     "categoria": "Arts and culture",
-     "fonti": [
-      {
-       "nome": "The Guardian",
-       "url": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize"
-      }
-     ],
-     "link": [
-      "M. John Harrison",
-      "Booker Prize",
-      "Apocalyptic and post-apocalyptic fiction",
-      "The End of Everything (Harrison novel)"
-     ],
-     "testo_it": "L'autore inglese M. John Harrison vince il Premio Booker 2026 per il suo romanzo post-apocalittico The End of Everything.",
-     "contesto_it": [
-      "Premio Booker (2026)"
-     ]
-    },
-    {
-     "testo": "The Pitt Rivers Museum in Oxford, England, United Kingdom, returns the remains of 39 Naga people, collected during the British Raj, to a delegation from Nagaland, India, following six years of discussions over repatriation.",
-     "contesto": [],
-     "categoria": "Arts and culture",
-     "fonti": [
-      {
-       "nome": "AFP via France 24",
-       "url": "https://www.france24.com/en/live-news/20261109-oxford-museum-makes-historic-return-of-naga-human-remains"
-      }
-     ],
-     "link": [
-      "Pitt Rivers Museum",
-      "Oxford",
-      "England",
-      "United Kingdom",
-      "Naga people",
-      "British Raj",
-      "Nagaland",
-      "India",
-      "Repatriation (cultural property)"
-     ],
-     "testo_it": "Il Pitt Rivers Museum di Oxford, Inghilterra, Regno Unito, restituisce i resti di 39 Naga, raccolti durante il Raj britannico, a una delegazione da Nagaland, India, dopo sei anni di discussioni sul rimpatrio."
-    },
-    {
-     "testo": "Paraguayan president Pedro Alliana appoints economist Jorge Schreiner to lead the central bank following Ueno Bank's collapse. The Senate approves Schreiner's appointment.",
-     "contesto": [
-      "2026 Paraguay banking crisis"
-     ],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/americas/paraguays-president-names-schreiner-head-central-bank-2026-11-09/"
-      }
-     ],
-     "link": [
-      "Paraguay",
-      "President of Paraguay",
-      "Pedro Alliana",
-      "Central Bank of Paraguay",
-      "Ueno Bank",
-      "Senate of Paraguay"
-     ],
-     "testo_it": "Il presidente paraguaiano Pedro Alliana nomina l'economista Jorge Schreiner a capo della banca centrale dopo il crollo di Ueno Bank. Il Senato approva la nomina di Schreiner.",
-     "contesto_it": [
-      "Paraguay crisi bancaria (2026)"
-     ]
-    },
-    {
-     "testo": "The Chinese commerce ministry extends the suspension of export restrictions on certain rare earths, industrial diamonds, and lithium battery technology to January 10, 2027, amid ongoing trade negotiations with the United States.",
-     "contesto": [
-      "China–United States trade war"
-     ],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/china/china-extends-suspension-new-rare-earth-controls-until-january-2026-11-09/"
-      }
-     ],
-     "link": [
-      "China",
-      "Ministry of Commerce (China)",
-      "Export restriction",
-      "Rare-earth industry in China",
-      "Mining industry of China",
-      "Lithium batteries in China",
-      "Trade negotiation",
-      "United States"
-     ],
-     "testo_it": "Il ministero del commercio cinese estende la sospensione delle restrizioni all'esportazione su alcune terre rare, diamanti industriali e tecnologia delle batterie al litio fino al 10 gennaio 2027, tra i negoziati commerciali in corso con gli Stati Uniti.",
-     "contesto_it": [
-      "Guerra commerciale Cina-Stati Uniti"
-     ]
-    },
-    {
-     "testo": "The South Korean Fair Trade Commission issues fines of ₩331.1 billion (US$247 million) for Woowa Brothers and ₩300.8 billion ($222 million) for Coupang, finding that their food-delivery platforms restricted competition by requiring restaurants to match rival platforms' terms.",
-     "contesto": [],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "AFP via France 24",
-       "url": "https://www.france24.com/en/live-news/20261109-south-korea-s-coupang-woowa-brothers-hit-with-huge-antitrust-fines"
-      }
-     ],
-     "link": [
-      "South Korea",
-      "Fair Trade Commission (South Korea)",
-      "South Korean won",
-      "US$",
-      "Woowa Brothers",
-      "Coupang",
-      "Food delivery",
-      "Competition (economics)"
-     ],
-     "testo_it": "La Commissione per il commercio equo e solidale della Corea del Sud emette multe per  331,1 miliardi (247 milioni di dollari) per Woowa Brothers e  300,8 miliardi (222 milioni di dollari) per Coupang, trovando che le loro piattaforme di consegna del cibo limitavano la concorrenza richiedendo ai ristoranti di corrispondere ai termini delle piattaforme rivali."
-    },
-    {
-     "testo": "Seventeen people are killed and twelve others are injured in an explosion at a factory in Aliağa, Turkey.",
-     "contesto": [
-      "2026 Aliağa factory explosion"
-     ],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "BBC News",
-       "url": "https://www.bbc.com/news/articles/cq2d6d5z9y5jo"
-      }
-     ],
-     "link": [
-      "Aliağa",
-      "Turkey"
-     ],
-     "testo_it": "Diciassette persone vengono uccise e altre dodici ferite in un'esplosione in una fabbrica di Aliağa, in Turchia.",
-     "contesto_it": [
-      "Esplosione della fabbrica di Aliağa (2026)"
-     ]
-    },
-    {
-     "testo": "At least five people are reported missing after two boats collide off the coast of Trinidad. Search and rescue operations are underway by the Trinbagonian Coast Guard.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/trinidad-tobago-boat-accident-63915335673045954c5580f00cb8d617"
-      }
-     ],
-     "link": [
-      "Trinidad",
-      "Search and rescue",
-      "Trinidad and Tobago",
-      "Trinidad and Tobago Defence Force"
-     ],
-     "testo_it": "Almeno cinque persone sono scomparse dopo che due barche si sono scontrate al largo della costa di Trinidad. Le operazioni di ricerca e soccorso sono in corso dalla Guardia Costiera Trinbagoniana."
-    },
-    {
-     "testo": "Cypriot president Nikos Christodoulides and Northern Cypriot president Tufan Erhürman agree to establish two additional crossings across the United Nations Buffer Zone in Cyprus and hold further peace negotiations.",
-     "contesto": [
-      "Cyprus problem"
-     ],
-     "categoria": "International relations",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/middle-east/cyprus-leaders-agree-open-new-border-crossings-future-talks-2026-11-09/"
-      }
-     ],
-     "link": [
-      "Cyprus",
-      "President of Cyprus",
-      "Nikos Christodoulides",
-      "Northern Cyprus",
-      "President of Northern Cyprus",
-      "Tufan Erhürman",
-      "United Nations Buffer Zone in Cyprus",
-      "Cyprus peace process"
-     ],
-     "testo_it": "Il presidente cipriota Nikos Christodoulides e il presidente cipriota del nord Tufan Erhürman concordano di stabilire due ulteriori attraversamenti attraverso la zona di Buffer delle Nazioni Unite a Cipro e di tenere ulteriori negoziati di pace.",
-     "contesto_it": [
-      "Cipro problema"
-     ]
-    },
-    {
-     "testo": "English actor Russell Brand is sentenced to 10 years and 6 months imprisonment for one rape and three counts of sexual assault.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "CNN",
-       "url": "https://edition.cnn.com/2026/11/09/entertainment/russell-brand-rape-sentence-prison-intl"
-      },
-      {
-       "nome": "RTÉ News",
-       "url": "https://www.rte.ie/news/uk/2026/1109/1598469-russell-brand-court/"
-      }
-     ],
-     "link": [
-      "English people",
-      "Russell Brand",
-      "Rape",
-      "Sexual offences in the United Kingdom"
-     ],
-     "testo_it": "L'attore inglese Russell Brand viene condannato a 10 anni e 6 mesi di reclusione per uno stupro e tre capi d'accusa di violenza sessuale."
-    },
-    {
-     "testo": "Russian independent newspaper Novaya Gazeta ceases operations as it closes its offices in Moscow, citing pressure from Russian authorities and security services, including restrictions on its operations, loss of media registration, and blocked donations.",
-     "contesto": [
-      "Censorship in Russia"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/russian-newspaper-media-novaya-gazeta-closure-01cca444cb9636ee74a57979b0dcd604"
-      }
-     ],
-     "link": [
-      "Russia",
-      "Mass media in Russia",
-      "Novaya Gazeta",
-      "Moscow",
-      "Russian authorities",
-      "Federal Security Service"
-     ],
-     "testo_it": "Il quotidiano indipendente russo Novaya Gazeta cessa le operazioni mentre chiude i suoi uffici a Mosca, citando le pressioni delle autorità russe e dei servizi di sicurezza, comprese le restrizioni sulle sue operazioni, la perdita della registrazione dei media e le donazioni bloccate.",
-     "contesto_it": [
-      "La censura in Russia"
-     ]
-    },
-    {
-     "testo": "D.R. Congolese president Félix Tshisekedi signs a law allowing constitutional changes through referendums.",
-     "contesto": [],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/africa/congolese-president-signs-contested-referendum-law-amid-fears-over-third-term-2026-11-11/"
-      }
-     ],
-     "link": [
-      "Democratic Republic of the Congo",
-      "President of the Democratic Republic of the Congo",
-      "Félix Tshisekedi",
-      "Constitution of the Democratic Republic of the Congo",
-      "Referendum"
-     ],
-     "testo_it": "Il presidente congolese Félix Tshisekedi firma una legge che consente cambiamenti costituzionali attraverso referendum."
-    },
-    {
-     "testo": "In college football, the College Football Playoff announces it will expand from 12 to 24 teams starting in the 2027 season.",
-     "contesto": [],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "ESPN",
-       "url": "https://www.espn.com/college-football/story/_/id/50433738/cfp-playoff-24-team-format-faq"
-      }
-     ],
-     "link": [
-      "College football",
-      "College Football Playoff",
-      "2027 College Football Playoff National Championship"
-     ],
-     "testo_it": "Nel football universitario, il College Football Playoff annuncia che si espanderà da 12 a 24 squadre a partire dalla stagione 2027."
     }
    ]
   }
