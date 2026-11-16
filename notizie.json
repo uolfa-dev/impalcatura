@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-16T06:42:18Z",
+ "generato": "2026-11-16T19:41:03Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -78,24 +78,131 @@
    "data": "2026-11-16",
    "voci": [
     {
-     "testo": "At least 11 people are killed and over 30 others are injured in a fire at a four-story building in Phuket province, Thailand.",
+     "testo": "The European Commission (EC) and the United States Federal Reserve approve Italian bank UniCredit's proposed €45 billion (US$49 billion) acquisition of Germany's Commerzbank, following the European Central Bank's approval in October. The EC grants unconditional antitrust clearance.",
+     "contesto": [],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/business/finance/unicredit-wins-eu-approval-commerzbank-acquisition-2026-11-16/"
+      }
+     ],
+     "link": [
+      "European Commission",
+      "United States",
+      "Federal Reserve",
+      "Italy",
+      "UniCredit",
+      "Euro",
+      "US$",
+      "Mergers and acquisitions",
+      "Germany",
+      "Commerzbank",
+      "European Central Bank",
+      "European Union competition law"
+     ],
+     "testo_it": "La Commissione europea (CE) e la Federal Reserve degli Stati Uniti approvano la proposta di acquisizione da parte della banca italiana UniCredit di 45 miliardi di euro (49 miliardi di dollari) della tedesca Commerzbank, a seguito dell'approvazione della Banca centrale europea in ottobre."
+    },
+    {
+     "testo": "Eleven people are killed and 16 others are injured in a fire at a four-story building in Patong, Phuket province, Thailand.",
      "contesto": [
-      "2026 Phuket fire"
+      "2026 Patong fire"
      ],
      "categoria": "Disasters and accidents",
      "fonti": [
       {
-       "nome": "Xinhua",
-       "url": "https://english.news.cn/20261116/6441a98fe2ce4d81bbd6e0b6866ef955/c.html"
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/16/shophouse-fire-on-thai-resort-island-kills-11"
       }
      ],
      "link": [
+      "Patong",
       "Phuket province",
       "Thailand"
      ],
-     "testo_it": "Almeno 11 persone sono morte e oltre 30 sono rimaste ferite in un incendio in un edificio di quattro piani nella provincia di Phuket, in Thailandia.",
+     "testo_it": "Undici persone sono morte e altre 16 sono rimaste ferite in un incendio in un edificio di quattro piani a Patong, nella provincia di Phuket, in Thailandia.",
      "contesto_it": [
-      "Fuoco di Phuket (2026)"
+      "Fuoco di Patong (2026)"
+     ]
+    },
+    {
+     "testo": "The United States Agency for International Development reverses its decision to withdraw funding from the United Nations Support Office for Somalia and supports extending its mandate and that of the African Union's military mission combating Al-Shabaab for another year.",
+     "contesto": [
+      "Somalia–United States relations, USAID in the second Trump administration, United States intervention in Somalia"
+     ],
+     "categoria": "International relations",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/reversal-us-fund-un-military-support-somalia-another-year"
+      }
+     ],
+     "link": [
+      "United States",
+      "United States Agency for International Development",
+      "United Nations Support Office for AMISOM",
+      "Somalia",
+      "African Union",
+      "African Union Support and Stabilization Mission in Somalia",
+      "Al-Shabaab (militant group)"
+     ],
+     "testo_it": "L'Agenzia degli Stati Uniti per lo sviluppo internazionale inverte la sua decisione di ritirare i finanziamenti dall'Ufficio di sostegno delle Nazioni Unite per la Somalia e sostiene l'estensione del suo mandato e quello della missione militare dell'Unione africana che combatte Al-Shabaab per un altro anno.",
+     "contesto_it": [
+      "Relazioni Somalia-Stati Uniti, USAID nella seconda amministrazione Trump, intervento degli Stati Uniti in Somalia"
+     ]
+    },
+    {
+     "testo": "A Paraguayan judge orders impeached former president Santiago Peña transferred to the Viñas Cué military prison pending trial on charges of criminal association, breach of trust, and misuse of public office linked to Ueno Bank's collapse.",
+     "contesto": [
+      "2026 Paraguay banking crisis"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/americas/paraguay-judge-orders-ex-president-pea-transferred-military-prison-2026-11-16/"
+      }
+     ],
+     "link": [
+      "Paraguay",
+      "President of Paraguay",
+      "Santiago Peña",
+      "Viñas Cué",
+      "Military prison",
+      "Criminal association",
+      "Public trust",
+      "Malfeasance in office",
+      "Ueno Bank"
+     ],
+     "testo_it": "Un giudice paraguaiano ordina l'impeachment dell'ex presidente Santiago Peña trasferito nella prigione militare di Viñas Cué in attesa di processo con l'accusa di associazione criminale, violazione della fiducia e uso improprio di cariche pubbliche legate al crollo di Ueno Bank.",
+     "contesto_it": [
+      "Paraguay crisi bancaria (2026)"
+     ]
+    },
+    {
+     "testo": "The Gambian election commission approves President Adama Barrow's candidacy for a third term in the December 5 presidential election as the country's constitution does not limit presidential terms.",
+     "contesto": [
+      "2026 Gambian presidential election"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/africa/gambia-clears-barrow-run-third-presidential-term-approves-eight-other-candidates-2026-11-16/"
+      }
+     ],
+     "link": [
+      "The Gambia",
+      "Election commission",
+      "President of the Gambia",
+      "Adama Barrow",
+      "Elections in the Gambia",
+      "Constitution of the Gambia",
+      "Term limit"
+     ],
+     "testo_it": "La commissione elettorale gambiana approva la candidatura del presidente Adama Barrow per un terzo mandato nelle elezioni presidenziali del 5 dicembre in quanto la costituzione del paese non limita i termini presidenziali.",
+     "contesto_it": [
+      "Elezioni presidenziali in Gambia (2026)"
      ]
     }
    ]
@@ -208,6 +315,29 @@
      "contesto_it": [
       "Conflitti comuni in Nigeria",
       "Conflitti tra allevatori e allevatori in Nigeria"
+     ]
+    },
+    {
+     "testo": "The African Union Support and Stabilization Mission in Somalia transfers control of five bases in Barawe, Lower Shabelle, to the Somali Armed Forces.",
+     "contesto": [
+      "Somali Civil War"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Hiiraan Online",
+       "url": "https://www.hiiraan.com/security4/2026/Nov/206784/somali_army_takes_control_of_five_aussom_bases_in_barawe_as_security_transition_advances.aspx"
+      }
+     ],
+     "link": [
+      "African Union Support and Stabilization Mission in Somalia",
+      "Barawe",
+      "Lower Shabelle",
+      "Somali Armed Forces"
+     ],
+     "testo_it": "La missione di supporto e stabilizzazione dell'Unione Africana in Somalia trasferisce il controllo di cinque basi a Barawe, Bassa Shabelle, alle forze armate somale.",
+     "contesto_it": [
+      "Guerra civile somala"
      ]
     },
     {
@@ -366,6 +496,35 @@
      ]
     },
     {
+     "testo": "Philippine police arrest at least 287 people during nationwide protests against the potential signing of a Pax Silica deal with the United States coinciding with the 49th ASEAN Summit in Metro Manila. Police also report that 15 officers sustained injuries during demonstrations.",
+     "contesto": [
+      "2026 ASEAN Summits, Protests against Donald Trump"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "GMA News Online",
+       "url": "https://www.gmanetwork.com/news/topstories/metro/1009656/pnp-defends-response-to-asean-summit-protests/story/"
+      },
+      {
+       "nome": "Rappler",
+       "url": "https://www.rappler.com/philippines/muntinlupa-city-protest-arrest-asean-2026/"
+      }
+     ],
+     "link": [
+      "Philippines",
+      "Philippine National Police",
+      "Pax Silica",
+      "United States",
+      "ASEAN Summit",
+      "Metro Manila"
+     ],
+     "testo_it": "La polizia filippina arresta almeno 287 persone durante le proteste a livello nazionale contro la potenziale firma di un accordo di Pax Silica con gli Stati Uniti in coincidenza con il 49 ° vertice dell'ASEAN a Metro Manila.",
+     "contesto_it": [
+      "ASEAN Summits (2026), Proteste contro Donald Trump"
+     ]
+    },
+    {
      "testo": "The Jordanian State Security Court sentences three men to death for an October 23 shooting at a Greek Orthodox church in Karak Governorate that killed nine people and injured 25 others. Two accomplices receive six-year prison sentences.",
      "contesto": [
       "2026 Karak church shooting, Capital punishment in Jordan"
@@ -441,7 +600,7 @@
      ]
     },
     {
-     "testo": "Gagauzians in Moldova vote to elect a governor and 35 members of the People's Assembly. MP Alexandr Stoianoglo and Fiodor Gagauz [ru] advance to the second round after no candidate received a majority of the vote.",
+     "testo": "Gagauzians in Moldova vote to elect a governor and 35 members of the People's Assembly. MP Alexandr Stoianoglo and Fiodor Gagauz advance to the second round after no candidate received a majority of the vote.",
      "contesto": [
       "2026 Gagauz general election"
      ],
@@ -462,9 +621,10 @@
       "Governor of Gagauzia",
       "People's Assembly of Gagauzia",
       "Parliament of Moldova",
-      "Alexandr Stoianoglo"
+      "Alexandr Stoianoglo",
+      "Fiodor Gagauz"
      ],
-     "testo_it": "I gagauziani in Moldavia votano per eleggere un governatore e 35 membri dell'Assemblea popolare. Il deputato Alexandr Stoianoglo e Fiodor Gagauz [ru] avanzano al secondo turno dopo che nessun candidato ha ricevuto la maggioranza dei voti.",
+     "testo_it": "I gagauziani in Moldavia votano per eleggere un governatore e 35 membri dell'Assemblea popolare. Il deputato Alexandr Stoianoglo e Fiodor Gagauz avanzano al secondo turno dopo che nessun candidato ha ricevuto la maggioranza dei voti.",
      "contesto_it": [
       "Elezioni generali di Gagauz (2026)"
      ]
@@ -564,6 +724,31 @@
      ]
     },
     {
+     "testo": "In Canadian football, the Edmonton Elks win their 15th Canadian Football League title after beating the Montreal Alouettes 37–30 in the Grey Cup. They previously won in 2015.",
+     "contesto": [
+      "2026 Grey Cup"
+     ],
+     "categoria": "Sports",
+     "fonti": [
+      {
+       "nome": "Edmonton Journal",
+       "url": "https://edmontonjournal.com/sports/football/cfl/edmonton-elks/edmonton-elks-grey-cup-montreal-alouettes"
+      }
+     ],
+     "link": [
+      "Canadian football",
+      "Edmonton Elks",
+      "Canadian Football League",
+      "Montreal Alouettes",
+      "Grey Cup",
+      "103rd Grey Cup"
+     ],
+     "testo_it": "Nel calcio canadese, gli Edmonton Elks vincono il loro 15 ° titolo della Canadian Football League dopo aver battuto le Montreal Alouettes 37-30 nella Grey Cup.",
+     "contesto_it": [
+      "Tazza grigia (2026)"
+     ]
+    },
+    {
      "testo": "In women's rugby league, Australia wins its fourth consecutive World Cup title after defeating New Zealand 34–10 in the final in Brisbane.",
      "contesto": [
       "2026 Women's Rugby League World Cup, Australia–New Zealand sports rivalries"
@@ -612,31 +797,6 @@
      "testo_it": "Nella fase a gironi di UEFA Nations League A, l'Inghilterra sconfigge la Spagna per 3-2, ponendo fine alla striscia imbattuta di 43 partite della Spagna, la più lunga di una squadra nazionale.",
      "contesto_it": [
       "UEFA Nations League (2026-27)"
-     ]
-    },
-    {
-     "testo": "In Canadian football, the Edmonton Elks win their 15th Canadian Football League title after beating the Montreal Alouettes 37–30 in the Grey Cup. They previously won in 2015.",
-     "contesto": [
-      "2026 Grey Cup"
-     ],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "Edmonton Journal",
-       "url": "https://edmontonjournal.com/sports/football/cfl/edmonton-elks/edmonton-elks-grey-cup-montreal-alouettes"
-      }
-     ],
-     "link": [
-      "Canadian football",
-      "Edmonton Elks",
-      "Canadian Football League",
-      "Montreal Alouettes",
-      "Grey Cup",
-      "103rd Grey Cup"
-     ],
-     "testo_it": "Nel calcio canadese, gli Edmonton Elks vincono il loro 15 ° titolo della Canadian Football League dopo aver battuto le Montreal Alouettes 37-30 nella Grey Cup.",
-     "contesto_it": [
-      "Tazza grigia (2026)"
      ]
     }
    ]
@@ -2557,7 +2717,7 @@
      "testo_it": "L'Autorità Monetaria di Singapore lancia un servizio di riserva d'oro per le banche centrali estere, le istituzioni finanziarie internazionali e le entità sovrane e annuncia esenzioni fiscali ampliate per i servizi di oro all'ingrosso."
     },
     {
-     "testo": "Twelve people are killed and 51 others are seriously injured in a multiple-vehicle collision involving 86 vehicles on the Trakia motorway near Yambol, Bulgaria.",
+     "testo": "Thirteen people are killed and 50 others are seriously injured in a multiple-vehicle collision involving 86 vehicles on the Trakia motorway near Yambol, Bulgaria.",
      "contesto": [
       "2026 Trakia motorway crash"
      ],
@@ -2578,7 +2738,7 @@
       "Yambol",
       "Bulgaria"
      ],
-     "testo_it": "Dodici persone vengono uccise e altre 51 sono gravemente ferite in una collisione a più veicoli che coinvolge 86 veicoli sull'autostrada Trakia vicino a Yambol, in Bulgaria.",
+     "testo_it": "Tredici persone vengono uccise e altre 50 sono gravemente ferite in una collisione a più veicoli che coinvolge 86 veicoli sull'autostrada Trakia vicino a Yambol, in Bulgaria.",
      "contesto_it": [
       "Trakia incidente autostradale (2026)"
      ]
