@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-16T19:41:03Z",
+ "generato": "2026-11-17T03:58:30Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -75,8 +75,213 @@
  ],
  "giorni": [
   {
+   "data": "2026-11-17",
+   "voci": []
+  },
+  {
    "data": "2026-11-16",
    "voci": [
+    {
+     "testo": "Saudi Arabia's King Salman appoints Chairman of the General Staff Fayyadh Al Ruwaili as commander of the Saudi-led coalition in Yemen, following the retreat of Yemeni government forces from areas near the Bab al-Mandeb to Aden.",
+     "contesto": [
+      "Middle Eastern crisis",
+      "Yemeni civil war",
+      "2026 Yemen offensives"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis"
+      }
+     ],
+     "link": [
+      "Saudi Arabia",
+      "King of Saudi Arabia",
+      "Salman of Saudi Arabia",
+      "Chairman of the General Staff",
+      "Fayyadh Al Ruwaili",
+      "Saudi-led intervention in the Yemeni civil war",
+      "Yemen",
+      "Presidential Leadership Council",
+      "Yemeni Armed Forces",
+      "Bab al-Mandeb",
+      "Aden"
+     ],
+     "testo_it": "Il re dell'Arabia Saudita Salman nomina il presidente dello Stato maggiore Fayyadh Al Ruwaili come comandante della coalizione a guida saudita nello Yemen, in seguito al ritiro delle forze governative yemenite dalle aree vicino al Bab al-Mandeb ad Aden.",
+     "contesto_it": [
+      "Crisi del Medio Oriente",
+      "Guerra civile yemenita",
+      "Yemen offensive (2026)"
+     ]
+    },
+    {
+     "testo": "The Crimean Bridge is struck by a Ukrainian kamikaze drone, damaging the structure and prompting Russian authorities to close vehicle traffic. The bridge is partially reopened later in the day.",
+     "contesto": [
+      "Russo-Ukrainian war",
+      "Crimea attacks"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "The Guardian",
+       "url": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea"
+      },
+      {
+       "nome": "BBC",
+       "url": "https://www.bbc.com/news/articles/ckx27v6dpjz0o"
+      }
+     ],
+     "link": [
+      "Crimean Bridge",
+      "Ukraine",
+      "One-way attack drone",
+      "Russia"
+     ],
+     "testo_it": "Il ponte di Crimea è colpito da un drone kamikaze ucraino, danneggiando la struttura e spingendo le autorità russe a chiudere il traffico veicolare. Il ponte è parzialmente riaperto più tardi nel corso della giornata.",
+     "contesto_it": [
+      "Guerra russo-ucraina",
+      "Attacchi di Crimea"
+     ]
+    },
+    {
+     "testo": "Nine people are killed in a mass shooting at a shack near Pretoria, South Africa.",
+     "contesto": [
+      "Crime in South Africa"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "NBC News",
+       "url": "https://www.nbcnews.com/world/africa/least-17-people-killed-2-mass-shootings-day-south-africa-rcna609688"
+      }
+     ],
+     "link": [
+      "Mass shooting",
+      "Shack",
+      "Pretoria",
+      "South Africa"
+     ],
+     "testo_it": "Nove persone vengono uccise in una sparatoria di massa in una baracca vicino a Pretoria, in Sudafrica.",
+     "contesto_it": [
+      "Criminalità in Sudafrica"
+     ]
+    },
+    {
+     "testo": "Eight people are found shot and killed inside a vehicle in Sweetwaters, South Africa.",
+     "contesto": [
+      "Crime in South Africa"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/south-africa-shootings-pretoria-1d8c73c660ebe7feda8d4c3848f6ac4f"
+      }
+     ],
+     "link": [],
+     "testo_it": "Otto persone sono state trovate fucilate e uccise all'interno di un veicolo a Sweetwaters, in Sudafrica.",
+     "contesto_it": [
+      "Criminalità in Sudafrica"
+     ]
+    },
+    {
+     "testo": "Five gunmen are killed after a shootout between criminal organizations in Chignahuapan, Puebla, Mexico.",
+     "contesto": [
+      "Mexican drug war"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "El Sol de México",
+       "url": "https://oem.com.mx/elsoldepuebla/local/reportan-cinco-muertos-tras-enfrentamiento-entre-bandas-en-chignahuapan-33148129"
+      }
+     ],
+     "link": [
+      "Shootout",
+      "Chignahuapan",
+      "Puebla",
+      "Mexico"
+     ],
+     "testo_it": "Cinque uomini armati vengono uccisi dopo una sparatoria tra organizzazioni criminali a Chignahuapan, Puebla, Messico.",
+     "contesto_it": [
+      "Guerra alla droga in Messico"
+     ]
+    },
+    {
+     "testo": "Two people are killed and three more injured in a mass shooting at a party in Mazatlán, Sinaloa, Mexico.",
+     "contesto": [
+      "Mexican drug war"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "El Universal",
+       "url": "https://www.eluniversal.com.mx/estados/musicos-de-la-banda-hr-heridos-en-ataque-armado-en-mazatlan-estan-fuera-de-peligro-solicitan-apoyo-para-cubrir-gastos-medicos/"
+      }
+     ],
+     "link": [
+      "Mazatlán",
+      "Sinaloa"
+     ],
+     "testo_it": "Due persone vengono uccise e altre tre ferite in una sparatoria di massa a una festa a Mazatlán, Sinaloa, in Messico.",
+     "contesto_it": [
+      "Guerra alla droga in Messico"
+     ]
+    },
+    {
+     "testo": "The Recording Academy announced nominations for the 69th Annual Grammy Awards, which will take place at Crypto.com Arena, Los Angeles, California on February 7, 2027.",
+     "contesto": [
+      "69th Annual Grammy Awards"
+     ],
+     "categoria": "Arts and culture",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/business/media-telecom/raye-and-rosalia-lead-nominations-for-musics-grammy-awards-2026-11-16/"
+      }
+     ],
+     "link": [
+      "The Recording Academy",
+      "Crypto.com Arena",
+      "Los Angeles",
+      "California"
+     ],
+     "testo_it": "La Recording Academy ha annunciato le nomination per i 69° Grammy Awards annuali, che si terranno presso Crypto.com Arena, Los Angeles, California, il 7 febbraio 2027.",
+     "contesto_it": [
+      "69° Grammy Awards"
+     ]
+    },
+    {
+     "testo": "Police fire tear gas and sound grenades to disperse protesting garment workers blocking a road in Gazipur, after the Minimum Wage Board postpones its scheduled minimum wage meeting.",
+     "contesto": [
+      "2026 Bangladesh garment workers protests"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "The Daily Star",
+       "url": "https://www.thedailystar.net/news/news/gazipur-garment-workers-block-road-police-fire-tear-gas-4325191"
+      },
+      {
+       "nome": "The Business Standard",
+       "url": "https://www.tbsnews.net/economy/rmg/owners-submit-minimum-wage-proposal-boards-third-meeting-today-amid-ongoing-unrest"
+      }
+     ],
+     "link": [
+      "Bangladesh Police",
+      "Tear gas",
+      "Stun grenade",
+      "Clothing industry",
+      "Gazipur District",
+      "Minimum Wage Board",
+      "Minimum wage"
+     ],
+     "testo_it": "La polizia spara gas lacrimogeni e granate sonore per disperdere i lavoratori che protestano bloccando una strada a Gazipur, dopo che la Commissione per il salario minimo rinvia la riunione del salario minimo prevista.",
+     "contesto_it": [
+      "Proteste dei lavoratori del Bangladesh (2026)"
+     ]
+    },
     {
      "testo": "The European Commission (EC) and the United States Federal Reserve approve Italian bank UniCredit's proposed €45 billion (US$49 billion) acquisition of Germany's Commerzbank, following the European Central Bank's approval in October. The EC grants unconditional antitrust clearance.",
      "contesto": [],
@@ -152,6 +357,22 @@
      ]
     },
     {
+     "testo": "Togolese Gilbert Houngbo is re-elected director-general of the International Labour Organization.",
+     "contesto": [],
+     "categoria": "International relations",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/former-togo-pm-re-elected-un-labour-agency-chief"
+      }
+     ],
+     "link": [
+      "Gilbert Houngbo",
+      "International Labour Organization"
+     ],
+     "testo_it": "Togolese Gilbert Houngbo è rieletto direttore generale dell'Organizzazione internazionale del lavoro."
+    },
+    {
      "testo": "A Paraguayan judge orders impeached former president Santiago Peña transferred to the Viñas Cué military prison pending trial on charges of criminal association, breach of trust, and misuse of public office linked to Ueno Bank's collapse.",
      "contesto": [
       "2026 Paraguay banking crisis"
@@ -169,7 +390,7 @@
       "Santiago Peña",
       "Viñas Cué",
       "Military prison",
-      "Criminal association",
+      "Criminal conspiracy",
       "Public trust",
       "Malfeasance in office",
       "Ueno Bank"
@@ -177,6 +398,32 @@
      "testo_it": "Un giudice paraguaiano ordina l'impeachment dell'ex presidente Santiago Peña trasferito nella prigione militare di Viñas Cué in attesa di processo con l'accusa di associazione criminale, violazione della fiducia e uso improprio di cariche pubbliche legate al crollo di Ueno Bank.",
      "contesto_it": [
       "Paraguay crisi bancaria (2026)"
+     ]
+    },
+    {
+     "testo": "Bahrain sentences 64 Shia Muslims, mostly clerics, to life in prison for establishing a terrorist group linked to Iran's Islamic Revolutionary Guard Corps.",
+     "contesto": [
+      "Insurgency in Bahrain"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "BBC",
+       "url": "https://www.bbc.com/news/articles/cmx20pyew3zxo"
+      }
+     ],
+     "link": [
+      "Bahrain",
+      "Shia Muslim",
+      "Islamic cleric",
+      "Life in prison",
+      "List of designated terrorist groups",
+      "Iran",
+      "Islamic Revolutionary Guard Corps"
+     ],
+     "testo_it": "Il Bahrein condanna 64 musulmani sciiti, per lo più chierici, all'ergastolo per aver fondato un gruppo terroristico legato al Corpo delle Guardie Rivoluzionarie Islamiche dell'Iran.",
+     "contesto_it": [
+      "Insurrezione in Bahrain"
      ]
     },
     {
@@ -236,6 +483,33 @@
       "Crisi del Medio Oriente",
       "Guerra in Iran (2026)",
       "Stretto di Hormuz (2026), Navi attaccate durante la guerra in Iran del 2026"
+     ]
+    },
+    {
+     "testo": "Israeli military says that Al-Qassam Brigades commander Samir Abu Younis of the Rafah brigade, who helped plan and oversaw the October 7 attacks on Israel, was killed in a airstrike in the southern area of Gaza Strip, with Hamas confirming his death and plans for a funeral.",
+     "contesto": [
+      "Middle Eastern crisis",
+      "Gaza war"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Middle East Eye",
+       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-commander-samir-abu-younis-killed-israeli-strike-khan-younis"
+      }
+     ],
+     "link": [
+      "Israel Defense Forces",
+      "Al-Qassam Brigades",
+      "October 7 attacks",
+      "Israel",
+      "Gaza Strip",
+      "Hamas"
+     ],
+     "testo_it": "L'esercito israeliano dice che il comandante delle Brigate Al-Qassam Samir Abu Younis della brigata Rafah, che ha contribuito a pianificare e supervisionare gli attacchi del 7 ottobre su Israele, è stato ucciso in un attacco aereo nella zona meridionale della Striscia di Gaza, con Hamas che conferma la sua morte e i piani per un funerale.",
+     "contesto_it": [
+      "Crisi del Medio Oriente",
+      "Guerra di Gaza"
      ]
     },
     {
@@ -1003,6 +1277,30 @@
      "testo_it": "Altre otto persone in Bangladesh sono morte di febbre dengue, portando il bilancio delle vittime dell'epidemia di quest'anno a 491."
     },
     {
+     "testo": "The federal government of Mexico introduces penalties and fines for the fraudulent commercial use of government logos, official documents and institutional identities to deceive the public. Although the government stated that the reform targeted fraud and impersonation rather than satire, critics warned that its broad wording could threaten freedom of expression, being dubbed the \"Anti-Meme Law\".",
+     "contesto": [
+      "Censorship in Mexico, Internet censorship in Mexico"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "El Financiero in Spanish",
+       "url": "https://www.elfinanciero.com.mx/nacional/2026/11/14/publican-la-ley-antimemes-en-el-dof-estas-son-las-multas-y-penas-de-carcel/"
+      }
+     ],
+     "link": [
+      "Federal government of Mexico",
+      "Fraud",
+      "Impersonation",
+      "Satire",
+      "Freedom of expression"
+     ],
+     "testo_it": "Il governo federale del Messico introduce sanzioni e multe per l'uso commerciale fraudolento di loghi governativi, documenti ufficiali e identità istituzionali per ingannare il pubblico. Anche se il governo ha dichiarato che la riforma ha mirato alla frode e all'impersonificazione piuttosto che alla satira, i critici hanno avvertito che la sua ampia formulazione potrebbe minacciare la libertà di espressione, essendo soprannominata la \"Legge anti-mememe\".",
+     "contesto_it": [
+      "Censura in Messico, censura su Internet in Messico"
+     ]
+    },
+    {
      "testo": "Border Guard Bangladesh seize 48 high-power explosive gel sticks, 100 detonators, and 11 fuses during an operation along the Bangladesh–India border in Kanaighat Upazila, Sylhet District, Bangladesh.",
      "contesto": [
       "Crime in Bangladesh"
@@ -1053,6 +1351,26 @@
      "testo_it": "L'esercito guatemalteco inizia a schierare un battaglione nei dipartimenti di Zacapa, Izabal e Chiquimula a seguito di un attacco nel dipartimento di Zacapa il giorno precedente che ha ucciso cinque persone.",
      "contesto_it": [
       "Criminalità in Guatemala"
+     ]
+    },
+    {
+     "testo": "An arson attack against the home of journalist Rolando Rodríguez, associate deputy editor of the Panamanian newspaper La Prensa, left two cars and the entrance of the house burned.",
+     "contesto": [
+      "Crime in Panama"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "El Sol de México",
+       "url": "https://oem.com.mx/elsoldemexico/mundo/lanzan-explosivo-contra-la-casa-de-rolando-rodriguez-periodista-de-la-prensa-panama-33130441"
+      }
+     ],
+     "link": [
+      "La Prensa (Panama City)"
+     ],
+     "testo_it": "Un incendio doloso contro la casa del giornalista Rolando Rodríguez, vicedirettore associato del giornale panamense La Prensa, ha lasciato due auto e l'ingresso della casa è bruciato.",
+     "contesto_it": [
+      "Criminalità a Panama"
      ]
     },
     {
@@ -1168,6 +1486,30 @@
       "Crisi del Medio Oriente",
       "Guerra in Iran (2026)",
       "Scioperi iraniani contro il Bahrein (2026)"
+     ]
+    },
+    {
+     "testo": "An encounter between mexican soldiers and CJNG members left six gunmen dead in a rural area of Silao, Guanajuato, México.",
+     "contesto": [
+      "Mexican drug war"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Aristegui Noticias",
+       "url": "https://aristeguinoticias.com/1411/mexico/abaten-a-seis-presuntos-integrantes-del-cjng-durante-enfrentamiento-en-silao-guanajuato/"
+      }
+     ],
+     "link": [
+      "Mexican Army",
+      "CJNG",
+      "Silao, Guanajuato",
+      "Guanajuato",
+      "México"
+     ],
+     "testo_it": "Un incontro tra soldati messicani e membri del CJNG ha causato la morte di sei uomini armati in una zona rurale di Silao, Guanajuato, Messico.",
+     "contesto_it": [
+      "Guerra alla droga in Messico"
      ]
     },
     {
@@ -2530,491 +2872,6 @@
      "testo_it": "La nazionale maschile degli Stati Uniti under-17 si ritira dalla prossima Coppa del Mondo FIFA U-17 in Qatar, citando preoccupazioni per la sicurezza legate al conflitto Houthi-saudita.",
      "contesto_it": [
       "Coppa del Mondo FIFA U-17 (2026)"
-     ]
-    }
-   ]
-  },
-  {
-   "data": "2026-11-10",
-   "voci": [
-    {
-     "testo": "A third round of United States-mediated talks between Ukrainian and Russian delegations begins in Abu Dhabi, United Arab Emirates, focusing on the humanitarian impact of the war, prisoners of war, and security guarantees. Earlier in the day, the American and Ukrainian teams held a separate meeting with representatives of France, Germany, Italy, the United Kingdom, the European Commission, and NATO.",
-     "contesto": [
-      "Russo-Ukrainian war",
-      "Peace negotiations in the Russo-Ukrainian war, United Arab Emirates in the 2026 Iran war, United States and the Russo-Ukrainian war",
-      "2026 United States–Ukraine–Russia meetings in Abu Dhabi"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/russia-ukraine-war-putin-zelenskyy-uae-3d878a3e56d5df5bd198a6d20c824d18"
-      },
-      {
-       "nome": "DW",
-       "url": "https://www.dw.com/en/us-russia-and-ukraine-start-talks-in-abu-dhabi/live-79906232"
-      },
-      {
-       "nome": "The Guardian",
-       "url": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks"
-      }
-     ],
-     "link": [
-      "United States",
-      "Ukraine",
-      "Russia",
-      "Abu Dhabi",
-      "United Arab Emirates",
-      "Humanitarian impact of the Russo-Ukrainian war (2022–present)",
-      "Prisoners of war in the Russo-Ukrainian war (2022–present)",
-      "France",
-      "Germany",
-      "Italy",
-      "United Kingdom",
-      "European Commission",
-      "NATO"
-     ],
-     "testo_it": "Un terzo round di colloqui mediati dagli Stati Uniti tra delegazioni ucraine e russe inizia ad Abu Dhabi, negli Emirati Arabi Uniti, concentrandosi sull'impatto umanitario della guerra, sui prigionieri di guerra e sulle garanzie di sicurezza. All'inizio della giornata, le squadre americane e ucraine hanno tenuto un incontro separato con rappresentanti di Francia, Germania, Italia, Regno Unito, Commissione europea e NATO.",
-     "contesto_it": [
-      "Guerra russo-ucraina",
-      "Negoziati di pace nella guerra russo-ucraina, negli Emirati Arabi Uniti nella guerra in Iran del 2026, negli Stati Uniti e nella guerra russo-ucraina",
-      "Incontri Stati Uniti-Ucraina-Russia ad Abu Dhabi (2026)"
-     ]
-    },
-    {
-     "testo": "El Salvador announces it has launched a joint military operation with the Haitian police against the 400 Mawozo gang, killing 20 people and destroying a house linked to its leader, Wilson Joseph.",
-     "contesto": [
-      "Haitian conflict",
-      "Salvadoran military intervention in Haiti, El Salvador–Haiti relations"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead"
-      }
-     ],
-     "link": [
-      "El Salvador",
-      "Armed Forces of El Salvador",
-      "Haiti",
-      "Haitian National Police",
-      "400 Mawozo"
-     ],
-     "testo_it": "El Salvador annuncia di aver lanciato un'operazione militare congiunta con la polizia haitiana contro la banda dei 400 Mawozo, uccidendo 20 persone e distruggendo una casa legata al suo leader, Wilson Joseph.",
-     "contesto_it": [
-      "Conflitto haitiano",
-      "Intervento militare salvadoregno ad Haiti, relazioni El Salvador-Haiti"
-     ]
-    },
-    {
-     "testo": "A military court in Goma, North Kivu, Democratic Republic of the Congo, sentences 66 soldiers to death on charges of cowardice, mutiny, and failure to obey orders, after they were arrested following clashes with Front for the Refoundation of the Nation rebels.",
-     "contesto": [
-      "Democratic Republic of the Congo–Rwanda conflict"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "DW",
-       "url": "https://www.dw.com/en/dr-congo-66-soldiers-sentenced-to-death-for-cowardice-in-conflict-with-frn-rebels/a-79906794"
-      }
-     ],
-     "link": [
-      "Court-martial",
-      "Goma",
-      "North Kivu",
-      "Democratic Republic of the Congo",
-      "Armed Forces of the Democratic Republic of the Congo",
-      "Capital punishment in the Democratic Republic of the Congo",
-      "Mutiny",
-      "Front for the Refoundation of the Nation"
-     ],
-     "testo_it": "Un tribunale militare a Goma, Nord Kivu, Repubblica Democratica del Congo, condanna a morte 66 soldati con l'accusa di codardia, ammutinamento e incapacità di obbedire agli ordini, dopo che sono stati arrestati a seguito di scontri con il Fronte per la Rifondazione dei ribelli della Nazione.",
-     "contesto_it": [
-      "Repubblica Democratica del Congo-Rwanda conflitto"
-     ]
-    },
-    {
-     "testo": "Eight people, including five workers and two police reservists, are killed by suspected al-Shabaab militants in Mandera County, Kenya, near the border with Somalia, during an ambush against a vehicle.",
-     "contesto": [
-      "Terrorism in Kenya, Somali Civil War"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AFP via AA",
-       "url": "https://aa.com.tr/en/africa/suspected-al-shabaab-militants-kill-8-in-northeastern-kenya-ambush/4119429"
-      },
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/africa/eight-people-killed-kenyas-northeast-suspected-al-shabaab-attack-2026-11-10/"
-      }
-     ],
-     "link": [
-      "Kenya Police",
-      "Al-Shabaab (militant group)",
-      "Mandera County",
-      "Kenya",
-      "Somalia",
-      "Ambush"
-     ],
-     "testo_it": "Otto persone, tra cui cinque lavoratori e due riservisti della polizia, sono state uccise da sospetti militanti di al-Shabaab nella contea di Mandera, in Kenya, vicino al confine con la Somalia, durante un'imboscata contro un veicolo.",
-     "contesto_it": [
-      "Il terrorismo in Kenya, guerra civile somala"
-     ]
-    },
-    {
-     "testo": "The Venezuelan National Assembly unanimously approves a reform of the electricity law which allows private companies and joint ventures to invest in the nationalised electricity sector, which the government has controlled since 2007.",
-     "contesto": [
-      "Energy crisis in Venezuela"
-     ],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "AFP via RFI",
-       "url": "https://www.rfi.fr/en/international-news/20261111-venezuela-opens-electricity-sector-to-private-investment"
-      }
-     ],
-     "link": [
-      "Venezuela",
-      "National Assembly of Venezuela",
-      "Energy policy of Venezuela",
-      "Private companies",
-      "Joint venture",
-      "Nationalised",
-      "Electricity sector in Venezuela",
-      "Government of Venezuela"
-     ],
-     "testo_it": "L'Assemblea nazionale venezuelana approva all'unanimità una riforma della legge sull'elettricità che consente alle imprese private e alle joint venture di investire nel settore elettrico nazionalizzato, che il governo controlla dal 2007.",
-     "contesto_it": [
-      "Crisi energetica in Venezuela"
-     ]
-    },
-    {
-     "testo": "The Monetary Authority of Singapore launches a gold reserve service for foreign central banks, international financial institutions, and sovereign entities, and announces expanded tax exemptions for wholesale gold services.",
-     "contesto": [],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "AFP via The Daily Star",
-       "url": "https://www.thedailystar.net/business/global-economy/news/singapore-launches-gold-storage-service-central-banks-4319921"
-      },
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/asia-pacific/singapore-launch-gold-vault-service-foreign-central-banks-2026-11-10/"
-      }
-     ],
-     "link": [
-      "Monetary Authority of Singapore",
-      "Singapore",
-      "Gold reserve",
-      "Central bank",
-      "International financial institutions",
-      "Sovereign entities",
-      "Tax exemption",
-      "Wholesale"
-     ],
-     "testo_it": "L'Autorità Monetaria di Singapore lancia un servizio di riserva d'oro per le banche centrali estere, le istituzioni finanziarie internazionali e le entità sovrane e annuncia esenzioni fiscali ampliate per i servizi di oro all'ingrosso."
-    },
-    {
-     "testo": "Thirteen people are killed and 50 others are seriously injured in a multiple-vehicle collision involving 86 vehicles on the Trakia motorway near Yambol, Bulgaria.",
-     "contesto": [
-      "2026 Trakia motorway crash"
-     ],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/10/at-least-12-people-killed-in-motorway-crash-in-southeastern-bulgaria"
-      },
-      {
-       "nome": "Plovdiv24",
-       "url": "https://www.plovdiv24.bg/novini/Bylgaria/Dron-zasne-nevizhdanite-mashtabi-na-tragediyata-na-AM-Trakiya-86-koli-i-kamioni-11-zhertvi-i-50-raneni-3054257"
-      }
-     ],
-     "link": [
-      "Multiple-vehicle collision",
-      "Trakia motorway",
-      "Yambol",
-      "Bulgaria"
-     ],
-     "testo_it": "Tredici persone vengono uccise e altre 50 sono gravemente ferite in una collisione a più veicoli che coinvolge 86 veicoli sull'autostrada Trakia vicino a Yambol, in Bulgaria.",
-     "contesto_it": [
-      "Trakia incidente autostradale (2026)"
-     ]
-    },
-    {
-     "testo": "Five schoolgirls are killed and 21 others are injured when a school bus plunges into a pond in Kandal province, Cambodia.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/cambodia-traffic-accidents-school-bus-e0c3e6316356dcbe3c4ff9fbed68a62b"
-      }
-     ],
-     "link": [
-      "Pond",
-      "Kandal province",
-      "Cambodia"
-     ],
-     "testo_it": "Cinque studentesse vengono uccise e altre 21 ferite quando uno scuolabus si tuffa in uno stagno nella provincia di Kandal, in Cambogia."
-    },
-    {
-     "testo": "The British Columbia Conservation Officer Service kills a female grizzly bear and her three cubs after DNA evidence confirmed that the bears killed two people near Bella Coola, B.C., Canada.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AFP via ABS-CBN News",
-       "url": "https://www.abs-cbn.com/news/world/2026/11/11/four-bears-blamed-and-put-down-after-fatal-mauling-in-canada-0852"
-      },
-      {
-       "nome": "BBC News",
-       "url": "https://www.bbc.com/news/articles/cwg5r8zrm11mo"
-      }
-     ],
-     "link": [
-      "British Columbia Conservation Officer Service",
-      "Grizzly bear",
-      "DNA evidence",
-      "List of fatal bear attacks in North America",
-      "Bella Coola, British Columbia",
-      "Canada"
-     ],
-     "testo_it": "Il British Columbia Conservation Officer Service uccide un'orsa grizzly e i suoi tre cuccioli dopo che le prove del DNA hanno confermato che gli orsi hanno ucciso due persone vicino a Bella Coola, B.C., Canada."
-    },
-    {
-     "testo": "The Thai cabinet approves new environmental regulations for data centers, including limits on noise and temperature increases, requirements for cooling-water recycling and testing, and industrial zoning for facilities consuming more than 20 megawatts.",
-     "contesto": [
-      "AI boom"
-     ],
-     "categoria": "Health and environment",
-     "fonti": [
-      {
-       "nome": "AFP via The Straits Times",
-       "url": "https://www.straitstimes.com/asia/se-asia/thailand-sets-noise-water-use-limits-for-data-centres"
-      }
-     ],
-     "link": [
-      "Thailand",
-      "Cabinet of Thailand",
-      "Environmental issues in Thailand",
-      "Data center",
-      "Waste management in Thailand",
-      "Water cooling",
-      "Reclaimed water",
-      "Water testing",
-      "Industrial zoning"
-     ],
-     "testo_it": "Il governo thailandese approva nuove normative ambientali per i data center, tra cui limiti agli aumenti di rumore e temperatura, requisiti per il riciclaggio e i test delle acque di raffreddamento e zonizzazione industriale per le strutture che consumano più di 20 megawatt.",
-     "contesto_it": [
-      "Boom AI"
-     ]
-    },
-    {
-     "testo": "The United States Food and Drug Administration orders manufacturers of GLP-1 medicines such as semaglutide and tirzepatide, originally intended for the treatment of type 2 diabetes but also commonly used for weight loss, to add warnings that use of such drugs may increase the risk of developing non-arteritic anterior ischemic optic neuropathy, an optic nerve disorder that can cause permanent blindness.",
-     "contesto": [],
-     "categoria": "Health and environment",
-     "fonti": [
-      {
-       "nome": "BBC News",
-       "url": "https://www.bbc.com/news/articles/crwydyde0lp3o"
-      },
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-orders-new-eye-risk-warnings-ozempic-zepbound-2026-11-09/"
-      }
-     ],
-     "link": [
-      "United States",
-      "Food and Drug Administration",
-      "GLP-1 receptor agonist",
-      "Semaglutide",
-      "Tirzepatide",
-      "Type 2 diabetes",
-      "Anti-obesity medication",
-      "Weight loss",
-      "Non-arteritic anterior ischemic optic neuropathy",
-      "Optic nerve",
-      "Visual impairment"
-     ],
-     "testo_it": "La Food and Drug Administration degli Stati Uniti ordina ai produttori di farmaci GLP-1 come semaglutide e tirzepatide, originariamente destinati al trattamento del diabete di tipo 2, ma anche comunemente usati per la perdita di peso, di aggiungere avvertimenti che l'uso di tali farmaci può aumentare il rischio di sviluppare neuropatia ottica ischemica anteriore non arteritica, un disturbo del nervo ottico che può causare cecità permanente."
-    },
-    {
-     "testo": "Indonesian police detain 154 people following clashes with protesters in Yogyakarta, Java. The Yogyakarta Legal Aid Institute reports that two people are hospitalized and 13 others remain missing.",
-     "contesto": [
-      "2025–2026 Indonesian protests"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "AFP via New Straits Times",
-       "url": "https://www.nst.com.my/world/region/2026/11/1575315/indonesia-detains-dozens-after-night-protest-violence"
-      }
-     ],
-     "link": [
-      "Indonesia",
-      "Indonesian National Police",
-      "Yogyakarta",
-      "Java"
-     ],
-     "testo_it": "La polizia indonesiana detiene 154 persone a seguito di scontri con i manifestanti a Yogyakarta, Java. Lo Yogyakarta Legal Aid Institute riferisce che due persone sono ricoverate in ospedale e altre 13 sono scomparse.",
-     "contesto_it": [
-      "Proteste indonesiane (2025-2026)"
-     ]
-    },
-    {
-     "testo": "The Judicial Committee of the Privy Council overturns colonial-era provisions criminalizing consensual same-sex sexual activity between adults in Trinidad and Tobago, ruling them unconstitutional following a legal challenge by activist Jason Jones.",
-     "contesto": [
-      "LGBTQ rights in Trinidad and Tobago"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "CNN",
-       "url": "https://edition.cnn.com/2026/11/10/americas/trinidad-tobago-gay-sex-law-latam-intl"
-      },
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/uk/uk-court-overturns-trinidad-tobago-law-criminalising-homosexual-sex-2026-11-10/"
-      }
-     ],
-     "link": [
-      "Judicial Committee of the Privy Council",
-      "Criminalization of homosexuality",
-      "Same-sex sexual practices",
-      "Trinidad and Tobago",
-      "Jason Jones (activist)"
-     ],
-     "testo_it": "Il Comitato Giudiziario del Privy Council ribalta le disposizioni dell'era coloniale che criminalizzano l'attività sessuale consensuale tra adulti a Trinidad e Tobago, giudicandoli incostituzionali a seguito di una sfida legale dell'attivista Jason Jones.",
-     "contesto_it": [
-      "Diritti LGBTQ a Trinidad e Tobago"
-     ]
-    },
-    {
-     "testo": "Police arrest an American soldier near Gloucester, England, on suspicions of espionage activity in connection with Russia.",
-     "contesto": [
-      "United Kingdom–United States relations, Russia–United Kingdom relations"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "DW",
-       "url": "https://www.dw.com/en/us-american-soldier-arrested-uk-spying-russia/a-79913240"
-      }
-     ],
-     "link": [
-      "Metropolitan Police",
-      "United States Army",
-      "Gloucester",
-      "England",
-      "Espionage",
-      "Russia"
-     ],
-     "testo_it": "La polizia arresta un soldato americano vicino a Gloucester, in Inghilterra, con l'accusa di attività di spionaggio in relazione alla Russia.",
-     "contesto_it": [
-      "Relazioni Regno Unito-Stati Uniti, relazioni Russia-Regno Unito"
-     ]
-    },
-    {
-     "testo": "An explosive device kills a police officer and his K9 dog and injures another while they were responding to a shooting in Oviedo, Asturias, Spain.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/spain-police-killed-explosive-e16086184fbee0e74f9e4b8e9992e075"
-      },
-      {
-       "nome": "BBC News",
-       "url": "https://www.bbc.com/news/articles/cwm262pzezy0o"
-      }
-     ],
-     "link": [
-      "Explosive device",
-      "National Police Corps (Spain)",
-      "Police dog",
-      "Oviedo",
-      "Asturias",
-      "Spain"
-     ],
-     "testo_it": "Un ordigno esplosivo uccide un ufficiale di polizia e il suo cane K9 e ne ferisce un altro mentre stavano rispondendo a una sparatoria a Oviedo, nelle Asturie, in Spagna."
-    },
-    {
-     "testo": "British news outlets The Guardian and ITV News identify comedian and author David Walliams as the subject of sexual misconduct allegations after the High Court of Justice rejects his attempt to prevent their publication. Walliams denies the allegations.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "CNN",
-       "url": "https://edition.cnn.com/2026/11/10/entertainment/david-walliams-celebrity-injunction-sexual-misconduct-intl"
-      },
-      {
-       "nome": "RTÉ News",
-       "url": "https://www.rte.ie/news/2026/1110/1598675-walliams-named-in-failed-injunction/"
-      }
-     ],
-     "link": [
-      "Mass media in the United Kingdom",
-      "The Guardian",
-      "ITV News",
-      "David Walliams",
-      "Sexual offences in the United Kingdom",
-      "High Court of Justice"
-     ],
-     "testo_it": "I media britannici The Guardian e ITV News identificano il comico e autore David Walliams come oggetto di accuse di cattiva condotta sessuale dopo che l'Alta Corte di giustizia ha respinto il suo tentativo di impedire la loro pubblicazione."
-    },
-    {
-     "testo": "Indonesian vice president Gibran Rakabuming Raka announces his intention to resign following controversies about the authenticity of his high-school diploma.",
-     "contesto": [
-      "Gibran Rakabuming Raka diploma controversy"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/asia-pacific/indonesia-vice-president-expresses-intention-resign-presidential-official-says-2026-11-10/"
-      }
-     ],
-     "link": [
-      "Indonesian people",
-      "Vice President of Indonesia",
-      "Gibran Rakabuming Raka"
-     ],
-     "testo_it": "Il vicepresidente indonesiano Gibran Rakabuming Raka annuncia la sua intenzione di dimettersi a seguito di controversie sull'autenticità del suo diploma di scuola superiore.",
-     "contesto_it": [
-      "Gibran Rakabuming Raka diploma polemica"
-     ]
-    },
-    {
-     "testo": "Australian prime minister Anthony Albanese announces plans to introduce mandatory safeguards for artificial intelligence companies, including security incident reporting and independent model evaluations, and establish a new regulatory body to oversee compliance.",
-     "contesto": [
-      "AI boom"
-     ],
-     "categoria": "Science and technology",
-     "fonti": [
-      {
-       "nome": "AFP",
-       "url": "https://www.afp.com/en/australia-adopt-mandatory-ai-safeguards"
-      },
-      {
-       "nome": "ABC News",
-       "url": "https://www.abc.net.au/news/2026-11-10/openai-medicare-hack-government-loophole/107368330"
-      }
-     ],
-     "link": [
-      "Australia",
-      "Prime Minister of Australia",
-      "Anthony Albanese",
-      "AI safety",
-      "Artificial intelligence",
-      "Computer security incident management",
-      "Regulation of artificial intelligence"
-     ],
-     "testo_it": "Il primo ministro australiano Anthony Albanese annuncia l'intenzione di introdurre garanzie obbligatorie per le società di intelligenza artificiale, tra cui rapporti sugli incidenti di sicurezza e valutazioni di modelli indipendenti, e di istituire un nuovo organismo di regolamentazione per supervisionare la conformità.",
-     "contesto_it": [
-      "Boom AI"
      ]
     }
    ]
