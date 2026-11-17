@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-17T03:58:30Z",
+ "generato": "2026-11-17T16:10:49Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -76,7 +76,178 @@
  "giorni": [
   {
    "data": "2026-11-17",
-   "voci": []
+   "voci": [
+    {
+     "testo": "Bahrain's military intercepts a number of drones fired by Iran's Islamic Revolutionary Guard Corps (IRGC) at Sheikh Isa Air Base.",
+     "contesto": [
+      "Middle Eastern crisis",
+      "2026 Iran war",
+      "2026 Iranian strikes on Arab countries",
+      "2026 Iranian strikes on Bahrain"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Le Monde",
+       "url": "https://www.lemonde.fr/en/international/article/2026/11/17/iran-claims-attack-on-us-base-in-bahrain_6782812_4.html"
+      }
+     ],
+     "link": [
+      "Bahrain",
+      "Bahrain Defence Force",
+      "Unmanned aerial vehicles in the Iranian military",
+      "Iran",
+      "Islamic Revolutionary Guard Corps",
+      "Sheikh Isa Air Base"
+     ],
+     "testo_it": "L'esercito del Bahrain intercetta un certo numero di droni sparati dal Corpo delle Guardie Rivoluzionarie Islamiche (IRGC) dell'Iran presso la base aerea di Sheikh Isa.",
+     "contesto_it": [
+      "Crisi del Medio Oriente",
+      "Guerra in Iran (2026)",
+      "Scioperi iraniani contro i paesi arabi (2026)",
+      "Scioperi iraniani contro il Bahrein (2026)"
+     ]
+    },
+    {
+     "testo": "The United States Air Force conducts a series of at least six strikes on Qeshm Island. The IRGC shoots down a General Atomics MQ-9 Reaper drone south of the island.",
+     "contesto": [
+      "Middle Eastern crisis",
+      "2026 Iran war"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "News.am",
+       "url": "https://news.am/en/news/1075422"
+      },
+      {
+       "nome": "Le Monde",
+       "url": "https://www.lemonde.fr/en/international/article/2026/11/17/iran-claims-attack-on-us-base-in-bahrain_6782812_4.html"
+      }
+     ],
+     "link": [
+      "United States",
+      "United States Air Force",
+      "Qeshm Island",
+      "General Atomics MQ-9 Reaper"
+     ],
+     "testo_it": "L'Aeronautica degli Stati Uniti conduce una serie di almeno sei attacchi sull'isola di Qeshm. L'IRGC abbatte un drone General Atomics MQ-9 Reaper a sud dell'isola.",
+     "contesto_it": [
+      "Crisi del Medio Oriente",
+      "Guerra in Iran (2026)"
+     ]
+    },
+    {
+     "testo": "The Crimean Bridge is struck by Ukrainian drones for the second day in a row, prompting Russian authorities to close vehicle traffic again. Open-source intelligence report that a section of the road bridge damaged yesterday has collapsed into the Kerch Strait.",
+     "contesto": [
+      "Russo-Ukrainian war",
+      "Crimea attacks"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/europe/ukraine-strikes-crimean-bridge-second-day-russia-pounds-kyiv-bridges-2026-11-17/"
+      },
+      {
+       "nome": "Türkiye",
+       "url": "https://www.turkiyetoday.com/world/kerch-bridge-road-arch-reportedly-falls-into-sea-after-ukrainian-strikes-3232578"
+      }
+     ],
+     "link": [
+      "Crimean Bridge",
+      "Ukraine",
+      "Unmanned aerial vehicles",
+      "Russia",
+      "Government of Russia",
+      "Open-source intelligence",
+      "Kerch Strait"
+     ],
+     "testo_it": "Il ponte di Crimea è colpito dai droni ucraini per il secondo giorno di fila, spingendo le autorità russe a chiudere nuovamente il traffico dei veicoli. L'intelligence open source riferisce che una sezione del ponte stradale danneggiata ieri è crollata nello Stretto di Kerch.",
+     "contesto_it": [
+      "Guerra russo-ucraina",
+      "Attacchi di Crimea"
+     ]
+    },
+    {
+     "testo": "Canada and China agree to further tariff reductions following talks between Canadian prime minister Mark Carney and Chinese leader Xi Jinping before the APEC summit in Shenzhen. China reduces tariffs on C$400 million (¥1.8 billion) in Canadian exports, while Canada extends relief for Chinese steel and aluminium.",
+     "contesto": [
+      "Canada–China relations"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/canada-china-agree-further-tariff-cuts-leaders-meet"
+      }
+     ],
+     "link": [
+      "Canada",
+      "China",
+      "Tariff",
+      "Prime Minister of Canada",
+      "Mark Carney",
+      "Paramount leader",
+      "Xi Jinping",
+      "APEC China 2026",
+      "Shenzhen",
+      "Canadian dollar",
+      "Renminbi",
+      "List of exports of Canada",
+      "Steel industry in China"
+     ],
+     "testo_it": "Il Canada e la Cina accettano ulteriori riduzioni tariffarie a seguito dei colloqui tra il primo ministro canadese Mark Carney e il leader cinese Xi Jinping prima del vertice APEC a Shenzhen. La Cina riduce le tariffe su $ 400 milioni ( 1,8 miliardi) nelle esportazioni canadesi, mentre il Canada estende il rilievo per l'acciaio e l'alluminio cinesi.",
+     "contesto_it": [
+      "Relazioni Canada-Cina"
+     ]
+    },
+    {
+     "testo": "A Russian Air Force Antonov An-12 crashes near Kemerovo, Russia, killing all 17 people on board.",
+     "contesto": [
+      "2026 Russian Air Force Antonov An-12 crash"
+     ],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "The Independent",
+       "url": "https://www.independent.co.uk/news/world/europe/russia-plane-crash-siberia-kemerovo-b3086529.html"
+      }
+     ],
+     "link": [
+      "Russian Air Force",
+      "Antonov An-12",
+      "Kemerovo"
+     ],
+     "testo_it": "Antonov An-12 si schianta vicino a Kemerovo, in Russia, uccidendo tutte le 17 persone a bordo.",
+     "contesto_it": [
+      "Russian Air Force Antonov An-12 crash (2026)"
+     ]
+    },
+    {
+     "testo": "Mongolian president Ukhnaagiin Khürelsükh announces his resignation from office, three days after former Ulaanbaatar mayor Khishgeegiin Nyambaatar accused him of past embezzlement from a railway project during his tenure as prime minister. The State Great Khural must accept the resignation for it to become effective.",
+     "contesto": [],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/mongolia-president-corruption-allegations-9542b2bf7536db6ae65b371aac07bbf4"
+      }
+     ],
+     "link": [
+      "Mongolia",
+      "President of Mongolia",
+      "Ukhnaagiin Khürelsükh",
+      "Resignation",
+      "Ulaanbaatar",
+      "Mayor of Ulaanbaatar",
+      "Khishgeegiin Nyambaatar",
+      "Embezzlement",
+      "Prime Minister of Mongolia",
+      "State Great Khural"
+     ],
+     "testo_it": "Il presidente mongolo Ukhnaagiin Khürelsükh annuncia le sue dimissioni dall'incarico, tre giorni dopo che l'ex sindaco di Ulaanbaatar Khishgeegin Nyambaatar lo ha accusato di aver passato l'appropriazione indebita da un progetto ferroviario durante il suo mandato come primo ministro."
+    }
+   ]
   },
   {
    "data": "2026-11-16",
@@ -116,7 +287,7 @@
      ]
     },
     {
-     "testo": "The Crimean Bridge is struck by a Ukrainian kamikaze drone, damaging the structure and prompting Russian authorities to close vehicle traffic. The bridge is partially reopened later in the day.",
+     "testo": "The Crimean Bridge is struck by a Ukrainian kamikaze drone, damaging the structure and prompting Russian authorities to close the bridge to vehicle traffic. The bridge is partially reopened later in the day.",
      "contesto": [
       "Russo-Ukrainian war",
       "Crimea attacks"
@@ -124,12 +295,12 @@
      "categoria": "Armed conflicts and attacks",
      "fonti": [
       {
-       "nome": "The Guardian",
-       "url": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea"
+       "nome": "BBC News",
+       "url": "https://www.bbc.com/news/articles/ckx27v6dpjz0o"
       },
       {
-       "nome": "BBC",
-       "url": "https://www.bbc.com/news/articles/ckx27v6dpjz0o"
+       "nome": "The Guardian",
+       "url": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea"
       }
      ],
      "link": [
@@ -138,51 +309,10 @@
       "One-way attack drone",
       "Russia"
      ],
-     "testo_it": "Il ponte di Crimea è colpito da un drone kamikaze ucraino, danneggiando la struttura e spingendo le autorità russe a chiudere il traffico veicolare. Il ponte è parzialmente riaperto più tardi nel corso della giornata.",
+     "testo_it": "Il ponte di Crimea è colpito da un drone kamikaze ucraino, danneggiando la struttura e spingendo le autorità russe a chiudere il ponte al traffico automobilistico. Il ponte è parzialmente riaperto più tardi nel corso della giornata.",
      "contesto_it": [
       "Guerra russo-ucraina",
       "Attacchi di Crimea"
-     ]
-    },
-    {
-     "testo": "Nine people are killed in a mass shooting at a shack near Pretoria, South Africa.",
-     "contesto": [
-      "Crime in South Africa"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "NBC News",
-       "url": "https://www.nbcnews.com/world/africa/least-17-people-killed-2-mass-shootings-day-south-africa-rcna609688"
-      }
-     ],
-     "link": [
-      "Mass shooting",
-      "Shack",
-      "Pretoria",
-      "South Africa"
-     ],
-     "testo_it": "Nove persone vengono uccise in una sparatoria di massa in una baracca vicino a Pretoria, in Sudafrica.",
-     "contesto_it": [
-      "Criminalità in Sudafrica"
-     ]
-    },
-    {
-     "testo": "Eight people are found shot and killed inside a vehicle in Sweetwaters, South Africa.",
-     "contesto": [
-      "Crime in South Africa"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/south-africa-shootings-pretoria-1d8c73c660ebe7feda8d4c3848f6ac4f"
-      }
-     ],
-     "link": [],
-     "testo_it": "Otto persone sono state trovate fucilate e uccise all'interno di un veicolo a Sweetwaters, in Sudafrica.",
-     "contesto_it": [
-      "Criminalità in Sudafrica"
      ]
     },
     {
@@ -193,12 +323,13 @@
      "categoria": "Armed conflicts and attacks",
      "fonti": [
       {
-       "nome": "El Sol de México",
+       "nome": "El Sol de México in Spanish",
        "url": "https://oem.com.mx/elsoldepuebla/local/reportan-cinco-muertos-tras-enfrentamiento-entre-bandas-en-chignahuapan-33148129"
       }
      ],
      "link": [
       "Shootout",
+      "Crime in Mexico",
       "Chignahuapan",
       "Puebla",
       "Mexico"
@@ -216,7 +347,7 @@
      "categoria": "Armed conflicts and attacks",
      "fonti": [
       {
-       "nome": "El Universal",
+       "nome": "El Universal in Spanish",
        "url": "https://www.eluniversal.com.mx/estados/musicos-de-la-banda-hr-heridos-en-ataque-armado-en-mazatlan-estan-fuera-de-peligro-solicitan-apoyo-para-cubrir-gastos-medicos/"
       }
      ],
@@ -227,29 +358,6 @@
      "testo_it": "Due persone vengono uccise e altre tre ferite in una sparatoria di massa a una festa a Mazatlán, Sinaloa, in Messico.",
      "contesto_it": [
       "Guerra alla droga in Messico"
-     ]
-    },
-    {
-     "testo": "The Recording Academy announced nominations for the 69th Annual Grammy Awards, which will take place at Crypto.com Arena, Los Angeles, California on February 7, 2027.",
-     "contesto": [
-      "69th Annual Grammy Awards"
-     ],
-     "categoria": "Arts and culture",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/business/media-telecom/raye-and-rosalia-lead-nominations-for-musics-grammy-awards-2026-11-16/"
-      }
-     ],
-     "link": [
-      "The Recording Academy",
-      "Crypto.com Arena",
-      "Los Angeles",
-      "California"
-     ],
-     "testo_it": "La Recording Academy ha annunciato le nomination per i 69° Grammy Awards annuali, che si terranno presso Crypto.com Arena, Los Angeles, California, il 7 febbraio 2027.",
-     "contesto_it": [
-      "69° Grammy Awards"
      ]
     },
     {
@@ -331,7 +439,7 @@
      ]
     },
     {
-     "testo": "The United States Agency for International Development reverses its decision to withdraw funding from the United Nations Support Office for Somalia and supports extending its mandate and that of the African Union's military mission combating Al-Shabaab for another year.",
+     "testo": "The United States Department of State reverses its decision to withdraw funding from the United Nations Support Office for Somalia and supports extending its mandate and that of the African Union's military mission combating Al-Shabaab for another year.",
      "contesto": [
       "Somalia–United States relations, USAID in the second Trump administration, United States intervention in Somalia"
      ],
@@ -343,21 +451,20 @@
       }
      ],
      "link": [
-      "United States",
-      "United States Agency for International Development",
+      "United States Department of State",
       "United Nations Support Office for AMISOM",
       "Somalia",
       "African Union",
       "African Union Support and Stabilization Mission in Somalia",
       "Al-Shabaab (militant group)"
      ],
-     "testo_it": "L'Agenzia degli Stati Uniti per lo sviluppo internazionale inverte la sua decisione di ritirare i finanziamenti dall'Ufficio di sostegno delle Nazioni Unite per la Somalia e sostiene l'estensione del suo mandato e quello della missione militare dell'Unione africana che combatte Al-Shabaab per un altro anno.",
+     "testo_it": "Il Dipartimento di Stato degli Stati Uniti inverte la sua decisione di ritirare i finanziamenti dall'Ufficio di sostegno delle Nazioni Unite per la Somalia e sostiene l'estensione del suo mandato e quello della missione militare dell'Unione africana che combatte Al-Shabaab per un altro anno.",
      "contesto_it": [
       "Relazioni Somalia-Stati Uniti, USAID nella seconda amministrazione Trump, intervento degli Stati Uniti in Somalia"
      ]
     },
     {
-     "testo": "Togolese Gilbert Houngbo is re-elected director-general of the International Labour Organization.",
+     "testo": "Former Togolese prime minister Gilbert Houngbo is re-elected director-general of the International Labour Organization.",
      "contesto": [],
      "categoria": "International relations",
      "fonti": [
@@ -367,10 +474,12 @@
       }
      ],
      "link": [
+      "Togo",
+      "Prime Minister of Togo",
       "Gilbert Houngbo",
       "International Labour Organization"
      ],
-     "testo_it": "Togolese Gilbert Houngbo è rieletto direttore generale dell'Organizzazione internazionale del lavoro."
+     "testo_it": "L'ex primo ministro togolese Gilbert Houngbo è stato rieletto direttore generale dell'Organizzazione internazionale del lavoro."
     },
     {
      "testo": "A Paraguayan judge orders impeached former president Santiago Peña transferred to the Viñas Cué military prison pending trial on charges of criminal association, breach of trust, and misuse of public office linked to Ueno Bank's collapse.",
@@ -401,6 +510,50 @@
      ]
     },
     {
+     "testo": "Nine people are killed in a mass shooting at a shack near Pretoria, South Africa.",
+     "contesto": [
+      "Crime in South Africa"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "NBC News",
+       "url": "https://www.nbcnews.com/world/africa/least-17-people-killed-2-mass-shootings-day-south-africa-rcna609688"
+      }
+     ],
+     "link": [
+      "Mass shooting",
+      "Shack",
+      "Pretoria",
+      "South Africa"
+     ],
+     "testo_it": "Nove persone vengono uccise in una sparatoria di massa in una baracca vicino a Pretoria, in Sudafrica.",
+     "contesto_it": [
+      "Criminalità in Sudafrica"
+     ]
+    },
+    {
+     "testo": "Eight people are found shot and killed inside a vehicle in Msunduzi Local Municipality, KwaZulu-Natal, South Africa.",
+     "contesto": [
+      "Crime in South Africa"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/south-africa-shootings-pretoria-1d8c73c660ebe7feda8d4c3848f6ac4f"
+      }
+     ],
+     "link": [
+      "Msunduzi Local Municipality",
+      "KwaZulu-Natal"
+     ],
+     "testo_it": "Otto persone sono state trovate fucilate e uccise all'interno di un veicolo nel comune locale di Msunduzi, KwaZulu-Natal, in Sudafrica.",
+     "contesto_it": [
+      "Criminalità in Sudafrica"
+     ]
+    },
+    {
      "testo": "Bahrain sentences 64 Shia Muslims, mostly clerics, to life in prison for establishing a terrorist group linked to Iran's Islamic Revolutionary Guard Corps.",
      "contesto": [
       "Insurgency in Bahrain"
@@ -408,7 +561,7 @@
      "categoria": "Law and crime",
      "fonti": [
       {
-       "nome": "BBC",
+       "nome": "BBC News",
        "url": "https://www.bbc.com/news/articles/cmx20pyew3zxo"
       }
      ],
