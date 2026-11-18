@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-18T11:54:44Z",
+ "generato": "2026-11-18T20:42:18Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -78,7 +78,7 @@
    "data": "2026-11-18",
    "voci": [
     {
-     "testo": "A militant commander is assassinated by the Indian Armed Forces at a mosque in Kulgam district, Indian-administered Jammu and Kashmir. He had escaped a shootout with troops two days earlier in a neighboring village, where his associate was killed.",
+     "testo": "A militant commander is killed by the Indian Armed Forces at a mosque in Kulgam district, Indian-administered Jammu and Kashmir, after escaping a shootout with troops two days earlier in a neighboring village, where his associate was killed.",
      "contesto": [
       "Insurgency in Jammu and Kashmir"
      ],
@@ -90,7 +90,6 @@
       }
      ],
      "link": [
-      "Assassination",
       "Indian Armed Forces",
       "Mosque",
       "Kulgam district",
@@ -98,10 +97,113 @@
       "Jammu and Kashmir (union territory)",
       "Shootout"
      ],
-     "testo_it": "Un comandante militante viene assassinato dalle Forze Armate Indiane in una moschea nel distretto di Kulgam, Jammu e Kashmir amministrato dagli Indiani. Era sfuggito a una sparatoria con le truppe due giorni prima in un villaggio vicino, dove il suo socio è stato ucciso.",
+     "testo_it": "Un comandante militante viene ucciso dalle forze armate indiane in una moschea nel distretto di Kulgam, Jammu e Kashmir, dopo essere fuggito da una sparatoria con le truppe due giorni prima in un villaggio vicino, dove il suo socio è stato ucciso.",
      "contesto_it": [
       "Insurrezione in Jammu e Kashmir"
      ]
+    },
+    {
+     "testo": "Salvadoran forces destroy a house belonging to Jeff Larose, the leader of the Taliban gang that operates in Canaan. The Gang Suppression Force says it was not involved.",
+     "contesto": [
+      "Haitian conflict",
+      "Salvadoran military intervention in Haiti"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/haiti-bukele-jeff-canaan-gangs-attack-home-4397ab6847be1d1dcc9c5bc600a4953f"
+      }
+     ],
+     "link": [
+      "Canaan, Haiti",
+      "Gang Suppression Force"
+     ],
+     "testo_it": "Le forze salvadoregne distruggono una casa appartenente a Jeff Larose, il leader della banda talebana che opera a Canaan.",
+     "contesto_it": [
+      "Conflitto haitiano",
+      "Intervento militare salvadoregno ad Haiti"
+     ]
+    },
+    {
+     "testo": "Two Bangladesh Nationalist Party members are killed when suspected members of the banned Awami League attack a motorcycle procession in Kalia, Narail District, Bangladesh.",
+     "contesto": [],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Daily Sun",
+       "url": "https://www.daily-sun.com/bangladesh/909934/two-killed-in-attack-on-bnp-procession-in-narail"
+      }
+     ],
+     "link": [
+      "Bangladesh Nationalist Party",
+      "Awami League",
+      "Kalia Upazila",
+      "Narail District",
+      "Bangladesh"
+     ],
+     "testo_it": "Due membri del Partito Nazionalista del Bangladesh vengono uccisi quando sospetti membri della Lega Awami attaccano una processione di motociclette a Kalia, nel distretto di Narail, in Bangladesh."
+    },
+    {
+     "testo": "In Bangladesh, a crowd allegedly led by Chatra Dal members storms and sets fire to the residence of former Awami League Member of Parliament Shamim Osman in Fatullah, Narayanganj District, while unidentified attackers in Nazirpur, Pirojpur District, loot and set fire to two houses belonging to former Minister of Fisheries and Livestock and Awami League leader SM Rezaul Karim, and a crowd in Sirajganj vandalises the local Awami League office and the residence of former MP Habibe Millat.",
+     "contesto": [],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Views Bangladesh",
+       "url": "https://viewsbangladesh.com/shamim-osmans-house-set-on-fire-in-narayanganj/"
+      },
+      {
+       "nome": "The Daily Star",
+       "url": "https://www.thedailystar.net/news/crime-justice/news/two-houses-former-al-minister-rezaul-karim-set-fire-pirojpur-4327421"
+      }
+     ],
+     "link": [
+      "Bangladesh",
+      "Bangladesh Jatiotabadi Chatra Dal",
+      "Awami League",
+      "Jatiya Sangsad",
+      "Shamim Osman",
+      "Fatullah",
+      "Narayanganj District",
+      "Nazirpur Upazila",
+      "Pirojpur District",
+      "Ministry of Fisheries and Livestock (Bangladesh)",
+      "SM Rezaul Karim",
+      "Sirajganj",
+      "Vandalism",
+      "Habibe Millat"
+     ],
+     "testo_it": "In Bangladesh, una folla presumibilmente guidata dai membri di Chatra Dal, fa irruzione e incendia la residenza dell'ex membro della Lega Awami del Parlamento Shamim Osman a Fatullah, nel distretto di Narayanganj, mentre gli aggressori non identificati a Nazirpur, nel distretto di Pirojpur, saccheggiano e incendiano due case appartenenti all'ex ministro della pesca e dell'allevamento e leader della Lega Awami SM Rezaul Karim, e una folla nell'ufficio locale di Sirajwaganj A Millbi."
+    },
+    {
+     "testo": "In Gopalganj District, Bangladesh, armed members of the banned Awami League, Chhatra League, and Jubo League detonate crude bombs and set fire to a private clinic owned by BNP Member of Parliament K M Babar of Gopalganj-2, forcing patients to evacuate. Attackers also burn at least five BNP offices across Muksudpur and Kashiani and target two Grameen Bank branches.",
+     "contesto": [],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Dhaka Tribune",
+       "url": "https://www.dhakatribune.com/bangladesh/nation/425065/another-gopalganj-mp%E2%80%99s-home-torched-patients-flee"
+      }
+     ],
+     "link": [
+      "Gopalganj District, Bangladesh",
+      "Bangladesh",
+      "Awami League",
+      "Bangladesh Chhatra League",
+      "Jubo League",
+      "Improvised explosive device",
+      "Clinic",
+      "Bangladesh Nationalist Party",
+      "Jatiya Sangsad",
+      "K M Babar",
+      "Gopalganj-2",
+      "Patient",
+      "Muksudpur Upazila",
+      "Kashiani Upazila",
+      "Grameen Bank"
+     ],
+     "testo_it": "Nel distretto di Gopalganj, in Bangladesh, i membri armati della Lega Awami, della Lega Chhatra e della Lega Jubo hanno fatto detonare bombe grezze e dato fuoco a una clinica privata di proprietà del membro del BNP del Parlamento K M Babar di Gopalganj-2, costringendo i pazienti ad evacuare. Gli aggressori bruciano anche almeno cinque uffici BNP a Muksudpur e Kashiani e prendono di mira due filiali della Grameen Bank."
     },
     {
      "testo": "In Gazipur, Savar, and Ashulia, Bangladesh, thousands of garment workers demanding a monthly minimum wage increase from ৳12,500 (US$100) to ৳30,000 ($240) block the Dhaka–Mymensingh Highway and set fire to a police vehicle, causing police to fire tear gas and stun grenades in Gazipur and Ashulia as 55 factories close across the three areas, while police report around 300 arrests across 24 cases filed in Savar and Ashulia during the protests.",
@@ -113,10 +215,6 @@
       {
        "nome": "The Daily Star",
        "url": "https://www.thedailystar.net/news/news/police-vehicle-torched-garment-workers-block-dhaka-mymensingh-highway-4326951"
-      },
-      {
-       "nome": "The Daily Star",
-       "url": "https://www.thedailystar.net/news/news/workers-unrest-continues-savar-ashulia-25-factories-shut-4327056"
       }
      ],
      "link": [
@@ -166,20 +264,43 @@
      ]
     },
     {
-     "testo": "A cyber-security firm has used artificial intelligence to uncover a critical flaw in the hugely popular computer programming language Java.",
+     "testo": "Arsonists set fire to the ancestral home of Nobel laureate and former chief adviser Muhammad Yunus in Panchlaish, Chattogram, Bangladesh.",
+     "contesto": [],
+     "categoria": "Law and Crime",
+     "fonti": [
+      {
+       "nome": "The Daily Star",
+       "url": "https://www.thedailystar.net/news/crime-justice/news/muhammad-yunuss-ancestral-home-set-fire-chattogram-4327776"
+      }
+     ],
+     "link": [
+      "Arson",
+      "Nobel Peace Prize",
+      "Interim government of Muhammad Yunus",
+      "Muhammad Yunus",
+      "Panchlaish Thana",
+      "Chittagong",
+      "Bangladesh"
+     ],
+     "testo_it": "Gli arsonisti hanno dato fuoco alla casa ancestrale del premio Nobel ed ex consigliere capo Muhammad Yunus a Panchlaish, Chattogram, Bangladesh."
+    },
+    {
+     "testo": "NASA's space probe Voyager 1 reaches the distance of one light-day from Earth, being the first man-made object to reach that distance, after it launched in 1977.",
      "contesto": [],
      "categoria": "Science and technology",
      "fonti": [
       {
-       "nome": "BBC News",
-       "url": "https://www.bbc.com/news/articles/cke89jevqm1vo"
+       "nome": "CNN",
+       "url": "https://edition.cnn.com/2026/11/18/science/voyager-1-light-day"
       }
      ],
      "link": [
-      "Artificial intelligence",
-      "Java (programming language)"
+      "NASA",
+      "Space probe",
+      "Voyager 1",
+      "Light-year"
      ],
-     "testo_it": "Una società di sicurezza informatica ha utilizzato l'intelligenza artificiale per scoprire un difetto critico nel popolare linguaggio di programmazione per computer Java."
+     "testo_it": "La sonda spaziale Voyager 1 della NASA raggiunge la distanza di un giorno luce dalla Terra, essendo il primo oggetto artificiale a raggiungere quella distanza, dopo il lancio nel 1977."
     }
    ]
   },
@@ -190,7 +311,7 @@
      "testo": "Five Palestinians are killed, including a child, and others are injured in a series of Israeli airstrikes on various areas of the Gaza Strip, Palestine.",
      "contesto": [
       "Middle Eastern crisis",
-      "Gaza war",
+      "Gaza War",
       "Israeli bombing of the Gaza Strip"
      ],
      "categoria": "Armed conflicts and attacks",
@@ -218,7 +339,7 @@
      "testo": "A 72-year-old Palestinian woman is killed and ten others are injured in an attack by Israeli settlers on Palestinian homes in the village of Ein ad-Duyuk at-Tahta west of Jericho in the occupied West Bank.",
      "contesto": [
       "Middle Eastern crisis",
-      "Gaza war",
+      "Gaza War",
       "Israeli incursions in the West Bank during the Gaza war, Israeli settler violence"
      ],
      "categoria": "Armed conflicts and attacks",
@@ -274,7 +395,7 @@
      ]
     },
     {
-     "testo": "The United States Air Force conducts a series of at least six strikes on Qeshm Island. The IRGC shoots down a General Atomics MQ-9 Reaper drone south of the island.",
+     "testo": "The United States Air Force conducts a series of at least six strikes on Qeshm Island. The IRGC says it shoot down a General Atomics MQ-9 Reaper drone south of the island.",
      "contesto": [
       "Middle Eastern crisis",
       "2026 Iran war"
@@ -296,7 +417,7 @@
       "Qeshm Island",
       "General Atomics MQ-9 Reaper"
      ],
-     "testo_it": "L'Aeronautica degli Stati Uniti conduce una serie di almeno sei attacchi sull'isola di Qeshm. L'IRGC abbatte un drone General Atomics MQ-9 Reaper a sud dell'isola.",
+     "testo_it": "L'Aeronautica degli Stati Uniti conduce una serie di almeno sei attacchi sull'isola di Qeshm. L'IRGC dice di aver abbattuto un drone General Atomics MQ-9 Reaper a sud dell'isola.",
      "contesto_it": [
       "Crisi del Medio Oriente",
       "Guerra in Iran (2026)"
@@ -335,7 +456,7 @@
      ]
     },
     {
-     "testo": "Following the arrest of party leaders, activists of the banned Awami League and Chhatra League mobilize via mosque loudspeakers and storm and set fire to a police station in Tungipara, Gopalganj District, Bangladesh, freeing detainees and looting firearms as police fire tear gas and rubber bullets, before the attackers also burn the residence of Bangladesh Nationalist Party Member of Parliament S M Jilani of Gopalganj-3 and blockade local roads.",
+     "testo": "Following the arrest of party leaders, banned Awami League and Chhatra League activists mobilize via mosque loudspeakers to storm and burn a police station in Tungipara, Gopalganj District, Bangladesh. Amid police tear gas and rubber bullet fire, the attackers free detainees, loot firearms, burn Bangladesh Nationalist Party MP S M Jilani's (Gopalganj-3) residence, and blockade local roads.",
      "contesto": [],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
@@ -354,29 +475,27 @@
       "Bangladesh Chhatra League",
       "Mosque",
       "Loudspeaker",
+      "Arson",
       "Bangladesh Police",
       "Tungipara Upazila",
       "Gopalganj District, Bangladesh",
       "Bangladesh",
+      "Tear gas",
+      "Rubber bullet",
       "Detainee",
       "Looting",
       "Firearm",
-      "Tear gas",
-      "Rubber bullet",
-      "Arson",
       "Bangladesh Nationalist Party",
       "Jatiya Sangsad",
       "S M Jilani",
       "Gopalganj-3",
       "Blockade"
      ],
-     "testo_it": "Dopo l'arresto dei leader del partito, gli attivisti della Lega Awami e della Lega Chhatra si mobilitano attraverso altoparlanti e tempeste e incendiano una stazione di polizia a Tungipara, nel distretto di Gopalganj, in Bangladesh, liberando detenuti e saccheggiando armi da fuoco come proiettili di gomma e gas lacrimogeni della polizia, prima che gli aggressori brucino anche la residenza del membro del partito nazionalista del Bangladesh del Parlamento S M Jilani di Gopalganj-3 e blocchino le strade locali."
+     "testo_it": "Dopo l'arresto dei leader del partito, gli attivisti della Lega Awami e della Lega Chhatra si mobilitano tramite altoparlanti della moschea per prendere d'assalto e bruciare una stazione di polizia a Tungipara, nel distretto di Gopalganj, in Bangladesh. Tra gas lacrimogeni e proiettili di gomma della polizia, gli aggressori liberano i detenuti, saccheggiano le armi da fuoco, bruciano la residenza del deputato nazionalista del Bangladesh S M Jilani (Gopalganj-3) e bloccano le strade locali."
     },
     {
-     "testo": "In Comilla, Bangladesh, members of the Swechhasebak Dal set fire to the local Awami League office and former MP AKM Bahauddin Bahar's residence following an attack on the home of BNP leader S M Jilani.",
-     "contesto": [
-      "Following the arrest of party leaders, activists of the banned Awami League and Chhatra League mobilize via mosque loudspeakers and storm and set fire to a police station in Tungipara, Gopalganj District, Bangladesh, freeing detainees and looting firearms as police fire tear gas and rubber bullets, before the attackers also burn the residence of Bangladesh Nationalist Party Member of Parliament S M Jilani of Gopalganj-3 and blockade local roads."
-     ],
+     "testo": "In Comilla, Bangladesh, Swechhasebak Dal members burn the local Awami League office and former MP AKM Bahauddin Bahar's residence in retaliation for the attack on BNP leader S M Jilani's home.",
+     "contesto": [],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
       {
@@ -386,21 +505,18 @@
      ],
      "link": [
       "Comilla",
-      "Bangladesh",
       "Bangladesh Jatiotabadi Swechhasebak Dal",
+      "Arson",
       "Awami League",
       "Jatiya Sangsad",
       "A. K. M. Bahauddin Bahar",
       "Bangladesh Nationalist Party",
       "S M Jilani"
      ],
-     "testo_it": "A Comilla, in Bangladesh, i membri dello Swechhasebak Dal hanno dato fuoco all'ufficio locale dell'Awami League e all'ex deputato AKM Bahauddin Bahar a seguito di un attacco alla casa del leader del BNP S M Jilani.",
-     "contesto_it": [
-      "Dopo l'arresto dei leader del partito, gli attivisti della Lega Awami e della Lega Chhatra si mobilitano attraverso altoparlanti e tempeste e incendiano una stazione di polizia a Tungipara, nel distretto di Gopalganj, in Bangladesh, liberando detenuti e saccheggiando armi da fuoco come proiettili di gomma e gas lacrimogeni della polizia, prima che gli aggressori brucino anche la residenza del membro del partito nazionalista del Bangladesh del Parlamento S M Jilani di Gopalganj-3 e blocchino le strade locali."
-     ]
+     "testo_it": "A Comilla, Bangladesh, i membri di Swechhasebak Dal bruciano l'ufficio locale della Lega Awami e l'ex-deputato AKM Bahauddin Bahar come rappresaglia per l'attacco alla casa del leader del BNP S M Jilani."
     },
     {
-     "testo": "Bangladeshi police and 42 platoons of the Border Guard Bangladesh deploy tear gas, stun grenades, batons, and surveillance drones during clashes with thousands of garment workers across Dhaka, Savar, Ashulia, Gazipur, and Narayanganj demanding a monthly minimum wage increase from ৳12,500 (US$100) to ৳30,000 ($240). Protesters block the N3, N4, and N5 highways and force the closure of at least 37 factories after a Minimum Wage Board meeting is postponed to November 23.",
+     "testo": "Bangladeshi police and 42 platoons of the Border Guard Bangladesh deploy tear gas, stun grenades, batons, and surveillance drones against garment workers across Dhaka, Savar, Ashulia, Gazipur, and Narayanganj protesting for a minimum wage hike from ৳12,500 (US$100) to ৳30,000 ($240). Protesters block the N3, N4, and N5 highways and shutter 37 factories after a Minimum Wage Board meeting is delayed to November 23.",
      "contesto": [
       "2026 Bangladesh garment workers protests"
      ],
@@ -439,7 +555,7 @@
       "Factory",
       "Minimum wage"
      ],
-     "testo_it": "La polizia del Bangladesh e 42 plotoni della Guardia di frontiera del Bangladesh schierano gas lacrimogeni, granate stordenti, manganelli e droni di sorveglianza durante gli scontri con migliaia di lavoratori del settore tessile in tutta Dhaka, Savar, Ashulia, Gazipur e Narayanganj chiedendo un aumento del salario minimo mensile da  12.500 (US $ 100) a  30.000 ($ 240).",
+     "testo_it": "La polizia del Bangladesh e 42 plotoni della Guardia di frontiera del Bangladesh schierano gas lacrimogeni, granate stordenti, manganelli e droni di sorveglianza contro i lavoratori del vestiario in tutta Dhaka, Savar, Ashulia, Gazipur e Narayanganj protestando per un aumento del salario minimo da  12.500 (US $ 100) a  30.000 ($ 240).",
      "contesto_it": [
       "Proteste dei lavoratori del Bangladesh (2026)"
      ]
@@ -605,6 +721,48 @@
      ]
     },
     {
+     "testo": "Investigative journalist Camilo Rodríguez is shot dead in his vehicle in Santo Domingo, Heredia, Costa Rica, in the first journalist death in the country in at least 25 years.",
+     "contesto": [
+      "Crime in Costa Rica"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "Univisión in Spanish",
+       "url": "https://www.univision.com/shows/primer-impacto/asesinan-al-periodista-camilo-rodriguez-en-costa-rica-habria-recibido-amenazas-por-denunciar-al-narcotrafico-y-la-corrupcion-video"
+      }
+     ],
+     "link": [
+      "Santo Domingo, Costa Rica",
+      "Heredia Province",
+      "Costa Rica"
+     ],
+     "testo_it": "Il giornalista investigativo Camilo Rodríguez viene ucciso nel suo veicolo a Santo Domingo, Heredia, Costa Rica, nel primo giornalista morto nel paese da almeno 25 anni.",
+     "contesto_it": [
+      "Criminalità in Costa Rica"
+     ]
+    },
+    {
+     "testo": "In Fatullah, Narayanganj District, Bangladesh, a factory worker is hacked to death after filming clashes between two factions of the ruling Bangladesh Nationalist Party.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "Views Bangladesh",
+       "url": "https://viewsbangladesh.com/pedestrian-hacked-to-death-while-filming-video-of-clash-between-two-bnp-factions/"
+      }
+     ],
+     "link": [
+      "Fatullah",
+      "Narayanganj District",
+      "Bangladesh",
+      "Factory",
+      "Murder",
+      "Bangladesh Nationalist Party"
+     ],
+     "testo_it": "A Fatullah, nel distretto di Narayanganj, in Bangladesh, un operaio di fabbrica viene hackerato a morte dopo aver filmato scontri tra due fazioni del partito nazionalista al governo del Bangladesh."
+    },
+    {
      "testo": "A court in Conakry, Guinea, tries over 1,000 alleged artisanal gold miners for illegal gold mining in the Siguiri region, resulting in the sentencing of 22 former regional administrators and 202 others to various prison terms.",
      "contesto": [],
      "categoria": "Law and crime",
@@ -648,7 +806,7 @@
      "testo_it": "L'Agenzia per la sicurezza nazionale della Macedonia del Nord arresta cinque cittadini macedoni presumibilmente legati a un complotto di assassinio in Grecia, presumibilmente coinvolgendo reclutatori iraniani, tra cui Naji Sharifi-Zindashti, che è ricercato dal Federal Bureau of Investigation degli Stati Uniti. Una sesta persona rimane in generale. La televisione pubblica greca riferisce che l'obiettivo era un dirigente commerciale israeliano con sede ad Atene."
     },
     {
-     "testo": "Two weeks after Election Day, Democratic candidate Mary Peltola defeats incumbent Republican senator Dan Sullivan to become the new Senator of Alaska, further extending the Democratic lead in the Senate.",
+     "testo": "Two weeks after Election Day, Democratic candidate Mary Peltola is projected to defeat incumbent Republican senator Dan Sullivan to become the new Senator for Alaska, further extending the Democratic lead in the Senate.",
      "contesto": [
       "2026 United States elections",
       "2026 United States Senate election in Alaska"
@@ -671,7 +829,7 @@
       "Alaska",
       "Wave elections in the United States"
      ],
-     "testo_it": "Due settimane dopo il giorno delle elezioni, la candidata democratica Mary Peltola sconfigge l'attuale senatore repubblicano Dan Sullivan per diventare il nuovo senatore dell'Alaska, estendendo ulteriormente la leadership democratica al Senato.",
+     "testo_it": "Due settimane dopo il giorno delle elezioni, la candidata democratica Mary Peltola è proiettata a sconfiggere l'attuale senatore repubblicano Dan Sullivan per diventare il nuovo senatore per l'Alaska, estendendo ulteriormente il vantaggio democratico al Senato.",
      "contesto_it": [
       "Elezioni negli Stati Uniti (2026)",
       "Elezioni al Senato degli Stati Uniti in Alaska (2026)"
@@ -793,6 +951,33 @@
      ]
     },
     {
+     "testo": "Ukraine finishes search and rescue operations at a humanitarian aid distribution center in Komyshuvakha, Zaporizhzhia Oblast, that was destroyed by a Russian airstrike on 2 November. A total of 72 people were killed, and four more people are missing.",
+     "contesto": [
+      "Russo-Ukrainian war",
+      "Russian attacks on civilians in the Russo-Ukrainian war",
+      "2026 Komyshuvakha strike"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Meduza in Russian",
+       "url": "https://meduza.io/news/2026/11/16/v-kamyshevahe-zavershili-poisk-zhertv-rossiyskogo-udara-po-punktu-vydachi-gumanitarnoy-pomoschi-chislo-pogibshih-dostiglo-72-chelovek"
+      }
+     ],
+     "link": [
+      "Search and rescue",
+      "Komyshuvakha",
+      "Zaporizhzhia Oblast",
+      "Missing person"
+     ],
+     "testo_it": "L'Ucraina termina le operazioni di ricerca e soccorso in un centro di distribuzione di aiuti umanitari a Komyshuvakha, Zaporizhzhia Oblast, che è stato distrutto da un attacco aereo russo il 2 novembre. Un totale di 72 persone sono state uccise e altre quattro persone sono scomparse.",
+     "contesto_it": [
+      "Guerra russo-ucraina",
+      "Attacchi russi contro i civili nella guerra russo-ucraina",
+      "Sciopero di Komyshuvakha (2026)"
+     ]
+    },
+    {
      "testo": "The Crimean Bridge is struck by a Ukrainian kamikaze drone, damaging the structure and prompting Russian authorities to close the bridge to vehicle traffic. The bridge is partially reopened later in the day.",
      "contesto": [
       "Russo-Ukrainian war",
@@ -819,33 +1004,6 @@
      "contesto_it": [
       "Guerra russo-ucraina",
       "Attacchi di Crimea"
-     ]
-    },
-    {
-     "testo": "Ukraine finishes search and rescue operations at a humanitarian aid distribution center in Komyshuvakha, Zaporizhzhia Oblast, that was destroyed by a Russian airstrike on 2 November. A total of 72 people were killed, and four more people are missing.",
-     "contesto": [
-      "Russo-Ukrainian war",
-      "Russian attacks on civilians in the Russo-Ukrainian war",
-      "2026 Komyshuvakha strike"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Meduza",
-       "url": "https://meduza.io/news/2026/11/16/v-kamyshevahe-zavershili-poisk-zhertv-rossiyskogo-udara-po-punktu-vydachi-gumanitarnoy-pomoschi-chislo-pogibshih-dostiglo-72-chelovek"
-      }
-     ],
-     "link": [
-      "Search and rescue",
-      "Komyshuvakha",
-      "Zaporizhzhia Oblast",
-      "Missing person"
-     ],
-     "testo_it": "L'Ucraina termina le operazioni di ricerca e soccorso in un centro di distribuzione di aiuti umanitari a Komyshuvakha, Zaporizhzhia Oblast, che è stato distrutto da un attacco aereo russo il 2 novembre. Un totale di 72 persone sono state uccise e altre quattro persone sono scomparse.",
-     "contesto_it": [
-      "Guerra russo-ucraina",
-      "Attacchi russi contro i civili nella guerra russo-ucraina",
-      "Sciopero di Komyshuvakha (2026)"
      ]
     },
     {
@@ -917,6 +1075,23 @@
       "11 Party Alliance"
      ],
      "testo_it": "Circa dieci persone sono rimaste ferite, molte delle quali ricoverate, nell'East London, Regno Unito, quando attivisti dell'Awami League sono stati banditi e presumibilmente attaccano gli espatriati e gli studenti del Bangladesh con bottiglie di vetro e barre d'acciaio fuori da un ricevimento per Nahid Islam e l' 11 Party Alliance."
+    },
+    {
+     "testo": "English actor Robert Pattinson is cast as James Bond in the ongoing film series starring the character.",
+     "contesto": [],
+     "categoria": "Arts and culture",
+     "fonti": [
+      {
+       "nome": "Variety",
+       "url": "https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/"
+      }
+     ],
+     "link": [
+      "Robert Pattinson",
+      "James Bond",
+      "List of James Bond films"
+     ],
+     "testo_it": "L'attore inglese Robert Pattinson interpreta James Bond nella serie cinematografica in corso con il personaggio."
     },
     {
      "testo": "Police fire tear gas and sound grenades to disperse protesting garment workers blocking a road in Gazipur, after the Minimum Wage Board postpones its scheduled minimum wage meeting.",
@@ -1188,7 +1363,7 @@
    "data": "2026-11-15",
    "voci": [
     {
-     "testo": "Iran's Islamic Revolutionary Guard Corps says that a supertanker carrying two million barrels of oil has sunk in the Strait of Hormuz after striking a mine.",
+     "testo": "Iran's Islamic Revolutionary Guard Corps says that a supertanker carrying two million barrels of oil has sunk in the Strait of Hormuz after striking a naval mine.",
      "contesto": [
       "Middle Eastern crisis",
       "2026 Iran war",
@@ -1206,9 +1381,10 @@
       "Islamic Revolutionary Guard Corps",
       "Oil tanker",
       "Barrel (unit)",
-      "Strait of Hormuz"
+      "Strait of Hormuz",
+      "Naval mine"
      ],
-     "testo_it": "Il Corpo delle Guardie Rivoluzionarie Islamiche dell'Iran afferma che una supercisterna che trasporta due milioni di barili di petrolio è affondata nello Stretto di Hormuz dopo aver colpito una miniera.",
+     "testo_it": "Il Corpo delle Guardie Rivoluzionarie Islamiche dell'Iran afferma che una supercisterna che trasporta due milioni di barili di petrolio è affondata nello Stretto di Hormuz dopo aver colpito una miniera navale.",
      "contesto_it": [
       "Crisi del Medio Oriente",
       "Guerra in Iran (2026)",
@@ -1270,7 +1446,31 @@
      ]
     },
     {
-     "testo": "The Nigerian Defence Headquarters announces that the Nigerian Army killed eight terrorists, arrested 22 additional terrorists, logistical personnel and their families, and rescued 125 kidnapping victims in various raids in the states of Adamawa, Bauchi, Yobe, and Borno between November 6 and 12.",
+     "testo": "Three people are killed and several others are abducted in a cattle raid in Rabah, Sokoto State, Nigeria.",
+     "contesto": [
+      "Communal conflicts in Nigeria",
+      "Herder–farmer conflicts in Nigeria"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "The Punch",
+       "url": "https://punchng.com/bandits-kill-three-abduct-residents-in-sokoto/"
+      }
+     ],
+     "link": [
+      "Cattle raiding",
+      "Rabah",
+      "Sokoto State"
+     ],
+     "testo_it": "Tre persone vengono uccise e molte altre vengono rapite in un'incursione di bestiame a Rabah, nello stato di Sokoto, in Nigeria.",
+     "contesto_it": [
+      "Conflitti comuni in Nigeria",
+      "Conflitti tra allevatori e allevatori in Nigeria"
+     ]
+    },
+    {
+     "testo": "The Nigerian Defence Headquarters announces that the Nigerian Army killed eight terrorists, arrested 22 additional terrorists, logistical personnel, and their families, and rescued 125 kidnapping victims in various raids in the states of Adamawa, Bauchi, Yobe, and Borno between November 6 and 12.",
      "contesto": [
       "Communal conflicts in Nigeria",
       "Religious violence in Nigeria"
@@ -1298,30 +1498,6 @@
      ]
     },
     {
-     "testo": "Three people are killed and several others are abducted in a cattle raid in Rabah, Sokoto State, Nigeria.",
-     "contesto": [
-      "Communal conflicts in Nigeria",
-      "Herder–farmer conflicts in Nigeria"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "The Punch",
-       "url": "https://punchng.com/bandits-kill-three-abduct-residents-in-sokoto/"
-      }
-     ],
-     "link": [
-      "Cattle raiding",
-      "Rabah",
-      "Sokoto State"
-     ],
-     "testo_it": "Tre persone vengono uccise e molte altre vengono rapite in un'incursione di bestiame a Rabah, nello stato di Sokoto, in Nigeria.",
-     "contesto_it": [
-      "Conflitti comuni in Nigeria",
-      "Conflitti tra allevatori e allevatori in Nigeria"
-     ]
-    },
-    {
      "testo": "The African Union Support and Stabilization Mission in Somalia transfers control of five bases in Barawe, Lower Shabelle, to the Somali Armed Forces.",
      "contesto": [
       "Somali Civil War"
@@ -1345,7 +1521,7 @@
      ]
     },
     {
-     "testo": "Amid minimum wage protests by garment workers, 13 garment factories in Gazipur are shut indefinitely under the Bangladesh Labour Act, 2006 and over 50 remain closed in Savar and Ashulia, while 48 platoons of the Border Guard, Ansar, and Special Response Battalion deploy across industrial zones in Dhaka, Gazipur, and Narayanganj.",
+     "testo": "Amid minimum wage protests by garment workers, thirteen garment factories in Gazipur shut indefinitely under the Bangladesh Labour Act (2006) and over 50 remain closed in Savar and Ashulia, while 48 platoons of the Border Guard, Ansar, and Special Response Battalion deploy across industrial zones in Dhaka, Gazipur, and Narayanganj.",
      "contesto": [
       "2026 Bangladesh garment workers protests"
      ],
@@ -1370,25 +1546,30 @@
       "Dhaka District",
       "Narayanganj District"
      ],
-     "testo_it": "Tra le proteste per il salario minimo da parte dei lavoratori dell'abbigliamento, 13 fabbriche di abbigliamento a Gazipur sono chiuse a tempo indeterminato ai sensi del Bangladesh Labour Act, 2006 e oltre 50 rimangono chiuse a Savar e Ashulia, mentre 48 plotoon della Guardia di frontiera, Ansar e Special Response Battalion si dispiegano nelle zone industriali di Dhaka, Gazipur e Narayanganj.",
+     "testo_it": "Tra le proteste per il salario minimo da parte dei lavoratori dell'abbigliamento, tredici fabbriche di abbigliamento a Gazipur chiuse indefinitamente sotto il Bangladesh Labour Act (2006) e oltre 50 rimangono chiuse a Savar e Ashulia, mentre 48 plotoni della Guardia di frontiera, Ansar e Battaglione di risposta speciale si dispiegano nelle zone industriali di Dhaka, Gazipur e Narayanganj.",
      "contesto_it": [
       "Proteste dei lavoratori del Bangladesh (2026)"
      ]
     },
     {
-     "testo": "Twelve people are killed and 16 others are injured when a bus carrying gas refinery workers overturns in Ilam province, Iran.",
+     "testo": "Thirteen people are killed and 16 others are injured when a bus carrying gas refinery workers overturns in Ilam province, Iran.",
      "contesto": [],
      "categoria": "Disasters and accidents",
      "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/iran-protests-workers-death-war-7c35c26b338bcae409e5c5c5200b88e5"
+      },
       {
        "nome": "IRNA English",
        "url": "https://en.irna.ir/amp/86321950/"
       }
      ],
      "link": [
+      "Natural-gas processing",
       "Ilam province"
      ],
-     "testo_it": "Dodici persone sono state uccise e altre 16 sono rimaste ferite quando un autobus che trasportava lavoratori della raffineria di gas si è rovesciato nella provincia di Ilam, in Iran."
+     "testo_it": "Tredici persone sono morte e altre 16 sono rimaste ferite quando un autobus che trasportava lavoratori della raffineria di gas si è rovesciato nella provincia di Ilam, in Iran."
     },
     {
      "testo": "Five people are injured, including three seriously, in a suspected gas explosion and fire at a Christmas market in Maredsous, Wallonia, Belgium.",
@@ -1529,7 +1710,7 @@
      ]
     },
     {
-     "testo": "The Jordanian State Security Court sentences three men to death for an October 23 shooting at a Greek Orthodox church in Karak Governorate that killed nine people and injured 25 others. Two accomplices receive six-year prison sentences.",
+     "testo": "The Jordanian State Security Court sentences three men to death for a shooting at a Greek Orthodox church in Karak Governorate that killed nine people and injured 25 others on October 23. Two accomplices also receive six-year prison sentences.",
      "contesto": [
       "2026 Karak church shooting, Capital punishment in Jordan"
      ],
@@ -1548,13 +1729,13 @@
       "Greek Orthodox Patriarchate of Jerusalem",
       "Karak Governorate"
      ],
-     "testo_it": "La Corte di sicurezza dello Stato giordano condanna a morte tre uomini per una sparatoria del 23 ottobre contro una chiesa greco-ortodossa nel governatorato di Karak che ha ucciso nove persone e ne ha ferite altre 25.",
+     "testo_it": "La Corte di sicurezza dello Stato giordano condanna a morte tre uomini per una sparatoria in una chiesa greco-ortodossa nel governatorato di Karak che ha ucciso nove persone e ne ha ferite altre 25 il 23 ottobre.",
      "contesto_it": [
       "Karak church shooting (2026), pena capitale in Giordania"
      ]
     },
     {
-     "testo": "Cape Verdeans vote to elect a president, where the main two candidates are the incumbent PAICV candidate José Maria Neves and the MpD candidate Joana Rosa.",
+     "testo": "Cape Verdeans vote to elect a president, between the main two candidates of incumbent PAICV president José Maria Neves and the MpD candidate Joana Rosa.",
      "contesto": [
       "2026 Cape Verdean presidential election"
      ],
@@ -1573,7 +1754,7 @@
       "Movement for Democracy (Cape Verde)",
       "Joana Rosa"
      ],
-     "testo_it": "I capoverdiani votano per eleggere un presidente, dove i due candidati principali sono il candidato in carica del PAICV José Maria Neves e il candidato del MPD Joana Rosa.",
+     "testo_it": "I capoverdiani votano per eleggere un presidente, tra i due principali candidati del presidente in carica del PAICV José Maria Neves e la candidata MpD Joana Rosa.",
      "contesto_it": [
       "Elezioni presidenziali del Capo Verde (2026)"
      ]
@@ -1809,7 +1990,32 @@
    "data": "2026-11-14",
    "voci": [
     {
-     "testo": "Ahmed Abdallah Bishr, the general chief of staff for the Gathering of Sudan Liberation Forces (GSLF), dies of the wounds he suffered a month ago during an assassination attack by drone strike against his home in Nyala, South Darfur, Sudan.",
+     "testo": "The Iranian military attacks an American military facility in Bahrain with drones and missiles in one of the largest attacks on the country in months.",
+     "contesto": [
+      "2026 Iran war",
+      "Bahrain in the 2026 Iran war"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "The National News",
+       "url": "https://www.thenationalnews.com/news/gulf/2026/11/15/bahrain-issues-first-nationwide-alert-in-months-as-iran-claims-attack-on-base-hosting-us-helicopters/"
+      }
+     ],
+     "link": [
+      "Iran",
+      "Islamic Revolutionary Guard Corps",
+      "United States Armed Forces",
+      "Bahrain"
+     ],
+     "testo_it": "L'esercito iraniano attacca una struttura militare americana in Bahrain con droni e missili in uno dei più grandi attacchi al paese in mesi.",
+     "contesto_it": [
+      "Guerra in Iran (2026)",
+      "Il Bahrein nella guerra del 2026 in Iran"
+     ]
+    },
+    {
+     "testo": "Ahmed Abdallah Bishr, the general chief of staff for the Gathering of Sudan Liberation Forces (GSLF), dies from wounds suffered a month ago during an assassination attack by drone strike against his home in Nyala, South Darfur, Sudan.",
      "contesto": [
       "Sudanese civil war",
       "Darfur campaign"
@@ -1828,36 +2034,14 @@
       "South Darfur",
       "Sudan"
      ],
-     "testo_it": "Ahmed Abdallah Bishr, il capo di stato maggiore delle forze di liberazione del Sudan (GSLF), muore per le ferite che ha subito un mese fa durante un attacco di droni contro la sua casa a Nyala, nel Darfur meridionale, in Sudan.",
+     "testo_it": "Ahmed Abdallah Bishr, il capo di stato maggiore delle forze di liberazione del Sudan (GSLF), muore per le ferite subite un mese fa durante un attacco di droni contro la sua casa a Nyala, Sud Darfur, Sudan.",
      "contesto_it": [
       "Guerra civile sudanese",
       "Campagna del Darfur"
      ]
     },
     {
-     "testo": "The Iranian military attacks, with drones and missiles, an American military facility in Bahrain, in one of the largest attacks on the country in months.",
-     "contesto": [
-      "2026 Iran war",
-      "2026 Iranian strikes on Bahrain"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "The National News",
-       "url": "https://www.thenationalnews.com/news/gulf/2026/11/15/bahrain-issues-first-nationwide-alert-in-months-as-iran-claims-attack-on-base-hosting-us-helicopters/"
-      }
-     ],
-     "link": [
-      "Bahrain"
-     ],
-     "testo_it": "Gli attacchi militari iraniani, con droni e missili, una struttura militare americana in Bahrain, in uno dei più grandi attacchi al paese da mesi.",
-     "contesto_it": [
-      "Guerra in Iran (2026)",
-      "Scioperi iraniani contro il Bahrein (2026)"
-     ]
-    },
-    {
-     "testo": "The Philippines, with the song \"Sobra-Sobra\" by Carmelle, wins the inaugural Eurovision Song Contest Asia held in Bangkok, Thailand.",
+     "testo": "The Philippines wins the inaugural Eurovision Song Contest Asia held in Bangkok, Thailand with the song \"Sobra-Sobra\" by Carmelle.",
      "contesto": [
       "Eurovision Song Contest Asia"
      ],
@@ -1874,19 +2058,19 @@
      ],
      "link": [
       "Philippines in the Eurovision Song Contest Asia",
-      "Sobra-Sobra",
-      "Carmelle Collado",
       "Eurovision Song Contest Asia",
       "Bangkok",
-      "Thailand"
+      "Thailand",
+      "Sobra-Sobra",
+      "Carmelle Collado"
      ],
-     "testo_it": "Le Filippine, con la canzone \"Sobra-Sobra\" di Carmelle, vincono l'Eurovision Song Contest Asia che si tiene a Bangkok, in Thailandia.",
+     "testo_it": "Le Filippine vincono l'Eurovision Song Contest Asia che si tiene a Bangkok, in Thailandia, con la canzone \"Sobra-Sobra\" di Carmelle.",
      "contesto_it": [
       "Eurovision Song Contest Asia"
      ]
     },
     {
-     "testo": "The Bangladesh Garment Manufacturers and Exporters Association threatens to indefinitely close unrest-affected factories without pay under the Bangladesh Labour Act 2006, after ongoing wage protests force the shutdown of 55 units and halt production at 147 others.",
+     "testo": "The Bangladesh Garment Manufacturers and Exporters Association threatens to indefinitely close textile factories without pay under the Bangladesh Labour Act 2006, after ongoing wage protests force the shutdown of 55 units and halt production at 147 others.",
      "contesto": [
       "2026 Bangladesh garment workers protests"
      ],
@@ -1907,13 +2091,13 @@
       "Textile industry in Bangladesh",
       "Minimum wage"
      ],
-     "testo_it": "La Bangladesh Garment Manufacturers and Exporters Association minaccia di chiudere indefinitamente le fabbriche colpite dai disordini senza retribuzione ai sensi del Bangladesh Labour Act 2006, dopo che le proteste salariali in corso costringono la chiusura di 55 unità e fermano la produzione a 147 altre.",
+     "testo_it": "La Bangladesh Garment Manufacturers and Exporters Association minaccia di chiudere indefinitamente le fabbriche tessili senza retribuzione ai sensi del Bangladesh Labour Act 2006, dopo che le proteste salariali in corso costringono la chiusura di 55 unità e fermano la produzione a 147 altre.",
      "contesto_it": [
       "Proteste dei lavoratori del Bangladesh (2026)"
      ]
     },
     {
-     "testo": "Canadian prime minister Mark Carney announces that negotiations for a free-trade agreement (FTA) with the Philippines have concluded, with signing expected in 2027. The FTA would eliminate more than 90% of tariff lines.",
+     "testo": "Canadian prime minister Mark Carney announces that negotiations for a free-trade agreement with the Philippines to eliminate more than 90% of tariff lines have concluded, with signing expected in 2027.",
      "contesto": [
       "Canada–Philippines relations, Free trade agreements of Canada"
      ],
@@ -1932,7 +2116,7 @@
       "Philippines",
       "Tariff"
      ],
-     "testo_it": "Il primo ministro canadese Mark Carney annuncia che i negoziati per un accordo di libero scambio (ALS) con le Filippine sono conclusi, con la firma prevista nel 2027. L'ALS eliminerebbe oltre il 90% delle linee tariffarie.",
+     "testo_it": "Il primo ministro canadese Mark Carney annuncia che i negoziati per un accordo di libero scambio con le Filippine per eliminare oltre il 90% delle linee tariffarie sono conclusi, con la firma prevista nel 2027.",
      "contesto_it": [
       "Relazioni Canada-Filippine, Accordi di libero scambio del Canada"
      ]
@@ -1967,8 +2151,10 @@
      ],
      "link": [
       "Methane",
+      "Gas explosion",
       "Mining",
-      "Boyacá Department"
+      "Boyacá Department",
+      "Colombia"
      ],
      "testo_it": "Quattro lavoratori vengono uccisi dopo un'esplosione di gas metano in una miniera a Chita, Dipartimento di Boyacá, Colombia."
     },
@@ -1990,7 +2176,7 @@
      "testo_it": "Il mulino a vento Slagdijkstermolen in Frisia, Paesi Bassi, brucia."
     },
     {
-     "testo": "Eight more people in Bangladesh are reported to have died from dengue fever, bringing this year's outbreak's death toll to 491.",
+     "testo": "Eight more people are reported to have died from dengue fever in Bangladesh, bringing this year's outbreak's death toll to 491.",
      "contesto": [],
      "categoria": "Health and environment",
      "fonti": [
@@ -2000,14 +2186,14 @@
       }
      ],
      "link": [
-      "Bangladesh",
       "Dengue fever",
+      "Bangladesh",
       "Mortality rate"
      ],
-     "testo_it": "Altre otto persone in Bangladesh sono morte di febbre dengue, portando il bilancio delle vittime dell'epidemia di quest'anno a 491."
+     "testo_it": "Altre otto persone sono morte di febbre dengue in Bangladesh, portando il bilancio delle vittime dell'epidemia di quest'anno a 491."
     },
     {
-     "testo": "The federal government of Mexico introduces penalties and fines for the fraudulent commercial use of government logos, official documents and institutional identities to deceive the public. Although the government stated that the reform targeted fraud and impersonation rather than satire, critics warned that its broad wording could threaten freedom of expression, being dubbed the \"Anti-Meme Law\".",
+     "testo": "The Mexican government introduces penalties and fines for the fraudulent commercial use of government logos, official documents, and institutional identities to deceive the public. Although the government stated that the reform targeted fraud and impersonation rather than satire, critics warned that its broad wording could threaten freedom of expression, being dubbed the \"Anti-Meme Law\".",
      "contesto": [
       "Censorship in Mexico, Internet censorship in Mexico"
      ],
@@ -2019,19 +2205,20 @@
       }
      ],
      "link": [
+      "Mexico",
       "Federal government of Mexico",
       "Fraud",
       "Impersonation",
       "Satire",
       "Freedom of expression"
      ],
-     "testo_it": "Il governo federale del Messico introduce sanzioni e multe per l'uso commerciale fraudolento di loghi governativi, documenti ufficiali e identità istituzionali per ingannare il pubblico. Anche se il governo ha dichiarato che la riforma ha mirato alla frode e all'impersonificazione piuttosto che alla satira, i critici hanno avvertito che la sua ampia formulazione potrebbe minacciare la libertà di espressione, essendo soprannominata la \"Legge anti-mememe\".",
+     "testo_it": "Il governo messicano introduce sanzioni e multe per l'uso commerciale fraudolento di loghi governativi, documenti ufficiali e identità istituzionali per ingannare il pubblico. Anche se il governo ha dichiarato che la riforma ha mirato alla frode e all'impersonificazione piuttosto che alla satira, i critici hanno avvertito che la sua ampia formulazione potrebbe minacciare la libertà di espressione, essendo soprannominata la \"Legge anti-mememe\".",
      "contesto_it": [
       "Censura in Messico, censura su Internet in Messico"
      ]
     },
     {
-     "testo": "Border Guard Bangladesh seize 48 high-power explosive gel sticks, 100 detonators, and 11 fuses during an operation along the Bangladesh–India border in Kanaighat Upazila, Sylhet District, Bangladesh.",
+     "testo": "Border Guard Bangladesh seize 48 high-power explosive gel sticks, 100 detonators, and 11 fuses during an operation along the Bangladesh–India border in Kanaighat Upazila, Sylhet District.",
      "contesto": [
       "Crime in Bangladesh"
      ],
@@ -2049,16 +2236,15 @@
       "Fuse (explosives)",
       "Bangladesh–India border",
       "Kanaighat Upazila",
-      "Sylhet District",
-      "Bangladesh"
+      "Sylhet District"
      ],
-     "testo_it": "La Guardia di frontiera del Bangladesh sequestra 48 bastoncini di gel esplosivi ad alta potenza, 100 detonatori e 11 fusibili durante un'operazione lungo il confine Bangladesh-India a Kanaighat Upazila, distretto di Sylhet, Bangladesh.",
+     "testo_it": "La Guardia di frontiera del Bangladesh ha sequestrato 48 bastoncini di gel esplosivi ad alta potenza, 100 detonatori e 11 fusibili durante un'operazione lungo il confine Bangladesh-India a Kanaighat Upazila, nel distretto di Sylhet.",
      "contesto_it": [
       "Criminalità in Bangladesh"
      ]
     },
     {
-     "testo": "The Guatemalan Army begins deploying a battalion to the departments of Zacapa, Izabal, and Chiquimula following an attack in the Zacapa Department the previous day that killed five people.",
+     "testo": "The Guatemalan Army deploys a battalion to the departments of Zacapa, Izabal, and Chiquimula following an attack in the Zacapa Department the previous day that killed five people.",
      "contesto": [
       "Crime in Guatemala"
      ],
@@ -2078,27 +2264,28 @@
       "Izabal Department",
       "Chiquimula Department"
      ],
-     "testo_it": "L'esercito guatemalteco inizia a schierare un battaglione nei dipartimenti di Zacapa, Izabal e Chiquimula a seguito di un attacco nel dipartimento di Zacapa il giorno precedente che ha ucciso cinque persone.",
+     "testo_it": "L'esercito guatemalteco schiera un battaglione nei dipartimenti di Zacapa, Izabal e Chiquimula a seguito di un attacco nel dipartimento di Zacapa il giorno precedente che ha ucciso cinque persone.",
      "contesto_it": [
       "Criminalità in Guatemala"
      ]
     },
     {
-     "testo": "An arson attack against the home of journalist Rolando Rodríguez, associate deputy editor of the Panamanian newspaper La Prensa, left two cars and the entrance of the house burned.",
+     "testo": "An arson attack on the home of journalist Rolando Rodríguez, associate deputy editor of the Panamanian newspaper La Prensa, burns two cars and the entrance of the house.",
      "contesto": [
       "Crime in Panama"
      ],
      "categoria": "Law and crime",
      "fonti": [
       {
-       "nome": "El Sol de México",
+       "nome": "El Sol de México in Spanish",
        "url": "https://oem.com.mx/elsoldemexico/mundo/lanzan-explosivo-contra-la-casa-de-rolando-rodriguez-periodista-de-la-prensa-panama-33130441"
       }
      ],
      "link": [
+      "Arson",
       "La Prensa (Panama City)"
      ],
-     "testo_it": "Un incendio doloso contro la casa del giornalista Rolando Rodríguez, vicedirettore associato del giornale panamense La Prensa, ha lasciato due auto e l'ingresso della casa è bruciato.",
+     "testo_it": "Un incendio doloso nella casa del giornalista Rolando Rodríguez, vicedirettore associato del giornale panamense La Prensa, brucia due auto e l'ingresso della casa.",
      "contesto_it": [
       "Criminalità a Panama"
      ]
@@ -2149,6 +2336,7 @@
       "President of South Sudan",
       "Transitional National Legislature (South Sudan)",
       "Elections in South Sudan",
+      "2011 South Sudanese independence referendum",
       "Politics of South Sudan",
       "Jonglei clashes (2025–present)"
      ],
@@ -2158,7 +2346,7 @@
      ]
     },
     {
-     "testo": "The Italian Data Protection Authority fines American technology company Meta for €805 million (US$887 million) after it was found that the Facebook Android app had access to users' photos and videos without specific consent or disclosure.",
+     "testo": "The Italian Data Protection Authority fines American technology company Meta €805 million (US$887 million) after it was found that the Facebook app on Android had access to users' photos and videos without specific consent or disclosure.",
      "contesto": [],
      "categoria": "Science and technology",
      "fonti": [
@@ -2179,10 +2367,10 @@
       "Euro",
       "US$",
       "Facebook",
-      "Android (operating system)",
-      "Mobile app"
+      "Mobile app",
+      "Android (operating system)"
      ],
-     "testo_it": "L'Autorità Garante per la protezione dei dati personali multa la società americana Meta per 805 milioni di euro (887 milioni di dollari) dopo che è stato scoperto che l'app Facebook Android aveva accesso alle foto e ai video degli utenti senza specifico consenso o divulgazione."
+     "testo_it": "L'Autorità Garante per la protezione dei dati personali multa la società americana Meta per 805 milioni di euro (887 milioni di dollari) dopo che è stato scoperto che l'app Facebook su Android aveva accesso alle foto e ai video degli utenti senza specifico consenso o divulgazione."
     }
    ]
   },
@@ -2190,7 +2378,7 @@
    "data": "2026-11-13",
    "voci": [
     {
-     "testo": "Iran says it has destroyed an early-warning radar in Bahrain as a retaliation for a United States strike on telecommunication infrastructure on Sirik.",
+     "testo": "Iran says it has destroyed an early-warning radar in Bahrain as a retaliation for a United States strike on telecommunication infrastructure on Bandar Sirik in Hormozgan province.",
      "contesto": [
       "Middle Eastern crisis",
       "2026 Iran war",
@@ -2199,7 +2387,7 @@
      "categoria": "Armed conflicts and attacks",
      "fonti": [
       {
-       "nome": "Türkiye",
+       "nome": "Türkiye Today",
        "url": "https://www.turkiyetoday.com/region/irgc-claims-strike-on-us-early-warning-radar-in-bahrain-after-sirik-attack-3232293?s=1"
       }
      ],
@@ -2209,9 +2397,10 @@
       "Bahrain",
       "United States",
       "Communications in Iran",
-      "Bandar Sirik"
+      "Bandar Sirik",
+      "Hormozgan province"
      ],
-     "testo_it": "L'Iran dice di aver distrutto un radar di allarme in Bahrain come rappresaglia per un attacco degli Stati Uniti sulle infrastrutture di telecomunicazione su Sirik.",
+     "testo_it": "L'Iran dice di aver distrutto un radar di allarme in Bahrain come rappresaglia per un attacco degli Stati Uniti sulle infrastrutture di telecomunicazione a Bandar Sirik nella provincia di Hormozgan.",
      "contesto_it": [
       "Crisi del Medio Oriente",
       "Guerra in Iran (2026)",
@@ -2219,14 +2408,14 @@
      ]
     },
     {
-     "testo": "An encounter between mexican soldiers and CJNG members left six gunmen dead in a rural area of Silao, Guanajuato, México.",
+     "testo": "An encounter between Mexican soldiers and CJNG members leave six gunmen dead in a rural area of Silao, Guanajuato, México.",
      "contesto": [
       "Mexican drug war"
      ],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
       {
-       "nome": "Aristegui Noticias",
+       "nome": "Aristegui Noticias in Spanish",
        "url": "https://aristeguinoticias.com/1411/mexico/abaten-a-seis-presuntos-integrantes-del-cjng-durante-enfrentamiento-en-silao-guanajuato/"
       }
      ],
@@ -2237,13 +2426,44 @@
       "Guanajuato",
       "México"
      ],
-     "testo_it": "Un incontro tra soldati messicani e membri del CJNG ha causato la morte di sei uomini armati in una zona rurale di Silao, Guanajuato, Messico.",
+     "testo_it": "Un incontro tra soldati messicani e membri del CJNG lascia sei uomini armati morti in una zona rurale di Silao, Guanajuato, Messico.",
      "contesto_it": [
       "Guerra alla droga in Messico"
      ]
     },
     {
-     "testo": "A tanker and the cruise ship American Heritage collide in the Mississippi River of the United States. The cruise ship, carrying 130 people, sinks. All aboard the American Heritage survive, with some taken to local hospitals for treatment of minor injuries.",
+     "testo": "The United States Federal Aviation Administration issues a nationwide ground stop for all flights due to \"extraordinary circumstances involving communications failures\". It is lifted four hours later and resulted in the cancellation of approximately 12,462 flights.",
+     "contesto": [
+      "2026 FAA nationwide ground stop"
+     ],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "Bloomberg News",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-14/faa-lifts-ground-stop-allowing-flights-to-resume-after-outage"
+      },
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/us/faa-issues-national-ground-stop-due-extraordinary-circumstance-reasons-safety-2026-11-13/"
+      },
+      {
+       "nome": "FAA",
+       "url": "https://www.faa.gov/newsroom/nationwide-ground-stop-questions-and-answers"
+      }
+     ],
+     "link": [
+      "United States",
+      "Federal Aviation Administration",
+      "Ground stop",
+      "Flight cancellation and delay"
+     ],
+     "testo_it": "La Federal Aviation Administration degli Stati Uniti emette una fermata a terra a livello nazionale per tutti i voli a causa di \"circostanze straordinarie che coinvolgono guasti delle comunicazioni\". Viene revocato quattro ore dopo e ha portato alla cancellazione di circa 12.462 voli.",
+     "contesto_it": [
+      "FAA fermata a livello nazionale (2026)"
+     ]
+    },
+    {
+     "testo": "A tanker and the cruise ship American Heritage collide in the Mississippi River of the United States. All passengers and crew aboard both ships survive, with 32 people hospitalized for injuries.",
      "contesto": [
       "2026 New Orleans ship collision"
      ],
@@ -2263,39 +2483,13 @@
       "Mississippi River",
       "United States"
      ],
-     "testo_it": "Una petroliera e la nave da crociera American Heritage si scontrano nel fiume Mississippi degli Stati Uniti. La nave da crociera, che trasporta 130 persone, affonda. Tutti a bordo dell'American Heritage sopravvivono, con alcuni portati agli ospedali locali per il trattamento di lesioni minori.",
+     "testo_it": "Una petroliera e la nave da crociera American Heritage si scontrano nel fiume Mississippi degli Stati Uniti. Tutti i passeggeri e l'equipaggio a bordo di entrambe le navi sopravvivono, con 32 persone ricoverate in ospedale per lesioni.",
      "contesto_it": [
       "Crollo della nave New Orleans (2026)"
      ]
     },
     {
-     "testo": "The United States Federal Aviation Administration issues a nationwide ground stop for all flights due to \"extraordinary circumstances involving communications failures\". It is later lifted.",
-     "contesto": [
-      "2026 FAA nationwide ground stop"
-     ],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "Bloomberg",
-       "url": "https://www.bloomberg.com/news/articles/2026-11-14/faa-lifts-ground-stop-allowing-flights-to-resume-after-outage"
-      },
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/us/faa-issues-national-ground-stop-due-extraordinary-circumstance-reasons-safety-2026-11-13/"
-      }
-     ],
-     "link": [
-      "United States",
-      "Federal Aviation Administration",
-      "Ground stop"
-     ],
-     "testo_it": "La Federal Aviation Administration degli Stati Uniti emette una fermata a livello nazionale per tutti i voli a causa di \"circostanze straordinarie che coinvolgono fallimenti delle comunicazioni\".",
-     "contesto_it": [
-      "FAA fermata a livello nazionale (2026)"
-     ]
-    },
-    {
-     "testo": "Twenty-six people are killed and eleven more are injured in a bus–truck collision in Golaghat, India.",
+     "testo": "Twenty-six people are killed and eleven more are injured in a vehicle collision in Golaghat, Assam, India.",
      "contesto": [],
      "categoria": "Disasters and accidents",
      "fonti": [
@@ -2310,9 +2504,10 @@
      ],
      "link": [
       "Golaghat",
+      "Assam",
       "India"
      ],
-     "testo_it": "Ventisei persone sono morte e altre undici sono rimaste ferite in uno scontro tra autobus e camion a Golaghat, in India."
+     "testo_it": "Ventisei persone sono morte e altre undici sono rimaste ferite in un incidente stradale a Golaghat, Assam, India."
     },
     {
      "testo": "Six people are killed and five more injured after an under-construction building partially collapses in Nairobi, Kenya.",
@@ -2528,7 +2723,7 @@
      ]
     },
     {
-     "testo": "At least 10 people, including five with gunshot wounds, are injured in Munshiganj Sadar, Bangladesh, during a clash involving gunfire and crude bomb explosions between two factions of the ruling Bangladesh Nationalist Party.",
+     "testo": "At least ten people are injured, including five with gunshot wounds, during a clash involving gunfire and crude bomb explosions between two factions of the ruling Bangladesh Nationalist Party in Munshiganj Sadar, Dhaka Division, Bangladesh.",
      "contesto": [],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
@@ -2538,14 +2733,15 @@
       }
      ],
      "link": [
+      "Bangladesh Nationalist Party",
       "Munshiganj Sadar Upazila",
-      "Bangladesh",
-      "Bangladesh Nationalist Party"
+      "Dhaka Division",
+      "Bangladesh"
      ],
-     "testo_it": "Almeno 10 persone, tra cui cinque con ferite da arma da fuoco, sono rimaste ferite a Munshiganj Sadar, in Bangladesh, durante uno scontro che ha coinvolto spari e esplosioni di bombe crude tra due fazioni del partito nazionalista al governo del Bangladesh."
+     "testo_it": "Almeno dieci persone sono rimaste ferite, di cui cinque con ferite da arma da fuoco, durante uno scontro che ha coinvolto colpi di arma da fuoco e esplosioni di bombe crude tra due fazioni del partito nazionalista al governo del Bangladesh a Munshiganj Sadar, Dhaka Division, Bangladesh."
     },
     {
-     "testo": "Guatemala receives the remains of 1967 Nobel Prize in Literature recipient Miguel Ángel Asturias from France, 52 years after his death. President Bernardo Arévalo attends a ceremony ahead of the writer's burial in Guatemala City.",
+     "testo": "Guatemala receives the remains of 1967 Nobel Prize in Literature recipient Miguel Ángel Asturias from France, where he lived, 52 years after his death. President Bernardo Arévalo attends a ceremony ahead of the writer's burial in Guatemala City.",
      "contesto": [],
      "categoria": "Arts and culture",
      "fonti": [
@@ -2563,7 +2759,7 @@
       "Bernardo Arévalo",
       "Guatemala City"
      ],
-     "testo_it": "Il Guatemala riceve i resti del premio Nobel per la letteratura del 1967 Miguel Ángel Asturias dalla Francia, 52 anni dopo la sua morte. Il presidente Bernardo Arévalo partecipa a una cerimonia prima della sepoltura dello scrittore a Città del Guatemala."
+     "testo_it": "Il Guatemala riceve i resti del premio Nobel per la letteratura del 1967 Miguel Ángel Asturias dalla Francia, dove visse, 52 anni dopo la sua morte. Il presidente Bernardo Arévalo partecipa a una cerimonia prima della sepoltura dello scrittore a Città del Guatemala."
     },
     {
      "testo": "Jensen Huang resigns as chief executive officer (CEO) and president of Nvidia and leaves the company's board following reports of two extramarital affairs, including one involving a suspected Chinese intelligence agent. Chief financial officer Colette Kress becomes interim CEO.",
@@ -2626,7 +2822,7 @@
      ]
     },
     {
-     "testo": "Fourteen people are killed and 30 more injured in a multiple-vehicle collision involving 18 cars and five trucks in the Emirate of Fujairah, United Arab Emirates.",
+     "testo": "Fourteen people are killed and 30 more are injured in a multiple-vehicle collision involving 18 cars and five trucks in the Emirate of Fujairah, United Arab Emirates.",
      "contesto": [],
      "categoria": "Disasters and accidents",
      "fonti": [
@@ -2644,7 +2840,7 @@
       "Emirate of Fujairah",
       "United Arab Emirates"
      ],
-     "testo_it": "Quattordici persone vengono uccise e altre 30 ferite in una collisione a più veicoli che coinvolge 18 auto e cinque camion nell'emirato di Fujairah, negli Emirati Arabi Uniti."
+     "testo_it": "Quattordici persone sono morte e altre 30 sono rimaste ferite in una collisione a più veicoli che ha coinvolto 18 auto e cinque camion nell'emirato di Fujairah, negli Emirati Arabi Uniti."
     },
     {
      "testo": "A passenger van plunges off a road in Gilgit-Baltistan, Pakistan, killing eleven people and wounding three more.",
@@ -2697,7 +2893,7 @@
      "testo_it": "Un elicottero militare si schianta a Malatya, in Turchia, uccidendo quattro soldati."
     },
     {
-     "testo": "Four more children in Bangladesh are reported to have died from measles, bringing the death toll past 1,299.",
+     "testo": "Four more children in Bangladesh are reported to have died from measles, bringing the death toll to 1,299.",
      "contesto": [
       "2026 Bangladesh measles outbreak"
      ],
@@ -2712,9 +2908,37 @@
       "Bangladesh",
       "Measles"
      ],
-     "testo_it": "Altri quattro bambini in Bangladesh sono morti di morbillo, portando il bilancio delle vittime oltre 1.299.",
+     "testo_it": "Altri quattro bambini in Bangladesh sono morti a causa del morbillo, portando il bilancio delle vittime a 1.299.",
      "contesto_it": [
       "Bangladesh focolaio di morbillo (2026)"
+     ]
+    },
+    {
+     "testo": "One person is killed and four more are injured in a shooting spree in Logan Circle, Washington D.C., United States. The suspected gunman later kills himself after barricading himself from police inside a nearby apartment.",
+     "contesto": [
+      "2026 Logan Circle shooting"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/12/police-say-at-least-five-people-shot-at-busy-thoroughfare-in-washington-dc"
+      },
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/dc-shooting-logan-circle-3cee6a4ada875fcc18e932e536c63dcd"
+      }
+     ],
+     "link": [
+      "Spree killer",
+      "Logan Circle (Washington, D.C.)",
+      "Washington D.C.",
+      "United States",
+      "Metropolitan Police Department of the District of Columbia"
+     ],
+     "testo_it": "Una persona viene uccisa e altre quattro sono ferite in una sparatoria a Logan Circle, Washington D.C., Stati Uniti. Il sospetto uomo armato si uccide in seguito dopo essersi barricato dalla polizia all'interno di un appartamento vicino.",
+     "contesto_it": [
+      "Sparatoria Logan Circle (2026)"
      ]
     },
     {
@@ -2746,34 +2970,6 @@
      "testo_it": "Un tribunale britannico condanna due iraniani a spiare i giornalisti dell'emittente iraniana con sede a Londra, uno dei quali è anche condannato per aver preparato un attacco violento, mentre un terzo imputato è assolto.",
      "contesto_it": [
       "Operazioni esterne iraniane"
-     ]
-    },
-    {
-     "testo": "One person is killed and four more are injured in a shooting spree in Logan Circle, Washington D.C., United States. The suspected gunman later kills himself after barricading himself from police inside a nearby apartment.",
-     "contesto": [
-      "2026 Logan Circle shooting"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/12/police-say-at-least-five-people-shot-at-busy-thoroughfare-in-washington-dc"
-      },
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/dc-shooting-logan-circle-3cee6a4ada875fcc18e932e536c63dcd"
-      }
-     ],
-     "link": [
-      "Spree killer",
-      "Logan Circle (Washington, D.C.)",
-      "Washington D.C.",
-      "United States",
-      "Metropolitan Police Department of the District of Columbia"
-     ],
-     "testo_it": "Una persona viene uccisa e altre quattro sono ferite in una sparatoria a Logan Circle, Washington D.C., Stati Uniti. Il sospetto uomo armato si uccide in seguito dopo essersi barricato dalla polizia all'interno di un appartamento vicino.",
-     "contesto_it": [
-      "Sparatoria Logan Circle (2026)"
      ]
     },
     {
