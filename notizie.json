@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-18T01:01:49Z",
+ "generato": "2026-11-18T11:54:44Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -76,7 +76,112 @@
  "giorni": [
   {
    "data": "2026-11-18",
-   "voci": []
+   "voci": [
+    {
+     "testo": "A militant commander is assassinated by the Indian Armed Forces at a mosque in Kulgam district, Indian-administered Jammu and Kashmir. He had escaped a shootout with troops two days earlier in a neighboring village, where his associate was killed.",
+     "contesto": [
+      "Insurgency in Jammu and Kashmir"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/kashmir-india-pakistan-fighting-militant-4c8bb73e494d85b769d85a8c98ea1baf"
+      }
+     ],
+     "link": [
+      "Assassination",
+      "Indian Armed Forces",
+      "Mosque",
+      "Kulgam district",
+      "India",
+      "Jammu and Kashmir (union territory)",
+      "Shootout"
+     ],
+     "testo_it": "Un comandante militante viene assassinato dalle Forze Armate Indiane in una moschea nel distretto di Kulgam, Jammu e Kashmir amministrato dagli Indiani. Era sfuggito a una sparatoria con le truppe due giorni prima in un villaggio vicino, dove il suo socio è stato ucciso.",
+     "contesto_it": [
+      "Insurrezione in Jammu e Kashmir"
+     ]
+    },
+    {
+     "testo": "In Gazipur, Savar, and Ashulia, Bangladesh, thousands of garment workers demanding a monthly minimum wage increase from ৳12,500 (US$100) to ৳30,000 ($240) block the Dhaka–Mymensingh Highway and set fire to a police vehicle, causing police to fire tear gas and stun grenades in Gazipur and Ashulia as 55 factories close across the three areas, while police report around 300 arrests across 24 cases filed in Savar and Ashulia during the protests.",
+     "contesto": [
+      "2026 Bangladesh garment workers protests"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "The Daily Star",
+       "url": "https://www.thedailystar.net/news/news/police-vehicle-torched-garment-workers-block-dhaka-mymensingh-highway-4326951"
+      },
+      {
+       "nome": "The Daily Star",
+       "url": "https://www.thedailystar.net/news/news/workers-unrest-continues-savar-ashulia-25-factories-shut-4327056"
+      }
+     ],
+     "link": [
+      "Gazipur",
+      "Savar Upazila",
+      "Ashulia",
+      "Bangladesh",
+      "Textile industry in Bangladesh",
+      "Minimum wage",
+      "Bangladeshi taka",
+      "US$",
+      "N3 (Bangladesh)",
+      "Bangladesh Police",
+      "Tear gas",
+      "Stun grenade",
+      "Factory",
+      "Arrest"
+     ],
+     "testo_it": "Mentre a Gazipur, Savar e Ashulia, in Bangladesh, migliaia di lavoratori dell'abbigliamento chiedono un aumento mensile del salario minimo da  12.500 (US $ 100) a  30.000 ($ 240) bloccano l'autostrada Dhaka-Mymensingh e danno fuoco a un veicolo della polizia, causando la polizia a sparare gas lacrimogeni e granate stordenti a Gazipur e Ashulia, mentre la polizia riferisce circa 300 arresti in 24 casi.",
+     "contesto_it": [
+      "Proteste dei lavoratori del Bangladesh (2026)"
+     ]
+    },
+    {
+     "testo": "In Kafrul, Dhaka, police fire around ten stun grenades against demonstrating garment workers following clashes with Bangladesh Nationalist Party activists who allegedly harassed female factory employees, causing workers to stage demonstrations and halt production at several nearby garment factories.",
+     "contesto": [
+      "2026 Bangladesh garment workers protests"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "The Business Standard",
+       "url": "https://www.tbsnews.net/bangladesh/police-garment-workers-clash-kafrul-over-alleged-harassment-female-workers-1606131"
+      }
+     ],
+     "link": [
+      "Kafrul Thana",
+      "Dhaka",
+      "Bangladesh Nationalist Party",
+      "Harassment",
+      "Strike action",
+      "Clothing industry"
+     ],
+     "testo_it": "A Kafrul, Dhaka, la polizia spara circa dieci granate stordenti contro la dimostrazione dei lavoratori dell'abbigliamento in seguito agli scontri con gli attivisti del Partito nazionalista del Bangladesh che presumibilmente hanno molestato le dipendenti delle fabbriche femminili, inducendo i lavoratori a mettere in scena manifestazioni e fermare la produzione in diverse fabbriche di abbigliamento nelle vicinanze.",
+     "contesto_it": [
+      "Proteste dei lavoratori del Bangladesh (2026)"
+     ]
+    },
+    {
+     "testo": "A cyber-security firm has used artificial intelligence to uncover a critical flaw in the hugely popular computer programming language Java.",
+     "contesto": [],
+     "categoria": "Science and technology",
+     "fonti": [
+      {
+       "nome": "BBC News",
+       "url": "https://www.bbc.com/news/articles/cke89jevqm1vo"
+      }
+     ],
+     "link": [
+      "Artificial intelligence",
+      "Java (programming language)"
+     ],
+     "testo_it": "Una società di sicurezza informatica ha utilizzato l'intelligenza artificiale per scoprire un difetto critico nel popolare linguaggio di programmazione per computer Java."
+    }
+   ]
   },
   {
    "data": "2026-11-17",
@@ -86,18 +191,19 @@
      "contesto": [
       "Middle Eastern crisis",
       "Gaza war",
-      "Gaza genocide"
+      "Israeli bombing of the Gaza Strip"
      ],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
       {
-       "nome": "Anadolu Agency",
+       "nome": "AA",
        "url": "https://www.aa.com.tr/en/middle-east/israeli-army-kills-palestinian-blows-up-homes-in-gaza-despite-ceasefire/4127526"
       }
      ],
      "link": [
       "Palestinians",
       "Israel Defense Forces",
+      "Airstrike",
       "Gaza Strip",
       "Palestine"
      ],
@@ -105,7 +211,7 @@
      "contesto_it": [
       "Crisi del Medio Oriente",
       "Guerra di Gaza",
-      "Genocidio di Gaza"
+      "Bombardamento israeliano della Striscia di Gaza"
      ]
     },
     {
@@ -147,8 +253,8 @@
      "categoria": "Armed conflicts and attacks",
      "fonti": [
       {
-       "nome": "Le Monde",
-       "url": "https://www.lemonde.fr/en/international/article/2026/11/17/iran-claims-attack-on-us-base-in-bahrain_6782812_4.html"
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/amp/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar"
       }
      ],
      "link": [
@@ -176,11 +282,11 @@
      "categoria": "Armed conflicts and attacks",
      "fonti": [
       {
-       "nome": "News.am",
-       "url": "https://news.am/en/news/1075422"
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/middle-east/us-strikes-iranian-missile-launch-site-qeshm-island-us-official-says-2026-11-17/"
       },
       {
-       "nome": "Le Monde",
+       "nome": "AFP via Le Monde",
        "url": "https://www.lemonde.fr/en/international/article/2026/11/17/iran-claims-attack-on-us-base-in-bahrain_6782812_4.html"
       }
      ],
@@ -209,13 +315,13 @@
        "url": "https://www.reuters.com/world/europe/ukraine-strikes-crimean-bridge-second-day-russia-pounds-kyiv-bridges-2026-11-17/"
       },
       {
-       "nome": "Türkiye",
+       "nome": "Türkiye Today",
        "url": "https://www.turkiyetoday.com/world/kerch-bridge-road-arch-reportedly-falls-into-sea-after-ukrainian-strikes-3232578"
       }
      ],
      "link": [
       "Crimean Bridge",
-      "Ukraine",
+      "Unmanned Systems Forces of Ukraine",
       "Unmanned aerial vehicles",
       "Russia",
       "Government of Russia",
@@ -243,7 +349,7 @@
       }
      ],
      "link": [
-      "Arrest",
+      "List of political parties in Bangladesh",
       "Awami League",
       "Bangladesh Chhatra League",
       "Mosque",
@@ -265,6 +371,33 @@
       "Blockade"
      ],
      "testo_it": "Dopo l'arresto dei leader del partito, gli attivisti della Lega Awami e della Lega Chhatra si mobilitano attraverso altoparlanti e tempeste e incendiano una stazione di polizia a Tungipara, nel distretto di Gopalganj, in Bangladesh, liberando detenuti e saccheggiando armi da fuoco come proiettili di gomma e gas lacrimogeni della polizia, prima che gli aggressori brucino anche la residenza del membro del partito nazionalista del Bangladesh del Parlamento S M Jilani di Gopalganj-3 e blocchino le strade locali."
+    },
+    {
+     "testo": "In Comilla, Bangladesh, members of the Swechhasebak Dal set fire to the local Awami League office and former MP AKM Bahauddin Bahar's residence following an attack on the home of BNP leader S M Jilani.",
+     "contesto": [
+      "Following the arrest of party leaders, activists of the banned Awami League and Chhatra League mobilize via mosque loudspeakers and storm and set fire to a police station in Tungipara, Gopalganj District, Bangladesh, freeing detainees and looting firearms as police fire tear gas and rubber bullets, before the attackers also burn the residence of Bangladesh Nationalist Party Member of Parliament S M Jilani of Gopalganj-3 and blockade local roads."
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "The Business Standard",
+       "url": "https://www.tbsnews.net/bangladesh/awami-league-office-former-mp-bahars-house-set-fire-cumilla-1606191"
+      }
+     ],
+     "link": [
+      "Comilla",
+      "Bangladesh",
+      "Bangladesh Jatiotabadi Swechhasebak Dal",
+      "Awami League",
+      "Jatiya Sangsad",
+      "A. K. M. Bahauddin Bahar",
+      "Bangladesh Nationalist Party",
+      "S M Jilani"
+     ],
+     "testo_it": "A Comilla, in Bangladesh, i membri dello Swechhasebak Dal hanno dato fuoco all'ufficio locale dell'Awami League e all'ex deputato AKM Bahauddin Bahar a seguito di un attacco alla casa del leader del BNP S M Jilani.",
+     "contesto_it": [
+      "Dopo l'arresto dei leader del partito, gli attivisti della Lega Awami e della Lega Chhatra si mobilitano attraverso altoparlanti e tempeste e incendiano una stazione di polizia a Tungipara, nel distretto di Gopalganj, in Bangladesh, liberando detenuti e saccheggiando armi da fuoco come proiettili di gomma e gas lacrimogeni della polizia, prima che gli aggressori brucino anche la residenza del membro del partito nazionalista del Bangladesh del Parlamento S M Jilani di Gopalganj-3 e blocchino le strade locali."
+     ]
     },
     {
      "testo": "Bangladeshi police and 42 platoons of the Border Guard Bangladesh deploy tear gas, stun grenades, batons, and surveillance drones during clashes with thousands of garment workers across Dhaka, Savar, Ashulia, Gazipur, and Narayanganj demanding a monthly minimum wage increase from ৳12,500 (US$100) to ৳30,000 ($240). Protesters block the N3, N4, and N5 highways and force the closure of at least 37 factories after a Minimum Wage Board meeting is postponed to November 23.",
@@ -344,7 +477,7 @@
      ]
     },
     {
-     "testo": "A Russian Air Force Antonov An-12 crash near Kemerovo, Russia, killing all 19 people on board.",
+     "testo": "A Russian Air Force Antonov An-12 crashes near Kemerovo, Russia, killing all 19 people on board.",
      "contesto": [
       "2026 Russian Air Force Antonov An-12 crash"
      ],
@@ -353,6 +486,10 @@
       {
        "nome": "The Independent",
        "url": "https://www.independent.co.uk/news/world/europe/russia-plane-crash-siberia-kemerovo-b3086529.html"
+      },
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/russia-military-air-crash-siberia-an12-bb68e35e985a5e72786d813cf0ce598d"
       }
      ],
      "link": [
@@ -360,7 +497,7 @@
       "Antonov An-12",
       "Kemerovo"
      ],
-     "testo_it": "Un incidente aereo russo Antonov An-12 vicino a Kemerovo, in Russia, uccidendo tutte le 19 persone a bordo.",
+     "testo_it": "L'aviazione russa Antonov An-12 si schianta vicino a Kemerovo, in Russia, uccidendo tutte le 19 persone a bordo.",
      "contesto_it": [
       "Russian Air Force Antonov An-12 crash (2026)"
      ]
@@ -376,13 +513,15 @@
       }
      ],
      "link": [
+      "Railway accident",
+      "Rail transport in the Czech Republic",
       "Prague",
       "Czech Republic"
      ],
      "testo_it": "Quarantasei persone sono rimaste ferite dopo uno scontro tra due treni a Praga, nella Repubblica Ceca."
     },
     {
-     "testo": "The Pan American Health Organization revokes measles elimination status of Bolivia, Mexico, and the United States. For the U.S., the organization cited continuous domestic transmission for over 12 months amid more than 5,700 reported infections and multiple deaths in 2026.",
+     "testo": "The Pan American Health Organization revokes the measles elimination statuses of Bolivia, Mexico, and the United States. For the U.S., the organization cited continuous domestic transmission for over 12 months amid more than 5,700 reported infections and multiple deaths in 2026.",
      "contesto": [
       "Measles resurgence in the Americas"
      ],
@@ -391,13 +530,20 @@
       {
        "nome": "AFP via France 24",
        "url": "https://www.france24.com/en/live-news/20261117-us-loses-measles-free-status-as-cases-deaths-mount"
+      },
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/17/us-officially-loses-measles-free-status-after-26-years-amid-outbreak"
       }
      ],
      "link": [
       "Pan American Health Organization",
-      "Measles"
+      "Measles",
+      "Bolivia",
+      "Mexico",
+      "United States"
      ],
-     "testo_it": "La Pan American Health Organization revoca lo stato di eliminazione del morbillo di Bolivia, Messico e Stati Uniti. Per gli Stati Uniti, l'organizzazione ha citato la trasmissione domestica continua per oltre 12 mesi in mezzo a più di 5.700 infezioni segnalate e morti multiple nel 2026.",
+     "testo_it": "La Pan American Health Organization revoca gli stati di eliminazione del morbillo di Bolivia, Messico e Stati Uniti. Per gli Stati Uniti, l'organizzazione ha citato la trasmissione domestica continua per oltre 12 mesi in mezzo a più di 5.700 infezioni segnalate e morti multiple nel 2026.",
      "contesto_it": [
       "Il risorgere del morbillo nelle Americhe"
      ]
@@ -430,9 +576,9 @@
      ]
     },
     {
-     "testo": "UK Foreign Secretary Ed Miliband announces that the UK will sanction eight companies involved in the construction of settlements in the occupied West Bank, as well as Tzav 9 for its role in blocking humanitarian aid to the Gaza Strip.",
+     "testo": "British foreign secretary Ed Miliband announces that the United Kingdom will sanction eight companies involved in the construction of settlements in the occupied West Bank, as well as Tzav 9 for its role in blocking humanitarian aid to the Gaza Strip.",
      "contesto": [
-      "Israel–United Kingdom relations"
+      "Israel–United Kingdom relations, United Kingdom and the Gaza war"
      ],
      "categoria": "International relations",
      "fonti": [
@@ -445,14 +591,90 @@
       "Foreign, Commonwealth and Development Office",
       "Ed Miliband",
       "United Kingdom",
+      "United Kingdom government sanctions",
       "Israeli settlements",
+      "Israeli occupation of the West Bank",
       "West Bank",
       "Tzav 9",
+      "Humanitarian aid during the Gaza war",
       "Gaza Strip"
      ],
      "testo_it": "Il ministro degli Esteri britannico Ed Miliband annuncia che il Regno Unito sanzionirà otto società coinvolte nella costruzione di insediamenti nella Cisgiordania occupata, così come Tzav 9 per il suo ruolo nel bloccare gli aiuti umanitari alla Striscia di Gaza.",
      "contesto_it": [
-      "Relazioni Israele-Regno Unito"
+      "Relazioni Israele-Regno Unito, Regno Unito e guerra di Gaza"
+     ]
+    },
+    {
+     "testo": "A court in Conakry, Guinea, tries over 1,000 alleged artisanal gold miners for illegal gold mining in the Siguiri region, resulting in the sentencing of 22 former regional administrators and 202 others to various prison terms.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "DW",
+       "url": "https://www.dw.com/en/guinea-jails-200-in-wildcat-gold-mining-crackdown/a-79968808"
+      }
+     ],
+     "link": [
+      "Conakry",
+      "Guinea",
+      "Artisanal mining",
+      "Gold mining",
+      "Illegal mining",
+      "Siguiri Prefecture"
+     ],
+     "testo_it": "Un tribunale di Conakry, in Guinea, processa oltre 1.000 presunti minatori d'oro artigianali per l'estrazione illegale di oro nella regione di Siguiri, con la conseguente condanna a varie pene detentive di 22 ex amministratori regionali e 202 altri."
+    },
+    {
+     "testo": "The North Macedonian Agency for National Security arrests five Macedonian nationals allegedly linked to an assassination plot in Greece, allegedly involving Iranian recruiters, including Naji Sharifi-Zindashti, who is wanted by the U.S. Federal Bureau of Investigation. A sixth person remains at large. Greek public television reports that the target was a Israeli business executive based in Athens.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/north-macedonia-iran-greece-arrests-449228844460fe264a7a0da5f50b3fd1"
+      }
+     ],
+     "link": [
+      "North Macedonia",
+      "Intelligence Agency of North Macedonia",
+      "Assassination",
+      "Greece",
+      "Iran",
+      "Naji Sharifi-Zindashti",
+      "Federal Bureau of Investigation",
+      "Israel",
+      "Athens"
+     ],
+     "testo_it": "L'Agenzia per la sicurezza nazionale della Macedonia del Nord arresta cinque cittadini macedoni presumibilmente legati a un complotto di assassinio in Grecia, presumibilmente coinvolgendo reclutatori iraniani, tra cui Naji Sharifi-Zindashti, che è ricercato dal Federal Bureau of Investigation degli Stati Uniti. Una sesta persona rimane in generale. La televisione pubblica greca riferisce che l'obiettivo era un dirigente commerciale israeliano con sede ad Atene."
+    },
+    {
+     "testo": "Two weeks after Election Day, Democratic candidate Mary Peltola defeats incumbent Republican senator Dan Sullivan to become the new Senator of Alaska, further extending the Democratic lead in the Senate.",
+     "contesto": [
+      "2026 United States elections",
+      "2026 United States Senate election in Alaska"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/alaska-senate-peltola-sullivan-congress-f1fd4d243bf764ec46ff94db4c792953"
+      }
+     ],
+     "link": [
+      "Election Day (United States)",
+      "Democratic Party (United States)",
+      "Mary Peltola",
+      "Incumbent",
+      "Republican Party (United States)",
+      "Dan Sullivan (U.S. senator)",
+      "Senate",
+      "Alaska",
+      "Wave elections in the United States"
+     ],
+     "testo_it": "Due settimane dopo il giorno delle elezioni, la candidata democratica Mary Peltola sconfigge l'attuale senatore repubblicano Dan Sullivan per diventare il nuovo senatore dell'Alaska, estendendo ulteriormente la leadership democratica al Senato.",
+     "contesto_it": [
+      "Elezioni negli Stati Uniti (2026)",
+      "Elezioni al Senato degli Stati Uniti in Alaska (2026)"
      ]
     },
     {
@@ -486,7 +708,31 @@
      ]
     },
     {
-     "testo": "American technology company Apple experiences an outage with several of its issues, including Apple Pay, iCloud, the App Store, and AppleCare. The company's spokesperson attributed the problems to an internal update and rules out a cyberattack.",
+     "testo": "Hundreds of Haitians march in cities across Haiti to show support for the deployment of Salvadoran troops to combat gang violence.",
+     "contesto": [
+      "Haitian crisis, Salvadoran military intervention in Haiti"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment"
+      }
+     ],
+     "link": [
+      "Haitians",
+      "Haiti",
+      "El Salvador",
+      "Armed Forces of El Salvador",
+      "Gang violence"
+     ],
+     "testo_it": "Centinaia di haitiani marciano nelle città di Haiti per mostrare sostegno al dispiegamento delle truppe salvadoregne per combattere la violenza delle gang.",
+     "contesto_it": [
+      "Crisi haitiana, intervento militare salvadoregno ad Haiti"
+     ]
+    },
+    {
+     "testo": "American technology company Apple experiences an outage with several of its services, including Apple Pay, iCloud, the App Store, and AppleCare. The company's spokesperson attributed the problems to an internal update and rules out a cyberattack.",
      "contesto": [],
      "categoria": "Science and technology",
      "fonti": [
@@ -496,6 +742,7 @@
       }
      ],
      "link": [
+      "Science and technology in the United States",
       "Apple Inc",
       "Downtime",
       "Apple Pay",
@@ -504,7 +751,7 @@
       "AppleCare",
       "Cyberattack"
      ],
-     "testo_it": "La società tecnologica americana Apple subisce un'interruzione con molti dei suoi problemi, tra cui Apple Pay, iCloud, App Store e AppleCare. Il portavoce della società ha attribuito i problemi a un aggiornamento interno e esclude un attacco informatico."
+     "testo_it": "La società tecnologica americana Apple sperimenta un'interruzione con molti dei suoi servizi, tra cui Apple Pay, iCloud, App Store e AppleCare. Il portavoce della società ha attribuito i problemi a un aggiornamento interno e esclude un attacco informatico."
     }
    ]
   },
@@ -572,6 +819,33 @@
      "contesto_it": [
       "Guerra russo-ucraina",
       "Attacchi di Crimea"
+     ]
+    },
+    {
+     "testo": "Ukraine finishes search and rescue operations at a humanitarian aid distribution center in Komyshuvakha, Zaporizhzhia Oblast, that was destroyed by a Russian airstrike on 2 November. A total of 72 people were killed, and four more people are missing.",
+     "contesto": [
+      "Russo-Ukrainian war",
+      "Russian attacks on civilians in the Russo-Ukrainian war",
+      "2026 Komyshuvakha strike"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Meduza",
+       "url": "https://meduza.io/news/2026/11/16/v-kamyshevahe-zavershili-poisk-zhertv-rossiyskogo-udara-po-punktu-vydachi-gumanitarnoy-pomoschi-chislo-pogibshih-dostiglo-72-chelovek"
+      }
+     ],
+     "link": [
+      "Search and rescue",
+      "Komyshuvakha",
+      "Zaporizhzhia Oblast",
+      "Missing person"
+     ],
+     "testo_it": "L'Ucraina termina le operazioni di ricerca e soccorso in un centro di distribuzione di aiuti umanitari a Komyshuvakha, Zaporizhzhia Oblast, che è stato distrutto da un attacco aereo russo il 2 novembre. Un totale di 72 persone sono state uccise e altre quattro persone sono scomparse.",
+     "contesto_it": [
+      "Guerra russo-ucraina",
+      "Attacchi russi contro i civili nella guerra russo-ucraina",
+      "Sciopero di Komyshuvakha (2026)"
      ]
     },
     {
@@ -721,6 +995,25 @@
      "contesto_it": [
       "Fuoco di Patong (2026)"
      ]
+    },
+    {
+     "testo": "Three people are killed when a Piper Comanche aircraft crashes in the North Rim area of Grand Canyon National Park in Arizona, United States.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "FOX Weather",
+       "url": "https://www.foxweather.com/weather-news/3-dead-missing-plane-crash-grand-canyon-national-park"
+      }
+     ],
+     "link": [
+      "Piper PA-24 Comanche",
+      "North Rim",
+      "Grand Canyon National Park",
+      "Arizona",
+      "United States"
+     ],
+     "testo_it": "Tre persone vengono uccise quando un aereo Piper Comanche si schianta nell'area del North Rim del Parco Nazionale del Grand Canyon in Arizona, Stati Uniti."
     },
     {
      "testo": "The United States Department of State reverses its decision to withdraw funding from the United Nations Support Office for Somalia and supports extending its mandate and that of the African Union's military mission combating Al-Shabaab for another year.",
