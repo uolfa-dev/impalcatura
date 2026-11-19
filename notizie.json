@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-18T20:42:18Z",
+ "generato": "2026-11-19T02:39:16Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -9,6 +9,24 @@
   "completa": true
  },
  "itn": [
+  {
+   "testo": "In Canadian football, the Edmonton Elks defeat the Montreal Alouettes to win the Grey Cup.",
+   "contesto": [],
+   "categoria": "In primo piano",
+   "fonti": [
+    {
+     "nome": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/113th_Grey_Cup"
+    }
+   ],
+   "link": [
+    "Canadian football",
+    "Edmonton Elks",
+    "Montreal Alouettes",
+    "113th Grey Cup"
+   ],
+   "testo_it": "Nel calcio canadese, gli Edmonton Elks sconfiggono le Montreal Alouettes per vincere la Grey Cup."
+  },
   {
    "testo": "Nvidia CEO Jensen Huang resigns amidst allegations of being targeted by a Chinese spy and of having extramarital affairs.",
    "contesto": [],
@@ -54,29 +72,179 @@
     "Artificial reef"
    ],
    "testo_it": "Il transatlantico americano SS Stati Uniti è affondato nel Golfo del Messico per creare la più grande barriera corallina artificiale."
-  },
-  {
-   "testo": "The End of Everything by M. John Harrison wins the Booker Prize.",
-   "contesto": [],
-   "categoria": "In primo piano",
-   "fonti": [
-    {
-     "nome": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/The_End_of_Everything_(Harrison_novel)"
-    }
-   ],
-   "link": [
-    "The End of Everything (Harrison novel)",
-    "M. John Harrison",
-    "Booker Prize"
-   ],
-   "testo_it": "La fine di tutto di M. John Harrison vince il Booker Prize."
   }
  ],
  "giorni": [
   {
+   "data": "2026-11-19",
+   "voci": [
+    {
+     "testo": "The video game Grand Theft Auto VI is released worldwide for the PlayStation 5 and Xbox Series X and Series S. It has already earned more than $1.5 billion USD from preorders alone.",
+     "contesto": [],
+     "categoria": "Arts and culture",
+     "fonti": [
+      {
+       "nome": "CNN",
+       "url": "https://www.cnn.com/2026/11/18/business/grand-theft-auto-vi-presale-data-vis"
+      }
+     ],
+     "link": [
+      "Grand Theft Auto VI",
+      "PlayStation 5",
+      "Xbox Series X and Series S",
+      "United States dollar"
+     ],
+     "testo_it": "Il videogioco Grand Theft Auto VI è uscito in tutto il mondo per PlayStation 5 e Xbox Series X e Series S. Ha già guadagnato oltre 1,5 miliardi di dollari solo dai preordini."
+    }
+   ]
+  },
+  {
    "data": "2026-11-18",
    "voci": [
+    {
+     "testo": "The Israeli army launches its first military operation in central Gaza Strip amid the displacement of families from the area, for the first time since the ceasefire agreement signed in October 2025 came into effect.",
+     "contesto": [
+      "Middle Eastern crisis",
+      "Gaza war"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "BBC",
+       "url": "https://www.bbc.com/news/articles/cw8r7510degno"
+      }
+     ],
+     "link": [
+      "Israeli army",
+      "Gaza Strip"
+     ],
+     "testo_it": "L'esercito israeliano lancia la sua prima operazione militare nella Striscia di Gaza centrale in mezzo allo sfollamento di famiglie dalla zona, per la prima volta da quando è entrato in vigore l'accordo di cessate il fuoco firmato nell'ottobre 2025.",
+     "contesto_it": [
+      "Crisi del Medio Oriente",
+      "Guerra di Gaza"
+     ]
+    },
+    {
+     "testo": "The Crimean Bridge is struck by Ukrainian forces for the third time in four days, prompting Russian authorities to close the bridge to all traffic.",
+     "contesto": [
+      "Russo-Ukrainian War",
+      "Crimea attacks (2022–present), 2026 Crimean Bridge explosions"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "The Guardian",
+       "url": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine"
+      },
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/russia-ukraine-war-bridge-crimea-drones-missiles-df4b867cf8f70e88843d8fefea5d643c"
+      }
+     ],
+     "link": [
+      "Crimean Bridge"
+     ],
+     "testo_it": "Il ponte di Crimea è colpito dalle forze ucraine per la terza volta in quattro giorni, spingendo le autorità russe a chiudere il ponte a tutto il traffico.",
+     "contesto_it": [
+      "Guerra russo-ucraina",
+      "Attacchi di Crimea (2022-oggi), esplosioni del ponte di Crimea (2026)"
+     ]
+    },
+    {
+     "testo": "Two Bangladesh Nationalist Party members are killed when suspected members of the banned Awami League attack a motorcycle procession in Kalia, Narail District, Bangladesh.",
+     "contesto": [
+      "Aftermath of the July Uprising"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Daily Sun",
+       "url": "https://www.daily-sun.com/bangladesh/909934/two-killed-in-attack-on-bnp-procession-in-narail"
+      }
+     ],
+     "link": [
+      "Bangladesh Nationalist Party",
+      "Awami League",
+      "Kalia Upazila",
+      "Narail District",
+      "Bangladesh"
+     ],
+     "testo_it": "Due membri del Partito Nazionalista del Bangladesh vengono uccisi quando sospetti membri della Lega Awami attaccano una processione di motociclette a Kalia, nel distretto di Narail, in Bangladesh.",
+     "contesto_it": [
+      "Dopo la rivolta di luglio"
+     ]
+    },
+    {
+     "testo": "In Bangladesh, a crowd allegedly led by Chatra Dal members storms and sets fire to the residence of former Awami League Member of Parliament Shamim Osman in Fatullah, Narayanganj District, while unidentified attackers in Nazirpur, Pirojpur District, loot and set fire to two houses belonging to former Minister of Fisheries and Livestock and Awami League leader SM Rezaul Karim, and a crowd in Sirajganj vandalises the local Awami League office and the residence of former MP Habibe Millat.",
+     "contesto": [
+      "Aftermath of the July Uprising"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Views Bangladesh",
+       "url": "https://viewsbangladesh.com/shamim-osmans-house-set-on-fire-in-narayanganj/"
+      },
+      {
+       "nome": "The Daily Star",
+       "url": "https://www.thedailystar.net/news/crime-justice/news/two-houses-former-al-minister-rezaul-karim-set-fire-pirojpur-4327421"
+      }
+     ],
+     "link": [
+      "Bangladesh",
+      "Bangladesh Jatiotabadi Chatra Dal",
+      "Awami League",
+      "Jatiya Sangsad",
+      "Shamim Osman",
+      "Fatullah",
+      "Narayanganj District",
+      "Nazirpur Upazila",
+      "Pirojpur District",
+      "Ministry of Fisheries and Livestock (Bangladesh)",
+      "SM Rezaul Karim",
+      "Sirajganj",
+      "Vandalism",
+      "Habibe Millat"
+     ],
+     "testo_it": "In Bangladesh, una folla presumibilmente guidata dai membri di Chatra Dal, fa irruzione e incendia la residenza dell'ex membro della Lega Awami del Parlamento Shamim Osman a Fatullah, nel distretto di Narayanganj, mentre gli aggressori non identificati a Nazirpur, nel distretto di Pirojpur, saccheggiano e incendiano due case appartenenti all'ex ministro della pesca e dell'allevamento e leader della Lega Awami SM Rezaul Karim, e una folla nell'ufficio locale di Sirajwaganj A Millbi.",
+     "contesto_it": [
+      "Dopo la rivolta di luglio"
+     ]
+    },
+    {
+     "testo": "In Gopalganj District, Bangladesh, armed members of the banned Awami League, Chhatra League, and Jubo League detonate crude bombs and set fire to a private clinic owned by BNP Member of Parliament K M Babar of Gopalganj-2, forcing patients to evacuate. Attackers also burn at least five BNP offices across Muksudpur and Kashiani and target two Grameen Bank branches.",
+     "contesto": [
+      "Aftermath of the July Uprising"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Dhaka Tribune",
+       "url": "https://www.dhakatribune.com/bangladesh/nation/425065/another-gopalganj-mp%E2%80%99s-home-torched-patients-flee"
+      }
+     ],
+     "link": [
+      "Gopalganj District, Bangladesh",
+      "Bangladesh",
+      "Awami League",
+      "Bangladesh Chhatra League",
+      "Jubo League",
+      "Improvised explosive device",
+      "Clinic",
+      "Bangladesh Nationalist Party",
+      "Jatiya Sangsad",
+      "K M Babar",
+      "Gopalganj-2",
+      "Patient",
+      "Muksudpur Upazila",
+      "Kashiani Upazila",
+      "Grameen Bank"
+     ],
+     "testo_it": "Nel distretto di Gopalganj, in Bangladesh, i membri armati della Lega Awami, della Lega Chhatra e della Lega Jubo hanno fatto detonare bombe grezze e dato fuoco a una clinica privata di proprietà del membro del BNP del Parlamento K M Babar di Gopalganj-2, costringendo i pazienti ad evacuare. Gli aggressori bruciano anche almeno cinque uffici BNP a Muksudpur e Kashiani e prendono di mira due filiali della Grameen Bank.",
+     "contesto_it": [
+      "Dopo la rivolta di luglio"
+     ]
+    },
     {
      "testo": "A militant commander is killed by the Indian Armed Forces at a mosque in Kulgam district, Indian-administered Jammu and Kashmir, after escaping a shootout with troops two days earlier in a neighboring village, where his associate was killed.",
      "contesto": [
@@ -124,86 +292,6 @@
       "Conflitto haitiano",
       "Intervento militare salvadoregno ad Haiti"
      ]
-    },
-    {
-     "testo": "Two Bangladesh Nationalist Party members are killed when suspected members of the banned Awami League attack a motorcycle procession in Kalia, Narail District, Bangladesh.",
-     "contesto": [],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Daily Sun",
-       "url": "https://www.daily-sun.com/bangladesh/909934/two-killed-in-attack-on-bnp-procession-in-narail"
-      }
-     ],
-     "link": [
-      "Bangladesh Nationalist Party",
-      "Awami League",
-      "Kalia Upazila",
-      "Narail District",
-      "Bangladesh"
-     ],
-     "testo_it": "Due membri del Partito Nazionalista del Bangladesh vengono uccisi quando sospetti membri della Lega Awami attaccano una processione di motociclette a Kalia, nel distretto di Narail, in Bangladesh."
-    },
-    {
-     "testo": "In Bangladesh, a crowd allegedly led by Chatra Dal members storms and sets fire to the residence of former Awami League Member of Parliament Shamim Osman in Fatullah, Narayanganj District, while unidentified attackers in Nazirpur, Pirojpur District, loot and set fire to two houses belonging to former Minister of Fisheries and Livestock and Awami League leader SM Rezaul Karim, and a crowd in Sirajganj vandalises the local Awami League office and the residence of former MP Habibe Millat.",
-     "contesto": [],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Views Bangladesh",
-       "url": "https://viewsbangladesh.com/shamim-osmans-house-set-on-fire-in-narayanganj/"
-      },
-      {
-       "nome": "The Daily Star",
-       "url": "https://www.thedailystar.net/news/crime-justice/news/two-houses-former-al-minister-rezaul-karim-set-fire-pirojpur-4327421"
-      }
-     ],
-     "link": [
-      "Bangladesh",
-      "Bangladesh Jatiotabadi Chatra Dal",
-      "Awami League",
-      "Jatiya Sangsad",
-      "Shamim Osman",
-      "Fatullah",
-      "Narayanganj District",
-      "Nazirpur Upazila",
-      "Pirojpur District",
-      "Ministry of Fisheries and Livestock (Bangladesh)",
-      "SM Rezaul Karim",
-      "Sirajganj",
-      "Vandalism",
-      "Habibe Millat"
-     ],
-     "testo_it": "In Bangladesh, una folla presumibilmente guidata dai membri di Chatra Dal, fa irruzione e incendia la residenza dell'ex membro della Lega Awami del Parlamento Shamim Osman a Fatullah, nel distretto di Narayanganj, mentre gli aggressori non identificati a Nazirpur, nel distretto di Pirojpur, saccheggiano e incendiano due case appartenenti all'ex ministro della pesca e dell'allevamento e leader della Lega Awami SM Rezaul Karim, e una folla nell'ufficio locale di Sirajwaganj A Millbi."
-    },
-    {
-     "testo": "In Gopalganj District, Bangladesh, armed members of the banned Awami League, Chhatra League, and Jubo League detonate crude bombs and set fire to a private clinic owned by BNP Member of Parliament K M Babar of Gopalganj-2, forcing patients to evacuate. Attackers also burn at least five BNP offices across Muksudpur and Kashiani and target two Grameen Bank branches.",
-     "contesto": [],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Dhaka Tribune",
-       "url": "https://www.dhakatribune.com/bangladesh/nation/425065/another-gopalganj-mp%E2%80%99s-home-torched-patients-flee"
-      }
-     ],
-     "link": [
-      "Gopalganj District, Bangladesh",
-      "Bangladesh",
-      "Awami League",
-      "Bangladesh Chhatra League",
-      "Jubo League",
-      "Improvised explosive device",
-      "Clinic",
-      "Bangladesh Nationalist Party",
-      "Jatiya Sangsad",
-      "K M Babar",
-      "Gopalganj-2",
-      "Patient",
-      "Muksudpur Upazila",
-      "Kashiani Upazila",
-      "Grameen Bank"
-     ],
-     "testo_it": "Nel distretto di Gopalganj, in Bangladesh, i membri armati della Lega Awami, della Lega Chhatra e della Lega Jubo hanno fatto detonare bombe grezze e dato fuoco a una clinica privata di proprietà del membro del BNP del Parlamento K M Babar di Gopalganj-2, costringendo i pazienti ad evacuare. Gli aggressori bruciano anche almeno cinque uffici BNP a Muksudpur e Kashiani e prendono di mira due filiali della Grameen Bank."
     },
     {
      "testo": "In Gazipur, Savar, and Ashulia, Bangladesh, thousands of garment workers demanding a monthly minimum wage increase from ৳12,500 (US$100) to ৳30,000 ($240) block the Dhaka–Mymensingh Highway and set fire to a police vehicle, causing police to fire tear gas and stun grenades in Gazipur and Ashulia as 55 factories close across the three areas, while police report around 300 arrests across 24 cases filed in Savar and Ashulia during the protests.",
@@ -266,7 +354,7 @@
     {
      "testo": "Arsonists set fire to the ancestral home of Nobel laureate and former chief adviser Muhammad Yunus in Panchlaish, Chattogram, Bangladesh.",
      "contesto": [],
-     "categoria": "Law and Crime",
+     "categoria": "Law and crime",
      "fonti": [
       {
        "nome": "The Daily Star",
@@ -311,7 +399,7 @@
      "testo": "Five Palestinians are killed, including a child, and others are injured in a series of Israeli airstrikes on various areas of the Gaza Strip, Palestine.",
      "contesto": [
       "Middle Eastern crisis",
-      "Gaza War",
+      "Gaza war",
       "Israeli bombing of the Gaza Strip"
      ],
      "categoria": "Armed conflicts and attacks",
@@ -339,7 +427,7 @@
      "testo": "A 72-year-old Palestinian woman is killed and ten others are injured in an attack by Israeli settlers on Palestinian homes in the village of Ein ad-Duyuk at-Tahta west of Jericho in the occupied West Bank.",
      "contesto": [
       "Middle Eastern crisis",
-      "Gaza War",
+      "Gaza war",
       "Israeli incursions in the West Bank during the Gaza war, Israeli settler violence"
      ],
      "categoria": "Armed conflicts and attacks",
@@ -457,7 +545,9 @@
     },
     {
      "testo": "Following the arrest of party leaders, banned Awami League and Chhatra League activists mobilize via mosque loudspeakers to storm and burn a police station in Tungipara, Gopalganj District, Bangladesh. Amid police tear gas and rubber bullet fire, the attackers free detainees, loot firearms, burn Bangladesh Nationalist Party MP S M Jilani's (Gopalganj-3) residence, and blockade local roads.",
-     "contesto": [],
+     "contesto": [
+      "Aftermath of the July Uprising"
+     ],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
       {
@@ -491,11 +581,16 @@
       "Gopalganj-3",
       "Blockade"
      ],
-     "testo_it": "Dopo l'arresto dei leader del partito, gli attivisti della Lega Awami e della Lega Chhatra si mobilitano tramite altoparlanti della moschea per prendere d'assalto e bruciare una stazione di polizia a Tungipara, nel distretto di Gopalganj, in Bangladesh. Tra gas lacrimogeni e proiettili di gomma della polizia, gli aggressori liberano i detenuti, saccheggiano le armi da fuoco, bruciano la residenza del deputato nazionalista del Bangladesh S M Jilani (Gopalganj-3) e bloccano le strade locali."
+     "testo_it": "Dopo l'arresto dei leader del partito, gli attivisti della Lega Awami e della Lega Chhatra si mobilitano tramite altoparlanti della moschea per prendere d'assalto e bruciare una stazione di polizia a Tungipara, nel distretto di Gopalganj, in Bangladesh. Tra gas lacrimogeni e proiettili di gomma della polizia, gli aggressori liberano i detenuti, saccheggiano le armi da fuoco, bruciano la residenza del deputato nazionalista del Bangladesh S M Jilani (Gopalganj-3) e bloccano le strade locali.",
+     "contesto_it": [
+      "Dopo la rivolta di luglio"
+     ]
     },
     {
      "testo": "In Comilla, Bangladesh, Swechhasebak Dal members burn the local Awami League office and former MP AKM Bahauddin Bahar's residence in retaliation for the attack on BNP leader S M Jilani's home.",
-     "contesto": [],
+     "contesto": [
+      "Aftermath of the July Uprising"
+     ],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
       {
@@ -509,11 +604,14 @@
       "Arson",
       "Awami League",
       "Jatiya Sangsad",
-      "A. K. M. Bahauddin Bahar",
+      "A. K. M. Bahauddin",
       "Bangladesh Nationalist Party",
       "S M Jilani"
      ],
-     "testo_it": "A Comilla, Bangladesh, i membri di Swechhasebak Dal bruciano l'ufficio locale della Lega Awami e l'ex-deputato AKM Bahauddin Bahar come rappresaglia per l'attacco alla casa del leader del BNP S M Jilani."
+     "testo_it": "A Comilla, Bangladesh, i membri di Swechhasebak Dal bruciano l'ufficio locale della Lega Awami e l'ex-deputato AKM Bahauddin Bahar come rappresaglia per l'attacco alla casa del leader del BNP S M Jilani.",
+     "contesto_it": [
+      "Dopo la rivolta di luglio"
+     ]
     },
     {
      "testo": "Bangladeshi police and 42 platoons of the Border Guard Bangladesh deploy tear gas, stun grenades, batons, and surveillance drones against garment workers across Dhaka, Savar, Ashulia, Gazipur, and Narayanganj protesting for a minimum wage hike from ৳12,500 (US$100) to ৳30,000 ($240). Protesters block the N3, N4, and N5 highways and shutter 37 factories after a Minimum Wage Board meeting is delayed to November 23.",
@@ -910,6 +1008,27 @@
       "Cyberattack"
      ],
      "testo_it": "La società tecnologica americana Apple sperimenta un'interruzione con molti dei suoi servizi, tra cui Apple Pay, iCloud, App Store e AppleCare. Il portavoce della società ha attribuito i problemi a un aggiornamento interno e esclude un attacco informatico."
+    },
+    {
+     "testo": "Racing NSW launches an investigation after the body of losing horse So You Are is found in a skip bin in Sydney.",
+     "contesto": [
+      "2026 Melbourne Cup"
+     ],
+     "categoria": "Sports",
+     "fonti": [
+      {
+       "nome": "The Guardian Australia",
+       "url": "https://www.theguardian.com/australia-news/2026/nov/17/disgusted-by-it-body-of-melbourne-cup-horse-found-dumped-in-sydney-skip-bin-ntwnfb"
+      }
+     ],
+     "link": [
+      "Racing NSW",
+      "Sydney"
+     ],
+     "testo_it": "Corsa NSW lancia un'indagine dopo il corpo di perdere il cavallo così sei viene trovato in un bidone salto a Sydney.",
+     "contesto_it": [
+      "Coppa di Melbourne (2026)"
+     ]
     }
    ]
   },
@@ -2652,386 +2771,6 @@
      "testo_it": "Nel calcio di associazione, la Royal Spanish Football Federation sospende il portiere dell'FC Andorra Jesús Owono per 12 partite a seguito di una collisione con l'attaccante del CD Tenerife Jesús de Miguel durante una partita del 2 novembre, che ha portato alla morte di de Miguel.",
      "contesto_it": [
       "Divisione Segunda (2026-27)"
-     ]
-    }
-   ]
-  },
-  {
-   "data": "2026-11-12",
-   "voci": [
-    {
-     "testo": "Haitian and Salvadoran soldiers take control of the Stade Sylvio Cator in Port-au-Prince after two years of gang control.",
-     "contesto": [
-      "Haitian conflict",
-      "Salvadoran military intervention in Haiti"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "France 24",
-       "url": "https://www.france24.com/en/americas/20261113-haitian-police-retake-national-stadium-from-gangs-after-two-years"
-      }
-     ],
-     "link": [
-      "Haiti",
-      "El Salvador",
-      "Stade Sylvio Cator",
-      "Port-au-Prince"
-     ],
-     "testo_it": "I soldati haitiani e salvadoregni prendono il controllo dello Stade Sylvio Cator a Port-au-Prince dopo due anni di controllo delle bande.",
-     "contesto_it": [
-      "Conflitto haitiano",
-      "Intervento militare salvadoregno ad Haiti"
-     ]
-    },
-    {
-     "testo": "Ukrainian president Volodymyr Zelenskyy and United States special envoy Jared Kushner announce that European representatives will join future peace negotiations with Russia, which Russian president Vladimir Putin agrees to while maintaining his territorial demands and rejecting foreign peacekeeping troops in Ukraine.",
-     "contesto": [
-      "Russo-Ukrainian war",
-      "Peace negotiations in the Russo-Ukrainian war, United States and the Russo-Ukrainian war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AFP via New Straits Times",
-       "url": "https://www.nst.com.my/amp/world/world/2026/11/1576502/us-ukraine-say-europe-join-russia-talks-putin-sticks-hardline-stance"
-      },
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/europe/us-envoys-arrive-moscow-latest-round-ukrainian-peace-talks-with-putin-2026-11-12/"
-      }
-     ],
-     "link": [
-      "Ukraine",
-      "President of Ukraine",
-      "Volodymyr Zelenskyy",
-      "United States",
-      "United States special envoy",
-      "Jared Kushner",
-      "Europe",
-      "Peace negotiations",
-      "Russia",
-      "President of Russia",
-      "Vladimir Putin",
-      "Russian occupation of Ukraine",
-      "Proposed multinational force in Ukraine"
-     ],
-     "testo_it": "Il presidente ucraino Volodymyr Zelenskyy e l'inviato speciale degli Stati Uniti Jared Kushner annunciano che i rappresentanti europei si uniranno ai futuri negoziati di pace con la Russia, che il presidente russo Vladimir Putin accetta di mantenere le sue richieste territoriali e di respingere le truppe di pace straniere in Ucraina.",
-     "contesto_it": [
-      "Guerra russo-ucraina",
-      "Negoziati di pace nella guerra russo-ucraina, negli Stati Uniti e nella guerra russo-ucraina"
-     ]
-    },
-    {
-     "testo": "At least ten people are injured, including five with gunshot wounds, during a clash involving gunfire and crude bomb explosions between two factions of the ruling Bangladesh Nationalist Party in Munshiganj Sadar, Dhaka Division, Bangladesh.",
-     "contesto": [],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "The Business Standard",
-       "url": "https://www.tbsnews.net/bangladesh/10-injured-five-shot-rival-bnp-factions-clash-munshiganj-1600101"
-      }
-     ],
-     "link": [
-      "Bangladesh Nationalist Party",
-      "Munshiganj Sadar Upazila",
-      "Dhaka Division",
-      "Bangladesh"
-     ],
-     "testo_it": "Almeno dieci persone sono rimaste ferite, di cui cinque con ferite da arma da fuoco, durante uno scontro che ha coinvolto colpi di arma da fuoco e esplosioni di bombe crude tra due fazioni del partito nazionalista al governo del Bangladesh a Munshiganj Sadar, Dhaka Division, Bangladesh."
-    },
-    {
-     "testo": "Guatemala receives the remains of 1967 Nobel Prize in Literature recipient Miguel Ángel Asturias from France, where he lived, 52 years after his death. President Bernardo Arévalo attends a ceremony ahead of the writer's burial in Guatemala City.",
-     "contesto": [],
-     "categoria": "Arts and culture",
-     "fonti": [
-      {
-       "nome": "AFP",
-       "url": "https://www.afp.com/en/remains-guatemalan-nobel-laureate-asturias-return-home-france"
-      }
-     ],
-     "link": [
-      "Guatemala",
-      "1967 Nobel Prize in Literature",
-      "Miguel Ángel Asturias",
-      "France",
-      "President of Guatemala",
-      "Bernardo Arévalo",
-      "Guatemala City"
-     ],
-     "testo_it": "Il Guatemala riceve i resti del premio Nobel per la letteratura del 1967 Miguel Ángel Asturias dalla Francia, dove visse, 52 anni dopo la sua morte. Il presidente Bernardo Arévalo partecipa a una cerimonia prima della sepoltura dello scrittore a Città del Guatemala."
-    },
-    {
-     "testo": "Jensen Huang resigns as chief executive officer (CEO) and president of Nvidia and leaves the company's board following reports of two extramarital affairs, including one involving a suspected Chinese intelligence agent. Chief financial officer Colette Kress becomes interim CEO.",
-     "contesto": [
-      "Jensen Huang spying scandal"
-     ],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "AFP",
-       "url": "https://www.afp.com/en/nvidia-ceo-jensen-huang-resigns"
-      },
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/"
-      }
-     ],
-     "link": [
-      "Jensen Huang",
-      "Chief executive officer",
-      "Nvidia",
-      "Board of directors",
-      "Extramarital affair",
-      "China",
-      "Chinese intelligence activity abroad",
-      "Chief financial officer",
-      "Colette Kress"
-     ],
-     "testo_it": "Jensen Huang si dimette da amministratore delegato (CEO) e presidente di Nvidia e lascia il consiglio di amministrazione della società a seguito di rapporti di due affari extraconiugali, tra cui uno che coinvolge un sospetto agente di intelligence cinese.",
-     "contesto_it": [
-      "Jensen Huang spia lo scandalo"
-     ]
-    },
-    {
-     "testo": "Over 200 garment factories shut down as workers block the Dhaka–Tangail Highway in Gazipur, leading police to fire stun grenades at the protesting workers.",
-     "contesto": [
-      "2026 Bangladesh garment workers protests"
-     ],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "Prothom Alo",
-       "url": "https://en.prothomalo.com/bangladesh/local-news/ufgmuunpa4"
-      },
-      {
-       "nome": "New Age",
-       "url": "https://www.newagebd.net/post/country/322211/over-200-rmg-units-suspend-production-amid-worker-protests"
-      }
-     ],
-     "link": [
-      "Textile industry in Bangladesh",
-      "N4 (Bangladesh)",
-      "Gazipur District",
-      "Bangladesh Police",
-      "Stun grenade"
-     ],
-     "testo_it": "Oltre 200 fabbriche di abbigliamento chiuse mentre i lavoratori bloccavano l'autostrada Dhaka-Tangail a Gazipur, portando la polizia a sparare granate stordenti contro i lavoratori che protestavano.",
-     "contesto_it": [
-      "Proteste dei lavoratori del Bangladesh (2026)"
-     ]
-    },
-    {
-     "testo": "Fourteen people are killed and 30 more are injured in a multiple-vehicle collision involving 18 cars and five trucks in the Emirate of Fujairah, United Arab Emirates.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AFP via The Daily Star",
-       "url": "https://www.thedailystar.net/news/world/news/truck-crash-uae-kills-14-injures-30-4322351"
-      },
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident"
-      }
-     ],
-     "link": [
-      "Multiple-vehicle collision",
-      "Emirate of Fujairah",
-      "United Arab Emirates"
-     ],
-     "testo_it": "Quattordici persone sono morte e altre 30 sono rimaste ferite in una collisione a più veicoli che ha coinvolto 18 auto e cinque camion nell'emirato di Fujairah, negli Emirati Arabi Uniti."
-    },
-    {
-     "testo": "A passenger van plunges off a road in Gilgit-Baltistan, Pakistan, killing eleven people and wounding three more.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/pakistan-passenger-bus-river-gilgit-baltistan-1f7616e4b3ed9420cbf0bd4d5b4fde9f"
-      }
-     ],
-     "link": [
-      "Gilgit-Baltistan",
-      "Pakistan"
-     ],
-     "testo_it": "Un furgone passeggeri precipita da una strada nel Gilgit-Baltistan, in Pakistan, uccidendo undici persone e ferendone altre tre."
-    },
-    {
-     "testo": "A bus veers off a mountain road in Bhimphedi, Nepal, killing ten people and wounding five more.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/nepal-van-accident-tihar-mountain-road-5a40f5b0091d0189f9185fbb833eb652"
-      }
-     ],
-     "link": [
-      "Mountain",
-      "Bhimphedi",
-      "Nepal"
-     ],
-     "testo_it": "Un autobus vira fuori da una strada di montagna a Bhimphedi, Nepal, uccidendo dieci persone e ferendone altre cinque."
-    },
-    {
-     "testo": "A military helicopter crashes in Malatya, Turkey, killing four soldiers.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/helicopter-crash-s70-malatya-3f86266878442b826fc592e49fe2caee"
-      }
-     ],
-     "link": [
-      "Turkish Armed Forces",
-      "Malatya",
-      "Turkey"
-     ],
-     "testo_it": "Un elicottero militare si schianta a Malatya, in Turchia, uccidendo quattro soldati."
-    },
-    {
-     "testo": "Four more children in Bangladesh are reported to have died from measles, bringing the death toll to 1,299.",
-     "contesto": [
-      "2026 Bangladesh measles outbreak"
-     ],
-     "categoria": "Health and environment",
-     "fonti": [
-      {
-       "nome": "BSS",
-       "url": "https://www.bssnews.net/news/445020"
-      }
-     ],
-     "link": [
-      "Bangladesh",
-      "Measles"
-     ],
-     "testo_it": "Altri quattro bambini in Bangladesh sono morti a causa del morbillo, portando il bilancio delle vittime a 1.299.",
-     "contesto_it": [
-      "Bangladesh focolaio di morbillo (2026)"
-     ]
-    },
-    {
-     "testo": "One person is killed and four more are injured in a shooting spree in Logan Circle, Washington D.C., United States. The suspected gunman later kills himself after barricading himself from police inside a nearby apartment.",
-     "contesto": [
-      "2026 Logan Circle shooting"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/12/police-say-at-least-five-people-shot-at-busy-thoroughfare-in-washington-dc"
-      },
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/dc-shooting-logan-circle-3cee6a4ada875fcc18e932e536c63dcd"
-      }
-     ],
-     "link": [
-      "Spree killer",
-      "Logan Circle (Washington, D.C.)",
-      "Washington D.C.",
-      "United States",
-      "Metropolitan Police Department of the District of Columbia"
-     ],
-     "testo_it": "Una persona viene uccisa e altre quattro sono ferite in una sparatoria a Logan Circle, Washington D.C., Stati Uniti. Il sospetto uomo armato si uccide in seguito dopo essersi barricato dalla polizia all'interno di un appartamento vicino.",
-     "contesto_it": [
-      "Sparatoria Logan Circle (2026)"
-     ]
-    },
-    {
-     "testo": "A British court convicts two Iranian men of spying on journalists from London-based broadcaster Iran International. One of them is also convicted of preparing a violent attack, while a third defendant is acquitted.",
-     "contesto": [
-      "Iranian external operations"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "AFP via RFI",
-       "url": "https://www.rfi.fr/en/middle-east/20261112-iran-pair-guilty-of-spying-on-london-based-journalists-for-tehran"
-      },
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/britain-iran-spying-tehran-sepahvand-manesh-journalists-273c38362d3c0a0e8ece8a2075442dd0"
-      }
-     ],
-     "link": [
-      "United Kingdom",
-      "Judiciaries of the United Kingdom",
-      "Iran",
-      "Espionage",
-      "Mass media in the United Kingdom",
-      "London",
-      "Iran International",
-      "Terrorism in the United Kingdom"
-     ],
-     "testo_it": "Un tribunale britannico condanna due iraniani a spiare i giornalisti dell'emittente iraniana con sede a Londra, uno dei quali è anche condannato per aver preparato un attacco violento, mentre un terzo imputato è assolto.",
-     "contesto_it": [
-      "Operazioni esterne iraniane"
-     ]
-    },
-    {
-     "testo": "Europol announces that Operation TorNado, an international investigation into illegal dark web marketplaces, resulted in 354 arrests across 14 countries and the seizure of approximately 5.7 tonnes of drugs, 209 firearms, and €211 million (US$234 million) in assets.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "AFP",
-       "url": "https://www.afp.com/en/global-police-crackdown-dark-web-nets-350-arrests"
-      }
-     ],
-     "link": [
-      "Europol",
-      "Dark web",
-      "Darknet market",
-      "Euro",
-      "US$"
-     ],
-     "testo_it": "Europol annuncia che l'operazione TorNado, un'indagine internazionale sui mercati illegali del dark web, ha provocato 354 arresti in 14 paesi e il sequestro di circa 5,7 tonnellate di droghe, 209 armi da fuoco e 211 milioni di euro (234 milioni di dollari) di beni."
-    },
-    {
-     "testo": "A major outage impacts multiple Microsoft services, including Microsoft 365, Copilot and Teams, worldwide.",
-     "contesto": [],
-     "categoria": "Science and technology",
-     "fonti": [
-      {
-       "nome": "BBC News",
-       "url": "https://www.bbc.com/news/articles/c5gm3g9ldz8xo"
-      }
-     ],
-     "link": [
-      "2026 Microsoft outage",
-      "Microsoft 365",
-      "Microsoft Copilot",
-      "Microsoft Teams"
-     ],
-     "testo_it": "Un'interruzione importante ha un impatto su più servizi Microsoft, tra cui Microsoft 365, Copilot e Teams, in tutto il mondo."
-    },
-    {
-     "testo": "Finland announces visa restrictions preventing Russian athletes, including neutral competitors, from entering for sporting events beginning November 16. Norway also announces similar restrictions on Russian and Belarusian athletes and their support staff.",
-     "contesto": [
-      "International sporting sanctions during the Russian invasion of Ukraine, Finland–Russia relations, Norway–Russia relations"
-     ],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "AFP via RFI",
-       "url": "https://www.rfi.fr/en/international-news/20261112-finland-norway-block-visas-for-russian-athletes"
-      }
-     ],
-     "link": [
-      "Finland",
-      "Visa policy of Finland",
-      "Russia",
-      "Authorised Neutral Athletes",
-      "Norway",
-      "Belarus"
-     ],
-     "testo_it": "La Finlandia annuncia restrizioni sui visti che impediscono agli atleti russi, compresi i concorrenti neutrali, di partecipare agli eventi sportivi a partire dal 16 novembre. La Norvegia annuncia anche restrizioni simili agli atleti russi e bielorussi e al loro personale di supporto.",
-     "contesto_it": [
-      "Sanzioni sportive internazionali durante l'invasione russa dell'Ucraina, relazioni Finlandia-Russia, relazioni Norvegia-Russia"
      ]
     }
    ]
