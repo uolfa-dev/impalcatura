@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-19T11:50:17Z",
+ "generato": "2026-11-19T20:45:08Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -79,9 +79,54 @@
    "data": "2026-11-19",
    "voci": [
     {
-     "testo": "The Philippines and Chile sign a free trade agreement during a bilateral meeting as part of the 33rd Asia-Pacific Economic Cooperation Economic Leaders' Meeting in Shenzhen, China, marking the former's first such agreement with a Latin American country.",
+     "testo": "In Bangladesh, banned Awami League members loot and burn properties in Gopalganj District, including BNP MP Md. Selimuzzaman Mollah's ancestral home, a police station, and a Grameen Bank branch, and vandalise BNP and Jamaat-e-Islami properties. Separately, attackers burn the homes of former politicians Rahim Ullah in Feni District, Shahriar Alam in Rajshahi District and Mahmud Hasan Sumon in Mymensingh District.",
+     "contesto": [],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "BSS",
+       "url": "https://www.bssnews.net/district/447791"
+      },
+      {
+       "nome": "The Financial Express",
+       "url": "https://thefinancialexpress.com.bd/national/ex-al-mps-house-looted-set-on-fire-in-feni"
+      },
+      {
+       "nome": "The Business Standard in Bengali",
+       "url": "https://www.tbsnews.net/bangla/bangladesh/news-details-567881"
+      },
+      {
+       "nome": "NTV in Bengali",
+       "url": "https://www.ntvbd.com/bangladesh/news-1839345"
+      }
+     ],
+     "link": [
+      "Bangladesh",
+      "Awami League",
+      "Looting",
+      "Arson",
+      "Gopalganj District, Bangladesh",
+      "Bangladesh Nationalist Party",
+      "Jatiya Sangsad",
+      "Md. Selimuzzaman Mollah",
+      "Bangladesh Police",
+      "Grameen Bank",
+      "Vandalism",
+      "Bangladesh Jamaat-e-Islami",
+      "Rahim Ullah",
+      "Feni District",
+      "Shahriar Alam",
+      "Rajshahi District",
+      "Mahmud Hasan Sumon",
+      "Mymensingh District"
+     ],
+     "testo_it": "In Bangladesh, i membri dell'Awami League banditi saccheggiano e bruciano proprietà nel distretto di Gopalganj, tra cui la casa ancestrale di Selimuzzaman Mollah, una stazione di polizia e una filiale della Grameen Bank, e vandalizzano le proprietà di BNP e Jamaat-e-Islami. Separatamente, gli aggressori bruciano le case degli ex politici Rahim Ullah nel distretto di Feni, Shahriar Alam nel distretto di Rajshahi e Mah."
+    },
+    {
+     "testo": "The Philippines and Chile sign a free trade agreement as part of the 33rd Asia-Pacific Economic Cooperation Economic Leaders' Meeting in Shenzhen, China, marking the former's first such agreement with a Latin American country.",
      "contesto": [
-      "APEC China 2026, Chile–Philippines relations:"
+      "APEC China 2026",
+      "Chile–Philippines relations"
      ],
      "categoria": "International relations",
      "fonti": [
@@ -99,9 +144,118 @@
       "China",
       "Latin America"
      ],
-     "testo_it": "Filippine e Cile firmano un accordo di libero scambio nel corso di una riunione bilaterale nell'ambito della 33a riunione dei leader economici della cooperazione economica Asia-Pacifico a Shenzhen, in Cina, che segna il primo accordo di questo tipo con un paese dell'America Latina.",
+     "testo_it": "Le Filippine e il Cile firmano un accordo di libero scambio come parte del 33 ° incontro dei leader economici della cooperazione economica Asia-Pacifico a Shenzhen, in Cina, segnando il primo accordo di questo tipo con un paese dell'America Latina.",
      "contesto_it": [
-      "APEC Cina 2026, Relazioni Cile-Filippine:"
+      "APEC Cina 2026",
+      "Relazioni Cile-Filippine"
+     ]
+    },
+    {
+     "testo": "Chinese leader Xi Jinping, Russian president Vladimir Putin, and United States president Donald Trump hold their first trilateral meeting in Shenzhen during the APEC summit and issue a joint declaration addressing nuclear war, petroleum production, and United Nations reform.",
+     "contesto": [
+      "APEC China 2026",
+      "China–Russia relations, China–United States relations, Russia–United States relations"
+     ],
+     "categoria": "International relations",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/china-us-russia-issue-declaration-toward-peace-after-first-summit"
+      },
+      {
+       "nome": "BBC News",
+       "url": "https://www.bbc.com/news/articles/c623j4ln97x7o"
+      }
+     ],
+     "link": [
+      "Paramount leader",
+      "Xi Jinping",
+      "Russia",
+      "President of Russia",
+      "Vladimir Putin",
+      "United States",
+      "President of the United States",
+      "Donald Trump",
+      "Nuclear warfare",
+      "Petroleum production",
+      "United Nations reform"
+     ],
+     "testo_it": "Il leader cinese Xi Jinping, il presidente russo Vladimir Putin e il presidente degli Stati Uniti Donald Trump tengono il loro primo incontro trilaterale a Shenzhen durante il vertice APEC e rilasciano una dichiarazione congiunta che affronta la guerra nucleare, la produzione di petrolio e la riforma delle Nazioni Unite.",
+     "contesto_it": [
+      "APEC Cina 2026",
+      "Relazioni Cina-Russia, relazioni Cina-Stati Uniti, relazioni Russia-Stati Uniti"
+     ]
+    },
+    {
+     "testo": "Somalia orders the UAE ambassador to leave in 72 hours, accusing the country of underminding Somalia's sovereignty.",
+     "contesto": [
+      "Somalia–United Arab Emirates relations"
+     ],
+     "categoria": "International relations",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/somalia-uae-ambassador-expulsion-sovereignty-somaliland-mohamud-3cdeb27a0a08d365d6a04de46500d842"
+      }
+     ],
+     "link": [
+      "Somalia",
+      "United Arab Emirates"
+     ],
+     "testo_it": "La Somalia ordina all'ambasciatore degli Emirati Arabi Uniti di andarsene in 72 ore, accusando il paese di sottovalutare la sovranità della Somalia.",
+     "contesto_it": [
+      "Relazioni Somalia-Emirati Arabi Uniti"
+     ]
+    },
+    {
+     "testo": "The International Court of Justice rules that Myanmar has committed genocide against the Rohingya people.",
+     "contesto": [
+      "Rohingya genocide case"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/myanmar-guilty-genocide-against-rohingya-says-top-un-court"
+      }
+     ],
+     "link": [
+      "International Court of Justice",
+      "Myanmar",
+      "Rohingya genocide",
+      "Rohingya people"
+     ],
+     "testo_it": "La Corte Internazionale di Giustizia stabilisce che il Myanmar ha commesso un genocidio contro il popolo Rohingya.",
+     "contesto_it": [
+      "Il caso del genocidio dei Rohingya"
+     ]
+    },
+    {
+     "testo": "The State Great Khural accepts the resignation of Mongolian president Ukhnaagiin Khürelsükh. The chamber's chairman, Sandagiin Byambatsogt, assumes the acting presidency until a new election is held within four months.",
+     "contesto": [
+      "Corruption in Mongolia"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/mongolia-president-resignation-corruption-accusation-226d15f2b1421c00b37266f49cef46f7"
+      }
+     ],
+     "link": [
+      "State Great Khural",
+      "Resignation",
+      "Mongolia",
+      "President of Mongolia",
+      "Ukhnaagiin Khürelsükh",
+      "Chairman of the State Great Khural",
+      "Sandagiin Byambatsogt",
+      "Acting (law)",
+      "2027 Mongolian presidential election"
+     ],
+     "testo_it": "Il presidente della Camera, Sandagiin Byambatsogt, assume la presidenza fino a quando non si terranno nuove elezioni entro quattro mesi.",
+     "contesto_it": [
+      "Corruzione in Mongolia"
      ]
     }
    ]
@@ -110,7 +264,7 @@
    "data": "2026-11-18",
    "voci": [
     {
-     "testo": "The Crimean Bridge is struck by Ukrainian forces for the third time in four days, prompting Russian authorities to close the bridge to all traffic.",
+     "testo": "The Crimean Bridge connecting Taman, Russia, and Kerch, Russian-occupied Crimea, is struck by Ukrainian forces for the third time in four days, prompting Russian authorities to close the bridge to all traffic.",
      "contesto": [
       "Russo-Ukrainian War",
       "Crimea attacks",
@@ -129,12 +283,17 @@
      ],
      "link": [
       "Crimean Bridge",
+      "Taman, Russia",
+      "Russia",
+      "Kerch",
+      "Russian occupation of Crimea",
+      "Crimea",
       "Ukraine",
       "Armed Forces of Ukraine",
       "Russia",
       "Government of Russia"
      ],
-     "testo_it": "Il ponte di Crimea è colpito dalle forze ucraine per la terza volta in quattro giorni, spingendo le autorità russe a chiudere il ponte a tutto il traffico.",
+     "testo_it": "Il ponte di Crimea che collega Taman, Russia, e Kerch, Crimea occupata dai russi, è colpito dalle forze ucraine per la terza volta in quattro giorni, spingendo le autorità russe a chiudere il ponte a tutto il traffico.",
      "contesto_it": [
       "Guerra russo-ucraina",
       "Attacchi di Crimea",
@@ -168,7 +327,7 @@
      ]
     },
     {
-     "testo": "Two Bangladesh Nationalist Party members are killed when suspected members of the banned Awami League attack a motorcycle procession in Kalia, Narail District, Bangladesh.",
+     "testo": "Two Bangladesh Nationalist Party members are killed when suspected members of the banned Awami League attack a motorcycle procession in Narail District, Bangladesh.",
      "contesto": [
       "Aftermath of the July Uprising"
      ],
@@ -182,17 +341,16 @@
      "link": [
       "Bangladesh Nationalist Party",
       "Awami League",
-      "Kalia Upazila",
       "Narail District",
       "Bangladesh"
      ],
-     "testo_it": "Due membri del Partito Nazionalista del Bangladesh vengono uccisi quando sospetti membri della Lega Awami attaccano una processione di motociclette a Kalia, nel distretto di Narail, in Bangladesh.",
+     "testo_it": "Due membri del Partito Nazionalista del Bangladesh vengono uccisi quando sospetti membri della Lega Awami attaccano una processione di motociclette nel distretto di Narail, in Bangladesh.",
      "contesto_it": [
       "Dopo la rivolta di luglio"
      ]
     },
     {
-     "testo": "In Bangladesh, a crowd allegedly led by Chatra Dal members storms and sets fire to the residence of former Awami League Member of Parliament Shamim Osman in Fatullah, Narayanganj District, while unidentified attackers in Nazirpur, Pirojpur District, loot and set fire to two houses belonging to former Minister of Fisheries and Livestock and Awami League leader SM Rezaul Karim, and a crowd in Sirajganj vandalises the local Awami League office and the residence of former MP Habibe Millat.",
+     "testo": "A crowd led by Chatra Dal members storms and sets fire to the residence of former Awami League Member of Parliament Shamim Osman in Narayanganj District, while unidentified attackers loot and set fire to two houses belonging to former Minister of Fisheries and Livestock SM Rezaul Karim in Pirojpur District. Separately, arsonists burn the residence of former Minister of Foreign Affairs Dipu Moni in Chandpur, and a crowd in Sirajganj vandalises the local Awami League office and the residence of former MP Habibe Millat.",
      "contesto": [
       "Aftermath of the July Uprising"
      ],
@@ -204,32 +362,36 @@
       },
       {
        "nome": "The Daily Star",
+       "url": "https://www.thedailystar.net/news/crime-justice/news/dipu-monis-flat-sujit-roy-nandis-village-home-set-fire-chandpur-4327896"
+      },
+      {
+       "nome": "The Daily Star",
        "url": "https://www.thedailystar.net/news/crime-justice/news/two-houses-former-al-minister-rezaul-karim-set-fire-pirojpur-4327421"
       }
      ],
      "link": [
-      "Bangladesh",
       "Bangladesh Jatiotabadi Chatra Dal",
-      "Awami League",
       "Jatiya Sangsad",
       "Shamim Osman",
-      "Fatullah",
       "Narayanganj District",
-      "Nazirpur Upazila",
-      "Pirojpur District",
       "Ministry of Fisheries and Livestock (Bangladesh)",
       "SM Rezaul Karim",
+      "Pirojpur District",
+      "Arson",
+      "Ministry of Foreign Affairs (Bangladesh)",
+      "Dipu Moni",
+      "Chandpur, Bangladesh",
       "Sirajganj",
       "Vandalism",
       "Habibe Millat"
      ],
-     "testo_it": "In Bangladesh, una folla presumibilmente guidata dai membri di Chatra Dal, fa irruzione e incendia la residenza dell'ex membro della Lega Awami del Parlamento Shamim Osman a Fatullah, nel distretto di Narayanganj, mentre gli aggressori non identificati a Nazirpur, nel distretto di Pirojpur, saccheggiano e incendiano due case appartenenti all'ex ministro della pesca e dell'allevamento e leader della Lega Awami SM Rezaul Karim, e una folla nell'ufficio locale di Sirajwaganj A Millbi.",
+     "testo_it": "Una folla guidata dai membri di Chatra Dal si precipita e dà fuoco alla residenza dell'ex membro della Lega Awami del Parlamento Shamim Osman nel distretto di Narayanganj, mentre gli aggressori non identificati saccheggiano e incendiano due case appartenenti all'ex ministro della pesca e del bestiame SM Rezaul Karim nel distretto di Pirojpur.",
      "contesto_it": [
       "Dopo la rivolta di luglio"
      ]
     },
     {
-     "testo": "In Gopalganj District, Bangladesh, armed members of the banned Awami League, Chhatra League, and Jubo League detonate crude bombs and set fire to a private clinic owned by BNP Member of Parliament K M Babar of Gopalganj-2, forcing patients to evacuate. Attackers also burn at least five BNP offices across Muksudpur and Kashiani and target two Grameen Bank branches.",
+     "testo": "In Gopalganj District, armed members of the banned Awami League, Chhatra League, and Jubo League detonate crude bombs and set fire to a private clinic owned by BNP Member of Parliament K M Babar of Gopalganj-2, forcing patients to evacuate. Attackers also burn at least five BNP offices across Muksudpur and Kashiani and target two Grameen Bank branches.",
      "contesto": [
       "Aftermath of the July Uprising"
      ],
@@ -242,7 +404,6 @@
      ],
      "link": [
       "Gopalganj District, Bangladesh",
-      "Bangladesh",
       "Awami League",
       "Bangladesh Chhatra League",
       "Jubo League",
@@ -257,7 +418,7 @@
       "Kashiani Upazila",
       "Grameen Bank"
      ],
-     "testo_it": "Nel distretto di Gopalganj, in Bangladesh, i membri armati della Lega Awami, della Lega Chhatra e della Lega Jubo hanno fatto detonare bombe grezze e dato fuoco a una clinica privata di proprietà del membro del BNP del Parlamento K M Babar di Gopalganj-2, costringendo i pazienti ad evacuare. Gli aggressori bruciano anche almeno cinque uffici BNP a Muksudpur e Kashiani e prendono di mira due filiali della Grameen Bank.",
+     "testo_it": "Nel distretto di Gopalganj, i membri armati della Lega Awami, della Lega Chhatra e della Lega Jubo hanno fatto detonare bombe grezze e dato fuoco a una clinica privata di proprietà del membro del BNP del Parlamento K M Babar di Gopalganj-2, costringendo i pazienti ad evacuare. Gli aggressori bruciano anche almeno cinque uffici BNP in Muksudpur e Kashiani e prendono di mira due filiali della Grameen Bank.",
      "contesto_it": [
       "Dopo la rivolta di luglio"
      ]
@@ -308,6 +469,28 @@
      "testo_it": "Un comandante militante viene ucciso dalle forze armate indiane in una moschea nel distretto di Kulgam, Jammu e Kashmir, dopo essere fuggito da una sparatoria con le truppe due giorni prima in un villaggio vicino, dove il suo socio è stato ucciso.",
      "contesto_it": [
       "Insurrezione in Jammu e Kashmir"
+     ]
+    },
+    {
+     "testo": "An operation against cartel de Jalisco Nueva Generacion cells in Zapopan, Jalisco left three gunmen killed and three arrested, incluided a ringleader. Authorities They concluded the operation after seven hours of gunfight.",
+     "contesto": [
+      "Mexican drug war"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Nmás",
+       "url": "https://www.nmas.com.mx/jalisco/seguridad/foro-tv-video-operativo-en-zapopan-deja-3-presuntos-delincuentes-muertos-y-3-detenidos-entre-ellos-el-topo/"
+      }
+     ],
+     "link": [
+      "Cartel de Jalisco Nueva Generacion",
+      "Zapopan",
+      "Jalisco"
+     ],
+     "testo_it": "Un'operazione contro le cellule del cartello di Jalisco Nueva Generacion a Zapopan, Jalisco ha lasciato tre uomini uccisi e tre arrestati, ha insinuato un capobanda. Le autorità hanno concluso l'operazione dopo sette ore di scontro a fuoco.",
+     "contesto_it": [
+      "Guerra alla droga in Messico"
      ]
     },
     {
@@ -388,6 +571,58 @@
      "testo_it": "A Kafrul, Dhaka, la polizia spara circa dieci granate stordenti contro la dimostrazione dei lavoratori dell'abbigliamento in seguito agli scontri con gli attivisti del Partito nazionalista del Bangladesh che presumibilmente hanno molestato le dipendenti delle fabbriche femminili, inducendo i lavoratori a mettere in scena manifestazioni e fermare la produzione in diverse fabbriche di abbigliamento nelle vicinanze.",
      "contesto_it": [
       "Proteste dei lavoratori del Bangladesh (2026)"
+     ]
+    },
+    {
+     "testo": "United States secretary of defense Pete Hegseth formally delivers a Lockheed C-130 Hercules to Colombia during a visit to the country to discuss military cooperation, including against drug cartels.",
+     "contesto": [
+      "Operation Southern Spear",
+      "Colombia–United States relations"
+     ],
+     "categoria": "International relations",
+     "fonti": [
+      {
+       "nome": "The Hill",
+       "url": "https://thehill.com/policy/defense/6230698-hegseth-delivers-c130-colombia/"
+      }
+     ],
+     "link": [
+      "United States secretary of defense",
+      "Pete Hegseth",
+      "Lockheed C-130 Hercules",
+      "Colombia",
+      "Drug cartel"
+     ],
+     "testo_it": "Il segretario alla difesa degli Stati Uniti Pete Heggeth consegna formalmente un Lockheed C-130 Hercules in Colombia durante una visita nel paese per discutere della cooperazione militare, anche contro i cartelli della droga.",
+     "contesto_it": [
+      "Operazione Southern Spear",
+      "Relazioni Colombia-Stati Uniti"
+     ]
+    },
+    {
+     "testo": "United States secretary of defense Pete Hegseth and acting Venezuelan president Delcy Rodríguez sign a military cooperation agreement that includes joint training and intelligence sharing between the United States and Venezuelan armed forces.",
+     "contesto": [
+      "Operation Southern Spear",
+      "United States–Venezuela relations"
+     ],
+     "categoria": "International relations",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/americas/us-defense-secretary-hegseth-vows-boost-venezuela-military-cooperation-2026-11-18/"
+      }
+     ],
+     "link": [
+      "Acting (law)",
+      "President of Venezuela",
+      "Delcy Rodríguez",
+      "United States Armed Forces",
+      "Venezuelan Armed Forces"
+     ],
+     "testo_it": "Il segretario alla difesa degli Stati Uniti Pete Hegseth e il presidente venezuelano Delcy Rodríguez firmano un accordo di cooperazione militare che include l'addestramento congiunto e la condivisione dell'intelligence tra gli Stati Uniti e le forze armate venezuelane.",
+     "contesto_it": [
+      "Operazione Southern Spear",
+      "Relazioni Stati Uniti-Venezuela"
      ]
     },
     {
@@ -817,6 +1052,27 @@
       "Czech Republic"
      ],
      "testo_it": "Quarantasei persone sono rimaste ferite dopo uno scontro tra due treni a Praga, nella Repubblica Ceca."
+    },
+    {
+     "testo": "A small boat reportedly carrying about a hundred people, mostly migrants, capsizes off Yenne, Senegal. Various sources report that either at least four or lesser bodies have been recovered, as several others are still missing. Search operations are launched by authorities.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/18/migrant-boat-capsizes-off-senegal-leaving-at-least-one-dead"
+      },
+      {
+       "nome": "BBC News",
+       "url": "https://www.bbc.com/news/articles/c58j484089ewo"
+      }
+     ],
+     "link": [
+      "Pirogue",
+      "Senegal",
+      "Search and rescue"
+     ],
+     "testo_it": "Una piccola barca che trasporta circa un centinaio di persone, per lo più migranti, si rovescia al largo di Yenne, in Senegal. Varie fonti riferiscono che almeno quattro o meno corpi sono stati recuperati, poiché molti altri sono ancora dispersi. Le operazioni di ricerca sono avviate dalle autorità."
     },
     {
      "testo": "The Pan American Health Organization revokes the measles elimination statuses of Bolivia, Mexico, and the United States. For the U.S., the organization cited continuous domestic transmission for over 12 months amid more than 5,700 reported infections and multiple deaths in 2026.",
