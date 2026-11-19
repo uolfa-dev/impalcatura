@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-19T02:39:16Z",
+ "generato": "2026-11-19T11:50:17Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -79,22 +79,30 @@
    "data": "2026-11-19",
    "voci": [
     {
-     "testo": "The video game Grand Theft Auto VI is released worldwide for the PlayStation 5 and Xbox Series X and Series S. It has already earned more than $1.5 billion USD from preorders alone.",
-     "contesto": [],
-     "categoria": "Arts and culture",
+     "testo": "The Philippines and Chile sign a free trade agreement during a bilateral meeting as part of the 33rd Asia-Pacific Economic Cooperation Economic Leaders' Meeting in Shenzhen, China, marking the former's first such agreement with a Latin American country.",
+     "contesto": [
+      "APEC China 2026, Chile–Philippines relations:"
+     ],
+     "categoria": "International relations",
      "fonti": [
       {
-       "nome": "CNN",
-       "url": "https://www.cnn.com/2026/11/18/business/grand-theft-auto-vi-presale-data-vis"
+       "nome": "Philippine Daily Inquirer",
+       "url": "https://business.inquirer.net/621752/ph-inks-first-latin-american-free-trade-deal-with-chile/"
       }
      ],
      "link": [
-      "Grand Theft Auto VI",
-      "PlayStation 5",
-      "Xbox Series X and Series S",
-      "United States dollar"
+      "Philippines",
+      "Chile",
+      "Free trade agreement",
+      "Asia-Pacific Economic Cooperation",
+      "Shenzhen",
+      "China",
+      "Latin America"
      ],
-     "testo_it": "Il videogioco Grand Theft Auto VI è uscito in tutto il mondo per PlayStation 5 e Xbox Series X e Series S. Ha già guadagnato oltre 1,5 miliardi di dollari solo dai preordini."
+     "testo_it": "Filippine e Cile firmano un accordo di libero scambio nel corso di una riunione bilaterale nell'ambito della 33a riunione dei leader economici della cooperazione economica Asia-Pacifico a Shenzhen, in Cina, che segna il primo accordo di questo tipo con un paese dell'America Latina.",
+     "contesto_it": [
+      "APEC Cina 2026, Relazioni Cile-Filippine:"
+     ]
     }
    ]
   },
@@ -102,52 +110,61 @@
    "data": "2026-11-18",
    "voci": [
     {
-     "testo": "The Israeli army launches its first military operation in central Gaza Strip amid the displacement of families from the area, for the first time since the ceasefire agreement signed in October 2025 came into effect.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "Gaza war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "BBC",
-       "url": "https://www.bbc.com/news/articles/cw8r7510degno"
-      }
-     ],
-     "link": [
-      "Israeli army",
-      "Gaza Strip"
-     ],
-     "testo_it": "L'esercito israeliano lancia la sua prima operazione militare nella Striscia di Gaza centrale in mezzo allo sfollamento di famiglie dalla zona, per la prima volta da quando è entrato in vigore l'accordo di cessate il fuoco firmato nell'ottobre 2025.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Guerra di Gaza"
-     ]
-    },
-    {
      "testo": "The Crimean Bridge is struck by Ukrainian forces for the third time in four days, prompting Russian authorities to close the bridge to all traffic.",
      "contesto": [
       "Russo-Ukrainian War",
-      "Crimea attacks (2022–present), 2026 Crimean Bridge explosions"
+      "Crimea attacks",
+      "2026 Crimean Bridge explosions"
      ],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
       {
-       "nome": "The Guardian",
-       "url": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine"
-      },
-      {
        "nome": "AP",
        "url": "https://apnews.com/article/russia-ukraine-war-bridge-crimea-drones-missiles-df4b867cf8f70e88843d8fefea5d643c"
+      },
+      {
+       "nome": "The Guardian",
+       "url": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine"
       }
      ],
      "link": [
-      "Crimean Bridge"
+      "Crimean Bridge",
+      "Ukraine",
+      "Armed Forces of Ukraine",
+      "Russia",
+      "Government of Russia"
      ],
      "testo_it": "Il ponte di Crimea è colpito dalle forze ucraine per la terza volta in quattro giorni, spingendo le autorità russe a chiudere il ponte a tutto il traffico.",
      "contesto_it": [
       "Guerra russo-ucraina",
-      "Attacchi di Crimea (2022-oggi), esplosioni del ponte di Crimea (2026)"
+      "Attacchi di Crimea",
+      "Esplosioni del ponte di Crimea (2026)"
+     ]
+    },
+    {
+     "testo": "Salvadoran forces destroy a house belonging to Jeff Larose, the leader of the Taliban gang that operates in Canaan, Haiti. The Gang Suppression Force says it was not involved.",
+     "contesto": [
+      "Haitian conflict",
+      "Salvadoran military intervention in Haiti"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/haiti-bukele-jeff-canaan-gangs-attack-home-4397ab6847be1d1dcc9c5bc600a4953f"
+      }
+     ],
+     "link": [
+      "El Salvador",
+      "Armed Forces of El Salvador",
+      "Canaan, Haiti",
+      "Haiti",
+      "Gang Suppression Force"
+     ],
+     "testo_it": "Le forze salvadoregne distruggono una casa appartenente a Jeff Larose, il leader della banda talebana che opera a Canaan, Haiti.",
+     "contesto_it": [
+      "Conflitto haitiano",
+      "Intervento militare salvadoregno ad Haiti"
      ]
     },
     {
@@ -246,6 +263,29 @@
      ]
     },
     {
+     "testo": "The Israeli army launches its first operation in central Gaza Strip amid the displacement of families from the area, for the first time since the ceasefire agreement signed in October 2025 came into effect.",
+     "contesto": [
+      "Gaza war"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "BBC News",
+       "url": "https://www.bbc.com/news/articles/cw8r7510degno"
+      }
+     ],
+     "link": [
+      "Israel",
+      "Israeli army",
+      "Gaza Strip",
+      "Gaza peace plan"
+     ],
+     "testo_it": "L'esercito israeliano lancia la sua prima operazione nella Striscia di Gaza centrale in mezzo allo sfollamento di famiglie dalla zona, per la prima volta da quando è entrato in vigore l'accordo di cessate il fuoco firmato nell'ottobre 2025.",
+     "contesto_it": [
+      "Guerra di Gaza"
+     ]
+    },
+    {
      "testo": "A militant commander is killed by the Indian Armed Forces at a mosque in Kulgam district, Indian-administered Jammu and Kashmir, after escaping a shootout with troops two days earlier in a neighboring village, where his associate was killed.",
      "contesto": [
       "Insurgency in Jammu and Kashmir"
@@ -271,27 +311,26 @@
      ]
     },
     {
-     "testo": "Salvadoran forces destroy a house belonging to Jeff Larose, the leader of the Taliban gang that operates in Canaan. The Gang Suppression Force says it was not involved.",
-     "contesto": [
-      "Haitian conflict",
-      "Salvadoran military intervention in Haiti"
-     ],
-     "categoria": "Armed conflicts and attacks",
+     "testo": "Vincent van Gogh's 1890 painting Blossoming Chestnut Trees sells for US$190.4 million at Sotheby's in New York City, United States, setting a new auction record for Van Gogh and surpassing the $117.2 million paid for Orchard with Cypresses (1888) in 2022.",
+     "contesto": [],
+     "categoria": "Arts and culture",
      "fonti": [
       {
-       "nome": "AP",
-       "url": "https://apnews.com/article/haiti-bukele-jeff-canaan-gangs-attack-home-4397ab6847be1d1dcc9c5bc600a4953f"
+       "nome": "AFP via NDTV",
+       "url": "https://www.ndtv.com/world-news/vincent-van-goghs-1890-painting-sells-for-190-4-million-12346802"
       }
      ],
      "link": [
-      "Canaan, Haiti",
-      "Gang Suppression Force"
+      "Vincent van Gogh",
+      "Blossoming Chestnut Trees",
+      "US$",
+      "Sotheby's",
+      "New York City",
+      "United States",
+      "List of most expensive paintings",
+      "Orchard with Cypresses"
      ],
-     "testo_it": "Le forze salvadoregne distruggono una casa appartenente a Jeff Larose, il leader della banda talebana che opera a Canaan.",
-     "contesto_it": [
-      "Conflitto haitiano",
-      "Intervento militare salvadoregno ad Haiti"
-     ]
+     "testo_it": "Il dipinto di Vincent van Gogh del 1890 Blossoming Chestnut Trees vende per US $ 190,4 milioni a Sotheby's a New York City, negli Stati Uniti, stabilendo un nuovo record d'asta per Van Gogh e superando i $ 117,2 milioni pagati per Orchard con Cypresses (1888) nel 2022."
     },
     {
      "testo": "In Gazipur, Savar, and Ashulia, Bangladesh, thousands of garment workers demanding a monthly minimum wage increase from ৳12,500 (US$100) to ৳30,000 ($240) block the Dhaka–Mymensingh Highway and set fire to a police vehicle, causing police to fire tear gas and stun grenades in Gazipur and Ashulia as 55 factories close across the three areas, while police report around 300 arrests across 24 cases filed in Savar and Ashulia during the protests.",
@@ -352,7 +391,7 @@
      ]
     },
     {
-     "testo": "Arsonists set fire to the ancestral home of Nobel laureate and former chief adviser Muhammad Yunus in Panchlaish, Chattogram, Bangladesh.",
+     "testo": "Arsonists set fire to the ancestral home of former chief adviser Muhammad Yunus in Panchlaish, Chattogram, Bangladesh.",
      "contesto": [],
      "categoria": "Law and crime",
      "fonti": [
@@ -363,14 +402,13 @@
      ],
      "link": [
       "Arson",
-      "Nobel Peace Prize",
       "Interim government of Muhammad Yunus",
       "Muhammad Yunus",
       "Panchlaish Thana",
       "Chittagong",
       "Bangladesh"
      ],
-     "testo_it": "Gli arsonisti hanno dato fuoco alla casa ancestrale del premio Nobel ed ex consigliere capo Muhammad Yunus a Panchlaish, Chattogram, Bangladesh."
+     "testo_it": "Gli arsonisti hanno dato fuoco alla casa ancestrale dell'ex consigliere capo Muhammad Yunus a Panchlaish, Chattogram, Bangladesh."
     },
     {
      "testo": "NASA's space probe Voyager 1 reaches the distance of one light-day from Earth, being the first man-made object to reach that distance, after it launched in 1977.",
@@ -389,6 +427,52 @@
       "Light-year"
      ],
      "testo_it": "La sonda spaziale Voyager 1 della NASA raggiunge la distanza di un giorno luce dalla Terra, essendo il primo oggetto artificiale a raggiungere quella distanza, dopo il lancio nel 1977."
+    },
+    {
+     "testo": "PlayStation reports a major outage ahead of the release of Grand Theft Auto VI.",
+     "contesto": [],
+     "categoria": "Science and technology",
+     "fonti": [
+      {
+       "nome": "Axios",
+       "url": "https://www.axios.com/2026/11/18/gta-6-playstation-psn-servers"
+      }
+     ],
+     "link": [
+      "PlayStation",
+      "Downtime",
+      "Grand Theft Auto VI"
+     ],
+     "testo_it": "PlayStation segnala una grave interruzione in vista del rilascio di Grand Theft Auto VI."
+    },
+    {
+     "testo": "In Test cricket, Bangladeshi wicketkeeper Litton Das sets a world record for the most dismissals in a single Test innings, recording six catches and two stumpings against South Africa in Johannesburg.",
+     "contesto": [
+      "Bangladeshi cricket team in South Africa in 2026–27"
+     ],
+     "categoria": "Sports",
+     "fonti": [
+      {
+       "nome": "AFP via France 24",
+       "url": "https://www.france24.com/en/live-news/20261118-das-breaks-record-but-south-africa-take-command"
+      }
+     ],
+     "link": [
+      "Test cricket",
+      "Bangladesh national cricket team",
+      "Wicket-keeper",
+      "Litton Das",
+      "List of Test cricket records",
+      "Dismissal (cricket)",
+      "Innings",
+      "Stump (cricket)",
+      "South Africa national cricket team",
+      "Johannesburg"
+     ],
+     "testo_it": "In Test cricket, lo wicketkeeper del Bangladesh Litton Das stabilisce un record mondiale per il maggior numero di licenziamenti in un singolo test inning, registrando sei catture e due colpi contro il Sudafrica a Johannesburg.",
+     "contesto_it": [
+      "Squadra di cricket del Bangladesh in Sud Africa nel 2026-27"
+     ]
     }
    ]
   },
@@ -483,7 +567,7 @@
      ]
     },
     {
-     "testo": "The United States Air Force conducts a series of at least six strikes on Qeshm Island. The IRGC says it shoot down a General Atomics MQ-9 Reaper drone south of the island.",
+     "testo": "The United States Air Force conducts a series of at least six strikes on Qeshm Island. The IRGC says it shot down a General Atomics MQ-9 Reaper drone south of the island.",
      "contesto": [
       "Middle Eastern crisis",
       "2026 Iran war"
@@ -505,7 +589,7 @@
       "Qeshm Island",
       "General Atomics MQ-9 Reaper"
      ],
-     "testo_it": "L'Aeronautica degli Stati Uniti conduce una serie di almeno sei attacchi sull'isola di Qeshm. L'IRGC dice di aver abbattuto un drone General Atomics MQ-9 Reaper a sud dell'isola.",
+     "testo_it": "L'aviazione degli Stati Uniti conduce una serie di almeno sei attacchi sull'isola di Qeshm. L'IRGC dice di aver abbattuto un drone General Atomics MQ-9 Reaper a sud dell'isola.",
      "contesto_it": [
       "Crisi del Medio Oriente",
       "Guerra in Iran (2026)"
@@ -698,12 +782,12 @@
      "categoria": "Disasters and accidents",
      "fonti": [
       {
-       "nome": "The Independent",
-       "url": "https://www.independent.co.uk/news/world/europe/russia-plane-crash-siberia-kemerovo-b3086529.html"
-      },
-      {
        "nome": "AP",
        "url": "https://apnews.com/article/russia-military-air-crash-siberia-an12-bb68e35e985a5e72786d813cf0ce598d"
+      },
+      {
+       "nome": "The Independent",
+       "url": "https://www.independent.co.uk/news/world/europe/russia-plane-crash-siberia-kemerovo-b3086529.html"
       }
      ],
      "link": [
@@ -826,8 +910,8 @@
      "categoria": "Law and crime",
      "fonti": [
       {
-       "nome": "Univisión in Spanish",
-       "url": "https://www.univision.com/shows/primer-impacto/asesinan-al-periodista-camilo-rodriguez-en-costa-rica-habria-recibido-amenazas-por-denunciar-al-narcotrafico-y-la-corrupcion-video"
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/costa-rican-journalist-gunned-down-near-capital"
       }
      ],
      "link": [
@@ -841,7 +925,7 @@
      ]
     },
     {
-     "testo": "In Fatullah, Narayanganj District, Bangladesh, a factory worker is hacked to death after filming clashes between two factions of the ruling Bangladesh Nationalist Party.",
+     "testo": "A factory worker is hacked to death after filming clashes between two factions of the ruling Bangladesh Nationalist Party in Fatullah, Narayanganj District.",
      "contesto": [],
      "categoria": "Law and crime",
      "fonti": [
@@ -851,14 +935,12 @@
       }
      ],
      "link": [
-      "Fatullah",
-      "Narayanganj District",
-      "Bangladesh",
-      "Factory",
       "Murder",
-      "Bangladesh Nationalist Party"
+      "Bangladesh Nationalist Party",
+      "Fatullah",
+      "Narayanganj District"
      ],
-     "testo_it": "A Fatullah, nel distretto di Narayanganj, in Bangladesh, un operaio di fabbrica viene hackerato a morte dopo aver filmato scontri tra due fazioni del partito nazionalista al governo del Bangladesh."
+     "testo_it": "Un operaio di fabbrica viene hackerato a morte dopo aver filmato gli scontri tra due fazioni del partito nazionalista al governo del Bangladesh a Fatullah, nel distretto di Narayanganj."
     },
     {
      "testo": "A court in Conakry, Guinea, tries over 1,000 alleged artisanal gold miners for illegal gold mining in the Siguiri region, resulting in the sentencing of 22 former regional administrators and 202 others to various prison terms.",
@@ -902,36 +984,6 @@
       "Athens"
      ],
      "testo_it": "L'Agenzia per la sicurezza nazionale della Macedonia del Nord arresta cinque cittadini macedoni presumibilmente legati a un complotto di assassinio in Grecia, presumibilmente coinvolgendo reclutatori iraniani, tra cui Naji Sharifi-Zindashti, che è ricercato dal Federal Bureau of Investigation degli Stati Uniti. Una sesta persona rimane in generale. La televisione pubblica greca riferisce che l'obiettivo era un dirigente commerciale israeliano con sede ad Atene."
-    },
-    {
-     "testo": "Two weeks after Election Day, Democratic candidate Mary Peltola is projected to defeat incumbent Republican senator Dan Sullivan to become the new Senator for Alaska, further extending the Democratic lead in the Senate.",
-     "contesto": [
-      "2026 United States elections",
-      "2026 United States Senate election in Alaska"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/alaska-senate-peltola-sullivan-congress-f1fd4d243bf764ec46ff94db4c792953"
-      }
-     ],
-     "link": [
-      "Election Day (United States)",
-      "Democratic Party (United States)",
-      "Mary Peltola",
-      "Incumbent",
-      "Republican Party (United States)",
-      "Dan Sullivan (U.S. senator)",
-      "Senate",
-      "Alaska",
-      "Wave elections in the United States"
-     ],
-     "testo_it": "Due settimane dopo il giorno delle elezioni, la candidata democratica Mary Peltola è proiettata a sconfiggere l'attuale senatore repubblicano Dan Sullivan per diventare il nuovo senatore per l'Alaska, estendendo ulteriormente il vantaggio democratico al Senato.",
-     "contesto_it": [
-      "Elezioni negli Stati Uniti (2026)",
-      "Elezioni al Senato degli Stati Uniti in Alaska (2026)"
-     ]
     },
     {
      "testo": "Mongolian president Ukhnaagiin Khürelsükh announces his resignation from office, three days after former Ulaanbaatar mayor Khishgeegiin Nyambaatar accused him of past embezzlement from a railway project during his tenure as prime minister. The State Great Khural must accept the resignation for it to become effective.",
@@ -1010,12 +1062,16 @@
      "testo_it": "La società tecnologica americana Apple sperimenta un'interruzione con molti dei suoi servizi, tra cui Apple Pay, iCloud, App Store e AppleCare. Il portavoce della società ha attribuito i problemi a un aggiornamento interno e esclude un attacco informatico."
     },
     {
-     "testo": "Racing NSW launches an investigation after the body of losing horse So You Are is found in a skip bin in Sydney.",
+     "testo": "Racing NSW launches an investigation after the body of losing horse So You Are is found in a skip bin in Sydney, Australia.",
      "contesto": [
       "2026 Melbourne Cup"
      ],
      "categoria": "Sports",
      "fonti": [
+      {
+       "nome": "CNN",
+       "url": "https://edition.cnn.com/2026/11/17/sport/melbourne-cup-horse-so-you-are-dead-waste-facility"
+      },
       {
        "nome": "The Guardian Australia",
        "url": "https://www.theguardian.com/australia-news/2026/nov/17/disgusted-by-it-body-of-melbourne-cup-horse-found-dumped-in-sydney-skip-bin-ntwnfb"
@@ -1023,9 +1079,11 @@
      ],
      "link": [
       "Racing NSW",
-      "Sydney"
+      "Skip bin",
+      "Sydney",
+      "Australia"
      ],
-     "testo_it": "Corsa NSW lancia un'indagine dopo il corpo di perdere il cavallo così sei viene trovato in un bidone salto a Sydney.",
+     "testo_it": "Corsa NSW lancia un'indagine dopo il corpo di perdere il cavallo così sei si trova in un bidone salto a Sydney, in Australia.",
      "contesto_it": [
       "Coppa di Melbourne (2026)"
      ]
@@ -1206,9 +1264,10 @@
       }
      ],
      "link": [
+      "England",
       "Robert Pattinson",
       "James Bond",
-      "List of James Bond films"
+      "Portrayal of James Bond in film"
      ],
      "testo_it": "L'attore inglese Robert Pattinson interpreta James Bond nella serie cinematografica in corso con il personaggio."
     },
@@ -1614,6 +1673,31 @@
      "contesto_it": [
       "Conflitti comuni in Nigeria",
       "Violenza religiosa in Nigeria"
+     ]
+    },
+    {
+     "testo": "A report released by the Human Rights and Conflict Dynamics Observatory of Indepaz confirms that 45 community leaders and human rights activists, eight former FARC commanders who signed the 2016 peace deal and 87 more people were killed in Colombia since the beginning of Abelardo de la Espriella's mandate in August 2026.",
+     "contesto": [
+      "Colombian conflict"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Democrata",
+       "url": "https://www.democrata.es/en/international/they-warn-of-45-social-leaders-murdered-in-the-first-100-days-of-de-la-espriella-s-government/amp/"
+      }
+     ],
+     "link": [
+      "Community leader",
+      "Human rights",
+      "Revolutionary Armed Forces of Colombia",
+      "Colombian peace process",
+      "Colombia",
+      "Abelardo de la Espriella"
+     ],
+     "testo_it": "Un rapporto pubblicato dall'Osservatorio per i diritti umani e la dinamica dei conflitti di Indepaz conferma che 45 leader della comunità e attivisti per i diritti umani, otto ex comandanti delle FARC che hanno firmato l'accordo di pace del 2016 e 87 altre persone sono state uccise in Colombia dall'inizio del mandato di Abelardo de la Espriella nell'agosto 2026.",
+     "contesto_it": [
+      "Conflitto colombiano"
      ]
     },
     {
