@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-20T11:50:29Z",
+ "generato": "2026-11-20T20:29:06Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -84,7 +84,99 @@
    "data": "2026-11-20",
    "voci": [
     {
-     "testo": "A Russian Kh-101 cruise missile strikes a field near the village of Nowy Lipowiec in Lublin Voivodeship, Poland, around 60 miles from a Coalition of the Willing training excercise. Air raid alerts are issued in Lublin and Podkarpackie voivodeships.",
+     "testo": "The Islamic Revolutionary Guard Corps Navy and the United Kingdom Maritime Trade Operations report that an oil tanker has been damaged and caught fire off Khasab, Oman, while attempting to transit the Strait of Hormuz.",
+     "contesto": [
+      "Middle Eastern crisis",
+      "2026 Iran war",
+      "2026 Strait of Hormuz crisis"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://aje.news/yk6rbj?update=5171719"
+      }
+     ],
+     "link": [
+      "Islamic Revolutionary Guard Corps Navy",
+      "United Kingdom Maritime Trade Operations",
+      "Oil tanker",
+      "Khasab",
+      "Oman",
+      "Strait of Hormuz"
+     ],
+     "testo_it": "La Marina del Corpo delle Guardie Rivoluzionarie Islamiche e la United Kingdom Maritime Trade Operations riferiscono che una petroliera è stata danneggiata e ha preso fuoco al largo di Khasab, in Oman, mentre tentava di attraversare lo Stretto di Hormuz.",
+     "contesto_it": [
+      "Crisi del Medio Oriente",
+      "Guerra in Iran (2026)",
+      "Stretto di Hormuz (2026)"
+     ]
+    },
+    {
+     "testo": "The Saudi-led coalition launches airstrikes on Hodeidah, Yemen, targeting weapons smuggling used by the Houthis, and on targets in the Sanaa, Saada, and Taiz governorates.",
+     "contesto": [
+      "Middle Eastern crisis",
+      "Yemeni civil war",
+      "Houthi–Saudi conflict"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/saudi-yemen-war-iran-iraq-november-20-2026-16c39c487a23b53b73c5eabb7f0fd57a"
+      },
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports"
+      }
+     ],
+     "link": [
+      "Saudi-led intervention in the Yemeni civil war",
+      "Airstrike",
+      "Hodeidah",
+      "Yemen",
+      "Houthis",
+      "Sanaa Governorate",
+      "Saada Governorate",
+      "Taiz Governorate",
+      "Governorates of Yemen"
+     ],
+     "testo_it": "La coalizione guidata dai sauditi lancia attacchi aerei su Hodeidah, Yemen, prendendo di mira il contrabbando di armi utilizzato dagli Houthi, e su obiettivi nei governatorati di Sanaa, Saada e Taiz.",
+     "contesto_it": [
+      "Crisi del Medio Oriente",
+      "Guerra civile yemenita",
+      "Conflitto Houthi-saudita"
+     ]
+    },
+    {
+     "testo": "Yemeni government forces say they have conducted operations in the Al-Jawf, Marib, and Taiz governorates that have killed or injured 193 Houthi fighters.",
+     "contesto": [
+      "Middle Eastern crisis",
+      "Yemeni civil war",
+      "2026 Yemen offensives"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Arab News",
+       "url": "https://www.arabnews.com/middle-east/yemeni-army-reports-854-operations-against-houthi-forces-claims-193-killed-or-wounded-3013178"
+      }
+     ],
+     "link": [
+      "Presidential Leadership Council",
+      "Yemeni Armed Forces",
+      "Al-Jawf Governorate",
+      "Marib Governorate"
+     ],
+     "testo_it": "Le forze governative yemenite dicono di aver condotto operazioni nei governatorati di Al-Jawf, Marib e Taiz che hanno ucciso o ferito 193 combattenti Houthi.",
+     "contesto_it": [
+      "Crisi del Medio Oriente",
+      "Guerra civile yemenita",
+      "Yemen offensive (2026)"
+     ]
+    },
+    {
+     "testo": "A Russian Kh-101 cruise missile strikes a field near the village of Nowy Lipowiec in Lublin Voivodeship, Poland, around 60 miles from a Coalition of the Willing training excercise. Air raid alerts are issued in Lublin and Podkarpackie Voivodeship.",
      "contesto": [
       "Russo-Ukrainian war",
       "Violations of non-combatant airspace during the Russo-Ukrainian war"
@@ -110,6 +202,100 @@
      "contesto_it": [
       "Guerra russo-ucraina",
       "Violazioni dello spazio aereo non combattente durante la guerra russo-ucraina"
+     ]
+    },
+    {
+     "testo": "Two Salvadoran soldiers are killed and two more are injured when explosive materials they are handling detonates.",
+     "contesto": [
+      "Haitian conflict",
+      "Salvadoran military intervention in Haiti"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "La Prensa Gráfica",
+       "url": "https://www.laprensagrafica.com/elsalvador/dos-soldados-salvadorenos-muertos-en-haiti-tras-explosion-en-campamento-20261120-0033.html"
+      }
+     ],
+     "link": [
+      "El Salvador"
+     ],
+     "testo_it": "Due soldati salvadoregni vengono uccisi e altri due feriti quando i materiali esplosivi che stanno maneggiando detonano.",
+     "contesto_it": [
+      "Conflitto haitiano",
+      "Intervento militare salvadoregno ad Haiti"
+     ]
+    },
+    {
+     "testo": "30 people are dead and around 300 are missing after a ship carrying funeral goers capsized in Bayelsa State, Nigeria.",
+     "contesto": [
+      "2026 Bayelsa boat disaster"
+     ],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "Daily Trust",
+       "url": "https://dailytrust.com/30-feared-dead-as-mourners-boat-capsizes-in-bayelsa/#google_vignette"
+      }
+     ],
+     "link": [
+      "Bayelsa State"
+     ],
+     "testo_it": "30 persone sono morte e circa 300 sono scomparse dopo che una nave che trasportava i visitatori funebri è stata capovolta nello Stato di Bayelsa, in Nigeria.",
+     "contesto_it": [
+      "Disastro di Bayelsa (2026)"
+     ]
+    },
+    {
+     "testo": "A general strike is held in Italy, with protests in multiple cities across the country.",
+     "contesto": [
+      "2026 European unrest",
+      "2026 Italian unrest"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "Rai News in Italian",
+       "url": "https://www.rainews.it/maratona/2026/11/sciopero-generale-sara-un-venerdi-difficile-stop-a-trasporti-scuola-e-sanita-9326c802-86d1-4e5e-9b05-46d7e34466f4.html"
+      }
+     ],
+     "link": [
+      "General strike",
+      "Italy"
+     ],
+     "testo_it": "Uno sciopero generale si tiene in Italia, con proteste in più città in tutto il paese.",
+     "contesto_it": [
+      "Insurrezioni europee (2026)",
+      "Insurrezione italiana (2026)"
+     ]
+    },
+    {
+     "testo": "Iraqi prime minister Ali al-Zaidi announces that an agreement has been reached with Kata'ib Hezbollah to establish a joint operations center and jointly station troops in Jurf al-Sakhar, south of Baghdad, after having threatened to send Iraqi security forces into the group's stronghold.",
+     "contesto": [
+      "Politics of Iraq"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold"
+      },
+      {
+       "nome": "Al Jazeera",
+       "url": "https://aje.news/yk6rbj?update=5171924"
+      }
+     ],
+     "link": [
+      "Prime Minister of Iraq",
+      "Ali al-Zaidi",
+      "Kata'ib Hezbollah",
+      "Jurf al-Sakhar",
+      "Baghdad",
+      "Iraqi security forces"
+     ],
+     "testo_it": "Il primo ministro iracheno Ali al-Zaidi annuncia che è stato raggiunto un accordo con Kata'ib Hezbollah per stabilire un centro operativo congiunto e dispiegare congiuntamente le truppe a Jurf al-Sakhar, a sud di Baghdad, dopo aver minacciato di inviare le forze di sicurezza irachene nella roccaforte del gruppo.",
+     "contesto_it": [
+      "Politica dell'Iraq"
      ]
     }
    ]
@@ -310,6 +496,32 @@
      ]
     },
     {
+     "testo": "The Haitian National Police say that 34 alleged gang members were killed during an operation in Port-au-Prince, in an area under the influence of the Viv Ansanm alliance, with the assistance of the Haitian government task force involving Erik Prince's private security contractors.",
+     "contesto": [
+      "Haitian conflict"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/americas/police-operation-haiti-leaves-least-34-alleged-gang-members-dead-2026-11-19/"
+      }
+     ],
+     "link": [
+      "Haitian National Police",
+      "Gangs in Haiti",
+      "Port-au-Prince",
+      "Viv Ansanm",
+      "Government of Haiti",
+      "Erik Prince",
+      "Private security contractor"
+     ],
+     "testo_it": "La polizia nazionale haitiana afferma che 34 presunti membri di bande sono stati uccisi durante un'operazione a Port-au-Prince, in un'area sotto l'influenza dell'alleanza di Viv Ansanm, con l'assistenza della task force del governo haitiano che ha coinvolto gli appaltatori della sicurezza privata di Erik Prince.",
+     "contesto_it": [
+      "Conflitto haitiano"
+     ]
+    },
+    {
      "testo": "In Bangladesh, banned Awami League members loot and burn properties in Gopalganj District, including BNP MP Md. Selimuzzaman Mollah's ancestral home, a police station, and a Grameen Bank branch, and vandalise BNP and Jamaat-e-Islami properties. Separately, attackers burn the homes of former politicians Rahim Ullah in Feni District, Shahriar Alam in Rajshahi District and Mahmud Hasan Sumon in Mymensingh District.",
      "contesto": [
       "Aftermath of the July Uprising"
@@ -379,29 +591,7 @@
      ]
     },
     {
-     "testo": "The Joint Organisations Data Initiative reports that Saudi Arabia's oil exports rose in September to their highest level since the outbreak of the war in February, despite the Houthi attacks on Red Sea ports and infrastructure.",
-     "contesto": [
-      "Economic impact of the 2026 Iran war"
-     ],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://aje.news/r003u9?update=5168385"
-      }
-     ],
-     "link": [
-      "Joint Organisations Data Initiative",
-      "Petroleum industry in Saudi Arabia",
-      "Houthi blockade of Saudi Arabia"
-     ],
-     "testo_it": "La Joint Organizations Data Initiative riferisce che le esportazioni di petrolio dell'Arabia Saudita sono salite al livello più alto dallo scoppio della guerra a febbraio, nonostante gli attacchi Houthi ai porti e alle infrastrutture del Mar Rosso.",
-     "contesto_it": [
-      "Impatto economico della guerra del 2026 in Iran"
-     ]
-    },
-    {
-     "testo": "Across Bangladesh, 341 garment factories remain closed amid ongoing minimum wage protests, as police fire tear gas and stun grenades to disperse demonstrators in Ashulia and clear blockades on the Dhaka–Mymensingh Highway in Gazipur, while Bangladesh Nationalist Party members take up positions along highway areas in Sreepur and authorities tighten security at Kashimpur Central Jail.",
+     "testo": "Across Bangladesh, 341 garment factories remain closed amid ongoing minimum wage protests, as police fire tear gas and stun grenades to disperse demonstrators in Ashulia and clear blockades on the N3 highway in Gazipur, while Bangladesh Nationalist Party members take up positions along highway areas in Sreepur and authorities tighten security at Kashimpur Central Jail.",
      "contesto": [
       "2026 Bangladesh garment workers protests"
      ],
@@ -434,9 +624,31 @@
       "Sreepur Upazila, Gazipur",
       "Kashimpur Central Jail"
      ],
-     "testo_it": "In tutto il Bangladesh, 341 fabbriche di abbigliamento rimangono chiuse tra le proteste per il salario minimo in corso, mentre la polizia spara gas lacrimogeni e granate stordenti per disperdere i manifestanti in Ashulia e cancellare i blocchi sulla Dhaka-Mymensingh Highway a Gazipur, mentre i membri del Partito nazionalista del Bangladesh occupano posizioni lungo le aree autostradali a Sreepur e le autorità rafforzano la sicurezza a Kashippur Central Jail.",
+     "testo_it": "In tutto il Bangladesh, 341 fabbriche di abbigliamento rimangono chiuse tra le proteste per il salario minimo in corso, mentre la polizia spara gas lacrimogeni e granate stordenti per disperdere i manifestanti in Ashulia e cancellare i blocchi sull'autostrada N3 a Gazipur, mentre i membri del Partito nazionalista del Bangladesh prendono posizione lungo le aree autostradali a Sreepur e le autorità rafforzano la sicurezza a Kashippur Central Jail.",
      "contesto_it": [
       "Proteste dei lavoratori del Bangladesh (2026)"
+     ]
+    },
+    {
+     "testo": "The Joint Organisations Data Initiative reports that Saudi Arabia's oil exports rose in September to their highest level since the outbreak of the war in February, despite Houthi attacks on Red Sea ports and infrastructure.",
+     "contesto": [
+      "Economic impact of the 2026 Iran war"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://aje.news/r003u9?update=5168385"
+      }
+     ],
+     "link": [
+      "Joint Organisations Data Initiative",
+      "Petroleum industry in Saudi Arabia",
+      "Houthi blockade of Saudi Arabia"
+     ],
+     "testo_it": "La Joint Organizations Data Initiative riferisce che le esportazioni di petrolio dell'Arabia Saudita sono salite al livello più alto dallo scoppio della guerra a febbraio, nonostante gli attacchi degli Houthi ai porti e alle infrastrutture del Mar Rosso.",
+     "contesto_it": [
+      "Impatto economico della guerra del 2026 in Iran"
      ]
     },
     {
@@ -465,6 +677,25 @@
      "contesto_it": [
       "Economia del Senegal"
      ]
+    },
+    {
+     "testo": "Grand Theft Auto VI by Rockstar Games becomes the biggest video game launch in history with more than $2.3 billion in sales, surpassing the previous record holder, Call of Duty: Modern Warfare II, by more than $600 million.",
+     "contesto": [],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "LBC",
+       "url": "https://www.lbc.co.uk/article/gta-6-breaks-records-as-estimated-sales-top-23bn-5HjdnKw_2/"
+      }
+     ],
+     "link": [
+      "Grand Theft Auto VI",
+      "Rockstar Games",
+      "Video game industry",
+      "United States dollar",
+      "Call of Duty: Modern Warfare II (2022 video game)"
+     ],
+     "testo_it": "Grand Theft Auto VI di Rockstar Games diventa il più grande lancio di videogiochi nella storia con oltre 2,3 miliardi di dollari di vendite, superando il precedente detentore del record, Call of Duty: Modern Warfare II, di oltre 600 milioni di dollari."
     },
     {
      "testo": "The Philippines and Chile sign a free trade agreement as part of the 33rd Asia-Pacific Economic Cooperation Economic Leaders' Meeting in Shenzhen, China, marking the former's first such agreement with a Latin American country.",
@@ -555,7 +786,7 @@
      ]
     },
     {
-     "testo": "Somalia expels the ambassador of the United Arab Emirates, saying the country undermined Somalia's sovereignty.",
+     "testo": "Somalia expels the ambassador from the United Arab Emirates, saying the country undermined Somalia's sovereignty.",
      "contesto": [
       "Somalia–United Arab Emirates relations"
      ],
@@ -570,7 +801,7 @@
       "Somalia",
       "United Arab Emirates"
      ],
-     "testo_it": "La Somalia espelle l'ambasciatore degli Emirati Arabi Uniti, dicendo che il paese ha minato la sovranità della Somalia.",
+     "testo_it": "La Somalia espelle l'ambasciatore dagli Emirati Arabi Uniti, dicendo che il paese ha minato la sovranità della Somalia.",
      "contesto_it": [
       "Relazioni Somalia-Emirati Arabi Uniti"
      ]
@@ -578,7 +809,7 @@
     {
      "testo": "An Israeli court extends the detention of Gaza's Kamal Edwan hospital director Hussam Abu Safiya by six months.",
      "contesto": [
-      "Palestinians in Israeli custody"
+      "Palestinians in Israeli custody, Gaza Strip healthcare collapse"
      ],
      "categoria": "Law and crime",
      "fonti": [
@@ -589,12 +820,13 @@
      ],
      "link": [
       "Judiciary of Israel",
+      "Gaza",
       "Kamal Edwan hospital",
       "Hussam Abu Safiya"
      ],
      "testo_it": "Un tribunale israeliano estende di sei mesi la detenzione del direttore dell'ospedale di Kamal Edwan a Gaza, Hussam Abu Safiya.",
      "contesto_it": [
-      "Palestinesi in custodia israeliana"
+      "Palestinesi in custodia israeliana, crollo dell'assistenza sanitaria nella Striscia di Gaza"
      ]
     },
     {
@@ -621,7 +853,7 @@
      ]
     },
     {
-     "testo": "Incumbent president of El Salvador Nayib Bukele presents his presidential candidacy to the Supreme Electoral Court seeking registration ahead of the 2027 elections. He is running for a third presidential term that will last six years.",
+     "testo": "Incumbent Salvadoran president Nayib Bukele presents his presidential candidacy to the Supreme Electoral Court seeking registration ahead of the 2027 elections. He is running for a third presidential term after Bukele's government aproved constitutional amendments to abolish term limits in 2025.",
      "contesto": [
       "2027 Salvadoran presidential election"
      ],
@@ -633,11 +865,15 @@
       }
      ],
      "link": [
+      "El Salvador",
       "President of El Salvador",
       "Nayib Bukele",
-      "Supreme Electoral Court (El Salvador)"
+      "Supreme Electoral Court (El Salvador)",
+      "Cabinet of Nayib Bukele",
+      "Constitution of El Salvador",
+      "Term limit"
      ],
-     "testo_it": "Il presidente in carica di El Salvador Nayib Bukele presenta la sua candidatura presidenziale alla Corte Elettorale Suprema in cerca di registrazione in vista delle elezioni del 2027. È in carica per un terzo mandato presidenziale che durerà sei anni.",
+     "testo_it": "Il presidente salvadoregno in carica Nayib Bukele presenta la sua candidatura presidenziale alla Corte Elettorale Suprema in cerca di registrazione in vista delle elezioni del 2027. È in corsa per un terzo mandato presidenziale dopo che il governo di Bukele ha dimostrato emendamenti costituzionali per abolire i limiti di mandato nel 2025.",
      "contesto_it": [
       "Elezioni presidenziali salvadoregne (2027)"
      ]
@@ -884,7 +1120,7 @@
      ]
     },
     {
-     "testo": "An operation against cartel de Jalisco Nueva Generacion cells in Zapopan, Jalisco left three gunmen killed and three arrested, incluided a ringleader. Authorities They concluded the operation after seven hours of gunfight.",
+     "testo": "An operation against cartel de Jalisco Nueva Generacion cells in Zapopan, Jalisco left three gunmen killed and three arrested, including a ringleader. Authorities concluded the operation after seven hours of gunfight.",
      "contesto": [
       "Mexican drug war"
      ],
@@ -900,7 +1136,7 @@
       "Zapopan",
       "Jalisco"
      ],
-     "testo_it": "Un'operazione contro le cellule del cartello di Jalisco Nueva Generacion a Zapopan, Jalisco ha lasciato tre uomini uccisi e tre arrestati, ha insinuato un capobanda. Le autorità hanno concluso l'operazione dopo sette ore di scontro a fuoco.",
+     "testo_it": "Un'operazione contro le cellule del cartello de Jalisco Nueva Generacion a Zapopan, Jalisco ha lasciato tre uomini uccisi e tre arrestati, tra cui un capobanda. Le autorità hanno concluso l'operazione dopo sette ore di scontro a fuoco.",
      "contesto_it": [
       "Guerra alla droga in Messico"
      ]
