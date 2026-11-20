@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-20T02:23:45Z",
+ "generato": "2026-11-20T11:50:29Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -57,7 +57,7 @@
    "link": [
     "Nvidia",
     "Jensen Huang",
-    "Jensen Huang spying scandal"
+    "Jensen Huang scandal"
    ],
    "testo_it": "Il CEO di Nvidia Jensen Huang si dimette tra le accuse di essere stato preso di mira da una spia cinese e di avere relazioni extraconiugali."
   },
@@ -82,7 +82,37 @@
  "giorni": [
   {
    "data": "2026-11-20",
-   "voci": []
+   "voci": [
+    {
+     "testo": "A Russian Kh-101 cruise missile strikes a field near the village of Nowy Lipowiec in Lublin Voivodeship, Poland, around 60 miles from a Coalition of the Willing training excercise. Air raid alerts are issued in Lublin and Podkarpackie voivodeships.",
+     "contesto": [
+      "Russo-Ukrainian war",
+      "Violations of non-combatant airspace during the Russo-Ukrainian war"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "AOL",
+       "url": "https://www.aol.co.uk/articles/suspected-russian-projectile-lands-poland-095529000.html"
+      }
+     ],
+     "link": [
+      "Russian Armed Forces",
+      "Kh-101",
+      "Cruise missile",
+      "Nowy Lipowiec",
+      "Lublin Voivodeship",
+      "Poland",
+      "Coalition of the willing (Russo-Ukrainian war)",
+      "Podkarpackie Voivodeship"
+     ],
+     "testo_it": "Un missile da crociera russo Kh-101 colpisce un campo vicino al villaggio di Nowy Lipowiec nel Voivodato di Lublino, in Polonia, a circa 60 miglia da una Coalizione dell'esercitazione Willing.",
+     "contesto_it": [
+      "Guerra russo-ucraina",
+      "Violazioni dello spazio aereo non combattente durante la guerra russo-ucraina"
+     ]
+    }
+   ]
   },
   {
    "data": "2026-11-19",
@@ -281,7 +311,9 @@
     },
     {
      "testo": "In Bangladesh, banned Awami League members loot and burn properties in Gopalganj District, including BNP MP Md. Selimuzzaman Mollah's ancestral home, a police station, and a Grameen Bank branch, and vandalise BNP and Jamaat-e-Islami properties. Separately, attackers burn the homes of former politicians Rahim Ullah in Feni District, Shahriar Alam in Rajshahi District and Mahmud Hasan Sumon in Mymensingh District.",
-     "contesto": [],
+     "contesto": [
+      "Aftermath of the July Uprising"
+     ],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
       {
@@ -291,14 +323,6 @@
       {
        "nome": "The Financial Express",
        "url": "https://thefinancialexpress.com.bd/national/ex-al-mps-house-looted-set-on-fire-in-feni"
-      },
-      {
-       "nome": "The Business Standard in Bengali",
-       "url": "https://www.tbsnews.net/bangla/bangladesh/news-details-567881"
-      },
-      {
-       "nome": "NTV in Bengali",
-       "url": "https://www.ntvbd.com/bangladesh/news-1839345"
       }
      ],
      "link": [
@@ -321,7 +345,38 @@
       "Mahmud Hasan Sumon",
       "Mymensingh District"
      ],
-     "testo_it": "In Bangladesh, i membri dell'Awami League banditi saccheggiano e bruciano proprietà nel distretto di Gopalganj, tra cui la casa ancestrale di Selimuzzaman Mollah, una stazione di polizia e una filiale della Grameen Bank, e vandalizzano le proprietà di BNP e Jamaat-e-Islami. Separatamente, gli aggressori bruciano le case degli ex politici Rahim Ullah nel distretto di Feni, Shahriar Alam nel distretto di Rajshahi e Mah."
+     "testo_it": "In Bangladesh, i membri dell'Awami League banditi saccheggiano e bruciano proprietà nel distretto di Gopalganj, tra cui la casa ancestrale di Selimuzzaman Mollah, una stazione di polizia e una filiale della Grameen Bank, e vandalizzano le proprietà di BNP e Jamaat-e-Islami. Separatamente, gli aggressori bruciano le case degli ex politici Rahim Ullah nel distretto di Feni, Shahriar Alam nel distretto di Rajshahi e Mah.",
+     "contesto_it": [
+      "Dopo la rivolta di luglio"
+     ]
+    },
+    {
+     "testo": "Border Guard Bangladesh deploys 97 platoons across seven districts, with five more on standby, amid ongoing political violence and labour unrest.",
+     "contesto": [
+      "Aftermath of the July Uprising"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "The Guardian",
+       "url": "https://www.theguardian.com/world/2026/nov/19/bangladesh-violent-protest-sheikh-hasina-planned-return"
+      },
+      {
+       "nome": "The Daily Star",
+       "url": "https://www.thedailystar.net/news/news/bgb-deploys-96-platoons-seven-districts-4327946"
+      }
+     ],
+     "link": [
+      "Border Guard Bangladesh",
+      "Platoon",
+      "Districts of Bangladesh",
+      "Political violence",
+      "Strike action"
+     ],
+     "testo_it": "La Guardia di frontiera del Bangladesh distribuisce 97 plotoni in sette distretti, con altri cinque in standby, in mezzo alle continue violenze politiche e ai disordini del lavoro.",
+     "contesto_it": [
+      "Dopo la rivolta di luglio"
+     ]
     },
     {
      "testo": "The Joint Organisations Data Initiative reports that Saudi Arabia's oil exports rose in September to their highest level since the outbreak of the war in February, despite the Houthi attacks on Red Sea ports and infrastructure.",
@@ -343,6 +398,45 @@
      "testo_it": "La Joint Organizations Data Initiative riferisce che le esportazioni di petrolio dell'Arabia Saudita sono salite al livello più alto dallo scoppio della guerra a febbraio, nonostante gli attacchi Houthi ai porti e alle infrastrutture del Mar Rosso.",
      "contesto_it": [
       "Impatto economico della guerra del 2026 in Iran"
+     ]
+    },
+    {
+     "testo": "Across Bangladesh, 341 garment factories remain closed amid ongoing minimum wage protests, as police fire tear gas and stun grenades to disperse demonstrators in Ashulia and clear blockades on the Dhaka–Mymensingh Highway in Gazipur, while Bangladesh Nationalist Party members take up positions along highway areas in Sreepur and authorities tighten security at Kashimpur Central Jail.",
+     "contesto": [
+      "2026 Bangladesh garment workers protests"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "New Age",
+       "url": "https://www.newagebd.net/post/country/323243/341-factories-shut-amid-rmg-wage-protests"
+      },
+      {
+       "nome": "The Business Standard",
+       "url": "https://www.tbsnews.net/bangladesh/workers-continue-work-stoppage-savar-ashulia-50-gazipur-factories-shut-1607406"
+      },
+      {
+       "nome": "Prothom Alo",
+       "url": "https://en.prothomalo.com/bangladesh/yzmt739avb"
+      }
+     ],
+     "link": [
+      "Bangladesh",
+      "Textile industry in Bangladesh",
+      "Minimum wage",
+      "Bangladesh Police",
+      "Tear gas",
+      "Stun grenade",
+      "Ashulia",
+      "N3 (Bangladesh)",
+      "Gazipur",
+      "Bangladesh Nationalist Party",
+      "Sreepur Upazila, Gazipur",
+      "Kashimpur Central Jail"
+     ],
+     "testo_it": "In tutto il Bangladesh, 341 fabbriche di abbigliamento rimangono chiuse tra le proteste per il salario minimo in corso, mentre la polizia spara gas lacrimogeni e granate stordenti per disperdere i manifestanti in Ashulia e cancellare i blocchi sulla Dhaka-Mymensingh Highway a Gazipur, mentre i membri del Partito nazionalista del Bangladesh occupano posizioni lungo le aree autostradali a Sreepur e le autorità rafforzano la sicurezza a Kashippur Central Jail.",
+     "contesto_it": [
+      "Proteste dei lavoratori del Bangladesh (2026)"
      ]
     },
     {
@@ -381,7 +475,7 @@
      "categoria": "International relations",
      "fonti": [
       {
-       "nome": "Philippine Daily Inquirer",
+       "nome": "AFP via Philippine Daily Inquirer",
        "url": "https://business.inquirer.net/621752/ph-inks-first-latin-american-free-trade-deal-with-chile/"
       }
      ],
@@ -524,6 +618,28 @@
      "testo_it": "La Corte Internazionale di Giustizia stabilisce che il Myanmar ha commesso un genocidio contro il popolo Rohingya.",
      "contesto_it": [
       "Il caso del genocidio dei Rohingya"
+     ]
+    },
+    {
+     "testo": "Incumbent president of El Salvador Nayib Bukele presents his presidential candidacy to the Supreme Electoral Court seeking registration ahead of the 2027 elections. He is running for a third presidential term that will last six years.",
+     "contesto": [
+      "2027 Salvadoran presidential election"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/el-salvador-president-nayib-bukele-reelection-gangs-fbbf0ec3bba7966fa1a5d71d04e04e29"
+      }
+     ],
+     "link": [
+      "President of El Salvador",
+      "Nayib Bukele",
+      "Supreme Electoral Court (El Salvador)"
+     ],
+     "testo_it": "Il presidente in carica di El Salvador Nayib Bukele presenta la sua candidatura presidenziale alla Corte Elettorale Suprema in cerca di registrazione in vista delle elezioni del 2027. È in carica per un terzo mandato presidenziale che durerà sei anni.",
+     "contesto_it": [
+      "Elezioni presidenziali salvadoregne (2027)"
      ]
     },
     {
@@ -955,7 +1071,7 @@
       "NASA",
       "Space probe",
       "Voyager 1",
-      "Light-year"
+      "Light-second"
      ],
      "testo_it": "La sonda spaziale Voyager 1 della NASA raggiunge la distanza di un giorno luce dalla Terra, essendo il primo oggetto artificiale a raggiungere quella distanza, dopo il lancio nel 1977."
     },
