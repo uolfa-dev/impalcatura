@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-21T02:25:29Z",
+ "generato": "2026-11-21T11:16:40Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -82,7 +82,37 @@
  "giorni": [
   {
    "data": "2026-11-21",
-   "voci": []
+   "voci": [
+    {
+     "testo": "At least 50 garment factories in Savar and Ashulia, Bangladesh, declare general holidays after workers stage sit-ins and work stoppages over minimum wage demands, while police announce that 96 people, including five labour leaders, have been arrested in connection with the 4 November clashes on the Dhaka–Aricha Highway.",
+     "contesto": [
+      "2026 Bangladesh garment workers protests"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "The Daily Star",
+       "url": "https://www.thedailystar.net/news/news/50-factories-savar-ashulia-declare-holidays-amid-wage-protests-4329371"
+      }
+     ],
+     "link": [
+      "Textile industry in Bangladesh",
+      "Savar Upazila",
+      "Ashulia",
+      "Bangladesh",
+      "Sit-in",
+      "Strike action",
+      "Minimum wage",
+      "Bangladesh Police",
+      "Trade union",
+      "N5 (Bangladesh)"
+     ],
+     "testo_it": "Almeno 50 fabbriche di abbigliamento a Savar e Ashulia, in Bangladesh, dichiarano le vacanze generali dopo che i lavoratori mettono in scena sit-in e interruzioni del lavoro per richieste di salario minimo, mentre la polizia annuncia che 96 persone, tra cui cinque leader sindacali, sono state arrestate in relazione agli scontri del 4 novembre sulla Dhaka-Aricha Highway.",
+     "contesto_it": [
+      "Proteste dei lavoratori del Bangladesh (2026)"
+     ]
+    }
+   ]
   },
   {
    "data": "2026-11-20",
@@ -209,7 +239,7 @@
      ]
     },
     {
-     "testo": "Two Salvadoran soldiers are killed and two more are injured when explosives they are handling detonate.",
+     "testo": "Three Salvadoran soldiers are killed and another is injured when explosives they are handling detonate.",
      "contesto": [
       "Haitian conflict",
       "Salvadoran military intervention in Haiti"
@@ -217,14 +247,14 @@
      "categoria": "Armed conflicts and attacks",
      "fonti": [
       {
-       "nome": "AP",
-       "url": "https://apnews.com/article/el-salvador-haiti-troops-killed-injured-bukele-c3192c1276fd235b727666a05062db00"
+       "nome": "La Prensa Gráfica",
+       "url": "https://www.laprensagrafica.com/elsalvador/dos-soldados-salvadorenos-muertos-en-haiti-tras-explosion-en-campamento-20261120-0033.html"
       }
      ],
      "link": [
       "El Salvador"
      ],
-     "testo_it": "Due soldati salvadoregni vengono uccisi e altri due feriti durante la detonazione di esplosivi.",
+     "testo_it": "Tre soldati salvadoregni vengono uccisi e un altro viene ferito quando gli esplosivi che stanno maneggiando detonano.",
      "contesto_it": [
       "Conflitto haitiano",
       "Intervento militare salvadoregno ad Haiti"
@@ -254,7 +284,7 @@
      ]
     },
     {
-     "testo": "30 people are dead and around 300 are missing after a ship carrying funeral goers capsizes in Bayelsa State, Nigeria.",
+     "testo": "30 people are killed and around 300 are missing after a ship carrying funeral goers capsizes in Bayelsa State, Nigeria.",
      "contesto": [
       "2026 Bayelsa boat disaster"
      ],
