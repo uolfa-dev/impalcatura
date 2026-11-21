@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-20T20:29:06Z",
+ "generato": "2026-11-21T02:25:29Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -80,6 +80,10 @@
   }
  ],
  "giorni": [
+  {
+   "data": "2026-11-21",
+   "voci": []
+  },
   {
    "data": "2026-11-20",
    "voci": [
@@ -205,7 +209,7 @@
      ]
     },
     {
-     "testo": "Two Salvadoran soldiers are killed and two more are injured when explosive materials they are handling detonates.",
+     "testo": "Two Salvadoran soldiers are killed and two more are injured when explosives they are handling detonate.",
      "contesto": [
       "Haitian conflict",
       "Salvadoran military intervention in Haiti"
@@ -213,21 +217,44 @@
      "categoria": "Armed conflicts and attacks",
      "fonti": [
       {
-       "nome": "La Prensa Gráfica",
-       "url": "https://www.laprensagrafica.com/elsalvador/dos-soldados-salvadorenos-muertos-en-haiti-tras-explosion-en-campamento-20261120-0033.html"
+       "nome": "AP",
+       "url": "https://apnews.com/article/el-salvador-haiti-troops-killed-injured-bukele-c3192c1276fd235b727666a05062db00"
       }
      ],
      "link": [
       "El Salvador"
      ],
-     "testo_it": "Due soldati salvadoregni vengono uccisi e altri due feriti quando i materiali esplosivi che stanno maneggiando detonano.",
+     "testo_it": "Due soldati salvadoregni vengono uccisi e altri due feriti durante la detonazione di esplosivi.",
      "contesto_it": [
       "Conflitto haitiano",
       "Intervento militare salvadoregno ad Haiti"
      ]
     },
     {
-     "testo": "30 people are dead and around 300 are missing after a ship carrying funeral goers capsized in Bayelsa State, Nigeria.",
+     "testo": "The governments of Haiti and El Salvador agree to build three new prisons to incarcerate Haitian gang members.",
+     "contesto": [
+      "Haitian conflict",
+      "Salvadoran military intervention in Haiti"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/el-salvador-haiti-troops-killed-injured-bukele-c3192c1276fd235b727666a05062db00"
+      }
+     ],
+     "link": [
+      "Haiti",
+      "El Salvador"
+     ],
+     "testo_it": "I governi di Haiti e El Salvador concordano di costruire tre nuove prigioni per incarcerare i membri delle bande haitiane.",
+     "contesto_it": [
+      "Conflitto haitiano",
+      "Intervento militare salvadoregno ad Haiti"
+     ]
+    },
+    {
+     "testo": "30 people are dead and around 300 are missing after a ship carrying funeral goers capsizes in Bayelsa State, Nigeria.",
      "contesto": [
       "2026 Bayelsa boat disaster"
      ],
@@ -241,7 +268,7 @@
      "link": [
       "Bayelsa State"
      ],
-     "testo_it": "30 persone sono morte e circa 300 sono scomparse dopo che una nave che trasportava i visitatori funebri è stata capovolta nello Stato di Bayelsa, in Nigeria.",
+     "testo_it": "30 persone sono morte e circa 300 sono scomparse dopo che una nave che trasportava i visitatori funebri si è rovesciata nello stato di Bayelsa, in Nigeria.",
      "contesto_it": [
       "Disastro di Bayelsa (2026)"
      ]
@@ -297,6 +324,24 @@
      "contesto_it": [
       "Politica dell'Iraq"
      ]
+    },
+    {
+     "testo": "Anthropic employee and mathematician Levent Alpöge releases a claimed proof of the Riemann hypothesis. The proof was created with assistance from Claude.",
+     "contesto": [],
+     "categoria": "Science and technology",
+     "fonti": [
+      {
+       "nome": "BBC",
+       "url": "https://www.bbc.com/news/articles/c6pqr2g7w059o"
+      }
+     ],
+     "link": [
+      "Anthropic",
+      "Levent Alpöge",
+      "Riemann hypothesis",
+      "Mathematics and artificial intelligence"
+     ],
+     "testo_it": "L'impiegato e matematico antropico Levent Alpöge rilascia una prova rivendicata dell'ipotesi di Riemann. La prova è stata creata con l'assistenza di Claude."
     }
    ]
   },
@@ -762,6 +807,33 @@
      ]
     },
     {
+     "testo": "Honduran president Nasry Asfura and United States secretary of defense Pete Hegseth sign two security cooperation agreements at Soto Cano Air Base, Honduras.",
+     "contesto": [
+      "Operation Southern Spear",
+      "Honduras–United States relations"
+     ],
+     "categoria": "International relations",
+     "fonti": [
+      {
+       "nome": "The Latin News",
+       "url": "https://www.latintimes.com/hegseth-asfura-pactos-defensa-operaciones-contra-narcotrafico-honduras-601616"
+      }
+     ],
+     "link": [
+      "President of Honduras",
+      "Nasry Asfura",
+      "United States secretary of defense",
+      "Pete Hegseth",
+      "Soto Cano Air Base",
+      "Honduras"
+     ],
+     "testo_it": "Il presidente honduregno Nasry Asfura e il segretario alla difesa degli Stati Uniti Pete Heggeth firmano due accordi di cooperazione in materia di sicurezza presso la base aerea di Soto Cano, in Honduras.",
+     "contesto_it": [
+      "Operazione Southern Spear",
+      "Relazioni Honduras-Stati Uniti"
+     ]
+    },
+    {
      "testo": "Pakistan and Qatar sign a memorandum of understanding on cooperation between their Federal Constabulary and Internal Security Force, respectively.",
      "contesto": [
       "Pakistan–Qatar relations"
@@ -1139,6 +1211,29 @@
      "testo_it": "Un'operazione contro le cellule del cartello de Jalisco Nueva Generacion a Zapopan, Jalisco ha lasciato tre uomini uccisi e tre arrestati, tra cui un capobanda. Le autorità hanno concluso l'operazione dopo sette ore di scontro a fuoco.",
      "contesto_it": [
       "Guerra alla droga in Messico"
+     ]
+    },
+    {
+     "testo": "At least 12 people are killed during separate attacks in the department of Yorito, Honduras, which the police attribute to organized crime groups.",
+     "contesto": [
+      "Crime in Honduras"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/americas/least-12-dead-organized-crime-attacks-honduras-police-spokesman-says-2026-11-18/"
+      }
+     ],
+     "link": [
+      "Departments of Honduras",
+      "Yorito",
+      "Honduras",
+      "National Police of Honduras"
+     ],
+     "testo_it": "Almeno 12 persone vengono uccise durante gli attacchi separati nel dipartimento di Yorito, in Honduras, che la polizia attribuisce ai gruppi criminali organizzati.",
+     "contesto_it": [
+      "Criminalità in Honduras"
      ]
     },
     {
@@ -3090,394 +3185,6 @@
      "contesto_it": [
       "UEFA Nations League (2026-27)"
      ]
-    }
-   ]
-  },
-  {
-   "data": "2026-11-14",
-   "voci": [
-    {
-     "testo": "The Iranian military attacks an American military facility in Bahrain with drones and missiles in one of the largest attacks on the country in months.",
-     "contesto": [
-      "2026 Iran war",
-      "Bahrain in the 2026 Iran war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "The National News",
-       "url": "https://www.thenationalnews.com/news/gulf/2026/11/15/bahrain-issues-first-nationwide-alert-in-months-as-iran-claims-attack-on-base-hosting-us-helicopters/"
-      }
-     ],
-     "link": [
-      "Iran",
-      "Islamic Revolutionary Guard Corps",
-      "United States Armed Forces",
-      "Bahrain"
-     ],
-     "testo_it": "L'esercito iraniano attacca una struttura militare americana in Bahrain con droni e missili in uno dei più grandi attacchi al paese in mesi.",
-     "contesto_it": [
-      "Guerra in Iran (2026)",
-      "Il Bahrein nella guerra del 2026 in Iran"
-     ]
-    },
-    {
-     "testo": "Ahmed Abdallah Bishr, the general chief of staff for the Gathering of Sudan Liberation Forces (GSLF), dies from wounds suffered a month ago during an assassination attack by drone strike against his home in Nyala, South Darfur, Sudan.",
-     "contesto": [
-      "Sudanese civil war",
-      "Darfur campaign"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Sudan Tribune",
-       "url": "https://sudantribune.com/article/321241"
-      }
-     ],
-     "link": [
-      "Assassination",
-      "Drone warfare",
-      "Nyala, Sudan",
-      "South Darfur",
-      "Sudan"
-     ],
-     "testo_it": "Ahmed Abdallah Bishr, il capo di stato maggiore delle forze di liberazione del Sudan (GSLF), muore per le ferite subite un mese fa durante un attacco di droni contro la sua casa a Nyala, Sud Darfur, Sudan.",
-     "contesto_it": [
-      "Guerra civile sudanese",
-      "Campagna del Darfur"
-     ]
-    },
-    {
-     "testo": "The Philippines wins the inaugural Eurovision Song Contest Asia held in Bangkok, Thailand with the song \"Sobra-Sobra\" by Carmelle.",
-     "contesto": [
-      "Eurovision Song Contest Asia"
-     ],
-     "categoria": "Arts and culture",
-     "fonti": [
-      {
-       "nome": "AFP",
-       "url": "https://www.afp.com/en/philippines-wins-eurovisions-first-asia-contest"
-      },
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/thailand-eurovision-asia-2026-carmelle-winner-099ca558c4638949e637d3a8f8061d6d"
-      }
-     ],
-     "link": [
-      "Philippines in the Eurovision Song Contest Asia",
-      "Eurovision Song Contest Asia",
-      "Bangkok",
-      "Thailand",
-      "Sobra-Sobra",
-      "Carmelle Collado"
-     ],
-     "testo_it": "Le Filippine vincono l'Eurovision Song Contest Asia che si tiene a Bangkok, in Thailandia, con la canzone \"Sobra-Sobra\" di Carmelle.",
-     "contesto_it": [
-      "Eurovision Song Contest Asia"
-     ]
-    },
-    {
-     "testo": "The Bangladesh Garment Manufacturers and Exporters Association threatens to indefinitely close textile factories without pay under the Bangladesh Labour Act 2006, after ongoing wage protests force the shutdown of 55 units and halt production at 147 others.",
-     "contesto": [
-      "2026 Bangladesh garment workers protests"
-     ],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "AFP via The Straits Times",
-       "url": "https://www.straitstimes.com/asia/bangladesh-garment-makers-threaten-to-quit-wage-talks"
-      },
-      {
-       "nome": "The Business Standard",
-       "url": "https://www.tbsnews.net/economy/rmg/rmg-factory-owners-threaten-closures-under-no-work-no-pay-provision-amid-labour-unrest"
-      }
-     ],
-     "link": [
-      "Bangladesh Garment Manufacturers and Exporters Association",
-      "Lockout (industry)",
-      "Textile industry in Bangladesh",
-      "Minimum wage"
-     ],
-     "testo_it": "La Bangladesh Garment Manufacturers and Exporters Association minaccia di chiudere indefinitamente le fabbriche tessili senza retribuzione ai sensi del Bangladesh Labour Act 2006, dopo che le proteste salariali in corso costringono la chiusura di 55 unità e fermano la produzione a 147 altre.",
-     "contesto_it": [
-      "Proteste dei lavoratori del Bangladesh (2026)"
-     ]
-    },
-    {
-     "testo": "Canadian prime minister Mark Carney announces that negotiations for a free-trade agreement with the Philippines to eliminate more than 90% of tariff lines have concluded, with signing expected in 2027.",
-     "contesto": [
-      "Canada–Philippines relations, Free trade agreements of Canada"
-     ],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "AFP",
-       "url": "https://www.afp.com/en/canadas-carney-touts-philippine-trade-deal-asia-tour"
-      }
-     ],
-     "link": [
-      "Canada",
-      "Prime Minister of Canada",
-      "Mark Carney",
-      "Free trade agreement",
-      "Philippines",
-      "Tariff"
-     ],
-     "testo_it": "Il primo ministro canadese Mark Carney annuncia che i negoziati per un accordo di libero scambio con le Filippine per eliminare oltre il 90% delle linee tariffarie sono conclusi, con la firma prevista nel 2027.",
-     "contesto_it": [
-      "Relazioni Canada-Filippine, Accordi di libero scambio del Canada"
-     ]
-    },
-    {
-     "testo": "A bus overturns on the Garzón–Neiva highway in Colombia, killing six people and wounding eleven more.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/colombia-bus-crash-caqueta-driver-sleep-083df4d921603bc7566ce9299174b20d"
-      }
-     ],
-     "link": [
-      "Garzón, Huila",
-      "Neiva, Huila",
-      "Highway",
-      "Colombia"
-     ],
-     "testo_it": "Un autobus capovolge l'autostrada Garzón-Neiva in Colombia, uccidendo sei persone e ferendone altre undici."
-    },
-    {
-     "testo": "Four workers are killed after a methane gas explosion at a mine in Chita, Boyacá Department, Colombia.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/colombia-mine-explosion-chita-bodies-77de9fe1831a8c03696e617149bb92d9"
-      }
-     ],
-     "link": [
-      "Methane",
-      "Gas explosion",
-      "Mining",
-      "Boyacá Department",
-      "Colombia"
-     ],
-     "testo_it": "Quattro lavoratori vengono uccisi dopo un'esplosione di gas metano in una miniera a Chita, Dipartimento di Boyacá, Colombia."
-    },
-    {
-     "testo": "The Slagdijkstermolen windmill in Friesland, Netherlands, burns down.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "Omrop Fryslân in Dutch",
-       "url": "https://www.omropfryslan.nl/nl/nieuws/18947046/historische-slagdijkstermolen-bij-stiens-volledig-verwoest-door-felle-brand"
-      }
-     ],
-     "link": [
-      "Slagdijkstermolen, Feinsum",
-      "Friesland",
-      "Netherlands"
-     ],
-     "testo_it": "Il mulino a vento Slagdijkstermolen in Frisia, Paesi Bassi, brucia."
-    },
-    {
-     "testo": "Eight more people are reported to have died from dengue fever in Bangladesh, bringing this year's outbreak's death toll to 491.",
-     "contesto": [],
-     "categoria": "Health and environment",
-     "fonti": [
-      {
-       "nome": "BSS",
-       "url": "https://www.bssnews.net/others/445684"
-      }
-     ],
-     "link": [
-      "Dengue fever",
-      "Bangladesh",
-      "Mortality rate"
-     ],
-     "testo_it": "Altre otto persone sono morte di febbre dengue in Bangladesh, portando il bilancio delle vittime dell'epidemia di quest'anno a 491."
-    },
-    {
-     "testo": "The Mexican government introduces penalties and fines for the fraudulent commercial use of government logos, official documents, and institutional identities to deceive the public. Although the government stated that the reform targeted fraud and impersonation rather than satire, critics warned that its broad wording could threaten freedom of expression, being dubbed the \"Anti-Meme Law\".",
-     "contesto": [
-      "Censorship in Mexico, Internet censorship in Mexico"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "El Financiero in Spanish",
-       "url": "https://www.elfinanciero.com.mx/nacional/2026/11/14/publican-la-ley-antimemes-en-el-dof-estas-son-las-multas-y-penas-de-carcel/"
-      }
-     ],
-     "link": [
-      "Mexico",
-      "Federal government of Mexico",
-      "Fraud",
-      "Impersonation",
-      "Satire",
-      "Freedom of expression"
-     ],
-     "testo_it": "Il governo messicano introduce sanzioni e multe per l'uso commerciale fraudolento di loghi governativi, documenti ufficiali e identità istituzionali per ingannare il pubblico. Anche se il governo ha dichiarato che la riforma ha mirato alla frode e all'impersonificazione piuttosto che alla satira, i critici hanno avvertito che la sua ampia formulazione potrebbe minacciare la libertà di espressione, essendo soprannominata la \"Legge anti-mememe\".",
-     "contesto_it": [
-      "Censura in Messico, censura su Internet in Messico"
-     ]
-    },
-    {
-     "testo": "Border Guard Bangladesh seize 48 high-power explosive gel sticks, 100 detonators, and 11 fuses during an operation along the Bangladesh–India border in Kanaighat Upazila, Sylhet District.",
-     "contesto": [
-      "Crime in Bangladesh"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "BSS",
-       "url": "https://www.bssnews.net/district/445828"
-      }
-     ],
-     "link": [
-      "Border Guard Bangladesh",
-      "Explosive",
-      "Detonator",
-      "Fuse (explosives)",
-      "Bangladesh–India border",
-      "Kanaighat Upazila",
-      "Sylhet District"
-     ],
-     "testo_it": "La Guardia di frontiera del Bangladesh ha sequestrato 48 bastoncini di gel esplosivi ad alta potenza, 100 detonatori e 11 fusibili durante un'operazione lungo il confine Bangladesh-India a Kanaighat Upazila, nel distretto di Sylhet.",
-     "contesto_it": [
-      "Criminalità in Bangladesh"
-     ]
-    },
-    {
-     "testo": "The Guatemalan Army deploys a battalion to the departments of Zacapa, Izabal, and Chiquimula following an attack in the Zacapa Department the previous day that killed five people.",
-     "contesto": [
-      "Crime in Guatemala"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "Prensa Libre in Spanish",
-       "url": "https://www.prensalibre.com/guatemala/justicia/ejercito-moviliza-hasta-600-soldados-tras-siete-asesinatos-en-zacapa-e-izabal-que-revelan-las-investigaciones-breaking/"
-      }
-     ],
-     "link": [
-      "Guatemala",
-      "Armed Forces of Guatemala",
-      "Battalion",
-      "Departments of Guatemala",
-      "Zacapa Department",
-      "Izabal Department",
-      "Chiquimula Department"
-     ],
-     "testo_it": "L'esercito guatemalteco schiera un battaglione nei dipartimenti di Zacapa, Izabal e Chiquimula a seguito di un attacco nel dipartimento di Zacapa il giorno precedente che ha ucciso cinque persone.",
-     "contesto_it": [
-      "Criminalità in Guatemala"
-     ]
-    },
-    {
-     "testo": "An arson attack on the home of journalist Rolando Rodríguez, associate deputy editor of the Panamanian newspaper La Prensa, burns two cars and the entrance of the house.",
-     "contesto": [
-      "Crime in Panama"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "El Sol de México in Spanish",
-       "url": "https://oem.com.mx/elsoldemexico/mundo/lanzan-explosivo-contra-la-casa-de-rolando-rodriguez-periodista-de-la-prensa-panama-33130441"
-      }
-     ],
-     "link": [
-      "Arson",
-      "La Prensa (Panama City)"
-     ],
-     "testo_it": "Un incendio doloso nella casa del giornalista Rolando Rodríguez, vicedirettore associato del giornale panamense La Prensa, brucia due auto e l'ingresso della casa.",
-     "contesto_it": [
-      "Criminalità a Panama"
-     ]
-    },
-    {
-     "testo": "Student protesters, unions, and the yellow vests hold another nationwide protest in France, with over 100,000 participants.",
-     "contesto": [
-      "2026 European unrest",
-      "2026 French civil unrest"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "France 24",
-       "url": "https://www.france24.com/en/france/20261114-live-france-mobilises-in-fifth-wave-of-student-protests"
-      },
-      {
-       "nome": "Türkiye",
-       "url": "https://www.turkiyetoday.com/world/frances-weekend-rallies-draw-106000-by-official-count-while-unions-claim-200000-3232407"
-      }
-     ],
-     "link": [
-      "Education in France",
-      "Yellow vests movement",
-      "France"
-     ],
-     "testo_it": "I manifestanti studenteschi, i sindacati e i gilet gialli tengono un'altra protesta a livello nazionale in Francia, con oltre 100.000 partecipanti.",
-     "contesto_it": [
-      "Insurrezioni europee (2026)",
-      "Insurrezioni civili francesi (2026)"
-     ]
-    },
-    {
-     "testo": "The South Sudanese election commission postpones the country's first presidential and parliamentary elections since independence in 2011 from December 22, 2026, to February 11, 2027, amid political tensions and continuing violence.",
-     "contesto": [
-      "2027 South Sudanese general election"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "AFP via RFI",
-       "url": "https://www.rfi.fr/en/international-news/20261114-south-sudan-postpones-first-national-elections-until-february"
-      }
-     ],
-     "link": [
-      "South Sudan",
-      "Election commission",
-      "President of South Sudan",
-      "Transitional National Legislature (South Sudan)",
-      "Elections in South Sudan",
-      "2011 South Sudanese independence referendum",
-      "Politics of South Sudan",
-      "Jonglei clashes (2025–present)"
-     ],
-     "testo_it": "La commissione elettorale sud sudanese rinvia le prime elezioni presidenziali e parlamentari del paese dall'indipendenza nel 2011 dal 22 dicembre 2026 all'11 febbraio 2027, tra tensioni politiche e continue violenze.",
-     "contesto_it": [
-      "Elezioni generali del Sud Sudan (2027)"
-     ]
-    },
-    {
-     "testo": "The Italian Data Protection Authority fines American technology company Meta €805 million (US$887 million) after it was found that the Facebook app on Android had access to users' photos and videos without specific consent or disclosure.",
-     "contesto": [],
-     "categoria": "Science and technology",
-     "fonti": [
-      {
-       "nome": "BBC News",
-       "url": "https://www.bbc.com/news/articles/cwn83gxemk35o"
-      },
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/"
-      }
-     ],
-     "link": [
-      "Italy",
-      "Italian Data Protection Authority",
-      "United States",
-      "Meta Platforms",
-      "Euro",
-      "US$",
-      "Facebook",
-      "Mobile app",
-      "Android (operating system)"
-     ],
-     "testo_it": "L'Autorità Garante per la protezione dei dati personali multa la società americana Meta per 805 milioni di euro (887 milioni di dollari) dopo che è stato scoperto che l'app Facebook su Android aveva accesso alle foto e ai video degli utenti senza specifico consenso o divulgazione."
     }
    ]
   }
