@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-21T11:16:40Z",
+ "generato": "2026-11-21T19:25:11Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -9,6 +9,21 @@
   "completa": true
  },
  "itn": [
+  {
+   "testo": "The video game Grand Theft Auto VI achieves US$3.79 billion in sales within a day of its release, more than any other entertainment product in history.",
+   "contesto": [],
+   "categoria": "In primo piano",
+   "fonti": [
+    {
+     "nome": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI"
+    }
+   ],
+   "link": [
+    "Grand Theft Auto VI"
+   ],
+   "testo_it": "Il videogioco Grand Theft Auto VI raggiunge 3,79 miliardi di dollari di vendite entro un giorno dalla sua uscita, più di qualsiasi altro prodotto di intrattenimento nella storia."
+  },
   {
    "testo": "The space probe Voyager 1 (rendering shown) becomes the first human-made object to reach one light-day from Earth.",
    "contesto": [],
@@ -60,23 +75,6 @@
     "Jensen Huang scandal"
    ],
    "testo_it": "Il CEO di Nvidia Jensen Huang si dimette tra le accuse di essere stato preso di mira da una spia cinese e di avere relazioni extraconiugali."
-  },
-  {
-   "testo": "The Salvadoran military intervention in Haiti intensifies with airstrikes on 400 Mawozo's alleged headquarters and a deployment to the Sylvio Cator Stadium.",
-   "contesto": [],
-   "categoria": "In primo piano",
-   "fonti": [
-    {
-     "nome": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/Salvadoran_military_intervention_in_Haiti"
-    }
-   ],
-   "link": [
-    "Salvadoran military intervention in Haiti",
-    "400 Mawozo",
-    "Stade Sylvio Cator"
-   ],
-   "testo_it": "L'intervento militare salvadoregno ad Haiti si intensifica con attacchi aerei su 400 sedi di Mawozo e un dispiegamento allo stadio Sylvio Cator."
   }
  ],
  "giorni": [
@@ -84,12 +82,68 @@
    "data": "2026-11-21",
    "voci": [
     {
-     "testo": "At least 50 garment factories in Savar and Ashulia, Bangladesh, declare general holidays after workers stage sit-ins and work stoppages over minimum wage demands, while police announce that 96 people, including five labour leaders, have been arrested in connection with the 4 November clashes on the Dhaka–Aricha Highway.",
+     "testo": "Saudi Arabia intercepts three missiles fired at Riyadh by the Houthis.",
+     "contesto": [
+      "Yemeni civil war",
+      "Houthi–Saudi conflict"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh"
+      }
+     ],
+     "link": [
+      "Saudi Arabia",
+      "Riyadh",
+      "Houthis"
+     ],
+     "testo_it": "L'Arabia Saudita intercetta tre missili lanciati contro Riyadh dagli Houthi.",
+     "contesto_it": [
+      "Guerra civile yemenita",
+      "Conflitto Houthi-saudita"
+     ]
+    },
+    {
+     "testo": "The Finnish defence ministry imposes temporary airspace and maritime restrictions after a drone struck a Russian cargo vessel in international waters of the Gulf of Finland, causing a fire.",
+     "contesto": [
+      "Russo-Ukrainian war",
+      "2026 drone incursions into the Baltic states and Finland"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/russian-cargo-ship-hit-drone-baltic-finland-says"
+      }
+     ],
+     "link": [
+      "Finland",
+      "Ministry of Defence (Finland)",
+      "Airspace",
+      "Unmanned aerial vehicle",
+      "Russia",
+      "International waters",
+      "Gulf of Finland"
+     ],
+     "testo_it": "Il ministero della Difesa finlandese impone restrizioni temporanee dello spazio aereo e marittime dopo che un drone ha colpito una nave da carico russa nelle acque internazionali del Golfo di Finlandia, causando un incendio.",
+     "contesto_it": [
+      "Guerra russo-ucraina",
+      "2026 incursioni di droni nei paesi baltici e in Finlandia"
+     ]
+    },
+    {
+     "testo": "At least 80 garment factories in Savar and Ashulia, Bangladesh, declare general holidays after workers stage sit-ins and work stoppages over minimum wage demands, while police announce that 96 people, including five labour leaders, have been arrested in connection with the 4 November clashes on the Dhaka–Aricha Highway.",
      "contesto": [
       "2026 Bangladesh garment workers protests"
      ],
      "categoria": "Business and economy",
      "fonti": [
+      {
+       "nome": "The Business Standard",
+       "url": "https://www.tbsnews.net/economy/rmg/labour-unrest-least-12-factories-declare-holiday-amid-work-abstention-savar-1609261"
+      },
       {
        "nome": "The Daily Star",
        "url": "https://www.thedailystar.net/news/news/50-factories-savar-ashulia-declare-holidays-amid-wage-protests-4329371"
@@ -107,9 +161,83 @@
       "Trade union",
       "N5 (Bangladesh)"
      ],
-     "testo_it": "Almeno 50 fabbriche di abbigliamento a Savar e Ashulia, in Bangladesh, dichiarano le vacanze generali dopo che i lavoratori mettono in scena sit-in e interruzioni del lavoro per richieste di salario minimo, mentre la polizia annuncia che 96 persone, tra cui cinque leader sindacali, sono state arrestate in relazione agli scontri del 4 novembre sulla Dhaka-Aricha Highway.",
+     "testo_it": "Almeno 80 fabbriche di abbigliamento a Savar e Ashulia, in Bangladesh, dichiarano le vacanze generali dopo che i lavoratori mettono in scena sit-in e interruzioni del lavoro per richieste di salario minimo, mentre la polizia annuncia che 96 persone, tra cui cinque leader sindacali, sono state arrestate in relazione agli scontri del 4 novembre sulla Dhaka-Aricha Highway.",
      "contesto_it": [
       "Proteste dei lavoratori del Bangladesh (2026)"
+     ]
+    },
+    {
+     "testo": "Laid-off garment workers in Rupganj, Narayanganj District, block roads by felling trees and burning tires over unpaid wages.",
+     "contesto": [
+      "2026 Bangladesh garment workers protests"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "The Business Standard",
+       "url": "https://www.tbsnews.net/bangladesh/garment-workers-block-road-over-unpaid-wages-narayanganj-1609671"
+      }
+     ],
+     "link": [
+      "Rupganj Upazila",
+      "Narayanganj District",
+      "Felling",
+      "Tire fire",
+      "Wage theft"
+     ],
+     "testo_it": "I laid-off lavoratori dell'abbigliamento a Rupganj, distretto di Narayanganj, bloccano le strade abbattendo alberi e bruciando pneumatici per i salari non pagati.",
+     "contesto_it": [
+      "Proteste dei lavoratori del Bangladesh (2026)"
+     ]
+    },
+    {
+     "testo": "Border Guard Bangladesh deploys 90 platoons across seven districts, with four more on standby, amid ongoing political violence and strike action.",
+     "contesto": [
+      "2026 Bangladesh garment workers protests"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "Dhaka Tribune",
+       "url": "https://www.dhakatribune.com/bangladesh/425296/90-bgb-platoons-deployed-in-seven-districts"
+      }
+     ],
+     "link": [
+      "Border Guard Bangladesh",
+      "Platoon",
+      "Districts of Bangladesh",
+      "Political violence",
+      "Strike action"
+     ],
+     "testo_it": "La Guardia di frontiera del Bangladesh distribuisce 90 plotoni in sette distretti, con altri quattro in standby, tra violenze politiche in corso e azioni di sciopero.",
+     "contesto_it": [
+      "Proteste dei lavoratori del Bangladesh (2026)"
+     ]
+    },
+    {
+     "testo": "The Japanese trade ministry announces that Saudi Arabia agreed to triple the volume of crude oil stored in Japan to 24 million barrels, under Japan's joint stockpiling system with Saudi Arabia, Kuwait, and the United Arab Emirates.",
+     "contesto": [
+      "Japan–Saudi Arabia relations"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "Japan Today",
+       "url": "https://japantoday.com/category/business/saudi-arabia-agrees-to-triple-crude-stored-in-japan-amid-mideast-tensions"
+      }
+     ],
+     "link": [
+      "Ministry of Economy, Trade and Industry",
+      "Crude oil",
+      "Japan",
+      "Barrel (unit)",
+      "Global strategic petroleum reserves",
+      "Kuwait",
+      "United Arab Emirates"
+     ],
+     "testo_it": "Il ministero del commercio giapponese annuncia che l'Arabia Saudita ha accettato di triplicare il volume di greggio immagazzinato in Giappone a 24 milioni di barili, nell'ambito del sistema di stoccaggio congiunto del Giappone con l'Arabia Saudita, il Kuwait e gli Emirati Arabi Uniti.",
+     "contesto_it": [
+      "Relazioni Giappone-Arabia Saudita"
      ]
     }
    ]
@@ -284,7 +412,7 @@
      ]
     },
     {
-     "testo": "30 people are killed and around 300 are missing after a ship carrying funeral goers capsizes in Bayelsa State, Nigeria.",
+     "testo": "Thirty people are killed and around 300 are missing after a ship carrying funeral goers capsizes in Bayelsa State, Nigeria.",
      "contesto": [
       "2026 Bayelsa boat disaster"
      ],
@@ -296,11 +424,40 @@
       }
      ],
      "link": [
-      "Bayelsa State"
+      "Bayelsa State",
+      "Nigeria"
      ],
-     "testo_it": "30 persone sono morte e circa 300 sono scomparse dopo che una nave che trasportava i visitatori funebri si è rovesciata nello stato di Bayelsa, in Nigeria.",
+     "testo_it": "Trenta persone vengono uccise e circa 300 sono scomparse dopo che una nave che trasportava i visitatori funebri si è rovesciata nello stato di Bayelsa, in Nigeria.",
      "contesto_it": [
       "Disastro di Bayelsa (2026)"
+     ]
+    },
+    {
+     "testo": "Mexican special forces arrest Fausto Isidro Meza Flores, leader of the drug cartel Los Mazatlecos and one of the United States Federal Bureau of Investigation's ten most-wanted fugitives, and two associates during an operation in Guasave, Sinaloa, triggering armed clashes with suspected cartel members.",
+     "contesto": [
+      "Mexican drug war"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "AFP via France 24",
+       "url": "https://www.france24.com/en/live-news/20261121-mexico-captures-drug-kingpin-on-fbi-s-most-wanted-list"
+      }
+     ],
+     "link": [
+      "Mexican special forces",
+      "Fausto Isidro Meza Flores",
+      "Drug cartel",
+      "Los Mazatlecos",
+      "United States",
+      "Federal Bureau of Investigation",
+      "FBI Ten Most Wanted Fugitives",
+      "Guasave",
+      "Sinaloa"
+     ],
+     "testo_it": "Le forze speciali messicane arrestano Fausto Isidro Meza Flores, leader del cartello della droga Los Mazatlecos e uno dei dieci fuggitivi più ricercati del Federal Bureau of Investigation degli Stati Uniti, e due associati durante un'operazione a Guasave, Sinaloa, scatenando scontri armati con sospetti membri del cartello.",
+     "contesto_it": [
+      "Guerra alla droga in Messico"
      ]
     },
     {
@@ -361,7 +518,7 @@
      "categoria": "Science and technology",
      "fonti": [
       {
-       "nome": "BBC",
+       "nome": "BBC News",
        "url": "https://www.bbc.com/news/articles/c6pqr2g7w059o"
       }
      ],
@@ -909,7 +1066,7 @@
      ]
     },
     {
-     "testo": "An Israeli court extends the detention of Gaza's Kamal Edwan hospital director Hussam Abu Safiya by six months.",
+     "testo": "An Israeli court extends the detention of Gaza Strip's Kamal Edwan hospital director Hussam Abu Safiya by six months.",
      "contesto": [
       "Palestinians in Israeli custody, Gaza Strip healthcare collapse"
      ],
@@ -922,11 +1079,11 @@
      ],
      "link": [
       "Judiciary of Israel",
-      "Gaza",
+      "Gaza Strip",
       "Kamal Edwan hospital",
       "Hussam Abu Safiya"
      ],
-     "testo_it": "Un tribunale israeliano estende di sei mesi la detenzione del direttore dell'ospedale di Kamal Edwan a Gaza, Hussam Abu Safiya.",
+     "testo_it": "Un tribunale israeliano estende di sei mesi la detenzione del direttore dell'ospedale di Kamal Edwan nella Striscia di Gaza, Hussam Abu Safiya.",
      "contesto_it": [
       "Palestinesi in custodia israeliana, crollo dell'assistenza sanitaria nella Striscia di Gaza"
      ]
@@ -1827,7 +1984,7 @@
      "testo_it": "Quarantasei persone sono rimaste ferite dopo uno scontro tra due treni a Praga, nella Repubblica Ceca."
     },
     {
-     "testo": "A small boat reportedly carrying about a hundred people, mostly migrants, capsizes off Yenne, Senegal. Various sources report that either at least four or lesser bodies have been recovered, as several others are still missing. Search operations are launched by authorities.",
+     "testo": "A small boat reportedly carrying about a hundred people, mostly migrants, capsizes off Yenne, Senegal. Sources report that four bodies have been recovered, while several others are still missing. Search operations are launched by authorities.",
      "contesto": [],
      "categoria": "Disasters and accidents",
      "fonti": [
@@ -1845,7 +2002,7 @@
       "Senegal",
       "Search and rescue"
      ],
-     "testo_it": "Una piccola barca che trasporta circa un centinaio di persone, per lo più migranti, si rovescia al largo di Yenne, in Senegal. Varie fonti riferiscono che almeno quattro o meno corpi sono stati recuperati, poiché molti altri sono ancora dispersi. Le operazioni di ricerca sono avviate dalle autorità."
+     "testo_it": "Una piccola barca che trasporta circa un centinaio di persone, per lo più migranti, si rovescia al largo di Yenne, in Senegal. Fonti riferiscono che quattro corpi sono stati recuperati, mentre molti altri sono ancora dispersi. Le operazioni di ricerca sono avviate dalle autorità."
     },
     {
      "testo": "The Pan American Health Organization revokes the measles elimination statuses of Bolivia, Mexico, and the United States. For the U.S., the organization cited continuous domestic transmission for over 12 months amid more than 5,700 reported infections and multiple deaths in 2026.",
