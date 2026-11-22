@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-22T11:36:55Z",
+ "generato": "2026-11-22T19:47:24Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -81,6 +81,25 @@
   {
    "data": "2026-11-22",
    "voci": [
+    {
+     "testo": "The Russian corvette Merkury is substantially damaged by explosions and an onboard fire after being struck by a naval drone while docked at the port of Benghazi, Libya.",
+     "contesto": [],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/middle-east/libyas-eastern-government-suspects-drone-attack-caused-explosion-russian-ship-2026-11-22/"
+      }
+     ],
+     "link": [
+      "Russian corvette Merkury",
+      "Unmanned surface vehicle",
+      "One-way attack drone",
+      "Benghazi",
+      "Libya"
+     ],
+     "testo_it": "La corvetta russa Merkury è sostanzialmente danneggiata da esplosioni e un incendio a bordo dopo essere stata colpita da un drone navale mentre attraccava al porto di Bengasi, in Libia."
+    },
     {
      "testo": "Several garment factories in Gazipur, Bangladesh, declare holidays amid ongoing minimum wage protests, as clashes erupt between workers and police along the Dhaka–Mymensingh Highway, with workers throwing bricks and police firing tear gas and stun grenades while Special Response Battalion, Ansar, BGB, and Industrial Police personnel deploy to the area.",
      "contesto": [
@@ -373,7 +392,7 @@
      ]
     },
     {
-     "testo": "At least four people are killed and 35 others are injured in a fire at a power station in Basra, Iraq.",
+     "testo": "Four people are killed and 35 others are injured in a fire at a power station in Basra, Iraq.",
      "contesto": [],
      "categoria": "Disasters and accidents",
      "fonti": [
@@ -386,10 +405,10 @@
       "Basra",
       "Iraq"
      ],
-     "testo_it": "Almeno quattro persone sono morte e altre 35 sono rimaste ferite in un incendio in una centrale elettrica a Bassora, in Iraq."
+     "testo_it": "Quattro persone sono morte e altre 35 sono rimaste ferite in un incendio in una centrale elettrica a Bassora, in Iraq."
     },
     {
-     "testo": "At least three people are killed, four others are injured and 36 are reported missing after a fire at a candy factory near Jakarta in Banten, Indonesia.",
+     "testo": "At least three people are killed, four others are injured and 36 are reported missing after a fire at a candy factory in Serang, Indonesia.",
      "contesto": [],
      "categoria": "Disasters and accidents",
      "fonti": [
@@ -399,11 +418,10 @@
       }
      ],
      "link": [
-      "Jakarta",
-      "Banten",
+      "Serang",
       "Indonesia"
      ],
-     "testo_it": "Almeno tre persone sono morte, altre quattro sono rimaste ferite e 36 sono scomparse dopo un incendio in una fabbrica di caramelle vicino a Jakarta a Banten, in Indonesia."
+     "testo_it": "Almeno tre persone sono morte, altre quattro sono rimaste ferite e 36 sono scomparse dopo un incendio in una fabbrica di caramelle a Serang, in Indonesia."
     },
     {
      "testo": "Indonesia and the European Union sign trade and investment agreements that will lift 98.5% of tariffs on EU goods.",
