@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-21T19:25:11Z",
+ "generato": "2026-11-22T01:24:49Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -79,11 +79,54 @@
  ],
  "giorni": [
   {
+   "data": "2026-11-22",
+   "voci": []
+  },
+  {
    "data": "2026-11-21",
    "voci": [
     {
+     "testo": "Gaza's civil defence agency reports four people killed by Israeli fire, including three in a drone strike on a food-carrying vehicle in Gaza City and one by gunfire in Jabalia. Israel says it targeted operatives.",
+     "contesto": [
+      "Middle Eastern crisis",
+      "Gaza war",
+      "Gaza genocide, Gaza humanitarian crisis"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "AFP via France 24",
+       "url": "https://www.france24.com/en/live-news/20261121-gaza-civil-defence-says-israeli-fire-kills-four"
+      },
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/middle-east/israeli-strike-kills-three-vehicle-distributing-aid-gaza-witnesses-say-2026-11-21/"
+      },
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck"
+      }
+     ],
+     "link": [
+      "Gaza Strip",
+      "Palestinian Civil Defence",
+      "Israel",
+      "Drone warfare",
+      "Humanitarian aid during the Gaza war",
+      "Gaza City",
+      "Jabalia"
+     ],
+     "testo_it": "L'agenzia di difesa civile di Gaza riferisce che quattro persone sono state uccise da un incendio israeliano, tra cui tre in un attacco con droni su un veicolo che trasporta cibo a Gaza City e uno da colpi di arma da fuoco a Jabalia.",
+     "contesto_it": [
+      "Crisi del Medio Oriente",
+      "Guerra di Gaza",
+      "Genocidio di Gaza, crisi umanitaria di Gaza"
+     ]
+    },
+    {
      "testo": "Saudi Arabia intercepts three missiles fired at Riyadh by the Houthis.",
      "contesto": [
+      "Middle Eastern crisis",
       "Yemeni civil war",
       "Houthi–Saudi conflict"
      ],
@@ -101,6 +144,7 @@
      ],
      "testo_it": "L'Arabia Saudita intercetta tre missili lanciati contro Riyadh dagli Houthi.",
      "contesto_it": [
+      "Crisi del Medio Oriente",
       "Guerra civile yemenita",
       "Conflitto Houthi-saudita"
      ]
@@ -238,6 +282,45 @@
      "testo_it": "Il ministero del commercio giapponese annuncia che l'Arabia Saudita ha accettato di triplicare il volume di greggio immagazzinato in Giappone a 24 milioni di barili, nell'ambito del sistema di stoccaggio congiunto del Giappone con l'Arabia Saudita, il Kuwait e gli Emirati Arabi Uniti.",
      "contesto_it": [
       "Relazioni Giappone-Arabia Saudita"
+     ]
+    },
+    {
+     "testo": "At least four people are killed and 35 others are injured in a fire at a power station in Basra, Iraq.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/business/energy/iraq-fire-basra-power-station-kills-least-four-injures-30-2026-11-21/"
+      }
+     ],
+     "link": [
+      "Basra",
+      "Iraq"
+     ],
+     "testo_it": "Almeno quattro persone sono morte e altre 35 sono rimaste ferite in un incendio in una centrale elettrica a Bassora, in Iraq."
+    },
+    {
+     "testo": "Indonesia and the European Union sign trade and investment agreements that will lift 98.5% of tariffs on EU goods.",
+     "contesto": [
+      "Indonesia–European Union trade relations"
+     ],
+     "categoria": "International relations",
+     "fonti": [
+      {
+       "nome": "Euronews",
+       "url": "https://www.euronews.com/2026/11/21/european-union-and-indonesia-sign-free-trade-deal-after-decade-of-talks"
+      }
+     ],
+     "link": [
+      "Indonesia",
+      "European Union",
+      "Tariff",
+      "Economy of the European Union"
+     ],
+     "testo_it": "L'Indonesia e l'Unione europea firmano accordi commerciali e di investimento che solleveranno il 98,5% delle tariffe sulle merci dell'UE.",
+     "contesto_it": [
+      "Relazioni commerciali Indonesia-Unione europea"
      ]
     }
    ]
@@ -412,22 +495,22 @@
      ]
     },
     {
-     "testo": "Thirty people are killed and around 300 are missing after a ship carrying funeral goers capsizes in Bayelsa State, Nigeria.",
+     "testo": "Twenty-four people are killed and 24 more are rescued after a ship carrying funeral goers capsizes in Bayelsa State, Nigeria.",
      "contesto": [
       "2026 Bayelsa boat disaster"
      ],
      "categoria": "Disasters and accidents",
      "fonti": [
       {
-       "nome": "Daily Trust",
-       "url": "https://dailytrust.com/30-feared-dead-as-mourners-boat-capsizes-in-bayelsa/#google_vignette"
+       "nome": "Arab News",
+       "url": "https://www.arabnews.com/world/24-dead-in-nigeria-when-boat-capsizes-while-carrying-people-to-a-funeral-3013419"
       }
      ],
      "link": [
       "Bayelsa State",
       "Nigeria"
      ],
-     "testo_it": "Trenta persone vengono uccise e circa 300 sono scomparse dopo che una nave che trasportava i visitatori funebri si è rovesciata nello stato di Bayelsa, in Nigeria.",
+     "testo_it": "Ventiquattro persone sono state uccise e altre 24 sono state salvate dopo che una nave che trasportava i visitatori funebri si è rovesciata nello stato di Bayelsa, in Nigeria.",
      "contesto_it": [
       "Disastro di Bayelsa (2026)"
      ]
@@ -459,6 +542,23 @@
      "contesto_it": [
       "Guerra alla droga in Messico"
      ]
+    },
+    {
+     "testo": "Former ship captain Francesco Schettino of the former Costa Concordia cruise ship is released from prison after nine years.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "Euronews",
+       "url": "https://www.euronews.com/2026/11/21/former-costa-concordia-cruise-ship-captain-released-from-prison-on-probation-after-nine-ye"
+      }
+     ],
+     "link": [
+      "Francesco Schettino",
+      "Costa Concordia disaster",
+      "Costa Concordia"
+     ],
+     "testo_it": "L'ex capitano Francesco Schettino dell'ex nave da crociera Costa Concordia viene scarcerato dopo nove anni."
     },
     {
      "testo": "A general strike is held in Italy, with protests in multiple cities across the country.",
@@ -1112,7 +1212,7 @@
      ]
     },
     {
-     "testo": "Incumbent Salvadoran president Nayib Bukele presents his presidential candidacy to the Supreme Electoral Court seeking registration ahead of the 2027 elections. He is running for a third presidential term after Bukele's government aproved constitutional amendments to abolish term limits in 2025.",
+     "testo": "Incumbent Salvadoran president Nayib Bukele presents his presidential candidacy to the Supreme Electoral Court seeking registration ahead of the 2027 elections. He is running for a third presidential term after Bukele's government approved constitutional amendments to abolish term limits in 2025.",
      "contesto": [
       "2027 Salvadoran presidential election"
      ],
@@ -1132,7 +1232,7 @@
       "Constitution of El Salvador",
       "Term limit"
      ],
-     "testo_it": "Il presidente salvadoregno in carica Nayib Bukele presenta la sua candidatura presidenziale alla Corte Elettorale Suprema in cerca di registrazione in vista delle elezioni del 2027. È in corsa per un terzo mandato presidenziale dopo che il governo di Bukele ha dimostrato emendamenti costituzionali per abolire i limiti di mandato nel 2025.",
+     "testo_it": "Il presidente salvadoregno in carica Nayib Bukele presenta la sua candidatura presidenziale alla Corte Elettorale Suprema in cerca di registrazione in vista delle elezioni del 2027. È in corsa per un terzo mandato presidenziale dopo che il governo di Bukele ha approvato emendamenti costituzionali per abolire i limiti di mandato nel 2025.",
      "contesto_it": [
       "Elezioni presidenziali salvadoregne (2027)"
      ]
@@ -2719,658 +2819,6 @@
      "testo_it": "La commissione elettorale gambiana approva la candidatura del presidente Adama Barrow per un terzo mandato nelle elezioni presidenziali del 5 dicembre in quanto la costituzione del paese non limita i termini presidenziali.",
      "contesto_it": [
       "Elezioni presidenziali in Gambia (2026)"
-     ]
-    }
-   ]
-  },
-  {
-   "data": "2026-11-15",
-   "voci": [
-    {
-     "testo": "Iran's Islamic Revolutionary Guard Corps says that a supertanker carrying two million barrels of oil has sunk in the Strait of Hormuz after striking a naval mine.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "2026 Iran war",
-      "2026 Strait of Hormuz crisis, Ships attacked during the 2026 Iran war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AFP via Arab News",
-       "url": "https://www.arabnews.com/middle-east/iran-says-supertanker-with-2-million-barrels-of-oil-sank-in-gulf-3012053"
-      }
-     ],
-     "link": [
-      "Iran",
-      "Islamic Revolutionary Guard Corps",
-      "Oil tanker",
-      "Barrel (unit)",
-      "Strait of Hormuz",
-      "Naval mine"
-     ],
-     "testo_it": "Il Corpo delle Guardie Rivoluzionarie Islamiche dell'Iran afferma che una supercisterna che trasporta due milioni di barili di petrolio è affondata nello Stretto di Hormuz dopo aver colpito una miniera navale.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Guerra in Iran (2026)",
-      "Stretto di Hormuz (2026), Navi attaccate durante la guerra in Iran del 2026"
-     ]
-    },
-    {
-     "testo": "Israeli military says that Al-Qassam Brigades commander Samir Abu Younis of the Rafah brigade, who helped plan and oversaw the October 7 attacks on Israel, was killed in a airstrike in the southern area of Gaza Strip, with Hamas confirming his death and plans for a funeral.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "Gaza war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Middle East Eye",
-       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-commander-samir-abu-younis-killed-israeli-strike-khan-younis"
-      }
-     ],
-     "link": [
-      "Israel Defense Forces",
-      "Al-Qassam Brigades",
-      "October 7 attacks",
-      "Israel",
-      "Gaza Strip",
-      "Hamas"
-     ],
-     "testo_it": "L'esercito israeliano dice che il comandante delle Brigate Al-Qassam Samir Abu Younis della brigata Rafah, che ha contribuito a pianificare e supervisionare gli attacchi del 7 ottobre su Israele, è stato ucciso in un attacco aereo nella zona meridionale della Striscia di Gaza, con Hamas che conferma la sua morte e i piani per un funerale.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Guerra di Gaza"
-     ]
-    },
-    {
-     "testo": "Three Palestinians are killed and others are injured in shelling and shooting attacks by Israeli troops in various areas of the Gaza Strip, in a continuation of the violation of the ceasefire agreement signed in October 2025.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "Gaza war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AA",
-       "url": "https://www.aa.com.tr/en/middle-east/3-palestinians-killed-in-israeli-attacks-across-gaza-medical-sources/4126079"
-      }
-     ],
-     "link": [
-      "Palestinians",
-      "Shell (projectile)",
-      "Israel",
-      "Israel Defense Forces",
-      "Gaza Strip",
-      "Gaza peace plan"
-     ],
-     "testo_it": "Tre palestinesi vengono uccisi e altri feriti in bombardamenti e sparatorie da parte delle truppe israeliane in varie aree della Striscia di Gaza, in una continuazione della violazione dell'accordo di cessate il fuoco firmato nell'ottobre 2025.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Guerra di Gaza"
-     ]
-    },
-    {
-     "testo": "Three people are killed and several others are abducted in a cattle raid in Rabah, Sokoto State, Nigeria.",
-     "contesto": [
-      "Communal conflicts in Nigeria",
-      "Herder–farmer conflicts in Nigeria"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "The Punch",
-       "url": "https://punchng.com/bandits-kill-three-abduct-residents-in-sokoto/"
-      }
-     ],
-     "link": [
-      "Cattle raiding",
-      "Rabah",
-      "Sokoto State"
-     ],
-     "testo_it": "Tre persone vengono uccise e molte altre vengono rapite in un'incursione di bestiame a Rabah, nello stato di Sokoto, in Nigeria.",
-     "contesto_it": [
-      "Conflitti comuni in Nigeria",
-      "Conflitti tra allevatori e allevatori in Nigeria"
-     ]
-    },
-    {
-     "testo": "The Nigerian Defence Headquarters announces that the Nigerian Army killed eight terrorists, arrested 22 additional terrorists, logistical personnel, and their families, and rescued 125 kidnapping victims in various raids in the states of Adamawa, Bauchi, Yobe, and Borno between November 6 and 12.",
-     "contesto": [
-      "Communal conflicts in Nigeria",
-      "Religious violence in Nigeria"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "The Vanguard",
-       "url": "https://www.vanguardngr.com/2026/11/military-rescues-125-kidnap-victims-neutralises-eight-terrorists/"
-      }
-     ],
-     "link": [
-      "Nigerian Defence Headquarters",
-      "Nigerian Army",
-      "States of Nigeria",
-      "Adamawa State",
-      "Bauchi State",
-      "Yobe State",
-      "Borno State"
-     ],
-     "testo_it": "Il quartier generale della difesa nigeriana annuncia che l'esercito nigeriano ha ucciso otto terroristi, arrestato altri 22 terroristi, personale logistico e le loro famiglie, e salvato 125 vittime di sequestro in vari raid negli stati di Adamawa, Bauchi, Yobe e Borno tra il 6 e il 12 novembre.",
-     "contesto_it": [
-      "Conflitti comuni in Nigeria",
-      "Violenza religiosa in Nigeria"
-     ]
-    },
-    {
-     "testo": "A report released by the Human Rights and Conflict Dynamics Observatory of Indepaz confirms that 45 community leaders and human rights activists, eight former FARC commanders who signed the 2016 peace deal and 87 more people were killed in Colombia since the beginning of Abelardo de la Espriella's mandate in August 2026.",
-     "contesto": [
-      "Colombian conflict"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Democrata",
-       "url": "https://www.democrata.es/en/international/they-warn-of-45-social-leaders-murdered-in-the-first-100-days-of-de-la-espriella-s-government/amp/"
-      }
-     ],
-     "link": [
-      "Community leader",
-      "Human rights",
-      "Revolutionary Armed Forces of Colombia",
-      "Colombian peace process",
-      "Colombia",
-      "Abelardo de la Espriella"
-     ],
-     "testo_it": "Un rapporto pubblicato dall'Osservatorio per i diritti umani e la dinamica dei conflitti di Indepaz conferma che 45 leader della comunità e attivisti per i diritti umani, otto ex comandanti delle FARC che hanno firmato l'accordo di pace del 2016 e 87 altre persone sono state uccise in Colombia dall'inizio del mandato di Abelardo de la Espriella nell'agosto 2026.",
-     "contesto_it": [
-      "Conflitto colombiano"
-     ]
-    },
-    {
-     "testo": "The African Union Support and Stabilization Mission in Somalia transfers control of five bases in Barawe, Lower Shabelle, to the Somali Armed Forces.",
-     "contesto": [
-      "Somali Civil War"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Hiiraan Online",
-       "url": "https://www.hiiraan.com/security4/2026/Nov/206784/somali_army_takes_control_of_five_aussom_bases_in_barawe_as_security_transition_advances.aspx"
-      }
-     ],
-     "link": [
-      "African Union Support and Stabilization Mission in Somalia",
-      "Barawe",
-      "Lower Shabelle",
-      "Somali Armed Forces"
-     ],
-     "testo_it": "La missione di supporto e stabilizzazione dell'Unione Africana in Somalia trasferisce il controllo di cinque basi a Barawe, Bassa Shabelle, alle forze armate somale.",
-     "contesto_it": [
-      "Guerra civile somala"
-     ]
-    },
-    {
-     "testo": "Amid minimum wage protests by garment workers, thirteen garment factories in Gazipur shut indefinitely under the Bangladesh Labour Act (2006) and over 50 remain closed in Savar and Ashulia, while 48 platoons of the Border Guard, Ansar, and Special Response Battalion deploy across industrial zones in Dhaka, Gazipur, and Narayanganj.",
-     "contesto": [
-      "2026 Bangladesh garment workers protests"
-     ],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "The Business Standard",
-       "url": "https://www.tbsnews.net/economy/rmg/13-factories-shut-indefinitely-gazipur-amid-labour-unrest-holiday-declared-five-1602791"
-      }
-     ],
-     "link": [
-      "Minimum wage",
-      "Clothing industry",
-      "Textile industry in Bangladesh",
-      "Gazipur District",
-      "Savar Upazila",
-      "Ashulia",
-      "Platoon",
-      "Border Guard Bangladesh",
-      "Bangladesh Ansar",
-      "Special Response Battalion",
-      "Dhaka District",
-      "Narayanganj District"
-     ],
-     "testo_it": "Tra le proteste per il salario minimo da parte dei lavoratori dell'abbigliamento, tredici fabbriche di abbigliamento a Gazipur chiuse indefinitamente sotto il Bangladesh Labour Act (2006) e oltre 50 rimangono chiuse a Savar e Ashulia, mentre 48 plotoni della Guardia di frontiera, Ansar e Battaglione di risposta speciale si dispiegano nelle zone industriali di Dhaka, Gazipur e Narayanganj.",
-     "contesto_it": [
-      "Proteste dei lavoratori del Bangladesh (2026)"
-     ]
-    },
-    {
-     "testo": "Thirteen people are killed and 16 others are injured when a bus carrying gas refinery workers overturns in Ilam province, Iran.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/iran-protests-workers-death-war-7c35c26b338bcae409e5c5c5200b88e5"
-      },
-      {
-       "nome": "IRNA English",
-       "url": "https://en.irna.ir/amp/86321950/"
-      }
-     ],
-     "link": [
-      "Natural-gas processing",
-      "Ilam province"
-     ],
-     "testo_it": "Tredici persone sono morte e altre 16 sono rimaste ferite quando un autobus che trasportava lavoratori della raffineria di gas si è rovesciato nella provincia di Ilam, in Iran."
-    },
-    {
-     "testo": "Five people are injured, including three seriously, in a suspected gas explosion and fire at a Christmas market in Maredsous, Wallonia, Belgium.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "Nederlandse Omroep Stichting in Dutch",
-       "url": "https://nos.nl/artikel/2639583-zwaargewonden-bij-explosie-en-brand-op-belgische-kerstmarkt"
-      }
-     ],
-     "link": [
-      "Gas explosion",
-      "Christmas market",
-      "Maredsous (hamlet)",
-      "Wallonia",
-      "Belgium"
-     ],
-     "testo_it": "Cinque persone sono rimaste ferite, di cui tre gravemente, in una sospetta esplosione di gas e incendio in un mercatino di Natale a Maredsous, Vallonia, Belgio."
-    },
-    {
-     "testo": "Eight more children in Bangladesh are reported to have died from measles, bringing the death toll past 1,314.",
-     "contesto": [
-      "2026 Bangladesh measles outbreak"
-     ],
-     "categoria": "Health and environment",
-     "fonti": [
-      {
-       "nome": "UNB via The Daily Star",
-       "url": "https://www.thedailystar.net/news/bangladesh/news/eight-more-die-measles-symptoms-4324846"
-      }
-     ],
-     "link": [
-      "Bangladesh",
-      "Measles",
-      "Mortality rate"
-     ],
-     "testo_it": "Altri otto bambini in Bangladesh sono morti di morbillo, portando il bilancio delle vittime oltre 1.314.",
-     "contesto_it": [
-      "Bangladesh focolaio di morbillo (2026)"
-     ]
-    },
-    {
-     "testo": "Eight more people in Bangladesh are reported to have died from dengue fever, bringing this year's outbreak's death toll to 499.",
-     "contesto": [],
-     "categoria": "Health and environment",
-     "fonti": [
-      {
-       "nome": "BSS",
-       "url": "https://www.bssnews.net/others/446074"
-      }
-     ],
-     "link": [
-      "Dengue fever",
-      "Mortality rate"
-     ],
-     "testo_it": "Altre otto persone in Bangladesh sono morte di febbre dengue, portando il bilancio delle vittime dell'epidemia di quest'anno a 499."
-    },
-    {
-     "testo": "Australia and the Philippines sign a defence cooperation agreement in Manila, simplifying procedures for joint military exercises and expanding maritime surveillance, information sharing, training, and disaster response.",
-     "contesto": [
-      "Australia–Philippines relations"
-     ],
-     "categoria": "International relations",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/china/philippines-australia-sign-defence-pact-with-eye-china-2026-11-15/"
-      }
-     ],
-     "link": [
-      "Australia",
-      "Philippines",
-      "Manila",
-      "Military exercise",
-      "Maritime surveillance",
-      "Information sharing",
-      "Disaster response"
-     ],
-     "testo_it": "L'Australia e le Filippine firmano un accordo di cooperazione per la difesa a Manila, semplificando le procedure per esercitazioni militari congiunte e ampliando la sorveglianza marittima, la condivisione delle informazioni, la formazione e la risposta alle catastrofi.",
-     "contesto_it": [
-      "Relazioni Australia-Filippine"
-     ]
-    },
-    {
-     "testo": "Estonia announces the closure of its three border crossings with Russia starting December 1 after eight suspects were detained over an attempted arson attack on drone manufacturer Threod Systems, which Estonian intelligence attributes to Russia's GRU.",
-     "contesto": [
-      "Estonia–Russia relations, Russian sabotage operations in Europe"
-     ],
-     "categoria": "International relations",
-     "fonti": [
-      {
-       "nome": "CNN",
-       "url": "https://edition.cnn.com/2026/11/15/europe/estonia-close-russian-border-attack-intl"
-      }
-     ],
-     "link": [
-      "Estonia",
-      "Estonia–Russia border",
-      "Russia",
-      "Arson",
-      "Unmanned aerial vehicle",
-      "Estonian Foreign Intelligence Service",
-      "GRU (Russian Federation)"
-     ],
-     "testo_it": "L'Estonia annuncia la chiusura dei suoi tre valichi di frontiera con la Russia a partire dal 1 dicembre, dopo che otto sospetti sono stati arrestati per un tentativo di attacco incendiario al produttore di droni Threod Systems, che l'intelligence estone attribuisce al GRU russo.",
-     "contesto_it": [
-      "Relazioni Estonia-Russia, operazioni di sabotaggio russo in Europa"
-     ]
-    },
-    {
-     "testo": "Philippine police arrest at least 287 people during nationwide protests against the potential signing of a Pax Silica deal with the United States coinciding with the 49th ASEAN Summit in Metro Manila. Police also report that 15 officers sustained injuries during demonstrations.",
-     "contesto": [
-      "2026 ASEAN Summits, Protests against Donald Trump"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "GMA News Online",
-       "url": "https://www.gmanetwork.com/news/topstories/metro/1009656/pnp-defends-response-to-asean-summit-protests/story/"
-      },
-      {
-       "nome": "Rappler",
-       "url": "https://www.rappler.com/philippines/muntinlupa-city-protest-arrest-asean-2026/"
-      }
-     ],
-     "link": [
-      "Philippines",
-      "Philippine National Police",
-      "Pax Silica",
-      "United States",
-      "ASEAN Summit",
-      "Metro Manila"
-     ],
-     "testo_it": "La polizia filippina arresta almeno 287 persone durante le proteste a livello nazionale contro la potenziale firma di un accordo di Pax Silica con gli Stati Uniti in coincidenza con il 49 ° vertice dell'ASEAN a Metro Manila.",
-     "contesto_it": [
-      "ASEAN Summits (2026), Proteste contro Donald Trump"
-     ]
-    },
-    {
-     "testo": "The Jordanian State Security Court sentences three men to death for a shooting at a Greek Orthodox church in Karak Governorate that killed nine people and injured 25 others on October 23. Two accomplices also receive six-year prison sentences.",
-     "contesto": [
-      "2026 Karak church shooting, Capital punishment in Jordan"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "AFP via France 24",
-       "url": "https://www.france24.com/en/live-news/20261115-three-men-sentenced-to-death-over-jordan-church-attack"
-      }
-     ],
-     "link": [
-      "Jordan",
-      "State Security Court",
-      "Capital punishment",
-      "Mass shooting",
-      "Greek Orthodox Patriarchate of Jerusalem",
-      "Karak Governorate"
-     ],
-     "testo_it": "La Corte di sicurezza dello Stato giordano condanna a morte tre uomini per una sparatoria in una chiesa greco-ortodossa nel governatorato di Karak che ha ucciso nove persone e ne ha ferite altre 25 il 23 ottobre.",
-     "contesto_it": [
-      "Karak church shooting (2026), pena capitale in Giordania"
-     ]
-    },
-    {
-     "testo": "Cape Verdeans vote to elect a president, between the main two candidates of incumbent PAICV president José Maria Neves and the MpD candidate Joana Rosa.",
-     "contesto": [
-      "2026 Cape Verdean presidential election"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/cape-verde-presidential-election-rosa-neves-b066358194132f21ea91bcbd6699d5e0"
-      }
-     ],
-     "link": [
-      "Cape Verdeans",
-      "President of Cape Verde",
-      "PAICV",
-      "José Maria Neves",
-      "Movement for Democracy (Cape Verde)",
-      "Joana Rosa"
-     ],
-     "testo_it": "I capoverdiani votano per eleggere un presidente, tra i due principali candidati del presidente in carica del PAICV José Maria Neves e la candidata MpD Joana Rosa.",
-     "contesto_it": [
-      "Elezioni presidenziali del Capo Verde (2026)"
-     ]
-    },
-    {
-     "testo": "Neves wins re-election to a second five-year term with 63.8% of the vote, according to provisional results from the election commission. Rosa concedes defeat.",
-     "contesto": [
-      "2026 Cape Verdean presidential election"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "AFP via France 24",
-       "url": "https://www.france24.com/en/live-news/20261115-cape-verde-s-president-jose-maria-neves-re-elected-provisional-election-results"
-      },
-      {
-       "nome": "Inforpress in Portuguese",
-       "url": "https://inforpress.cv/pt/presidenciais2026-joana-rosa-reconhece-derrota-eleitoral-e-reafirma-compromisso-com-a-democracia-e-politica"
-      }
-     ],
-     "link": [
-      "Election commission",
-      "Concession (politics)"
-     ],
-     "testo_it": "Neves vince la rielezione a un secondo mandato quinquennale con il 63,8% dei voti, secondo i risultati provvisori della commissione elettorale. Rosa ammette la sconfitta.",
-     "contesto_it": [
-      "Elezioni presidenziali del Capo Verde (2026)"
-     ]
-    },
-    {
-     "testo": "Gagauzians in Moldova vote to elect a governor and 35 members of the People's Assembly. MP Alexandr Stoianoglo and Fiodor Gagauz advance to the second round after no candidate received a majority of the vote.",
-     "contesto": [
-      "2026 Gagauz general election"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "Radio Moldova",
-       "url": "https://radiomoldova.md/p/89743/gagauzia-voters-to-elect-governor-and-regional-assembly"
-      },
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/restive-pro-russian-moldovan-region-holds-elections-2026-11-15/"
-      }
-     ],
-     "link": [
-      "Gagauzians",
-      "Moldova",
-      "Governor of Gagauzia",
-      "People's Assembly of Gagauzia",
-      "Parliament of Moldova",
-      "Alexandr Stoianoglo",
-      "Fiodor Gagauz"
-     ],
-     "testo_it": "I gagauziani in Moldavia votano per eleggere un governatore e 35 membri dell'Assemblea popolare. Il deputato Alexandr Stoianoglo e Fiodor Gagauz avanzano al secondo turno dopo che nessun candidato ha ricevuto la maggioranza dei voti.",
-     "contesto_it": [
-      "Elezioni generali di Gagauz (2026)"
-     ]
-    },
-    {
-     "testo": "Non-profit fanfiction repository website Archive of Our Own is restored to limited functionality 17 days after being targeted in a cyberattack.",
-     "contesto": [],
-     "categoria": "Science and technology",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/ao3-fandom-archive-transformative-9e752c2cf91409434fcde7188140d066"
-      }
-     ],
-     "link": [
-      "Fan fiction",
-      "Archive of Our Own",
-      "Cyberattack"
-     ],
-     "testo_it": "Il sito web di repository di fanfiction senza scopo di lucro Archive of Our Own viene ripristinato a funzionalità limitate 17 giorni dopo essere stato preso di mira in un attacco informatico."
-    },
-    {
-     "testo": "In tennis, Kateřina Siniaková and Taylor Townsend win their second and first WTA Finals doubles titles, respectively, after defeating Sara Errani and Jasmine Paolini in the final, 6–4, 6–3.",
-     "contesto": [
-      "2026 WTA Finals",
-      "2026 WTA Finals – Doubles"
-     ],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "The Desert Sun",
-       "url": "https://www.desertsun.com/story/sports/tennis/2026/11/15/a-doubles-double-dip-for-townsend-and-siniakova-as-bnp-champs-win-wta-finals/92801016007/"
-      }
-     ],
-     "link": [
-      "Tennis",
-      "Kateřina Siniaková",
-      "Taylor Townsend",
-      "WTA Finals",
-      "Doubles (tennis)",
-      "Sara Errani",
-      "Jasmine Paolini"
-     ],
-     "testo_it": "Nel tennis, Kateřina Siniaková e Taylor Townsend vincono il loro secondo e primo titolo di doppio WTA Finals, rispettivamente, dopo aver sconfitto Sara Errani e Jasmine Paolini in finale, 6-4, 6-3.",
-     "contesto_it": [
-      "WTA Finals (2026)",
-      "WTA Finals – Doppio (2026)"
-     ]
-    },
-    {
-     "testo": "In tennis, Mirra Andreeva wins her first WTA Finals singles title after defeating Elina Svitolina in the final, 7–5, 6–3.",
-     "contesto": [
-      "2026 WTA Finals",
-      "2026 WTA Finals – Singles"
-     ],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "AFP via France 24",
-       "url": "https://www.france24.com/en/live-news/20261115-andreeva-defeats-svitolina-to-win-wta-finals"
-      }
-     ],
-     "link": [
-      "Mirra Andreeva",
-      "Singles (tennis)",
-      "Elina Svitolina"
-     ],
-     "testo_it": "Nel tennis, Mirra Andreeva vince il suo primo titolo nella WTA Finals dopo aver sconfitto Elina Svitolina in finale, 7-5, 6-3.",
-     "contesto_it": [
-      "WTA Finals (2026)",
-      "WTA Finals – singolare (2026)"
-     ]
-    },
-    {
-     "testo": "In golf, Rory McIlroy equals Colin Montgomerie's record for the most Harry Vardon Trophies after winning his eighth Race to Dubai title, which McIlroy claimed after finishing second at the DP World Tour Championship.",
-     "contesto": [
-      "2026 European Tour"
-     ],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "AFP via France 24",
-       "url": "https://www.france24.com/en/live-news/20261115-mcilroy-wins-record-equalling-eighth-race-to-dubai-title"
-      }
-     ],
-     "link": [
-      "Golf",
-      "Rory McIlroy",
-      "Colin Montgomerie",
-      "Harry Vardon Trophy",
-      "Race to Dubai",
-      "DP World Tour Championship"
-     ],
-     "testo_it": "Nel golf, Rory McIlroy eguaglia il record di Colin Montgomerie per il maggior numero di trofei di Harry Vardon dopo aver vinto il suo ottavo titolo Race to Dubai, che McIlroy ha rivendicato dopo aver concluso secondo al DP World Tour Championship.",
-     "contesto_it": [
-      "Tour Europeo (2026)"
-     ]
-    },
-    {
-     "testo": "In Canadian football, the Edmonton Elks win their 15th Canadian Football League title after beating the Montreal Alouettes 37–30 in the Grey Cup. They previously won in 2015.",
-     "contesto": [
-      "2026 Grey Cup"
-     ],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "Edmonton Journal",
-       "url": "https://edmontonjournal.com/sports/football/cfl/edmonton-elks/edmonton-elks-grey-cup-montreal-alouettes"
-      }
-     ],
-     "link": [
-      "Canadian football",
-      "Edmonton Elks",
-      "Canadian Football League",
-      "Montreal Alouettes",
-      "Grey Cup",
-      "103rd Grey Cup"
-     ],
-     "testo_it": "Nel calcio canadese, gli Edmonton Elks vincono il loro 15 ° titolo della Canadian Football League dopo aver battuto le Montreal Alouettes 37-30 nella Grey Cup.",
-     "contesto_it": [
-      "Tazza grigia (2026)"
-     ]
-    },
-    {
-     "testo": "In women's rugby league, Australia wins its fourth consecutive World Cup title after defeating New Zealand 34–10 in the final in Brisbane.",
-     "contesto": [
-      "2026 Women's Rugby League World Cup, Australia–New Zealand sports rivalries"
-     ],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "AFP via RFI",
-       "url": "https://www.rfi.fr/en/sports/20261115-australia-crush-new-zealand-34-10-to-win-women-s-rugby-league-world-cup"
-      }
-     ],
-     "link": [
-      "Women's rugby league",
-      "Australia women's national rugby league team",
-      "Women's Rugby League World Cup",
-      "New Zealand women's national rugby league team",
-      "Brisbane"
-     ],
-     "testo_it": "Nel campionato femminile di rugby, l'Australia vince il suo quarto titolo consecutivo di Coppa del Mondo dopo aver sconfitto la Nuova Zelanda 34-10 in finale a Brisbane.",
-     "contesto_it": [
-      "Mondiali di rugby femminile (2026), rivalità sportive tra Australia e Nuova Zelanda"
-     ]
-    },
-    {
-     "testo": "In association football, England defeats Spain 3–2 in the group stage of UEFA Nations League A to end Spain's 43-match unbeaten streak, the longest by a national team.",
-     "contesto": [
-      "2026–27 UEFA Nations League"
-     ],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/nations-league-england-spain-kane-france-7e32be3d9b49ad4d7f6ed0b59ca7410c"
-      }
-     ],
-     "link": [
-      "Association football",
-      "England national football team",
-      "Spain national football team",
-      "Group stage",
-      "2026–27 UEFA Nations League A",
-      "Unbeaten streak",
-      "List of world association football records",
-      "National team"
-     ],
-     "testo_it": "Nella fase a gironi di UEFA Nations League A, l'Inghilterra sconfigge la Spagna per 3-2, ponendo fine alla striscia imbattuta di 43 partite della Spagna, la più lunga di una squadra nazionale.",
-     "contesto_it": [
-      "UEFA Nations League (2026-27)"
      ]
     }
    ]
