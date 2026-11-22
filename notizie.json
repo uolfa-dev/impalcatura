@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-22T01:24:49Z",
+ "generato": "2026-11-22T11:36:55Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -10,7 +10,7 @@
  },
  "itn": [
   {
-   "testo": "The video game Grand Theft Auto VI achieves US$3.79 billion in sales within a day of its release, more than any other entertainment product in history.",
+   "testo": "The video game Grand Theft Auto VI achieves US$3.79 billion in sales on its launch day, more than any other entertainment product in history.",
    "contesto": [],
    "categoria": "In primo piano",
    "fonti": [
@@ -22,7 +22,7 @@
    "link": [
     "Grand Theft Auto VI"
    ],
-   "testo_it": "Il videogioco Grand Theft Auto VI raggiunge 3,79 miliardi di dollari di vendite entro un giorno dalla sua uscita, più di qualsiasi altro prodotto di intrattenimento nella storia."
+   "testo_it": "Il videogioco Grand Theft Auto VI raggiunge 3,79 miliardi di dollari di vendite il giorno del lancio, più di qualsiasi altro prodotto di intrattenimento nella storia."
   },
   {
    "testo": "The space probe Voyager 1 (rendering shown) becomes the first human-made object to reach one light-day from Earth.",
@@ -80,13 +80,72 @@
  "giorni": [
   {
    "data": "2026-11-22",
-   "voci": []
+   "voci": [
+    {
+     "testo": "Several garment factories in Gazipur, Bangladesh, declare holidays amid ongoing minimum wage protests, as clashes erupt between workers and police along the Dhaka–Mymensingh Highway, with workers throwing bricks and police firing tear gas and stun grenades while Special Response Battalion, Ansar, BGB, and Industrial Police personnel deploy to the area.",
+     "contesto": [
+      "2026 Bangladesh garment workers protests"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "The Business Standard",
+       "url": "https://www.tbsnews.net/bangladesh/garment-workers-stage-fresh-protest-gazipur-attempt-block-dhaka-mymensingh-highway"
+      }
+     ],
+     "link": [
+      "Textile industry in Bangladesh",
+      "Gazipur",
+      "Bangladesh",
+      "Minimum wage",
+      "Working class",
+      "Bangladesh Police",
+      "N3 (Bangladesh)",
+      "Tear gas",
+      "Stun grenade",
+      "Special Response Battalion",
+      "Bangladesh Ansar",
+      "Border Guard Bangladesh",
+      "Industrial Police (Bangladesh)"
+     ],
+     "testo_it": "Diverse fabbriche di abbigliamento a Gazipur, in Bangladesh, dichiarano le vacanze in mezzo alle proteste del salario minimo in corso, mentre scoppiano scontri tra lavoratori e polizia lungo l'autostrada Dhaka-Mymensingh, con i lavoratori che lanciano mattoni e la polizia che sparano gas lacrimogeni e granate stordenti mentre il Battaglione di risposta speciale, Ansar, BGB e il personale della polizia industriale schierano nell'area.",
+     "contesto_it": [
+      "Proteste dei lavoratori del Bangladesh (2026)"
+     ]
+    },
+    {
+     "testo": "Border Guard Bangladesh deploys 95 platoons across seven districts, including two battalions in Gopalganj, stepping up surveillance at key installations and industrial zones using drones and police body cameras.",
+     "contesto": [
+      "2026 Bangladesh garment workers protests"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "The Daily Star",
+       "url": "https://www.thedailystar.net/news/crime-justice/news/bgb-deploys-95-platoons-across-seven-districts-maintain-law-and-order-4330136"
+      }
+     ],
+     "link": [
+      "Border Guard Bangladesh",
+      "Platoon",
+      "Battalion",
+      "Gopalganj District, Bangladesh",
+      "Surveillance",
+      "Unmanned aerial vehicle",
+      "Police body camera"
+     ],
+     "testo_it": "La Guardia di frontiera del Bangladesh schiera 95 plotoni in sette distretti, tra cui due battaglioni a Gopalganj, intensificando la sorveglianza in installazioni chiave e zone industriali utilizzando droni e telecamere di polizia.",
+     "contesto_it": [
+      "Proteste dei lavoratori del Bangladesh (2026)"
+     ]
+    }
+   ]
   },
   {
    "data": "2026-11-21",
    "voci": [
     {
-     "testo": "Gaza's civil defence agency reports four people killed by Israeli fire, including three in a drone strike on a food-carrying vehicle in Gaza City and one by gunfire in Jabalia. Israel says it targeted operatives.",
+     "testo": "Three Palestinians are killed by an Israeli drone strike on a food-carrying vehicle in Gaza City, while another is killed by gunfire in Jabalia.",
      "contesto": [
       "Middle Eastern crisis",
       "Gaza war",
@@ -108,15 +167,14 @@
       }
      ],
      "link": [
-      "Gaza Strip",
-      "Palestinian Civil Defence",
+      "Palestinians",
       "Israel",
       "Drone warfare",
       "Humanitarian aid during the Gaza war",
       "Gaza City",
       "Jabalia"
      ],
-     "testo_it": "L'agenzia di difesa civile di Gaza riferisce che quattro persone sono state uccise da un incendio israeliano, tra cui tre in un attacco con droni su un veicolo che trasporta cibo a Gaza City e uno da colpi di arma da fuoco a Jabalia.",
+     "testo_it": "Tre palestinesi vengono uccisi da un attacco di droni israeliani su un veicolo che trasporta cibo a Gaza City, mentre un altro viene ucciso da colpi di arma da fuoco a Jabalia.",
      "contesto_it": [
       "Crisi del Medio Oriente",
       "Guerra di Gaza",
@@ -175,6 +233,36 @@
      "contesto_it": [
       "Guerra russo-ucraina",
       "2026 incursioni di droni nei paesi baltici e in Finlandia"
+     ]
+    },
+    {
+     "testo": "Clashes between Bangladesh Nationalist Party supporters and banned Awami League activists in Bera Upazila, Pabna District, injure several people following an arson attack at the abandoned home of former Deputy Speaker Shamsul Hoque Tuku and retaliatory vandalism, with police firing rubber bullets and tear gas to disperse the crowd.",
+     "contesto": [
+      "Aftermath of the July Uprising"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "UNB",
+       "url": "https://unb.com.bd/category/Bangladesh/bnp-al-activists-clash-repeatedly-in-pabnas-bera-several-injured/200931"
+      }
+     ],
+     "link": [
+      "Bangladesh Nationalist Party",
+      "Awami League",
+      "Bera Upazila",
+      "Pabna District",
+      "Arson",
+      "Deputy Speaker of the Jatiya Sangsad",
+      "Shamsul Hoque Tuku",
+      "Vandalism",
+      "Bangladesh Police",
+      "Rubber bullet",
+      "Tear gas"
+     ],
+     "testo_it": "Scontri tra sostenitori del Partito nazionalista del Bangladesh e attivisti della Lega Awami a Bera Upazila, nel distretto di Pabna, feriscono diverse persone a seguito di un attacco incendiario nella casa abbandonata dell'ex vice presidente Shamsul Hoque Tuku e vandalismo di rappresaglia, con la polizia che spara proiettili di gomma e gas lacrimogeni per disperdere la folla.",
+     "contesto_it": [
+      "Dopo la rivolta di luglio"
      ]
     },
     {
@@ -301,6 +389,23 @@
      "testo_it": "Almeno quattro persone sono morte e altre 35 sono rimaste ferite in un incendio in una centrale elettrica a Bassora, in Iraq."
     },
     {
+     "testo": "At least three people are killed, four others are injured and 36 are reported missing after a fire at a candy factory near Jakarta in Banten, Indonesia.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "The Guardian",
+       "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta"
+      }
+     ],
+     "link": [
+      "Jakarta",
+      "Banten",
+      "Indonesia"
+     ],
+     "testo_it": "Almeno tre persone sono morte, altre quattro sono rimaste ferite e 36 sono scomparse dopo un incendio in una fabbrica di caramelle vicino a Jakarta a Banten, in Indonesia."
+    },
+    {
      "testo": "Indonesia and the European Union sign trade and investment agreements that will lift 98.5% of tariffs on EU goods.",
      "contesto": [
       "Indonesia–European Union trade relations"
@@ -321,6 +426,28 @@
      "testo_it": "L'Indonesia e l'Unione europea firmano accordi commerciali e di investimento che solleveranno il 98,5% delle tariffe sulle merci dell'UE.",
      "contesto_it": [
       "Relazioni commerciali Indonesia-Unione europea"
+     ]
+    },
+    {
+     "testo": "The European Space Agency announces that the BepiColombo spacecraft inserted itself into orbit around Mercury.",
+     "contesto": [
+      "Exploration of Mercury"
+     ],
+     "categoria": "Science and technology",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/mercury-bepicolombo-space-planet-esa-0c80bbf2039ed4f6ee4a34426b3594a0"
+      }
+     ],
+     "link": [
+      "European Space Agency",
+      "BepiColombo",
+      "Mercury (planet)"
+     ],
+     "testo_it": "L'Agenzia Spaziale Europea annuncia che la navicella spaziale BepiColombo si è inserita in orbita attorno a Mercurio.",
+     "contesto_it": [
+      "Esplorazione di Mercurio"
      ]
     }
    ]
@@ -492,6 +619,35 @@
      "contesto_it": [
       "Conflitto haitiano",
       "Intervento militare salvadoregno ad Haiti"
+     ]
+    },
+    {
+     "testo": "In Bangladesh, attackers vandalize, loot, and burn over fifty houses and several businesses belonging to banned Awami League members in Kalia Upazila, Narail District, including the residence of former MP Kabirul Haque Mukti, following the killings of two Bangladesh Nationalist Party leaders.",
+     "contesto": [
+      "Aftermath of the July Uprising"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "New Age",
+       "url": "https://www.newagebd.net/post/country/323452/over-50-houses-business-establishments-vandalised-torched-in-narail"
+      }
+     ],
+     "link": [
+      "Bangladesh",
+      "Vandalism",
+      "Looting",
+      "Arson",
+      "Awami League",
+      "Kalia Upazila",
+      "Narail District",
+      "Jatiya Sangsad",
+      "Kabirul Haque Mukti",
+      "Bangladesh Nationalist Party"
+     ],
+     "testo_it": "In Bangladesh, gli aggressori vandalizzano, saccheggiano e bruciano oltre cinquanta case e diverse aziende appartenenti ai membri della Lega Awami vietati a Kalia Upazila, nel distretto di Narail, inclusa la residenza dell'ex deputato Kabirul Haque Mukti, in seguito all'uccisione di due leader del Partito nazionalista del Bangladesh.",
+     "contesto_it": [
+      "Dopo la rivolta di luglio"
      ]
     },
     {
