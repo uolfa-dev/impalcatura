@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-22T19:47:24Z",
+ "generato": "2026-11-23T01:48:39Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -79,11 +79,49 @@
  ],
  "giorni": [
   {
+   "data": "2026-11-23",
+   "voci": []
+  },
+  {
    "data": "2026-11-22",
    "voci": [
     {
-     "testo": "The Russian corvette Merkury is substantially damaged by explosions and an onboard fire after being struck by a naval drone while docked at the port of Benghazi, Libya.",
-     "contesto": [],
+     "testo": "Several people are killed and at least 10 people are injured after the Russian corvette Merkury is struck by a Ukrainian naval drone attack while docked at the port of Benghazi, Libya. The Merkury reportedly capsizes and sinks.",
+     "contesto": [
+      "Russo-Ukrainian War",
+      "Naval warfare in the Russo-Ukrainian war (2022–present), Ukrainian attacks on the Russian shadow fleet"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Al-Jazeera",
+       "url": "https://www.aljazeera.com/amp/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya"
+      },
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/middle-east/libyas-eastern-government-suspects-drone-attack-caused-explosion-russian-ship-2026-11-22/"
+      }
+     ],
+     "link": [
+      "Russian corvette Merkury",
+      "Ukraine",
+      "Unmanned surface vehicle",
+      "One-way attack drone",
+      "Benghazi",
+      "Libya"
+     ],
+     "testo_it": "Diverse persone vengono uccise e almeno 10 sono ferite dopo che la corvetta russa Merkury viene colpita da un attacco di droni navali ucraini mentre è attraccata al porto di Bengasi, in Libia.",
+     "contesto_it": [
+      "Guerra russo-ucraina",
+      "Guerra navale nella guerra russo-ucraina (2022-oggi), attacchi ucraini alla flotta ombra russa"
+     ]
+    },
+    {
+     "testo": "A Maltese-flagged ship is also struck by naval drones off the coast of Benghazi.",
+     "contesto": [
+      "Russo-Ukrainian War",
+      "Naval warfare in the Russo-Ukrainian war (2022–present), Ukrainian attacks on the Russian shadow fleet"
+     ],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
       {
@@ -92,13 +130,37 @@
       }
      ],
      "link": [
-      "Russian corvette Merkury",
-      "Unmanned surface vehicle",
-      "One-way attack drone",
-      "Benghazi",
-      "Libya"
+      "Malta"
      ],
-     "testo_it": "La corvetta russa Merkury è sostanzialmente danneggiata da esplosioni e un incendio a bordo dopo essere stata colpita da un drone navale mentre attraccava al porto di Bengasi, in Libia."
+     "testo_it": "Una nave battente bandiera maltese è anche colpita da droni navali al largo della costa di Bengasi.",
+     "contesto_it": [
+      "Guerra russo-ucraina",
+      "Guerra navale nella guerra russo-ucraina (2022-oggi), attacchi ucraini alla flotta ombra russa"
+     ]
+    },
+    {
+     "testo": "The 63rd Golden Horse Awards take place in Taipei, Taiwan, with the Hong Kong film We Are Born Good winning Best Narrative Feature.",
+     "contesto": [
+      "63rd Golden Horse Awards"
+     ],
+     "categoria": "Arts and culture",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/hong-kong-cinema-takes-spotlight-taiwan-top-film-award"
+      }
+     ],
+     "link": [
+      "Golden Horse Awards",
+      "Taipei",
+      "Taiwan",
+      "Cinema of Hong Kong",
+      "Golden Horse Award for Best Narrative Feature"
+     ],
+     "testo_it": "I 63° Golden Horse Awards si svolgono a Taipei, Taiwan, con il film di Hong Kong We Are Born Good, vincitore del miglior lungometraggio narrativo.",
+     "contesto_it": [
+      "63° Golden Horse Awards"
+     ]
     },
     {
      "testo": "Several garment factories in Gazipur, Bangladesh, declare holidays amid ongoing minimum wage protests, as clashes erupt between workers and police along the Dhaka–Mymensingh Highway, with workers throwing bricks and police firing tear gas and stun grenades while Special Response Battalion, Ansar, BGB, and Industrial Police personnel deploy to the area.",
@@ -156,6 +218,146 @@
      "testo_it": "La Guardia di frontiera del Bangladesh schiera 95 plotoni in sette distretti, tra cui due battaglioni a Gopalganj, intensificando la sorveglianza in installazioni chiave e zone industriali utilizzando droni e telecamere di polizia.",
      "contesto_it": [
       "Proteste dei lavoratori del Bangladesh (2026)"
+     ]
+    },
+    {
+     "testo": "At least twelve people are killed and 23 others are injured in two separate road accidents in Rajasthan, India.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "Xinhua",
+       "url": "https://english.news.cn/20261122/a785c3b7251f4a10b97fb302966d242e/c.html"
+      }
+     ],
+     "link": [
+      "Rajasthan",
+      "India"
+     ],
+     "testo_it": "Almeno dodici persone sono morte e altre 23 sono rimaste ferite in due incidenti stradali separati in Rajasthan, India."
+    },
+    {
+     "testo": "A severe thunderstorm kills five people and injures more than 250 others in Tupanciretã, Rio Grande do Sul, Brazil.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/brazil-storm-death-toll-rises-5"
+      }
+     ],
+     "link": [
+      "Tupanciretã",
+      "Rio Grande do Sul",
+      "Brazil"
+     ],
+     "testo_it": "Un forte temporale uccide cinque persone e ne ferisce altre 250 a Tupanciretã, Rio Grande do Sul, Brasile."
+    },
+    {
+     "testo": "A fire at a confectionery factory in Serang Regency, Banten, Indonesia, kills at least three people, leaves 36 others missing, and injures four.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "AFP via France 24",
+       "url": "https://www.france24.com/en/live-news/20261122-three-dead-36-missing-after-indonesia-factory-fire"
+      }
+     ],
+     "link": [
+      "Confectionery",
+      "Serang Regency",
+      "Banten",
+      "Indonesia"
+     ],
+     "testo_it": "Un incendio in una fabbrica di dolciumi a Serang Regency, Banten, in Indonesia, uccide almeno tre persone, ne lascia altre 36 scomparse e ne ferisce quattro."
+    },
+    {
+     "testo": "Three people are killed in a house fire in Trzcianka, Poland.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "Xinhua",
+       "url": "https://english.news.cn/20261122/bcadd59be9824a18b96cdca9f67305e5/c.html"
+      }
+     ],
+     "link": [
+      "Trzcianka",
+      "Poland"
+     ],
+     "testo_it": "Tre persone sono morte in un incendio a Trzcianka, in Polonia."
+    },
+    {
+     "testo": "South Korean education minister Choi Kyo-jin resigns following criticism of the government's response to artificial intelligence-assisted cheating concerns surrounding the College Scholastic Ability Test. President Lee Jae Myung accepts Choi's resignation.",
+     "contesto": [],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/south-korea-education-chief-resigns-amid-ai-cheating-scandal"
+      }
+     ],
+     "link": [
+      "South Korea",
+      "Minister of Education (South Korea)",
+      "Choi Kyo-jin",
+      "Government of South Korea",
+      "Artificial intelligence",
+      "College Scholastic Ability Test",
+      "President of South Korea",
+      "Lee Jae Myung"
+     ],
+     "testo_it": "Il ministro dell'istruzione sudcoreano Choi Kyo-jin si dimette dopo aver criticato la risposta del governo alle preoccupazioni relative all'imbroglio assistito dall'intelligenza artificiale che circondano il College Scholastic Ability Test."
+    },
+    {
+     "testo": "In tennis, Carlos Alcaraz defeats Alexander Zverev in the final, 6–2, 7–6(9–7) to win his first singles title at the 2026 ATP Finals.",
+     "contesto": [
+      "2026 ATP Finals"
+     ],
+     "categoria": "Sports",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/sports/tennis/alcaraz-charges-past-world-number-one-zverev-clinch-atp-finals-title-2026-11-22/"
+      }
+     ],
+     "link": [
+      "Tennis",
+      "Carlos Alcaraz",
+      "Alexander Zverev",
+      "Singles (tennis)",
+      "ATP Finals"
+     ],
+     "testo_it": "Nel tennis, Carlos Alcaraz sconfigge Alexander Zverev in finale, 6-2, 7-6 (9-7) per vincere il suo primo titolo di single alle 2026 ATP Finals.",
+     "contesto_it": [
+      "Finale ATP (2026)"
+     ]
+    },
+    {
+     "testo": "In motorcycle racing, Spanish rider Marc Márquez of Ducati Corse secures his eighth MotoGP World Championship after finishing eighth at the Portuguese Grand Prix, equalling Giacomo Agostini's record for the most premier-class motorcycle racing world titles.",
+     "contesto": [
+      "2026 MotoGP World Championship"
+     ],
+     "categoria": "Sports",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/marc-marquez-motogp-99638bd5dcc6a86106edba209851ad8f"
+      }
+     ],
+     "link": [
+      "Motorcycle racing",
+      "Spain",
+      "Marc Márquez",
+      "Ducati Corse",
+      "MotoGP World Championship",
+      "2026 Portuguese motorcycle Grand Prix",
+      "Giacomo Agostini",
+      "List of Grand Prix motorcycle racing rider records"
+     ],
+     "testo_it": "Nelle corse motociclistiche, il pilota spagnolo Marc Márquez di Ducati Corse si assicura il suo ottavo Campionato del Mondo MotoGP dopo aver concluso ottavo al Gran Premio del Portogallo, eguagliando il record di Giacomo Agostini per i titoli mondiali di corse motociclistiche più importanti.",
+     "contesto_it": [
+      "Campionato del Mondo MotoGP (2026)"
      ]
     }
    ]
@@ -282,6 +484,48 @@
      "testo_it": "Scontri tra sostenitori del Partito nazionalista del Bangladesh e attivisti della Lega Awami a Bera Upazila, nel distretto di Pabna, feriscono diverse persone a seguito di un attacco incendiario nella casa abbandonata dell'ex vice presidente Shamsul Hoque Tuku e vandalismo di rappresaglia, con la polizia che spara proiettili di gomma e gas lacrimogeni per disperdere la folla.",
      "contesto_it": [
       "Dopo la rivolta di luglio"
+     ]
+    },
+    {
+     "testo": "A bombing against a FARC dissidents camp in the rural area of Mapiripán, Meta Department, left five guerrillas killed.",
+     "contesto": [
+      "Colombian conflict"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "CW+ noticias",
+       "url": "https://cwmas.com.co/nacion/2026/11/21/operacion-ninfa-mapiripan-meta/"
+      }
+     ],
+     "link": [
+      "FARC dissidents",
+      "Mapiripán",
+      "Meta Department"
+     ],
+     "testo_it": "Un bombardamento contro un campo di dissidenti delle FARC nella zona rurale di Mapiripán, Dipartimento di Meta, ha causato la morte di cinque guerriglieri.",
+     "contesto_it": [
+      "Conflitto colombiano"
+     ]
+    },
+    {
+     "testo": "Authorities confirmed following the federal operation in Guasave, Sinaloa, in which Fausto Isidro Meza Flores (a.k.a \"El Chapo Isidro\") was arrested, leave 4 soldiers killed and ten wounded as well as sixteen gunmen killed.",
+     "contesto": [
+      "Mexican drug war"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Meganoticias",
+       "url": "https://www.meganoticias.mx/cdmx/noticia/suman-20-muertos-por-enfrentamientos-en-guasave/791118"
+      }
+     ],
+     "link": [
+      "Mexican Army"
+     ],
+     "testo_it": "Le autorità hanno confermato a seguito dell'operazione federale a Guasave, Sinaloa, in cui Fausto Isidro Meza Flores (alias \"El Chapo Isidro\") è stato arrestato, lasciando 4 soldati uccisi e dieci feriti e sedici uomini armati uccisi.",
+     "contesto_it": [
+      "Guerra alla droga in Messico"
      ]
     },
     {
@@ -669,32 +913,11 @@
      ]
     },
     {
-     "testo": "Twenty-four people are killed and 24 more are rescued after a ship carrying funeral goers capsizes in Bayelsa State, Nigeria.",
-     "contesto": [
-      "2026 Bayelsa boat disaster"
-     ],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "Arab News",
-       "url": "https://www.arabnews.com/world/24-dead-in-nigeria-when-boat-capsizes-while-carrying-people-to-a-funeral-3013419"
-      }
-     ],
-     "link": [
-      "Bayelsa State",
-      "Nigeria"
-     ],
-     "testo_it": "Ventiquattro persone sono state uccise e altre 24 sono state salvate dopo che una nave che trasportava i visitatori funebri si è rovesciata nello stato di Bayelsa, in Nigeria.",
-     "contesto_it": [
-      "Disastro di Bayelsa (2026)"
-     ]
-    },
-    {
      "testo": "Mexican special forces arrest Fausto Isidro Meza Flores, leader of the drug cartel Los Mazatlecos and one of the United States Federal Bureau of Investigation's ten most-wanted fugitives, and two associates during an operation in Guasave, Sinaloa, triggering armed clashes with suspected cartel members.",
      "contesto": [
       "Mexican drug war"
      ],
-     "categoria": "Law and crime",
+     "categoria": "Armed conflicts and attacks",
      "fonti": [
       {
        "nome": "AFP via France 24",
@@ -715,6 +938,27 @@
      "testo_it": "Le forze speciali messicane arrestano Fausto Isidro Meza Flores, leader del cartello della droga Los Mazatlecos e uno dei dieci fuggitivi più ricercati del Federal Bureau of Investigation degli Stati Uniti, e due associati durante un'operazione a Guasave, Sinaloa, scatenando scontri armati con sospetti membri del cartello.",
      "contesto_it": [
       "Guerra alla droga in Messico"
+     ]
+    },
+    {
+     "testo": "Twenty-four people are killed and 24 more are rescued after a ship carrying funeral goers capsizes in Bayelsa State, Nigeria.",
+     "contesto": [
+      "2026 Bayelsa boat disaster"
+     ],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "Arab News",
+       "url": "https://www.arabnews.com/world/24-dead-in-nigeria-when-boat-capsizes-while-carrying-people-to-a-funeral-3013419"
+      }
+     ],
+     "link": [
+      "Bayelsa State",
+      "Nigeria"
+     ],
+     "testo_it": "Ventiquattro persone sono state uccise e altre 24 sono state salvate dopo che una nave che trasportava i visitatori funebri si è rovesciata nello stato di Bayelsa, in Nigeria.",
+     "contesto_it": [
+      "Disastro di Bayelsa (2026)"
      ]
     },
     {
@@ -2546,453 +2790,6 @@
      "testo_it": "Corsa NSW lancia un'indagine dopo il corpo di perdere il cavallo così sei si trova in un bidone salto a Sydney, in Australia.",
      "contesto_it": [
       "Coppa di Melbourne (2026)"
-     ]
-    }
-   ]
-  },
-  {
-   "data": "2026-11-16",
-   "voci": [
-    {
-     "testo": "Saudi Arabia's King Salman appoints Chairman of the General Staff Fayyadh Al Ruwaili as commander of the Saudi-led coalition in Yemen, following the retreat of Yemeni government forces from areas near the Bab al-Mandeb to Aden.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "Yemeni civil war",
-      "2026 Yemen offensives"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis"
-      }
-     ],
-     "link": [
-      "Saudi Arabia",
-      "King of Saudi Arabia",
-      "Salman of Saudi Arabia",
-      "Chairman of the General Staff",
-      "Fayyadh Al Ruwaili",
-      "Saudi-led intervention in the Yemeni civil war",
-      "Yemen",
-      "Presidential Leadership Council",
-      "Yemeni Armed Forces",
-      "Bab al-Mandeb",
-      "Aden"
-     ],
-     "testo_it": "Il re dell'Arabia Saudita Salman nomina il presidente dello Stato maggiore Fayyadh Al Ruwaili come comandante della coalizione a guida saudita nello Yemen, in seguito al ritiro delle forze governative yemenite dalle aree vicino al Bab al-Mandeb ad Aden.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Guerra civile yemenita",
-      "Yemen offensive (2026)"
-     ]
-    },
-    {
-     "testo": "Ukraine finishes search and rescue operations at a humanitarian aid distribution center in Komyshuvakha, Zaporizhzhia Oblast, that was destroyed by a Russian airstrike on 2 November. A total of 72 people were killed, and four more people are missing.",
-     "contesto": [
-      "Russo-Ukrainian war",
-      "Russian attacks on civilians in the Russo-Ukrainian war",
-      "2026 Komyshuvakha strike"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Meduza in Russian",
-       "url": "https://meduza.io/news/2026/11/16/v-kamyshevahe-zavershili-poisk-zhertv-rossiyskogo-udara-po-punktu-vydachi-gumanitarnoy-pomoschi-chislo-pogibshih-dostiglo-72-chelovek"
-      }
-     ],
-     "link": [
-      "Search and rescue",
-      "Komyshuvakha",
-      "Zaporizhzhia Oblast",
-      "Missing person"
-     ],
-     "testo_it": "L'Ucraina termina le operazioni di ricerca e soccorso in un centro di distribuzione di aiuti umanitari a Komyshuvakha, Zaporizhzhia Oblast, che è stato distrutto da un attacco aereo russo il 2 novembre. Un totale di 72 persone sono state uccise e altre quattro persone sono scomparse.",
-     "contesto_it": [
-      "Guerra russo-ucraina",
-      "Attacchi russi contro i civili nella guerra russo-ucraina",
-      "Sciopero di Komyshuvakha (2026)"
-     ]
-    },
-    {
-     "testo": "The Crimean Bridge is struck by a Ukrainian kamikaze drone, damaging the structure and prompting Russian authorities to close the bridge to vehicle traffic. The bridge is partially reopened later in the day.",
-     "contesto": [
-      "Russo-Ukrainian war",
-      "Crimea attacks"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "BBC News",
-       "url": "https://www.bbc.com/news/articles/ckx27v6dpjz0o"
-      },
-      {
-       "nome": "The Guardian",
-       "url": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea"
-      }
-     ],
-     "link": [
-      "Crimean Bridge",
-      "Ukraine",
-      "One-way attack drone",
-      "Russia"
-     ],
-     "testo_it": "Il ponte di Crimea è colpito da un drone kamikaze ucraino, danneggiando la struttura e spingendo le autorità russe a chiudere il ponte al traffico automobilistico. Il ponte è parzialmente riaperto più tardi nel corso della giornata.",
-     "contesto_it": [
-      "Guerra russo-ucraina",
-      "Attacchi di Crimea"
-     ]
-    },
-    {
-     "testo": "Five gunmen are killed after a shootout between criminal organizations in Chignahuapan, Puebla, Mexico.",
-     "contesto": [
-      "Mexican drug war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "El Sol de México in Spanish",
-       "url": "https://oem.com.mx/elsoldepuebla/local/reportan-cinco-muertos-tras-enfrentamiento-entre-bandas-en-chignahuapan-33148129"
-      }
-     ],
-     "link": [
-      "Shootout",
-      "Crime in Mexico",
-      "Chignahuapan",
-      "Puebla",
-      "Mexico"
-     ],
-     "testo_it": "Cinque uomini armati vengono uccisi dopo una sparatoria tra organizzazioni criminali a Chignahuapan, Puebla, Messico.",
-     "contesto_it": [
-      "Guerra alla droga in Messico"
-     ]
-    },
-    {
-     "testo": "Two people are killed and three more injured in a mass shooting at a party in Mazatlán, Sinaloa, Mexico.",
-     "contesto": [
-      "Mexican drug war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "El Universal in Spanish",
-       "url": "https://www.eluniversal.com.mx/estados/musicos-de-la-banda-hr-heridos-en-ataque-armado-en-mazatlan-estan-fuera-de-peligro-solicitan-apoyo-para-cubrir-gastos-medicos/"
-      }
-     ],
-     "link": [
-      "Mazatlán",
-      "Sinaloa"
-     ],
-     "testo_it": "Due persone vengono uccise e altre tre ferite in una sparatoria di massa a una festa a Mazatlán, Sinaloa, in Messico.",
-     "contesto_it": [
-      "Guerra alla droga in Messico"
-     ]
-    },
-    {
-     "testo": "Around ten people are injured, several requiring hospitalization, in East London, United Kingdom, when banned Awami League activists allegedly attack Bangladeshi expatriates and students with glass bottles and steel rods outside a reception for National Citizen Party convener Nahid Islam and the 11 Party Alliance.",
-     "contesto": [],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "New Age",
-       "url": "https://www.newagebd.net/post/politics/322945/10-hurt-in-al-attack-after-nahids-london-reception-ncp"
-      }
-     ],
-     "link": [
-      "Hospitalization",
-      "East London",
-      "United Kingdom",
-      "Awami League",
-      "British Bangladeshis",
-      "Student",
-      "Glass bottle",
-      "Steel",
-      "National Citizen Party",
-      "Nahid Islam",
-      "11 Party Alliance"
-     ],
-     "testo_it": "Circa dieci persone sono rimaste ferite, molte delle quali ricoverate, nell'East London, Regno Unito, quando attivisti dell'Awami League sono stati banditi e presumibilmente attaccano gli espatriati e gli studenti del Bangladesh con bottiglie di vetro e barre d'acciaio fuori da un ricevimento per Nahid Islam e l' 11 Party Alliance."
-    },
-    {
-     "testo": "English actor Robert Pattinson is cast as James Bond in the ongoing film series starring the character.",
-     "contesto": [],
-     "categoria": "Arts and culture",
-     "fonti": [
-      {
-       "nome": "Variety",
-       "url": "https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/"
-      }
-     ],
-     "link": [
-      "England",
-      "Robert Pattinson",
-      "James Bond",
-      "Portrayal of James Bond in film"
-     ],
-     "testo_it": "L'attore inglese Robert Pattinson interpreta James Bond nella serie cinematografica in corso con il personaggio."
-    },
-    {
-     "testo": "Police fire tear gas and sound grenades to disperse protesting garment workers blocking a road in Gazipur, after the Minimum Wage Board postpones its scheduled minimum wage meeting.",
-     "contesto": [
-      "2026 Bangladesh garment workers protests"
-     ],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "The Daily Star",
-       "url": "https://www.thedailystar.net/news/news/gazipur-garment-workers-block-road-police-fire-tear-gas-4325191"
-      },
-      {
-       "nome": "The Business Standard",
-       "url": "https://www.tbsnews.net/economy/rmg/owners-submit-minimum-wage-proposal-boards-third-meeting-today-amid-ongoing-unrest"
-      }
-     ],
-     "link": [
-      "Bangladesh Police",
-      "Tear gas",
-      "Stun grenade",
-      "Clothing industry",
-      "Gazipur District",
-      "Minimum Wage Board",
-      "Minimum wage"
-     ],
-     "testo_it": "La polizia spara gas lacrimogeni e granate sonore per disperdere i lavoratori che protestano bloccando una strada a Gazipur, dopo che la Commissione per il salario minimo rinvia la riunione del salario minimo prevista.",
-     "contesto_it": [
-      "Proteste dei lavoratori del Bangladesh (2026)"
-     ]
-    },
-    {
-     "testo": "The European Commission (EC) and the United States Federal Reserve approve Italian bank UniCredit's proposed €45 billion (US$49 billion) acquisition of Germany's Commerzbank, following the European Central Bank's approval in October. The EC grants unconditional antitrust clearance.",
-     "contesto": [],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/business/finance/unicredit-wins-eu-approval-commerzbank-acquisition-2026-11-16/"
-      }
-     ],
-     "link": [
-      "European Commission",
-      "United States",
-      "Federal Reserve",
-      "Italy",
-      "UniCredit",
-      "Euro",
-      "US$",
-      "Mergers and acquisitions",
-      "Germany",
-      "Commerzbank",
-      "European Central Bank",
-      "European Union competition law"
-     ],
-     "testo_it": "La Commissione europea (CE) e la Federal Reserve degli Stati Uniti approvano la proposta di acquisizione da parte della banca italiana UniCredit di 45 miliardi di euro (49 miliardi di dollari) della tedesca Commerzbank, a seguito dell'approvazione della Banca centrale europea in ottobre."
-    },
-    {
-     "testo": "Eleven people are killed and 16 others are injured in a fire at a four-story building in Patong, Phuket province, Thailand.",
-     "contesto": [
-      "2026 Patong fire"
-     ],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/16/shophouse-fire-on-thai-resort-island-kills-11"
-      }
-     ],
-     "link": [
-      "Patong",
-      "Phuket province",
-      "Thailand"
-     ],
-     "testo_it": "Undici persone sono morte e altre 16 sono rimaste ferite in un incendio in un edificio di quattro piani a Patong, nella provincia di Phuket, in Thailandia.",
-     "contesto_it": [
-      "Fuoco di Patong (2026)"
-     ]
-    },
-    {
-     "testo": "Three people are killed when a Piper Comanche aircraft crashes in the North Rim area of Grand Canyon National Park in Arizona, United States.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "FOX Weather",
-       "url": "https://www.foxweather.com/weather-news/3-dead-missing-plane-crash-grand-canyon-national-park"
-      }
-     ],
-     "link": [
-      "Piper PA-24 Comanche",
-      "North Rim",
-      "Grand Canyon National Park",
-      "Arizona",
-      "United States"
-     ],
-     "testo_it": "Tre persone vengono uccise quando un aereo Piper Comanche si schianta nell'area del North Rim del Parco Nazionale del Grand Canyon in Arizona, Stati Uniti."
-    },
-    {
-     "testo": "The United States Department of State reverses its decision to withdraw funding from the United Nations Support Office for Somalia and supports extending its mandate and that of the African Union's military mission combating Al-Shabaab for another year.",
-     "contesto": [
-      "Somalia–United States relations, USAID in the second Trump administration, United States intervention in Somalia"
-     ],
-     "categoria": "International relations",
-     "fonti": [
-      {
-       "nome": "AFP",
-       "url": "https://www.afp.com/en/reversal-us-fund-un-military-support-somalia-another-year"
-      }
-     ],
-     "link": [
-      "United States Department of State",
-      "United Nations Support Office for AMISOM",
-      "Somalia",
-      "African Union",
-      "African Union Support and Stabilization Mission in Somalia",
-      "Al-Shabaab (militant group)"
-     ],
-     "testo_it": "Il Dipartimento di Stato degli Stati Uniti inverte la sua decisione di ritirare i finanziamenti dall'Ufficio di sostegno delle Nazioni Unite per la Somalia e sostiene l'estensione del suo mandato e quello della missione militare dell'Unione africana che combatte Al-Shabaab per un altro anno.",
-     "contesto_it": [
-      "Relazioni Somalia-Stati Uniti, USAID nella seconda amministrazione Trump, intervento degli Stati Uniti in Somalia"
-     ]
-    },
-    {
-     "testo": "Former Togolese prime minister Gilbert Houngbo is re-elected director-general of the International Labour Organization.",
-     "contesto": [],
-     "categoria": "International relations",
-     "fonti": [
-      {
-       "nome": "AFP",
-       "url": "https://www.afp.com/en/former-togo-pm-re-elected-un-labour-agency-chief"
-      }
-     ],
-     "link": [
-      "Togo",
-      "Prime Minister of Togo",
-      "Gilbert Houngbo",
-      "International Labour Organization"
-     ],
-     "testo_it": "L'ex primo ministro togolese Gilbert Houngbo è stato rieletto direttore generale dell'Organizzazione internazionale del lavoro."
-    },
-    {
-     "testo": "A Paraguayan judge orders impeached former president Santiago Peña transferred to the Viñas Cué military prison pending trial on charges of criminal association, breach of trust, and misuse of public office linked to Ueno Bank's collapse.",
-     "contesto": [
-      "2026 Paraguay banking crisis"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/americas/paraguay-judge-orders-ex-president-pea-transferred-military-prison-2026-11-16/"
-      }
-     ],
-     "link": [
-      "Paraguay",
-      "President of Paraguay",
-      "Santiago Peña",
-      "Viñas Cué",
-      "Military prison",
-      "Criminal conspiracy",
-      "Public trust",
-      "Malfeasance in office",
-      "Ueno Bank"
-     ],
-     "testo_it": "Un giudice paraguaiano ordina l'impeachment dell'ex presidente Santiago Peña trasferito nella prigione militare di Viñas Cué in attesa di processo con l'accusa di associazione criminale, violazione della fiducia e uso improprio di cariche pubbliche legate al crollo di Ueno Bank.",
-     "contesto_it": [
-      "Paraguay crisi bancaria (2026)"
-     ]
-    },
-    {
-     "testo": "Nine people are killed in a mass shooting at a shack near Pretoria, South Africa.",
-     "contesto": [
-      "Crime in South Africa"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "NBC News",
-       "url": "https://www.nbcnews.com/world/africa/least-17-people-killed-2-mass-shootings-day-south-africa-rcna609688"
-      }
-     ],
-     "link": [
-      "Mass shooting",
-      "Shack",
-      "Pretoria",
-      "South Africa"
-     ],
-     "testo_it": "Nove persone vengono uccise in una sparatoria di massa in una baracca vicino a Pretoria, in Sudafrica.",
-     "contesto_it": [
-      "Criminalità in Sudafrica"
-     ]
-    },
-    {
-     "testo": "Eight people are found shot and killed inside a vehicle in Msunduzi Local Municipality, KwaZulu-Natal, South Africa.",
-     "contesto": [
-      "Crime in South Africa"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/south-africa-shootings-pretoria-1d8c73c660ebe7feda8d4c3848f6ac4f"
-      }
-     ],
-     "link": [
-      "Msunduzi Local Municipality",
-      "KwaZulu-Natal"
-     ],
-     "testo_it": "Otto persone sono state trovate fucilate e uccise all'interno di un veicolo nel comune locale di Msunduzi, KwaZulu-Natal, in Sudafrica.",
-     "contesto_it": [
-      "Criminalità in Sudafrica"
-     ]
-    },
-    {
-     "testo": "Bahrain sentences 64 Shia Muslims, mostly clerics, to life in prison for establishing a terrorist group linked to Iran's Islamic Revolutionary Guard Corps.",
-     "contesto": [
-      "Insurgency in Bahrain"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "BBC News",
-       "url": "https://www.bbc.com/news/articles/cmx20pyew3zxo"
-      }
-     ],
-     "link": [
-      "Bahrain",
-      "Shia Muslim",
-      "Islamic cleric",
-      "Life in prison",
-      "List of designated terrorist groups",
-      "Iran",
-      "Islamic Revolutionary Guard Corps"
-     ],
-     "testo_it": "Il Bahrein condanna 64 musulmani sciiti, per lo più chierici, all'ergastolo per aver fondato un gruppo terroristico legato al Corpo delle Guardie Rivoluzionarie Islamiche dell'Iran.",
-     "contesto_it": [
-      "Insurrezione in Bahrain"
-     ]
-    },
-    {
-     "testo": "The Gambian election commission approves President Adama Barrow's candidacy for a third term in the December 5 presidential election as the country's constitution does not limit presidential terms.",
-     "contesto": [
-      "2026 Gambian presidential election"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/africa/gambia-clears-barrow-run-third-presidential-term-approves-eight-other-candidates-2026-11-16/"
-      }
-     ],
-     "link": [
-      "The Gambia",
-      "Election commission",
-      "President of the Gambia",
-      "Adama Barrow",
-      "Elections in the Gambia",
-      "Constitution of the Gambia",
-      "Term limit"
-     ],
-     "testo_it": "La commissione elettorale gambiana approva la candidatura del presidente Adama Barrow per un terzo mandato nelle elezioni presidenziali del 5 dicembre in quanto la costituzione del paese non limita i termini presidenziali.",
-     "contesto_it": [
-      "Elezioni presidenziali in Gambia (2026)"
      ]
     }
    ]
