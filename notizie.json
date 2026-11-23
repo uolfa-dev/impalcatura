@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-23T01:48:39Z",
+ "generato": "2026-11-23T13:01:03Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -80,16 +80,68 @@
  "giorni": [
   {
    "data": "2026-11-23",
-   "voci": []
+   "voci": [
+    {
+     "testo": "The Supreme Court of Spain grants an amnesty to the former Catalan president Carles Puigdemont, who is currently in ‘self-imposed exile’ in Belgium, thereby bringing the legal proceedings against the leaders of the October 2017 declaration of independence to a definitive close.",
+     "contesto": [
+      "2017-18 Spanish constitutional crisis"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "El Mundo",
+       "url": "https://amp.elmundo.es/espana/2026/11/23/6b042ed9e4d4d8872c8b4579.html"
+      }
+     ],
+     "link": [
+      "Supreme Court of Spain",
+      "Amnesty",
+      "President of Catalonia",
+      "Carles Puigdemont",
+      "Belgium",
+      "Catalan declaration of independence"
+     ],
+     "testo_it": "La Corte Suprema di Spagna concede un'amnistia all'ex presidente catalano Carles Puigdemont, attualmente in “esilio autoimposto” in Belgio, portando così a termine definitivamente il procedimento legale contro i leader della dichiarazione di indipendenza dell'ottobre 2017.",
+     "contesto_it": [
+      "Crisi costituzionale spagnola (2017-18)"
+     ]
+    }
+   ]
   },
   {
    "data": "2026-11-22",
    "voci": [
     {
-     "testo": "Several people are killed and at least 10 people are injured after the Russian corvette Merkury is struck by a Ukrainian naval drone attack while docked at the port of Benghazi, Libya. The Merkury reportedly capsizes and sinks.",
+     "testo": "Bahrain announces that two people were injured by Iranian strikes the previous day.",
      "contesto": [
-      "Russo-Ukrainian War",
-      "Naval warfare in the Russo-Ukrainian war (2022–present), Ukrainian attacks on the Russian shadow fleet"
+      "Middle Eastern crisis",
+      "2026 Iran war",
+      "2026 Iranian strikes on Arab countries",
+      "2026 Iranian strikes on Bahrain"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Middle East Eye",
+       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-says-iranian-strike-wounds-two-one-critically"
+      }
+     ],
+     "link": [
+      "Bahrain"
+     ],
+     "testo_it": "Il Bahrein annuncia che due persone sono rimaste ferite dagli attacchi iraniani il giorno precedente.",
+     "contesto_it": [
+      "Crisi del Medio Oriente",
+      "Guerra in Iran (2026)",
+      "Scioperi iraniani contro i paesi arabi (2026)",
+      "Scioperi iraniani contro il Bahrein (2026)"
+     ]
+    },
+    {
+     "testo": "Several people are killed and at least 10 others are injured after the Russian corvette Merkury is struck by a Ukrainian naval drone attack while docked at the port of Benghazi, Libya. The Merkury later capsizes and sinks.",
+     "contesto": [
+      "Russo-Ukrainian war",
+      "Naval warfare in the Russo-Ukrainian war, Ukrainian attacks on the Russian shadow fleet"
      ],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
@@ -110,17 +162,17 @@
       "Benghazi",
       "Libya"
      ],
-     "testo_it": "Diverse persone vengono uccise e almeno 10 sono ferite dopo che la corvetta russa Merkury viene colpita da un attacco di droni navali ucraini mentre è attraccata al porto di Bengasi, in Libia.",
+     "testo_it": "Diverse persone vengono uccise e almeno altre 10 sono ferite dopo che la corvetta russa Merkury viene colpita da un attacco di droni navali ucraini mentre è attraccata al porto di Bengasi, in Libia.",
      "contesto_it": [
       "Guerra russo-ucraina",
-      "Guerra navale nella guerra russo-ucraina (2022-oggi), attacchi ucraini alla flotta ombra russa"
+      "Guerra navale nella guerra russo-ucraina, attacchi ucraini alla flotta ombra russa"
      ]
     },
     {
-     "testo": "A Maltese-flagged ship is also struck by naval drones off the coast of Benghazi.",
+     "testo": "A Maltese-flagged ship is also struck by naval drones off the coast of Benghazi in the Mediterranean Sea.",
      "contesto": [
-      "Russo-Ukrainian War",
-      "Naval warfare in the Russo-Ukrainian war (2022–present), Ukrainian attacks on the Russian shadow fleet"
+      "Russo-Ukrainian war",
+      "Naval warfare in the Russo-Ukrainian war, Ukrainian attacks on the Russian shadow fleet"
      ],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
@@ -130,12 +182,13 @@
       }
      ],
      "link": [
-      "Malta"
+      "Malta",
+      "Mediterranean Sea"
      ],
-     "testo_it": "Una nave battente bandiera maltese è anche colpita da droni navali al largo della costa di Bengasi.",
+     "testo_it": "Una nave battente bandiera maltese è anche colpita da droni navali al largo della costa di Bengasi nel Mar Mediterraneo.",
      "contesto_it": [
       "Guerra russo-ucraina",
-      "Guerra navale nella guerra russo-ucraina (2022-oggi), attacchi ucraini alla flotta ombra russa"
+      "Guerra navale nella guerra russo-ucraina, attacchi ucraini alla flotta ombra russa"
      ]
     },
     {
@@ -163,7 +216,7 @@
      ]
     },
     {
-     "testo": "Several garment factories in Gazipur, Bangladesh, declare holidays amid ongoing minimum wage protests, as clashes erupt between workers and police along the Dhaka–Mymensingh Highway, with workers throwing bricks and police firing tear gas and stun grenades while Special Response Battalion, Ansar, BGB, and Industrial Police personnel deploy to the area.",
+     "testo": "Several garment factories in Gazipur, Bangladesh declare holidays amid ongoing minimum wage protests, as clashes erupt between workers and police along the Dhaka–Mymensingh Highway, with workers throwing bricks and police firing tear gas and stun grenades while Special Response Battalion, Ansar, BGB, and Industrial Police personnel deploy to the area.",
      "contesto": [
       "2026 Bangladesh garment workers protests"
      ],
@@ -288,6 +341,33 @@
      "testo_it": "Tre persone sono morte in un incendio a Trzcianka, in Polonia."
     },
     {
+     "testo": "The 2026 United Nations Climate Change Conference (COP31) in Antalya, Turkey, concludes without a final agreement after countries failed to reach consensus on fossil fuel policies. It is the longest climate summit on record.",
+     "contesto": [
+      "2026 United Nations Climate Change Conference"
+     ],
+     "categoria": "Health and environment",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/climate-talks-collapse-chaotic-end-cop31"
+      },
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/sustainability/cop/cop31-climate-talks-close-final-deal-says-summit-president-2026-11-21/"
+      }
+     ],
+     "link": [
+      "United Nations Climate Change Conference",
+      "Antalya",
+      "Turkey",
+      "Fossil fuel"
+     ],
+     "testo_it": "La Conferenza delle Nazioni Unite sui cambiamenti climatici (COP31) del 2026 ad Antalya, in Turchia, si conclude senza un accordo finale dopo che i paesi non sono riusciti a raggiungere il consenso sulle politiche sui combustibili fossili.",
+     "contesto_it": [
+      "Conferenza delle Nazioni Unite sui cambiamenti climatici (2026)"
+     ]
+    },
+    {
      "testo": "South Korean education minister Choi Kyo-jin resigns following criticism of the government's response to artificial intelligence-assisted cheating concerns surrounding the College Scholastic Ability Test. President Lee Jae Myung accepts Choi's resignation.",
      "contesto": [],
      "categoria": "Politics and elections",
@@ -403,7 +483,7 @@
      ]
     },
     {
-     "testo": "Saudi Arabia intercepts three missiles fired at Riyadh by the Houthis.",
+     "testo": "Saudi forces intercept three ballistic missiles fired at Riyadh, Saudi Arabia, by the Houthis.",
      "contesto": [
       "Middle Eastern crisis",
       "Yemeni civil war",
@@ -417,15 +497,66 @@
       }
      ],
      "link": [
-      "Saudi Arabia",
+      "Saudi Arabian Armed Forces",
+      "Ballistic missile",
       "Riyadh",
+      "Saudi Arabia",
       "Houthis"
      ],
-     "testo_it": "L'Arabia Saudita intercetta tre missili lanciati contro Riyadh dagli Houthi.",
+     "testo_it": "Le forze saudite intercettano tre missili balistici lanciati contro Riyadh, in Arabia Saudita, dagli Houthi.",
      "contesto_it": [
       "Crisi del Medio Oriente",
       "Guerra civile yemenita",
       "Conflitto Houthi-saudita"
+     ]
+    },
+    {
+     "testo": "A bombing against a FARC dissidents camp in a rural area of Mapiripán, Meta Department, kills five guerrilla fighters.",
+     "contesto": [
+      "War on drugs",
+      "Colombian conflict"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "CW+ noticias",
+       "url": "https://cwmas.com.co/nacion/2026/11/21/operacion-ninfa-mapiripan-meta/"
+      }
+     ],
+     "link": [
+      "FARC dissidents",
+      "Mapiripán",
+      "Meta Department",
+      "Guerrilla warfare"
+     ],
+     "testo_it": "Un bombardamento contro un campo di dissidenti delle FARC in una zona rurale di Mapiripán, Dipartimento Meta, uccide cinque guerriglieri.",
+     "contesto_it": [
+      "Guerra alla droga",
+      "Conflitto colombiano"
+     ]
+    },
+    {
+     "testo": "Authorities confirm a federal operation in Guasave, Sinaloa, in which Fausto Isidro Meza Flores (a.k.a \"El Chapo Isidro\") was arrested, that four soldiers were killed and ten wounded as well as sixteen gunmen killed in the operation.",
+     "contesto": [
+      "War on drugs",
+      "Mexican drug war"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Meganoticias",
+       "url": "https://www.meganoticias.mx/cdmx/noticia/suman-20-muertos-por-enfrentamientos-en-guasave/791118"
+      }
+     ],
+     "link": [
+      "Guasave",
+      "Sinaloa",
+      "Mexican Army"
+     ],
+     "testo_it": "Le autorità confermano un'operazione federale a Guasave, Sinaloa, in cui Fausto Isidro Meza Flores (alias \"El Chapo Isidro\") è stato arrestato, che quattro soldati sono stati uccisi e dieci feriti e sedici uomini armati uccisi nell'operazione.",
+     "contesto_it": [
+      "Guerra alla droga",
+      "Guerra alla droga in Messico"
      ]
     },
     {
@@ -484,48 +615,6 @@
      "testo_it": "Scontri tra sostenitori del Partito nazionalista del Bangladesh e attivisti della Lega Awami a Bera Upazila, nel distretto di Pabna, feriscono diverse persone a seguito di un attacco incendiario nella casa abbandonata dell'ex vice presidente Shamsul Hoque Tuku e vandalismo di rappresaglia, con la polizia che spara proiettili di gomma e gas lacrimogeni per disperdere la folla.",
      "contesto_it": [
       "Dopo la rivolta di luglio"
-     ]
-    },
-    {
-     "testo": "A bombing against a FARC dissidents camp in the rural area of Mapiripán, Meta Department, left five guerrillas killed.",
-     "contesto": [
-      "Colombian conflict"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "CW+ noticias",
-       "url": "https://cwmas.com.co/nacion/2026/11/21/operacion-ninfa-mapiripan-meta/"
-      }
-     ],
-     "link": [
-      "FARC dissidents",
-      "Mapiripán",
-      "Meta Department"
-     ],
-     "testo_it": "Un bombardamento contro un campo di dissidenti delle FARC nella zona rurale di Mapiripán, Dipartimento di Meta, ha causato la morte di cinque guerriglieri.",
-     "contesto_it": [
-      "Conflitto colombiano"
-     ]
-    },
-    {
-     "testo": "Authorities confirmed following the federal operation in Guasave, Sinaloa, in which Fausto Isidro Meza Flores (a.k.a \"El Chapo Isidro\") was arrested, leave 4 soldiers killed and ten wounded as well as sixteen gunmen killed.",
-     "contesto": [
-      "Mexican drug war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Meganoticias",
-       "url": "https://www.meganoticias.mx/cdmx/noticia/suman-20-muertos-por-enfrentamientos-en-guasave/791118"
-      }
-     ],
-     "link": [
-      "Mexican Army"
-     ],
-     "testo_it": "Le autorità hanno confermato a seguito dell'operazione federale a Guasave, Sinaloa, in cui Fausto Isidro Meza Flores (alias \"El Chapo Isidro\") è stato arrestato, lasciando 4 soldati uccisi e dieci feriti e sedici uomini armati uccisi.",
-     "contesto_it": [
-      "Guerra alla droga in Messico"
      ]
     },
     {
