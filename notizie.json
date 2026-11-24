@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-23T13:01:03Z",
+ "generato": "2026-11-24T02:19:04Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -9,6 +9,57 @@
   "completa": true
  },
  "itn": [
+  {
+   "testo": "The joint ESA–JAXA mission BepiColombo enters orbit around Mercury.",
+   "contesto": [],
+   "categoria": "In primo piano",
+   "fonti": [
+    {
+     "nome": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/BepiColombo"
+    }
+   ],
+   "link": [
+    "European Space Agency",
+    "JAXA",
+    "BepiColombo",
+    "Mercury (planet)"
+   ],
+   "testo_it": "La missione congiunta ESA-JAXA BepiColombo entra in orbita attorno a Mercurio."
+  },
+  {
+   "testo": "Mongolian president Ukhnaagiin Khürelsükh announces his resignation in response to corruption allegations.",
+   "contesto": [],
+   "categoria": "In primo piano",
+   "fonti": [
+    {
+     "nome": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Ukhnaagiin_Kh%C3%BCrels%C3%BCkh"
+    }
+   ],
+   "link": [
+    "Ukhnaagiin Khürelsükh"
+   ],
+   "testo_it": "Il presidente mongolo Ukhnaagiin Khürelsükh annuncia le sue dimissioni in risposta alle accuse di corruzione."
+  },
+  {
+   "testo": "The International Court of Justice rules that Myanmar has committed genocide against the Rohingya people.",
+   "contesto": [],
+   "categoria": "In primo piano",
+   "fonti": [
+    {
+     "nome": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Rohingya_genocide_case"
+    }
+   ],
+   "link": [
+    "International Court of Justice",
+    "Rohingya genocide case",
+    "Rohingya genocide",
+    "Rohingya people"
+   ],
+   "testo_it": "La Corte Internazionale di Giustizia stabilisce che il Myanmar ha commesso un genocidio contro il popolo Rohingya."
+  },
   {
    "testo": "The video game Grand Theft Auto VI achieves US$3.79 billion in sales on its launch day, more than any other entertainment product in history.",
    "contesto": [],
@@ -23,87 +74,321 @@
     "Grand Theft Auto VI"
    ],
    "testo_it": "Il videogioco Grand Theft Auto VI raggiunge 3,79 miliardi di dollari di vendite il giorno del lancio, più di qualsiasi altro prodotto di intrattenimento nella storia."
-  },
-  {
-   "testo": "The space probe Voyager 1 (rendering shown) becomes the first human-made object to reach one light-day from Earth.",
-   "contesto": [],
-   "categoria": "In primo piano",
-   "fonti": [
-    {
-     "nome": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/Voyager_1"
-    }
-   ],
-   "link": [
-    "Space probe",
-    "Voyager 1",
-    "Light-second"
-   ],
-   "testo_it": "La sonda spaziale Voyager 1 (rendering mostrato) diventa il primo oggetto creato dall'uomo a raggiungere un giorno luce dalla Terra."
-  },
-  {
-   "testo": "In Canadian football, the Edmonton Elks defeat the Montreal Alouettes to win the Grey Cup.",
-   "contesto": [],
-   "categoria": "In primo piano",
-   "fonti": [
-    {
-     "nome": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/113th_Grey_Cup"
-    }
-   ],
-   "link": [
-    "Canadian football",
-    "Edmonton Elks",
-    "Montreal Alouettes",
-    "113th Grey Cup"
-   ],
-   "testo_it": "Nel calcio canadese, gli Edmonton Elks sconfiggono le Montreal Alouettes per vincere la Grey Cup."
-  },
-  {
-   "testo": "Nvidia CEO Jensen Huang resigns amidst allegations of being targeted by a Chinese spy and of having extramarital affairs.",
-   "contesto": [],
-   "categoria": "In primo piano",
-   "fonti": [
-    {
-     "nome": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/Jensen_Huang"
-    }
-   ],
-   "link": [
-    "Nvidia",
-    "Jensen Huang",
-    "Jensen Huang scandal"
-   ],
-   "testo_it": "Il CEO di Nvidia Jensen Huang si dimette tra le accuse di essere stato preso di mira da una spia cinese e di avere relazioni extraconiugali."
   }
  ],
  "giorni": [
   {
+   "data": "2026-11-24",
+   "voci": []
+  },
+  {
    "data": "2026-11-23",
    "voci": [
     {
-     "testo": "The Supreme Court of Spain grants an amnesty to the former Catalan president Carles Puigdemont, who is currently in ‘self-imposed exile’ in Belgium, thereby bringing the legal proceedings against the leaders of the October 2017 declaration of independence to a definitive close.",
+     "testo": "Ukraine launches a large-scale drone attack across western Russia, striking the Perm refinery in Perm Krai and Novoshakhtinsk refinery in Rostov Oblast.",
      "contesto": [
-      "2017-18 Spanish constitutional crisis"
+      "Russo-Ukrainian war",
+      "Attacks in Russia during the Russo-Ukrainian war"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "The Kyiv Independent",
+       "url": "https://kyivindependent.com/novoshakhtinsk-oil-refinery-reportedly-burning-after-ukrainian-drone-attack/"
+      },
+      {
+       "nome": "The Moscow Times",
+       "url": "https://www.themoscowtimes.com/2026/11/23/ukrainian-drones-kill-1-strike-oil-refinery-in-perm-region-a94347"
+      }
+     ],
+     "link": [
+      "Ukraine",
+      "Drone warfare",
+      "European Russia",
+      "Perm refinery",
+      "Perm Krai",
+      "Novoshakhtinsk",
+      "Rostov Oblast"
+     ],
+     "testo_it": "L'Ucraina lancia un attacco drone su larga scala attraverso la Russia occidentale, colpendo la raffineria Perm a Perm Krai e la raffineria di Novoshakhtinsk nell'Oblast' di Rostov.",
+     "contesto_it": [
+      "Guerra russo-ucraina",
+      "Attacchi in Russia durante la guerra russo-ucraina"
+     ]
+    },
+    {
+     "testo": "Turkish intelligence reports that the Kurdistan Workers' Party withdraws from 14 additional bases in northern Iraq as part of an ongoing disarmament process aimed at ending its conflict with Turkey.",
+     "contesto": [
+      "Kurdish–Turkish conflict"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "AFP via France 24",
+       "url": "https://www.france24.com/en/live-news/20261123-turkey-says-pkk-evacuated-14-more-bases-in-northern-iraq"
+      }
+     ],
+     "link": [
+      "Turkey",
+      "National Intelligence Organization",
+      "Kurdistan Workers' Party",
+      "Iraqi Kurdistan",
+      "Disarmament",
+      "Turkey"
+     ],
+     "testo_it": "L'intelligence turca riferisce che il Partito dei lavoratori del Kurdistan si ritira da 14 basi aggiuntive nel nord dell'Iraq come parte di un processo di disarmo in corso volto a porre fine al suo conflitto con la Turchia.",
+     "contesto_it": [
+      "Conflitto curdo-turco"
+     ]
+    },
+    {
+     "testo": "At least 15 people are injured and 28 houses and shops are vandalised during clashes between rival Bangladesh Nationalist Party factions in Shailkupa Upazila, Jhenaidah District, Bangladesh.",
+     "contesto": [],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "The Daily Star",
+       "url": "https://www.thedailystar.net/news/crime-justice/news/15-injured-bnp-factions-clash-jhenaidah-4331446"
+      }
+     ],
+     "link": [
+      "Vandalism",
+      "Bangladesh Nationalist Party",
+      "Shailkupa Upazila",
+      "Jhenaidah District",
+      "Bangladesh"
+     ],
+     "testo_it": "Almeno 15 persone sono rimaste ferite e 28 case e negozi sono stati vandalizzati durante gli scontri tra le fazioni rivali del Partito nazionalista del Bangladesh a Shailkupa Upazila, nel distretto di Jhenaidah, in Bangladesh."
+    },
+    {
+     "testo": "At least 20 people are injured, five seriously, and several shops are vandalised as rival factions of the banned Awami League clash and detonate four crude bombs in Gopalganj Sadar Upazila, Gopalganj District, Bangladesh.",
+     "contesto": [],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "The Business Standard",
+       "url": "https://www.tbsnews.net/bangladesh/least-20-injured-clash-between-two-al-factions-gopalganj-1612076"
+      }
+     ],
+     "link": [
+      "Vandalism",
+      "Awami League",
+      "Improvised explosive device",
+      "Gopalganj Sadar Upazila",
+      "Gopalganj District, Bangladesh",
+      "Bangladesh"
+     ],
+     "testo_it": "Almeno 20 persone sono rimaste ferite, cinque seriamente, e diversi negozi sono stati vandalizzati come fazioni rivali dello scontro vietato dell'Awami League e hanno fatto detonare quattro bombe grezze a Gopalganj Sadar Upazila, nel distretto di Gopalganj, in Bangladesh."
+    },
+    {
+     "testo": "Nvidia reinstates Jensen Huang as president and chief executive officer less than two weeks after he resigned following revelations of an affair with Alice Huang, who is suspected by U.S. intelligence of spying for China.",
+     "contesto": [
+      "Jensen Huang scandal, Chinese intelligence activity abroad"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "CBS",
+       "url": "https://www.cbsnews.com/news/nvidia-reinstates-jensen-huang-ceo/"
+      }
+     ],
+     "link": [
+      "Nvidia",
+      "Jensen Huang",
+      "President (corporate title)",
+      "Chief executive officer",
+      "Affair",
+      "Alice Huang (executive)",
+      "United States Intelligence Community",
+      "Espionage",
+      "China"
+     ],
+     "testo_it": "Nvidia ripristina Jensen Huang come presidente e amministratore delegato meno di due settimane dopo aver rassegnato le dimissioni a seguito delle rivelazioni di una relazione con Alice Huang, sospettata dall'intelligence statunitense di spionaggio per la Cina.",
+     "contesto_it": [
+      "Jensen Huang scandalo, attività di intelligence cinese all'estero"
+     ]
+    },
+    {
+     "testo": "Seven people are killed and two others are injured after a truck loaded with stones overturns onto a minitruck in Punjab, Pakistan.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "Xinhua",
+       "url": "https://english.news.cn/20261123/00ed81bb7e0043e5a18f3db0c2170696/c.html"
+      }
+     ],
+     "link": [
+      "Punjab, Pakistan"
+     ],
+     "testo_it": "Sette persone sono morte e altre due sono rimaste ferite dopo che un camion carico di pietre si è rovesciato su un minitruck nel Punjab, in Pakistan."
+    },
+    {
+     "testo": "A 58-year-old student dies at Sapienza University in Rome, Italy, while being on a hunger strike protesting the fact that he had not been assigned a place to stay.",
+     "contesto": [
+      "2026 European unrest",
+      "2026 Italian unrest"
+     ],
+     "categoria": "International relations",
+     "fonti": [
+      {
+       "nome": "Fanpage in Italian",
+       "url": "https://www.fanpage.it/roma/studente-muore-in-tenda-alla-sapienza-cardiopatico-era-in-attesa-di-un-alloggio-nello-studentato/"
+      }
+     ],
+     "link": [
+      "Sapienza University of Rome",
+      "Rome",
+      "Italy",
+      "Hunger strike"
+     ],
+     "testo_it": "Uno studente di 58 anni muore all'Università Sapienza di Roma, in Italia, mentre è in sciopero della fame per protestare contro il fatto che non gli era stato assegnato un posto dove stare.",
+     "contesto_it": [
+      "Insurrezioni europee (2026)",
+      "Insurrezione italiana (2026)"
+     ]
+    },
+    {
+     "testo": "The United Kingdom's foreign secretary Ed Miliband announces sanctions against five military leaders of Myanmar, while also granting recognition of the Rohingya genocide.",
+     "contesto": [
+      "Myanmar–United Kingdom relations, Rohingya genocide case"
+     ],
+     "categoria": "International relations",
+     "fonti": [
+      {
+       "nome": "BBC News",
+       "url": "https://www.bbc.com/news/articles/c6wy4ng1rznxo"
+      }
+     ],
+     "link": [
+      "United Kingdom",
+      "Foreign Secretary (United Kingdom)",
+      "Ed Miliband",
+      "Myanmar",
+      "Rohingya genocide"
+     ],
+     "testo_it": "Il segretario agli Esteri del Regno Unito Ed Miliband annuncia sanzioni contro cinque leader militari del Myanmar, pur garantendo il riconoscimento del genocidio dei Rohingya.",
+     "contesto_it": [
+      "Relazioni Myanmar-Regno Unito, caso di genocidio Rohingya"
+     ]
+    },
+    {
+     "testo": "Tajikistan formally begins the process of withdrawing from the International Criminal Court.",
+     "contesto": [],
+     "categoria": "International relations",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/asia-pacific/tajikistan-becomes-fourth-country-withdraw-icc-since-us-diplomatic-push-2026-11-23/"
+      }
+     ],
+     "link": [
+      "Tajikistan",
+      "International Criminal Court"
+     ],
+     "testo_it": "Il Tagikistan inizia formalmente il processo di ritiro dalla Corte penale internazionale."
+    },
+    {
+     "testo": "The Supreme Court of Spain grants amnesty to former Catalan president Carles Puigdemont, who is currently in self-imposed exile in Belgium, thereby bringing the legal proceedings against the leaders of the October 2017 declaration of independence to a definitive close.",
+     "contesto": [
+      "2017–18 Spanish constitutional crisis"
      ],
      "categoria": "Law and crime",
      "fonti": [
       {
-       "nome": "El Mundo",
-       "url": "https://amp.elmundo.es/espana/2026/11/23/6b042ed9e4d4d8872c8b4579.html"
+       "nome": "CNN",
+       "url": "https://edition.cnn.com/2026/11/23/europe/spanish-court-carles-puigdemont-exile-intl"
       }
      ],
      "link": [
       "Supreme Court of Spain",
+      "Spain",
       "Amnesty",
       "President of Catalonia",
       "Carles Puigdemont",
+      "Exile",
       "Belgium",
       "Catalan declaration of independence"
      ],
-     "testo_it": "La Corte Suprema di Spagna concede un'amnistia all'ex presidente catalano Carles Puigdemont, attualmente in “esilio autoimposto” in Belgio, portando così a termine definitivamente il procedimento legale contro i leader della dichiarazione di indipendenza dell'ottobre 2017.",
+     "testo_it": "La Corte Suprema di Spagna concede l'amnistia all'ex presidente catalano Carles Puigdemont, attualmente in esilio autoimposto in Belgio, portando così a termine definitivamente il procedimento legale contro i leader della dichiarazione di indipendenza dell'ottobre 2017.",
      "contesto_it": [
       "Crisi costituzionale spagnola (2017-18)"
+     ]
+    },
+    {
+     "testo": "Hundreds of schools across Denmark and Germany receive bomb threats via email, with police ordering the schools to continue operations as normal.",
+     "contesto": [
+      "2026 European bomb threat wave"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/hundreds-german-schools-received-bomb-threats-bild-reports-2026-11-23/"
+      }
+     ],
+     "link": [
+      "Denmark",
+      "Germany",
+      "Bomb threat",
+      "Email"
+     ],
+     "testo_it": "Centinaia di scuole in tutta la Danimarca e la Germania ricevono minacce di bomba via e-mail, con la polizia che ordina alle scuole di continuare le operazioni normalmente.",
+     "contesto_it": [
+      "Onda di minaccia di bomba europea (2026)"
+     ]
+    },
+    {
+     "testo": "Iranian singer Parastoo Ahmadi receives 74 lashes for performing at a music concert without a hijab.",
+     "contesto": [
+      "Hijab in Iran"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "BBC News",
+       "url": "https://www.bbc.com/news/articles/cq1j6585l5g6o"
+      }
+     ],
+     "link": [
+      "Iran",
+      "Parastoo Ahmadi",
+      "Flagellation"
+     ],
+     "testo_it": "Il cantante iraniano Parastoo Ahmadi riceve 74 frustate per essersi esibito in un concerto musicale senza hijab.",
+     "contesto_it": [
+      "Hijab in Iran"
+     ]
+    },
+    {
+     "testo": "In association football, FIFA confirms Costa Rica, Jamaica, Mexico, and the United States as joint hosts of the 2031 Women's World Cup, while England, Northern Ireland, Scotland, and Wales will jointly host the 2035 tournament.",
+     "contesto": [
+      "2031 and 2035 FIFA Women's World Cup bids"
+     ],
+     "categoria": "Sports",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/usa-joint-bid-host-2031-womens-world-cup-uk-host-2035"
+      }
+     ],
+     "link": [
+      "Association football",
+      "FIFA",
+      "Costa Rican Football Federation",
+      "Jamaica Football Federation",
+      "Mexican Football Federation",
+      "United States Soccer Federation",
+      "2031 FIFA Women's World Cup",
+      "The Football Association",
+      "Irish Football Association",
+      "Scottish Football Association",
+      "Football Association of Wales",
+      "2035 FIFA Women's World Cup"
+     ],
+     "testo_it": "Nel calcio associativo, la FIFA conferma Costa Rica, Giamaica, Messico e Stati Uniti come ospiti congiunti della Coppa del Mondo femminile 2031, mentre Inghilterra, Irlanda del Nord, Scozia e Galles ospiteranno congiuntamente il torneo 2035.",
+     "contesto_it": [
+      "2031 e 2035 Coppa del Mondo femminile FIFA"
      ]
     }
    ]
@@ -111,32 +396,6 @@
   {
    "data": "2026-11-22",
    "voci": [
-    {
-     "testo": "Bahrain announces that two people were injured by Iranian strikes the previous day.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "2026 Iran war",
-      "2026 Iranian strikes on Arab countries",
-      "2026 Iranian strikes on Bahrain"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Middle East Eye",
-       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-says-iranian-strike-wounds-two-one-critically"
-      }
-     ],
-     "link": [
-      "Bahrain"
-     ],
-     "testo_it": "Il Bahrein annuncia che due persone sono rimaste ferite dagli attacchi iraniani il giorno precedente.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Guerra in Iran (2026)",
-      "Scioperi iraniani contro i paesi arabi (2026)",
-      "Scioperi iraniani contro il Bahrein (2026)"
-     ]
-    },
     {
      "testo": "Several people are killed and at least 10 others are injured after the Russian corvette Merkury is struck by a Ukrainian naval drone attack while docked at the port of Benghazi, Libya. The Merkury later capsizes and sinks.",
      "contesto": [
@@ -169,7 +428,7 @@
      ]
     },
     {
-     "testo": "A Maltese-flagged ship is also struck by naval drones off the coast of Benghazi in the Mediterranean Sea.",
+     "testo": "The M/V Angara, a Russian-flagged cargo ship, is also struck by naval drones off the coast of Benghazi in the Mediterranean Sea.",
      "contesto": [
       "Russo-Ukrainian war",
       "Naval warfare in the Russo-Ukrainian war, Ukrainian attacks on the Russian shadow fleet"
@@ -177,18 +436,91 @@
      "categoria": "Armed conflicts and attacks",
      "fonti": [
       {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/middle-east/libyas-eastern-government-suspects-drone-attack-caused-explosion-russian-ship-2026-11-22/"
+       "nome": "NPR",
+       "url": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya"
       }
      ],
      "link": [
-      "Malta",
+      "Russia",
       "Mediterranean Sea"
      ],
-     "testo_it": "Una nave battente bandiera maltese è anche colpita da droni navali al largo della costa di Bengasi nel Mar Mediterraneo.",
+     "testo_it": "La M/V Angara, una nave da carico con bandiera russa, è anche colpita da droni navali al largo della costa di Bengasi nel Mar Mediterraneo.",
      "contesto_it": [
       "Guerra russo-ucraina",
       "Guerra navale nella guerra russo-ucraina, attacchi ucraini alla flotta ombra russa"
+     ]
+    },
+    {
+     "testo": "The Catholic World Report notes that at least 140 people were killed by Allied Democratic Forces and Islamic State Central Africa Province attacks targeting Christians in the Democratic Republic of the Congo provinces of North Kivu and Ituri over the course of two weeks earlier in November.",
+     "contesto": [
+      "Allied Democratic Forces insurgency"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Catholic World Report",
+       "url": "https://www.catholicworldreport.com/2026/11/22/at-least-140-christians-killed-in-two-weeks-in-the-democratic-republic-of-congo/"
+      }
+     ],
+     "link": [
+      "Catholic World Report",
+      "Allied Democratic Forces",
+      "Islamic State Central Africa Province",
+      "Christianity in the Democratic Republic of the Congo",
+      "Democratic Republic of the Congo",
+      "Provinces of the Democratic Republic of the Congo",
+      "North Kivu",
+      "Ituri Province"
+     ],
+     "testo_it": "Il Catholic World Report rileva che almeno 140 persone sono state uccise dalle Forze Democratiche Alleate e dagli attacchi della Provincia dello Stato Islamico dell'Africa Centrale che hanno preso di mira i cristiani nelle province della Repubblica Democratica del Congo del Nord Kivu e Ituri nel corso di due settimane prima a novembre.",
+     "contesto_it": [
+      "insurrezione delle forze democratiche alleate"
+     ]
+    },
+    {
+     "testo": "Twenty-four people, including seven children, are killed in an attack by the armed wing of the Sudan People's Liberation Movement-in-Opposition in Tonj East County, Warrap State, South Sudan. Four attackers are also killed.",
+     "contesto": [
+      "South Sudanese Civil War"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "CTV News",
+       "url": "https://www.ctvnews.ca/world/article/24-civilians-killed-in-fresh-south-sudan-violence/"
+      }
+     ],
+     "link": [
+      "Sudan People's Liberation Movement-in-Opposition",
+      "Tonj East County",
+      "Warrap (state)",
+      "South Sudan"
+     ],
+     "testo_it": "Ventiquattro persone, tra cui sette bambini, vengono uccise in un attacco da parte dell'ala armata del Movimento di Liberazione Popolare Sudanese nella contea di Tonj East, nello stato di Warrap, nel Sud Sudan.",
+     "contesto_it": [
+      "Guerra civile del Sud Sudan"
+     ]
+    },
+    {
+     "testo": "Two people are killed and thirteen others are abducted in two separate bandit attacks in Magaji and Maru, Zamfara State, Nigeria.",
+     "contesto": [
+      "Nigerian bandit conflict"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "TVC News",
+       "url": "https://www.tvcnews.tv/bandits-kill-two-teachers-abduct-13-in-zamfara-as-police-arrest-gunrunner-with-eight-ak-47-rifles/"
+      }
+     ],
+     "link": [
+      "Birnin Magaji/Kiyaw",
+      "Maru, Nigeria",
+      "Zamfara State",
+      "Nigeria"
+     ],
+     "testo_it": "Due persone sono state uccise e altre tredici sono state rapite in due diversi attacchi di banditi a Magaji e Maru, nello stato di Zamfara, in Nigeria.",
+     "contesto_it": [
+      "Conflitto bandito nigeriano"
      ]
     },
     {
@@ -307,24 +639,6 @@
      "testo_it": "Un forte temporale uccide cinque persone e ne ferisce altre 250 a Tupanciretã, Rio Grande do Sul, Brasile."
     },
     {
-     "testo": "A fire at a confectionery factory in Serang Regency, Banten, Indonesia, kills at least three people, leaves 36 others missing, and injures four.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AFP via France 24",
-       "url": "https://www.france24.com/en/live-news/20261122-three-dead-36-missing-after-indonesia-factory-fire"
-      }
-     ],
-     "link": [
-      "Confectionery",
-      "Serang Regency",
-      "Banten",
-      "Indonesia"
-     ],
-     "testo_it": "Un incendio in una fabbrica di dolciumi a Serang Regency, Banten, in Indonesia, uccide almeno tre persone, ne lascia altre 36 scomparse e ne ferisce quattro."
-    },
-    {
      "testo": "Three people are killed in a house fire in Trzcianka, Poland.",
      "contesto": [],
      "categoria": "Disasters and accidents",
@@ -339,6 +653,26 @@
       "Poland"
      ],
      "testo_it": "Tre persone sono morte in un incendio a Trzcianka, in Polonia."
+    },
+    {
+     "testo": "Carbon monoxide poisoning from a suspected heater malfunction during Sunday mass at a church in Bad Grönenbach, Bavaria, Germany, leaves 56 people injured.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "Der Spiegel",
+       "url": "https://www.spiegel.de/panorama/bad-groenenbach-im-allgaeu-56-verletzte-bei-gottesdienst-wegen-kohlenmonoxid-austritt-a-ebf9cf29-ce27-49f4-8e74-e2d2756f9277"
+      }
+     ],
+     "link": [
+      "Carbon monoxide poisoning",
+      "Heater",
+      "Sunday mass",
+      "Bad Grönenbach",
+      "Bavaria",
+      "Germany"
+     ],
+     "testo_it": "Avvelenamento da monossido di carbonio da un sospetto malfunzionamento del riscaldatore durante la messa domenicale in una chiesa di Bad Grönenbach, Baviera, Germania, lascia 56 persone ferite."
     },
     {
      "testo": "The 2026 United Nations Climate Change Conference (COP31) in Antalya, Turkey, concludes without a final agreement after countries failed to reach consensus on fossil fuel policies. It is the longest climate summit on record.",
@@ -368,6 +702,63 @@
      ]
     },
     {
+     "testo": "Democratic Republic of the Congo president Félix Tshisekedi and Kenyan president William Ruto agree to restore full diplomatic relations after a summit in Oyo, Republic of the Congo, hosted by the country's president Denis Sassou Nguesso and mediated by Togolese former president Faure Gnassingbé.",
+     "contesto": [
+      "Democratic Republic of the Congo–Kenya relations"
+     ],
+     "categoria": "International relations",
+     "fonti": [
+      {
+       "nome": "BBC News",
+       "url": "https://www.bbc.com/news/articles/cmvg2qnn95vro"
+      }
+     ],
+     "link": [
+      "Democratic Republic of the Congo",
+      "President of the Democratic Republic of the Congo",
+      "Félix Tshisekedi",
+      "Kenya",
+      "President of Kenya",
+      "William Ruto",
+      "Diplomatic relations",
+      "Summit (meeting)",
+      "Oyo, Republic of the Congo",
+      "Republic of the Congo",
+      "President of the Republic of the Congo",
+      "Denis Sassou Nguesso",
+      "Togo",
+      "President of Togo",
+      "Faure Gnassingbé"
+     ],
+     "testo_it": "Il presidente della Repubblica Democratica del Congo Félix Tshisekedi e il presidente keniano William Ruto concordano di ripristinare le relazioni diplomatiche complete dopo un vertice a Oyo, nella Repubblica del Congo, ospitato dal presidente del paese Denis Sassou Nguesso e mediato dall'ex presidente togolese Faure Gnassingbé.",
+     "contesto_it": [
+      "Relazioni Repubblica Democratica del Congo-Kenya"
+     ]
+    },
+    {
+     "testo": "The Co-op Live arena in Manchester, England, is evacuated of around 12000 attendees after an unknown substance is dispersed during a Don Toliver concert, initially believed to be tear gas, causing respiratory distress to multiple concertgoers.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "BBC News",
+       "url": "https://www.bbc.com/news/articles/c9e851dn8516o"
+      },
+      {
+       "nome": "CNN",
+       "url": "https://edition.cnn.com/2026/11/23/europe/manchester-coop-live-tear-gas-don-toliver-hnk-intl"
+      }
+     ],
+     "link": [
+      "Co-op Live",
+      "Manchester",
+      "England",
+      "Don Toliver",
+      "Tear gas"
+     ],
+     "testo_it": "L'arena Co-op Live di Manchester, in Inghilterra, viene evacuata da circa 12000 partecipanti dopo che una sostanza sconosciuta viene dispersa durante un concerto di Don Toliver, inizialmente ritenuto gas lacrimogeno, causando disagio respiratorio a più concertisti."
+    },
+    {
      "testo": "South Korean education minister Choi Kyo-jin resigns following criticism of the government's response to artificial intelligence-assisted cheating concerns surrounding the College Scholastic Ability Test. President Lee Jae Myung accepts Choi's resignation.",
      "contesto": [],
      "categoria": "Politics and elections",
@@ -390,7 +781,7 @@
      "testo_it": "Il ministro dell'istruzione sudcoreano Choi Kyo-jin si dimette dopo aver criticato la risposta del governo alle preoccupazioni relative all'imbroglio assistito dall'intelligenza artificiale che circondano il College Scholastic Ability Test."
     },
     {
-     "testo": "In tennis, Carlos Alcaraz defeats Alexander Zverev in the final, 6–2, 7–6(9–7) to win his first singles title at the 2026 ATP Finals.",
+     "testo": "In tennis, Carlos Alcaraz defeats Alexander Zverev 6–2, 7–6(9–7) in the final to win his first singles title at the 2026 ATP Finals.",
      "contesto": [
       "2026 ATP Finals"
      ],
@@ -408,7 +799,7 @@
       "Singles (tennis)",
       "ATP Finals"
      ],
-     "testo_it": "Nel tennis, Carlos Alcaraz sconfigge Alexander Zverev in finale, 6-2, 7-6 (9-7) per vincere il suo primo titolo di single alle 2026 ATP Finals.",
+     "testo_it": "Nel tennis, Carlos Alcaraz sconfigge Alexander Zverev 6-2, 7-6 (9-7) in finale per vincere il suo primo titolo di single alle 2026 ATP Finals.",
      "contesto_it": [
       "Finale ATP (2026)"
      ]
@@ -536,7 +927,7 @@
      ]
     },
     {
-     "testo": "Authorities confirm a federal operation in Guasave, Sinaloa, in which Fausto Isidro Meza Flores (a.k.a \"El Chapo Isidro\") was arrested, that four soldiers were killed and ten wounded as well as sixteen gunmen killed in the operation.",
+     "testo": "Four soldiers and 16 gunmen are killed in a shootout amid a federal operation by the Mexican Army in Guasave, Sinaloa, leading to the arrest of a cartel leader.",
      "contesto": [
       "War on drugs",
       "Mexican drug war"
@@ -549,11 +940,12 @@
       }
      ],
      "link": [
+      "Shootout",
+      "Mexican Army",
       "Guasave",
-      "Sinaloa",
-      "Mexican Army"
+      "Sinaloa"
      ],
-     "testo_it": "Le autorità confermano un'operazione federale a Guasave, Sinaloa, in cui Fausto Isidro Meza Flores (alias \"El Chapo Isidro\") è stato arrestato, che quattro soldati sono stati uccisi e dieci feriti e sedici uomini armati uccisi nell'operazione.",
+     "testo_it": "Quattro soldati e 16 uomini armati vengono uccisi in una sparatoria in mezzo a un'operazione federale dell'esercito messicano a Guasave, Sinaloa, che porta all'arresto di un leader del cartello.",
      "contesto_it": [
       "Guerra alla droga",
       "Guerra alla droga in Messico"
@@ -615,6 +1007,52 @@
      "testo_it": "Scontri tra sostenitori del Partito nazionalista del Bangladesh e attivisti della Lega Awami a Bera Upazila, nel distretto di Pabna, feriscono diverse persone a seguito di un attacco incendiario nella casa abbandonata dell'ex vice presidente Shamsul Hoque Tuku e vandalismo di rappresaglia, con la polizia che spara proiettili di gomma e gas lacrimogeni per disperdere la folla.",
      "contesto_it": [
       "Dopo la rivolta di luglio"
+     ]
+    },
+    {
+     "testo": "Between five and eleven people, including an infant, are killed, five others are injured and several others are abducted in a bandit attack in Borgu, Niger State, Nigeria.",
+     "contesto": [
+      "Nigerian bandit conflict"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "The Punch",
+       "url": "https://punchng.com/bandits-kill-niger-village-head-five-others/"
+      },
+      {
+       "nome": "AFP via Citizen Digital",
+       "url": "https://citizen.digital/article/armed-gangs-attack-centraligerian-village-killing-11-n394344"
+      }
+     ],
+     "link": [
+      "Borgu (local government area)",
+      "Niger State",
+      "Nigeria"
+     ],
+     "testo_it": "Tra le cinque e le undici persone, tra cui un bambino, vengono uccise, altre cinque sono ferite e molte altre vengono rapite in un attacco bandito a Borgu, nello Stato del Niger, in Nigeria.",
+     "contesto_it": [
+      "Conflitto bandito nigeriano"
+     ]
+    },
+    {
+     "testo": "Between 35 and 74 Fulani herdsmen are killed in a vigilante attack in two villages of Borgu in retaliation for the earlier bandit raid.",
+     "contesto": [
+      "Nigerian bandit conflict"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "The Rio Times",
+       "url": "https://www.riotimesonline.com/nigeria-niger-state-reprisals-fulani-killed-2026/"
+      }
+     ],
+     "link": [
+      "Fulani herdsmen"
+     ],
+     "testo_it": "Tra i 35 e i 74 pastori Fulani vengono uccisi in un attacco di vigilantes in due villaggi di Borgu in rappresaglia per il precedente raid di banditi.",
+     "contesto_it": [
+      "Conflitto bandito nigeriano"
      ]
     },
     {
@@ -725,6 +1163,24 @@
      ]
     },
     {
+     "testo": "A fire at a confectionery factory in Serang Regency, Banten, Indonesia, kills at least 24 people, leaves 30 others missing, and injures five.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/asia-pacific/indonesia-says-24-killed-factory-blaze-rescuers-search-dozens-missing-2026-11-23/"
+      }
+     ],
+     "link": [
+      "Confectionery",
+      "Serang Regency",
+      "Banten",
+      "Indonesia"
+     ],
+     "testo_it": "Un incendio in una fabbrica di dolciumi a Serang Regency, Banten, in Indonesia, uccide almeno 24 persone, lascia 30 altri dispersi e ne ferisce cinque."
+    },
+    {
      "testo": "Four people are killed and 35 others are injured in a fire at a power station in Basra, Iraq.",
      "contesto": [],
      "categoria": "Disasters and accidents",
@@ -739,22 +1195,6 @@
       "Iraq"
      ],
      "testo_it": "Quattro persone sono morte e altre 35 sono rimaste ferite in un incendio in una centrale elettrica a Bassora, in Iraq."
-    },
-    {
-     "testo": "At least three people are killed, four others are injured and 36 are reported missing after a fire at a candy factory in Serang, Indonesia.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "The Guardian",
-       "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta"
-      }
-     ],
-     "link": [
-      "Serang",
-      "Indonesia"
-     ],
-     "testo_it": "Almeno tre persone sono morte, altre quattro sono rimaste ferite e 36 sono scomparse dopo un incendio in una fabbrica di caramelle a Serang, in Indonesia."
     },
     {
      "testo": "Indonesia and the European Union sign trade and investment agreements that will lift 98.5% of tariffs on EU goods.",
@@ -778,6 +1218,25 @@
      "contesto_it": [
       "Relazioni commerciali Indonesia-Unione europea"
      ]
+    },
+    {
+     "testo": "Three people are killed and another person is injured in a shootout at a baby shower in Parma, Ohio, United States. The dead include one of the shooters, while a second person is arrested for killing the presumed main perpetrator.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "Associated Press via NBC News",
+       "url": "https://www.nbcnews.com/news/us-news/parma-ohio-baby-shower-shooting-rcna610722"
+      }
+     ],
+     "link": [
+      "Shootout",
+      "Baby shower",
+      "Parma, Ohio",
+      "Ohio",
+      "United States"
+     ],
+     "testo_it": "Tre persone vengono uccise e un'altra persona viene ferita in una sparatoria a Parma, Ohio, Stati Uniti. I morti includono uno dei tiratori, mentre una seconda persona viene arrestata per aver ucciso il presunto colpevole principale."
     },
     {
      "testo": "The European Space Agency announces that the BepiColombo spacecraft inserted itself into orbit around Mercury.",
@@ -1120,8 +1579,10 @@
      ]
     },
     {
-     "testo": "Anthropic employee and mathematician Levent Alpöge releases a claimed proof of the Riemann hypothesis. The proof was created with assistance from Claude.",
-     "contesto": [],
+     "testo": "Anthropic employee and mathematician Levent Alpöge releases a claimed proof of the Riemann hypothesis, created with assistance from Claude.",
+     "contesto": [
+      "Mathematics and artificial intelligence"
+     ],
      "categoria": "Science and technology",
      "fonti": [
       {
@@ -1133,9 +1594,12 @@
       "Anthropic",
       "Levent Alpöge",
       "Riemann hypothesis",
-      "Mathematics and artificial intelligence"
+      "Claude (AI)"
      ],
-     "testo_it": "L'impiegato e matematico antropico Levent Alpöge rilascia una prova rivendicata dell'ipotesi di Riemann. La prova è stata creata con l'assistenza di Claude."
+     "testo_it": "L'impiegato e matematico antropico Levent Alpöge rilascia una prova dell'ipotesi di Riemann, creata con l'aiuto di Claude.",
+     "contesto_it": [
+      "Matematica e intelligenza artificiale"
+     ]
     }
    ]
   },
@@ -1469,6 +1933,28 @@
      ]
     },
     {
+     "testo": "Anthropic holds its initial public offering, raising roughly US$81 billion and becoming the largest IPO in history by amount raised.",
+     "contesto": [
+      "AI boom, Initial public offering of Anthropic"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "CNBC",
+       "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+      }
+     ],
+     "link": [
+      "Anthropic",
+      "Initial public offering",
+      "Initial public offering"
+     ],
+     "testo_it": "Anthropic detiene la sua offerta pubblica iniziale, raccogliendo circa 81 miliardi di dollari e diventando la più grande IPO nella storia per quantità raccolta.",
+     "contesto_it": [
+      "Boom AI, offerta pubblica iniziale di Antropic"
+     ]
+    },
+    {
      "testo": "The Joint Organisations Data Initiative reports that Saudi Arabia's oil exports rose in September to their highest level since the outbreak of the war in February, despite Houthi attacks on Red Sea ports and infrastructure.",
      "contesto": [
       "Economic impact of the 2026 Iran war"
@@ -1518,23 +2004,22 @@
      ]
     },
     {
-     "testo": "Grand Theft Auto VI by Rockstar Games becomes the biggest video game launch in history with more than $2.3 billion in sales, surpassing the previous record holder, Call of Duty: Modern Warfare II, by more than $600 million.",
+     "testo": "The release of American video game Grand Theft Auto VI becomes the biggest launch of an entertainment product in the world with more than $2.3 billion in sales, surpassing the previous record holder, video game Call of Duty: Modern Warfare II (2022), by more than $600 million.",
      "contesto": [],
      "categoria": "Business and economy",
      "fonti": [
       {
-       "nome": "LBC",
-       "url": "https://www.lbc.co.uk/article/gta-6-breaks-records-as-estimated-sales-top-23bn-5HjdnKw_2/"
+       "nome": "The Guardian",
+       "url": "https://www.theguardian.com/games/2026/nov/21/a-new-record-for-entertainment-grand-theft-auto-vi-sales-hit-38bn-on-first-day-of-release-developer-says"
       }
      ],
      "link": [
+      "Video games in the United States",
       "Grand Theft Auto VI",
-      "Rockstar Games",
-      "Video game industry",
       "United States dollar",
       "Call of Duty: Modern Warfare II (2022 video game)"
      ],
-     "testo_it": "Grand Theft Auto VI di Rockstar Games diventa il più grande lancio di videogiochi nella storia con oltre 2,3 miliardi di dollari di vendite, superando il precedente detentore del record, Call of Duty: Modern Warfare II, di oltre 600 milioni di dollari."
+     "testo_it": "L'uscita del videogioco americano Grand Theft Auto VI diventa il più grande lancio di un prodotto di intrattenimento al mondo con oltre 2,3 miliardi di dollari di vendite, superando il precedente detentore del record, il videogioco Call of Duty: Modern Warfare II (2022), di oltre 600 milioni di dollari."
     },
     {
      "testo": "The Philippines and Chile sign a free trade agreement as part of the 33rd Asia-Pacific Economic Cooperation Economic Leaders' Meeting in Shenzhen, China, marking the former's first such agreement with a Latin American country.",
@@ -2244,641 +2729,6 @@
      "testo_it": "In Test cricket, lo wicketkeeper del Bangladesh Litton Das stabilisce un record mondiale per il maggior numero di licenziamenti in un singolo test inning, registrando sei catture e due colpi contro il Sudafrica a Johannesburg.",
      "contesto_it": [
       "Squadra di cricket del Bangladesh in Sud Africa nel 2026-27"
-     ]
-    }
-   ]
-  },
-  {
-   "data": "2026-11-17",
-   "voci": [
-    {
-     "testo": "Five Palestinians are killed, including a child, and others are injured in a series of Israeli airstrikes on various areas of the Gaza Strip, Palestine.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "Gaza war",
-      "Israeli bombing of the Gaza Strip"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AA",
-       "url": "https://www.aa.com.tr/en/middle-east/israeli-army-kills-palestinian-blows-up-homes-in-gaza-despite-ceasefire/4127526"
-      }
-     ],
-     "link": [
-      "Palestinians",
-      "Israel Defense Forces",
-      "Airstrike",
-      "Gaza Strip",
-      "Palestine"
-     ],
-     "testo_it": "Cinque palestinesi vengono uccisi, tra cui un bambino, e altri sono feriti in una serie di attacchi aerei israeliani su varie aree della Striscia di Gaza, in Palestina.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Guerra di Gaza",
-      "Bombardamento israeliano della Striscia di Gaza"
-     ]
-    },
-    {
-     "testo": "A 72-year-old Palestinian woman is killed and ten others are injured in an attack by Israeli settlers on Palestinian homes in the village of Ein ad-Duyuk at-Tahta west of Jericho in the occupied West Bank.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "Gaza war",
-      "Israeli incursions in the West Bank during the Gaza war, Israeli settler violence"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people"
-      }
-     ],
-     "link": [
-      "Palestinian",
-      "Israeli settlers",
-      "Ein ad-Duyuk at-Tahta",
-      "Jericho",
-      "West Bank"
-     ],
-     "testo_it": "Una donna palestinese di 72 anni viene uccisa e altri dieci sono feriti in un attacco da parte di coloni israeliani contro case palestinesi nel villaggio di Ein ad-Duyuk a-Tahta a ovest di Gerico, nella Cisgiordania occupata.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Guerra di Gaza",
-      "Incursioni israeliane in Cisgiordania durante la guerra di Gaza, violenza dei coloni israeliani"
-     ]
-    },
-    {
-     "testo": "Bahrain's military intercepts a number of drones fired by Iran's Islamic Revolutionary Guard Corps (IRGC) at Sheikh Isa Air Base.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "2026 Iran war",
-      "2026 Iranian strikes on Arab countries",
-      "2026 Iranian strikes on Bahrain"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/amp/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar"
-      }
-     ],
-     "link": [
-      "Bahrain",
-      "Bahrain Defence Force",
-      "Unmanned aerial vehicles in the Iranian military",
-      "Iran",
-      "Islamic Revolutionary Guard Corps",
-      "Sheikh Isa Air Base"
-     ],
-     "testo_it": "L'esercito del Bahrain intercetta un certo numero di droni sparati dal Corpo delle Guardie Rivoluzionarie Islamiche (IRGC) dell'Iran presso la base aerea di Sheikh Isa.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Guerra in Iran (2026)",
-      "Scioperi iraniani contro i paesi arabi (2026)",
-      "Scioperi iraniani contro il Bahrein (2026)"
-     ]
-    },
-    {
-     "testo": "The United States Air Force conducts a series of at least six strikes on Qeshm Island. The IRGC says it shot down a General Atomics MQ-9 Reaper drone south of the island.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "2026 Iran war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/middle-east/us-strikes-iranian-missile-launch-site-qeshm-island-us-official-says-2026-11-17/"
-      },
-      {
-       "nome": "AFP via Le Monde",
-       "url": "https://www.lemonde.fr/en/international/article/2026/11/17/iran-claims-attack-on-us-base-in-bahrain_6782812_4.html"
-      }
-     ],
-     "link": [
-      "United States",
-      "United States Air Force",
-      "Qeshm Island",
-      "General Atomics MQ-9 Reaper"
-     ],
-     "testo_it": "L'aviazione degli Stati Uniti conduce una serie di almeno sei attacchi sull'isola di Qeshm. L'IRGC dice di aver abbattuto un drone General Atomics MQ-9 Reaper a sud dell'isola.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Guerra in Iran (2026)"
-     ]
-    },
-    {
-     "testo": "The Crimean Bridge is struck by Ukrainian drones for the second day in a row, killing two people and prompting Russian authorities to close vehicle traffic again. Open-source intelligence report that a section of the road bridge damaged yesterday has collapsed into the Kerch Strait.",
-     "contesto": [
-      "Russo-Ukrainian war",
-      "Crimea attacks"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/europe/ukraine-strikes-crimean-bridge-second-day-russia-pounds-kyiv-bridges-2026-11-17/"
-      },
-      {
-       "nome": "Türkiye Today",
-       "url": "https://www.turkiyetoday.com/world/kerch-bridge-road-arch-reportedly-falls-into-sea-after-ukrainian-strikes-3232578"
-      }
-     ],
-     "link": [
-      "Crimean Bridge",
-      "Unmanned Systems Forces of Ukraine",
-      "Unmanned aerial vehicles",
-      "Russia",
-      "Government of Russia",
-      "Open-source intelligence",
-      "Kerch Strait"
-     ],
-     "testo_it": "Il ponte di Crimea è colpito dai droni ucraini per il secondo giorno di fila, uccidendo due persone e spingendo le autorità russe a chiudere di nuovo il traffico dei veicoli.",
-     "contesto_it": [
-      "Guerra russo-ucraina",
-      "Attacchi di Crimea"
-     ]
-    },
-    {
-     "testo": "Following the arrest of party leaders, banned Awami League and Chhatra League activists mobilize via mosque loudspeakers to storm and burn a police station in Tungipara, Gopalganj District, Bangladesh. Amid police tear gas and rubber bullet fire, the attackers free detainees, loot firearms, burn Bangladesh Nationalist Party MP S M Jilani's (Gopalganj-3) residence, and blockade local roads.",
-     "contesto": [
-      "Aftermath of the July Uprising"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "The Daily Star",
-       "url": "https://www.thedailystar.net/news/crime-justice/news/gopalganjs-tungipara-police-station-set-fire-following-arrests-awami-league-activists-4326406"
-      },
-      {
-       "nome": "The Business Standard",
-       "url": "https://www.tbsnews.net/bangladesh/bnp-mp-zilanys-house-set-fire-gopalganj-1605941"
-      }
-     ],
-     "link": [
-      "List of political parties in Bangladesh",
-      "Awami League",
-      "Bangladesh Chhatra League",
-      "Mosque",
-      "Loudspeaker",
-      "Arson",
-      "Bangladesh Police",
-      "Tungipara Upazila",
-      "Gopalganj District, Bangladesh",
-      "Bangladesh",
-      "Tear gas",
-      "Rubber bullet",
-      "Detainee",
-      "Looting",
-      "Firearm",
-      "Bangladesh Nationalist Party",
-      "Jatiya Sangsad",
-      "S M Jilani",
-      "Gopalganj-3",
-      "Blockade"
-     ],
-     "testo_it": "Dopo l'arresto dei leader del partito, gli attivisti della Lega Awami e della Lega Chhatra si mobilitano tramite altoparlanti della moschea per prendere d'assalto e bruciare una stazione di polizia a Tungipara, nel distretto di Gopalganj, in Bangladesh. Tra gas lacrimogeni e proiettili di gomma della polizia, gli aggressori liberano i detenuti, saccheggiano le armi da fuoco, bruciano la residenza del deputato nazionalista del Bangladesh S M Jilani (Gopalganj-3) e bloccano le strade locali.",
-     "contesto_it": [
-      "Dopo la rivolta di luglio"
-     ]
-    },
-    {
-     "testo": "In Comilla, Bangladesh, Swechhasebak Dal members burn the local Awami League office and former MP AKM Bahauddin Bahar's residence in retaliation for the attack on BNP leader S M Jilani's home.",
-     "contesto": [
-      "Aftermath of the July Uprising"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "The Business Standard",
-       "url": "https://www.tbsnews.net/bangladesh/awami-league-office-former-mp-bahars-house-set-fire-cumilla-1606191"
-      }
-     ],
-     "link": [
-      "Comilla",
-      "Bangladesh Jatiotabadi Swechhasebak Dal",
-      "Arson",
-      "Awami League",
-      "Jatiya Sangsad",
-      "A. K. M. Bahauddin",
-      "Bangladesh Nationalist Party",
-      "S M Jilani"
-     ],
-     "testo_it": "A Comilla, Bangladesh, i membri di Swechhasebak Dal bruciano l'ufficio locale della Lega Awami e l'ex-deputato AKM Bahauddin Bahar come rappresaglia per l'attacco alla casa del leader del BNP S M Jilani.",
-     "contesto_it": [
-      "Dopo la rivolta di luglio"
-     ]
-    },
-    {
-     "testo": "Bangladeshi police and 42 platoons of the Border Guard Bangladesh deploy tear gas, stun grenades, batons, and surveillance drones against garment workers across Dhaka, Savar, Ashulia, Gazipur, and Narayanganj protesting for a minimum wage hike from ৳12,500 (US$100) to ৳30,000 ($240). Protesters block the N3, N4, and N5 highways and shutter 37 factories after a Minimum Wage Board meeting is delayed to November 23.",
-     "contesto": [
-      "2026 Bangladesh garment workers protests"
-     ],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "AFP",
-       "url": "https://www.afp.com/en/bangladesh-garment-workers-police-clash-fresh-wage-protest"
-      },
-      {
-       "nome": "The Hindu",
-       "url": "https://www.thehindu.com/news/international/fresh-unrest-in-bangladesh-as-garment-workers-protest-block-highways-for-higher-wages/article71711657.ece"
-      }
-     ],
-     "link": [
-      "Bangladesh",
-      "Bangladesh Police",
-      "Platoon",
-      "Border Guard Bangladesh",
-      "Tear gas",
-      "Stun grenade",
-      "Baton (law enforcement)",
-      "Unmanned aerial vehicle",
-      "Textile industry in Bangladesh",
-      "Dhaka",
-      "Savar Upazila",
-      "Ashulia",
-      "Gazipur District",
-      "Narayanganj District",
-      "Minimum wage",
-      "Bangladeshi taka",
-      "US$",
-      "N3 (Bangladesh)",
-      "N4 (Bangladesh)",
-      "N5 (Bangladesh)",
-      "Factory",
-      "Minimum wage"
-     ],
-     "testo_it": "La polizia del Bangladesh e 42 plotoni della Guardia di frontiera del Bangladesh schierano gas lacrimogeni, granate stordenti, manganelli e droni di sorveglianza contro i lavoratori del vestiario in tutta Dhaka, Savar, Ashulia, Gazipur e Narayanganj protestando per un aumento del salario minimo da  12.500 (US $ 100) a  30.000 ($ 240).",
-     "contesto_it": [
-      "Proteste dei lavoratori del Bangladesh (2026)"
-     ]
-    },
-    {
-     "testo": "Canada and China agree to further tariff reductions following talks between Canadian prime minister Mark Carney and Chinese leader Xi Jinping before the APEC summit in Shenzhen. China reduces tariffs on C$400 million (¥1.8 billion) in Canadian exports, while Canada extends relief for Chinese steel and aluminium.",
-     "contesto": [
-      "Canada–China relations"
-     ],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "AFP",
-       "url": "https://www.afp.com/en/canada-china-agree-further-tariff-cuts-leaders-meet"
-      }
-     ],
-     "link": [
-      "Canada",
-      "China",
-      "Tariff",
-      "Prime Minister of Canada",
-      "Mark Carney",
-      "Paramount leader",
-      "Xi Jinping",
-      "APEC China 2026",
-      "Shenzhen",
-      "Canadian dollar",
-      "Renminbi",
-      "List of exports of Canada",
-      "Steel industry in China"
-     ],
-     "testo_it": "Il Canada e la Cina accettano ulteriori riduzioni tariffarie a seguito dei colloqui tra il primo ministro canadese Mark Carney e il leader cinese Xi Jinping prima del vertice APEC a Shenzhen. La Cina riduce le tariffe su $ 400 milioni ( 1,8 miliardi) nelle esportazioni canadesi, mentre il Canada estende il rilievo per l'acciaio e l'alluminio cinesi.",
-     "contesto_it": [
-      "Relazioni Canada-Cina"
-     ]
-    },
-    {
-     "testo": "A Russian Air Force Antonov An-12 crashes near Kemerovo, Russia, killing all 19 people on board.",
-     "contesto": [
-      "2026 Russian Air Force Antonov An-12 crash"
-     ],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/russia-military-air-crash-siberia-an12-bb68e35e985a5e72786d813cf0ce598d"
-      },
-      {
-       "nome": "The Independent",
-       "url": "https://www.independent.co.uk/news/world/europe/russia-plane-crash-siberia-kemerovo-b3086529.html"
-      }
-     ],
-     "link": [
-      "Russian Air Force",
-      "Antonov An-12",
-      "Kemerovo"
-     ],
-     "testo_it": "L'aviazione russa Antonov An-12 si schianta vicino a Kemerovo, in Russia, uccidendo tutte le 19 persone a bordo.",
-     "contesto_it": [
-      "Russian Air Force Antonov An-12 crash (2026)"
-     ]
-    },
-    {
-     "testo": "Forty-six people are injured after a collision between two trains in Prague, Czech Republic.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "BBC News",
-       "url": "https://www.bbc.com/news/articles/c6reg7r589nro"
-      }
-     ],
-     "link": [
-      "Railway accident",
-      "Rail transport in the Czech Republic",
-      "Prague",
-      "Czech Republic"
-     ],
-     "testo_it": "Quarantasei persone sono rimaste ferite dopo uno scontro tra due treni a Praga, nella Repubblica Ceca."
-    },
-    {
-     "testo": "A small boat reportedly carrying about a hundred people, mostly migrants, capsizes off Yenne, Senegal. Sources report that four bodies have been recovered, while several others are still missing. Search operations are launched by authorities.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/18/migrant-boat-capsizes-off-senegal-leaving-at-least-one-dead"
-      },
-      {
-       "nome": "BBC News",
-       "url": "https://www.bbc.com/news/articles/c58j484089ewo"
-      }
-     ],
-     "link": [
-      "Pirogue",
-      "Senegal",
-      "Search and rescue"
-     ],
-     "testo_it": "Una piccola barca che trasporta circa un centinaio di persone, per lo più migranti, si rovescia al largo di Yenne, in Senegal. Fonti riferiscono che quattro corpi sono stati recuperati, mentre molti altri sono ancora dispersi. Le operazioni di ricerca sono avviate dalle autorità."
-    },
-    {
-     "testo": "The Pan American Health Organization revokes the measles elimination statuses of Bolivia, Mexico, and the United States. For the U.S., the organization cited continuous domestic transmission for over 12 months amid more than 5,700 reported infections and multiple deaths in 2026.",
-     "contesto": [
-      "Measles resurgence in the Americas"
-     ],
-     "categoria": "Health and environment",
-     "fonti": [
-      {
-       "nome": "AFP via France 24",
-       "url": "https://www.france24.com/en/live-news/20261117-us-loses-measles-free-status-as-cases-deaths-mount"
-      },
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/17/us-officially-loses-measles-free-status-after-26-years-amid-outbreak"
-      }
-     ],
-     "link": [
-      "Pan American Health Organization",
-      "Measles",
-      "Bolivia",
-      "Mexico",
-      "United States"
-     ],
-     "testo_it": "La Pan American Health Organization revoca gli stati di eliminazione del morbillo di Bolivia, Messico e Stati Uniti. Per gli Stati Uniti, l'organizzazione ha citato la trasmissione domestica continua per oltre 12 mesi in mezzo a più di 5.700 infezioni segnalate e morti multiple nel 2026.",
-     "contesto_it": [
-      "Il risorgere del morbillo nelle Americhe"
-     ]
-    },
-    {
-     "testo": "France and Malaysia establish a strategic partnership, signing agreements on defence, energy, and technology cooperation during French president Emmanuel Macron's state visit. Malaysia also agrees to permit limited exports of unprocessed rare-earth minerals to France in exchange for assistance with mineral processing.",
-     "contesto": [
-      "France–Malaysia relations"
-     ],
-     "categoria": "International relations",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/business/aerospace-defense/france-malaysia-eye-defence-rare-earths-cooperation-during-macron-visit-kuala-2026-11-17/"
-      }
-     ],
-     "link": [
-      "France",
-      "Malaysia",
-      "Strategic partnership (international relations)",
-      "President of France",
-      "Emmanuel Macron",
-      "State visit",
-      "Rare-earth mineral",
-      "Mineral processing"
-     ],
-     "testo_it": "Francia e Malesia stabiliscono una partnership strategica, firmando accordi sulla difesa, l'energia e la cooperazione tecnologica durante la visita di stato del presidente francese Emmanuel Macron. La Malesia accetta inoltre di consentire esportazioni limitate di minerali delle terre rare non trasformati in Francia in cambio di assistenza con la lavorazione dei minerali.",
-     "contesto_it": [
-      "Relazioni Francia-Malesia"
-     ]
-    },
-    {
-     "testo": "British foreign secretary Ed Miliband announces that the United Kingdom will sanction eight companies involved in the construction of settlements in the occupied West Bank, as well as Tzav 9 for its role in blocking humanitarian aid to the Gaza Strip.",
-     "contesto": [
-      "Israel–United Kingdom relations, United Kingdom and the Gaza war"
-     ],
-     "categoria": "International relations",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/britain-israel-sanctions-west-bank-construction-8e4de81ef0b6fdbf0fd5f687e95de163"
-      }
-     ],
-     "link": [
-      "Foreign, Commonwealth and Development Office",
-      "Ed Miliband",
-      "United Kingdom",
-      "United Kingdom government sanctions",
-      "Israeli settlements",
-      "Israeli occupation of the West Bank",
-      "West Bank",
-      "Tzav 9",
-      "Humanitarian aid during the Gaza war",
-      "Gaza Strip"
-     ],
-     "testo_it": "Il ministro degli Esteri britannico Ed Miliband annuncia che il Regno Unito sanzionirà otto società coinvolte nella costruzione di insediamenti nella Cisgiordania occupata, così come Tzav 9 per il suo ruolo nel bloccare gli aiuti umanitari alla Striscia di Gaza.",
-     "contesto_it": [
-      "Relazioni Israele-Regno Unito, Regno Unito e guerra di Gaza"
-     ]
-    },
-    {
-     "testo": "Investigative journalist Camilo Rodríguez is shot dead in his vehicle in Santo Domingo, Heredia, Costa Rica, in the first journalist death in the country in at least 25 years.",
-     "contesto": [
-      "Crime in Costa Rica"
-     ],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "AFP",
-       "url": "https://www.afp.com/en/costa-rican-journalist-gunned-down-near-capital"
-      }
-     ],
-     "link": [
-      "Santo Domingo, Costa Rica",
-      "Heredia Province",
-      "Costa Rica"
-     ],
-     "testo_it": "Il giornalista investigativo Camilo Rodríguez viene ucciso nel suo veicolo a Santo Domingo, Heredia, Costa Rica, nel primo giornalista morto nel paese da almeno 25 anni.",
-     "contesto_it": [
-      "Criminalità in Costa Rica"
-     ]
-    },
-    {
-     "testo": "A factory worker is hacked to death after filming clashes between two factions of the ruling Bangladesh Nationalist Party in Fatullah, Narayanganj District.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "Views Bangladesh",
-       "url": "https://viewsbangladesh.com/pedestrian-hacked-to-death-while-filming-video-of-clash-between-two-bnp-factions/"
-      }
-     ],
-     "link": [
-      "Murder",
-      "Bangladesh Nationalist Party",
-      "Fatullah",
-      "Narayanganj District"
-     ],
-     "testo_it": "Un operaio di fabbrica viene hackerato a morte dopo aver filmato gli scontri tra due fazioni del partito nazionalista al governo del Bangladesh a Fatullah, nel distretto di Narayanganj."
-    },
-    {
-     "testo": "A court in Conakry, Guinea, tries over 1,000 alleged artisanal gold miners for illegal gold mining in the Siguiri region, resulting in the sentencing of 22 former regional administrators and 202 others to various prison terms.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "DW",
-       "url": "https://www.dw.com/en/guinea-jails-200-in-wildcat-gold-mining-crackdown/a-79968808"
-      }
-     ],
-     "link": [
-      "Conakry",
-      "Guinea",
-      "Artisanal mining",
-      "Gold mining",
-      "Illegal mining",
-      "Siguiri Prefecture"
-     ],
-     "testo_it": "Un tribunale di Conakry, in Guinea, processa oltre 1.000 presunti minatori d'oro artigianali per l'estrazione illegale di oro nella regione di Siguiri, con la conseguente condanna a varie pene detentive di 22 ex amministratori regionali e 202 altri."
-    },
-    {
-     "testo": "The North Macedonian Agency for National Security arrests five Macedonian nationals allegedly linked to an assassination plot in Greece, allegedly involving Iranian recruiters, including Naji Sharifi-Zindashti, who is wanted by the U.S. Federal Bureau of Investigation. A sixth person remains at large. Greek public television reports that the target was a Israeli business executive based in Athens.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/north-macedonia-iran-greece-arrests-449228844460fe264a7a0da5f50b3fd1"
-      }
-     ],
-     "link": [
-      "North Macedonia",
-      "Intelligence Agency of North Macedonia",
-      "Assassination",
-      "Greece",
-      "Iran",
-      "Naji Sharifi-Zindashti",
-      "Federal Bureau of Investigation",
-      "Israel",
-      "Athens"
-     ],
-     "testo_it": "L'Agenzia per la sicurezza nazionale della Macedonia del Nord arresta cinque cittadini macedoni presumibilmente legati a un complotto di assassinio in Grecia, presumibilmente coinvolgendo reclutatori iraniani, tra cui Naji Sharifi-Zindashti, che è ricercato dal Federal Bureau of Investigation degli Stati Uniti. Una sesta persona rimane in generale. La televisione pubblica greca riferisce che l'obiettivo era un dirigente commerciale israeliano con sede ad Atene."
-    },
-    {
-     "testo": "Mongolian president Ukhnaagiin Khürelsükh announces his resignation from office, three days after former Ulaanbaatar mayor Khishgeegiin Nyambaatar accused him of past embezzlement from a railway project during his tenure as prime minister. The State Great Khural must accept the resignation for it to become effective.",
-     "contesto": [
-      "Corruption in Mongolia"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/mongolia-president-corruption-allegations-9542b2bf7536db6ae65b371aac07bbf4"
-      }
-     ],
-     "link": [
-      "Mongolia",
-      "President of Mongolia",
-      "Ukhnaagiin Khürelsükh",
-      "Resignation",
-      "Ulaanbaatar",
-      "Mayor of Ulaanbaatar",
-      "Khishgeegiin Nyambaatar",
-      "Embezzlement",
-      "Ulaanbaatar Railway",
-      "Prime Minister of Mongolia",
-      "State Great Khural"
-     ],
-     "testo_it": "Il presidente mongolo Ukhnaagiin Khürelsükh annuncia le sue dimissioni dall'incarico, tre giorni dopo che l'ex sindaco di Ulaanbaatar Khishgeegin Nyambaatar lo ha accusato di aver passato l'appropriazione indebita da un progetto ferroviario durante il suo mandato come primo ministro.",
-     "contesto_it": [
-      "Corruzione in Mongolia"
-     ]
-    },
-    {
-     "testo": "Hundreds of Haitians march in cities across Haiti to show support for the deployment of Salvadoran troops to combat gang violence.",
-     "contesto": [
-      "Haitian crisis, Salvadoran military intervention in Haiti"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment"
-      }
-     ],
-     "link": [
-      "Haitians",
-      "Haiti",
-      "El Salvador",
-      "Armed Forces of El Salvador",
-      "Gang violence"
-     ],
-     "testo_it": "Centinaia di haitiani marciano nelle città di Haiti per mostrare sostegno al dispiegamento delle truppe salvadoregne per combattere la violenza delle gang.",
-     "contesto_it": [
-      "Crisi haitiana, intervento militare salvadoregno ad Haiti"
-     ]
-    },
-    {
-     "testo": "American technology company Apple experiences an outage with several of its services, including Apple Pay, iCloud, the App Store, and AppleCare. The company's spokesperson attributed the problems to an internal update and rules out a cyberattack.",
-     "contesto": [],
-     "categoria": "Science and technology",
-     "fonti": [
-      {
-       "nome": "Time",
-       "url": "https://time.com/article/2026/11/17/apple-outage-down-update-issue/"
-      }
-     ],
-     "link": [
-      "Science and technology in the United States",
-      "Apple Inc",
-      "Downtime",
-      "Apple Pay",
-      "ICloud",
-      "Apple App Store",
-      "AppleCare",
-      "Cyberattack"
-     ],
-     "testo_it": "La società tecnologica americana Apple sperimenta un'interruzione con molti dei suoi servizi, tra cui Apple Pay, iCloud, App Store e AppleCare. Il portavoce della società ha attribuito i problemi a un aggiornamento interno e esclude un attacco informatico."
-    },
-    {
-     "testo": "Racing NSW launches an investigation after the body of losing horse So You Are is found in a skip bin in Sydney, Australia.",
-     "contesto": [
-      "2026 Melbourne Cup"
-     ],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "CNN",
-       "url": "https://edition.cnn.com/2026/11/17/sport/melbourne-cup-horse-so-you-are-dead-waste-facility"
-      },
-      {
-       "nome": "The Guardian Australia",
-       "url": "https://www.theguardian.com/australia-news/2026/nov/17/disgusted-by-it-body-of-melbourne-cup-horse-found-dumped-in-sydney-skip-bin-ntwnfb"
-      }
-     ],
-     "link": [
-      "Racing NSW",
-      "Skip bin",
-      "Sydney",
-      "Australia"
-     ],
-     "testo_it": "Corsa NSW lancia un'indagine dopo il corpo di perdere il cavallo così sei si trova in un bidone salto a Sydney, in Australia.",
-     "contesto_it": [
-      "Coppa di Melbourne (2026)"
      ]
     }
    ]
