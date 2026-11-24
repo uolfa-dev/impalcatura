@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-24T02:19:04Z",
+ "generato": "2026-11-24T13:53:24Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -79,11 +79,119 @@
  "giorni": [
   {
    "data": "2026-11-24",
-   "voci": []
+   "voci": [
+    {
+     "testo": "A Russian airstrike hits a five-story apartment building in Zaporizhzhia, Ukraine, killing two people and wounding 44 others.",
+     "contesto": [
+      "Russo-Ukrainian war",
+      "Zaporizhzhia strikes, Russian attacks on civilians in the Russo-Ukrainian war"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/russia-ukraine-libya-sea-drone-attacks-bfff959fb4c7415f9473b34e78a4f750"
+      }
+     ],
+     "link": [
+      "Russian Armed Forces",
+      "Airstrike",
+      "Zaporizhzhia",
+      "Ukraine"
+     ],
+     "testo_it": "Un attacco aereo russo colpisce un condominio di cinque piani a Zaporizhzhia, in Ucraina, uccidendo due persone e ferendone altre 44.",
+     "contesto_it": [
+      "Guerra russo-ucraina",
+      "Attacchi di Zaporizhia, attacchi russi contro i civili nella guerra russo-ucraina"
+     ]
+    },
+    {
+     "testo": "Thirteen people are killed and fourteen others are injured when a bus collides with a stationary truck in Ras Al Khaimah, United Arab Emirates.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "Gulf News",
+       "url": "https://gulfnews.com/uae/emergencies/ras-al-khaimah-bus-truck-crash-death-toll-rises-to-13-14-injured-what-we-know-so-far-1.500752440"
+      }
+     ],
+     "link": [
+      "Ras Al Khaimah",
+      "United Arab Emirates"
+     ],
+     "testo_it": "Tredici persone vengono uccise e altre quattordici ferite quando un autobus si scontra con un camion fermo a Ras Al Khaimah, negli Emirati Arabi Uniti."
+    },
+    {
+     "testo": "The UK Health Security Agency says it recorded the highest number of heat related deaths in the United Kingdom on record in 2026 at 5,258, surpassing the previous record in 2022.",
+     "contesto": [
+      "Climate change in the United Kingdom",
+      "2026 United Kingdom heatwaves"
+     ],
+     "categoria": "Health and environment",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/business/environment/uk-records-highest-number-heat-related-deaths-2026-2026-11-24/"
+      }
+     ],
+     "link": [
+      "UK Health Security Agency",
+      "Hyperthermia",
+      "United Kingdom"
+     ],
+     "testo_it": "L'Agenzia per la sicurezza sanitaria del Regno Unito ha dichiarato di aver registrato il più alto numero di decessi correlati al calore nel Regno Unito nel 2026 a 5.258, superando il precedente record nel 2022.",
+     "contesto_it": [
+      "Cambiamenti climatici nel Regno Unito",
+      "Onde di calore del Regno Unito (2026)"
+     ]
+    }
+   ]
   },
   {
    "data": "2026-11-23",
    "voci": [
+    {
+     "testo": "At least 21 people are injured after a car bomb explodes next to the Meta Department Government building in downtown Villavicencio.",
+     "contesto": [
+      "Colombian conflict"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Anadolu Ajansı",
+       "url": "https://www.aa.com.tr/en/americas/car-bomb-explodes-near-colombia-s-meta-government-headquarters/4135229"
+      }
+     ],
+     "link": [
+      "Car bomb",
+      "Meta Department",
+      "Villavicencio"
+     ],
+     "testo_it": "Almeno 21 persone sono rimaste ferite dopo l'esplosione di un'autobomba vicino all'edificio del governo del Dipartimento Meta nel centro di Villavicencio.",
+     "contesto_it": [
+      "Conflitto colombiano"
+     ]
+    },
+    {
+     "testo": "Three civilians are injured and 60 homes are damaged following a drone attack against a police station in Cúcuta. This is the first registered drone attack in an urban area in Colombia.",
+     "contesto": [
+      "Colombian conflict"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Colombia Reports",
+       "url": "https://colombiareports.com/illegal-armed-group-carries-out-first-urban-drone-attack-three-injured-in-northeast-colombia/"
+      }
+     ],
+     "link": [
+      "Cúcuta"
+     ],
+     "testo_it": "Tre civili sono rimasti feriti e 60 case sono state danneggiate a seguito di un attacco drone contro una stazione di polizia di Cúcuta, il primo attacco drone registrato in un'area urbana della Colombia.",
+     "contesto_it": [
+      "Conflitto colombiano"
+     ]
+    },
     {
      "testo": "Ukraine launches a large-scale drone attack across western Russia, striking the Perm refinery in Perm Krai and Novoshakhtinsk refinery in Rostov Oblast.",
      "contesto": [
@@ -142,8 +250,38 @@
      ]
     },
     {
+     "testo": "At least 30 people are injured, eight seriously, and 12 shops are vandalised as rival factions of the banned Awami League clash in two separate incidents and detonate four crude bombs in Gopalganj District, Bangladesh.",
+     "contesto": [
+      "Aftermath of the July Uprising"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "The Daily Star",
+       "url": "https://www.thedailystar.net/news/politics/news/clashes-over-awami-league-processions-gopalganj-leave-least-30-injured-4331701"
+      },
+      {
+       "nome": "The Business Standard",
+       "url": "https://www.tbsnews.net/bangladesh/least-20-injured-clash-between-two-al-factions-gopalganj-1612076"
+      }
+     ],
+     "link": [
+      "Vandalism",
+      "Awami League",
+      "Improvised explosive device",
+      "Gopalganj District, Bangladesh",
+      "Bangladesh"
+     ],
+     "testo_it": "Almeno 30 persone sono rimaste ferite, otto seriamente, e 12 negozi sono stati vandalizzati come fazioni rivali dello scontro vietato dell'Awami League in due incidenti separati e hanno fatto detonare quattro bombe grezze nel distretto di Gopalganj, in Bangladesh.",
+     "contesto_it": [
+      "Dopo la rivolta di luglio"
+     ]
+    },
+    {
      "testo": "At least 15 people are injured and 28 houses and shops are vandalised during clashes between rival Bangladesh Nationalist Party factions in Shailkupa Upazila, Jhenaidah District, Bangladesh.",
-     "contesto": [],
+     "contesto": [
+      "Aftermath of the July Uprising"
+     ],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
       {
@@ -158,27 +296,10 @@
       "Jhenaidah District",
       "Bangladesh"
      ],
-     "testo_it": "Almeno 15 persone sono rimaste ferite e 28 case e negozi sono stati vandalizzati durante gli scontri tra le fazioni rivali del Partito nazionalista del Bangladesh a Shailkupa Upazila, nel distretto di Jhenaidah, in Bangladesh."
-    },
-    {
-     "testo": "At least 20 people are injured, five seriously, and several shops are vandalised as rival factions of the banned Awami League clash and detonate four crude bombs in Gopalganj Sadar Upazila, Gopalganj District, Bangladesh.",
-     "contesto": [],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "The Business Standard",
-       "url": "https://www.tbsnews.net/bangladesh/least-20-injured-clash-between-two-al-factions-gopalganj-1612076"
-      }
-     ],
-     "link": [
-      "Vandalism",
-      "Awami League",
-      "Improvised explosive device",
-      "Gopalganj Sadar Upazila",
-      "Gopalganj District, Bangladesh",
-      "Bangladesh"
-     ],
-     "testo_it": "Almeno 20 persone sono rimaste ferite, cinque seriamente, e diversi negozi sono stati vandalizzati come fazioni rivali dello scontro vietato dell'Awami League e hanno fatto detonare quattro bombe grezze a Gopalganj Sadar Upazila, nel distretto di Gopalganj, in Bangladesh."
+     "testo_it": "Almeno 15 persone sono rimaste ferite e 28 case e negozi sono stati vandalizzati durante gli scontri tra le fazioni rivali del Partito nazionalista del Bangladesh a Shailkupa Upazila, nel distretto di Jhenaidah, in Bangladesh.",
+     "contesto_it": [
+      "Dopo la rivolta di luglio"
+     ]
     },
     {
      "testo": "Nvidia reinstates Jensen Huang as president and chief executive officer less than two weeks after he resigned following revelations of an affair with Alice Huang, who is suspected by U.S. intelligence of spying for China.",
@@ -249,7 +370,7 @@
      ]
     },
     {
-     "testo": "The United Kingdom's foreign secretary Ed Miliband announces sanctions against five military leaders of Myanmar, while also granting recognition of the Rohingya genocide.",
+     "testo": "British foreign secretary Ed Miliband announces sanctions against five military leaders of Myanmar, while also granting recognition of the Rohingya genocide.",
      "contesto": [
       "Myanmar–United Kingdom relations, Rohingya genocide case"
      ],
@@ -258,16 +379,22 @@
       {
        "nome": "BBC News",
        "url": "https://www.bbc.com/news/articles/c6wy4ng1rznxo"
+      },
+      {
+       "nome": "Daily Sun",
+       "url": "https://www.daily-sun.com/world/910983/uk-recognises-rohingya-genocide-imposes-new-sanctions-on-myanmar-military"
       }
      ],
      "link": [
       "United Kingdom",
       "Foreign Secretary (United Kingdom)",
       "Ed Miliband",
+      "United Kingdom government sanctions",
+      "Tatmadaw",
       "Myanmar",
       "Rohingya genocide"
      ],
-     "testo_it": "Il segretario agli Esteri del Regno Unito Ed Miliband annuncia sanzioni contro cinque leader militari del Myanmar, pur garantendo il riconoscimento del genocidio dei Rohingya.",
+     "testo_it": "Il ministro degli Esteri britannico Ed Miliband annuncia sanzioni contro cinque leader militari del Myanmar, pur garantendo il riconoscimento del genocidio dei Rohingya.",
      "contesto_it": [
       "Relazioni Myanmar-Regno Unito, caso di genocidio Rohingya"
      ]
@@ -339,9 +466,9 @@
      ]
     },
     {
-     "testo": "Iranian singer Parastoo Ahmadi receives 74 lashes for performing at a music concert without a hijab.",
+     "testo": "Iranian singer Parastoo Ahmadi receives 74 lashes for performing at a music concert without wearing a hijab.",
      "contesto": [
-      "Hijab in Iran"
+      "Women's rights in Iran"
      ],
      "categoria": "Law and crime",
      "fonti": [
@@ -353,12 +480,34 @@
      "link": [
       "Iran",
       "Parastoo Ahmadi",
-      "Flagellation"
-     ],
-     "testo_it": "Il cantante iraniano Parastoo Ahmadi riceve 74 frustate per essersi esibito in un concerto musicale senza hijab.",
-     "contesto_it": [
+      "Flagellation",
       "Hijab in Iran"
+     ],
+     "testo_it": "Il cantante iraniano Parastoo Ahmadi riceve 74 frustate per essersi esibito in un concerto musicale senza indossare un hijab.",
+     "contesto_it": [
+      "Diritti delle donne in Iran"
      ]
+    },
+    {
+     "testo": "The Superior Court of Quebec suspends a 2022 law making allegiance to Canada's monarch optional for provincial legislators, requiring them to swear an oath to King Charles III before sitting in the National Assembly.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "AFP via France 24",
+       "url": "https://www.france24.com/en/live-news/20261123-canada-court-rules-lawmakers-must-swear-royal-oath-risking-quebec-chaos"
+      }
+     ],
+     "link": [
+      "Superior Court of Quebec",
+      "Quebec",
+      "Canada",
+      "Monarchy of Canada",
+      "Parliament of Quebec",
+      "Charles III",
+      "National Assembly of Quebec"
+     ],
+     "testo_it": "La Corte Superiore del Quebec sospende una legge del 2022 che rende la fedeltà al monarca canadese facoltativo per i legislatori provinciali, richiedendo loro di giurare a re Carlo III prima di sedere all'Assemblea Nazionale."
     },
     {
      "testo": "In association football, FIFA confirms Costa Rica, Jamaica, Mexico, and the United States as joint hosts of the 2031 Women's World Cup, while England, Northern Ireland, Scotland, and Wales will jointly host the 2035 tournament.",
@@ -397,7 +546,7 @@
    "data": "2026-11-22",
    "voci": [
     {
-     "testo": "Several people are killed and at least 10 others are injured after the Russian corvette Merkury is struck by a Ukrainian naval drone attack while docked at the port of Benghazi, Libya. The Merkury later capsizes and sinks.",
+     "testo": "Several people are killed and at least 10 others are injured after the Russian corvette Merkury is struck by a Ukrainian naval drone attack while docked at the Port of Benghazi, Libya. The Merkury later capsizes and sinks.",
      "contesto": [
       "Russo-Ukrainian war",
       "Naval warfare in the Russo-Ukrainian war, Ukrainian attacks on the Russian shadow fleet"
@@ -418,7 +567,7 @@
       "Ukraine",
       "Unmanned surface vehicle",
       "One-way attack drone",
-      "Benghazi",
+      "Port of Benghazi",
       "Libya"
      ],
      "testo_it": "Diverse persone vengono uccise e almeno altre 10 sono ferite dopo che la corvetta russa Merkury viene colpita da un attacco di droni navali ucraini mentre è attraccata al porto di Bengasi, in Libia.",
@@ -736,8 +885,10 @@
      ]
     },
     {
-     "testo": "The Co-op Live arena in Manchester, England, is evacuated of around 12000 attendees after an unknown substance is dispersed during a Don Toliver concert, initially believed to be tear gas, causing respiratory distress to multiple concertgoers.",
-     "contesto": [],
+     "testo": "Around 12,000 concertgoers are evacuated from the Co-op Live arena in Manchester, England, after an unknown substance, initially believed to be tear gas, is dispersed during a Don Toliver concert, causing respiratory distress to multiple attendees.",
+     "contesto": [
+      "2026 Co-op Live incident"
+     ],
      "categoria": "Law and crime",
      "fonti": [
       {
@@ -753,10 +904,13 @@
       "Co-op Live",
       "Manchester",
       "England",
-      "Don Toliver",
-      "Tear gas"
+      "Tear gas",
+      "Don Toliver"
      ],
-     "testo_it": "L'arena Co-op Live di Manchester, in Inghilterra, viene evacuata da circa 12000 partecipanti dopo che una sostanza sconosciuta viene dispersa durante un concerto di Don Toliver, inizialmente ritenuto gas lacrimogeno, causando disagio respiratorio a più concertisti."
+     "testo_it": "Circa 12.000 spettatori vengono evacuati dall'arena Co-op Live di Manchester, in Inghilterra, dopo che una sostanza sconosciuta, inizialmente ritenuta gas lacrimogeni, viene dispersa durante un concerto di Don Toliver, causando disagio respiratorio a più partecipanti.",
+     "contesto_it": [
+      "Incidente co-op dal vivo (2026)"
+     ]
     },
     {
      "testo": "South Korean education minister Choi Kyo-jin resigns following criticism of the government's response to artificial intelligence-assisted cheating concerns surrounding the College Scholastic Ability Test. President Lee Jae Myung accepts Choi's resignation.",
