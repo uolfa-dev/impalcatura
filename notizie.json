@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-25T08:46:27Z",
+ "generato": "2026-11-25T19:23:42Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -9,6 +9,25 @@
   "completa": true
  },
  "itn": [
+  {
+   "testo": "In association football, the Court of Arbitration for Sport restores Senegal as the winner of the 2025 Africa Cup of Nations final, overturning the Confederation of African Football's decision to declare Morocco as the winner of the tournament.",
+   "contesto": [],
+   "categoria": "In primo piano",
+   "fonti": [
+    {
+     "nome": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2025_Africa_Cup_of_Nations_final"
+    }
+   ],
+   "link": [
+    "Court of Arbitration for Sport",
+    "Senegal national football team",
+    "2025 Africa Cup of Nations final",
+    "Confederation of African Football",
+    "Morocco national football team"
+   ],
+   "testo_it": "Nel calcio associativo, la Corte Arbitrale per lo Sport ripristina il Senegal come vincitore della finale della Coppa Africa delle Nazioni 2025, ribaltando la decisione della Confederazione del calcio africano di dichiarare il Marocco come vincitore del torneo."
+  },
   {
    "testo": "The joint ESA–JAXA mission BepiColombo enters orbit around Mercury.",
    "contesto": [],
@@ -59,21 +78,6 @@
     "Rohingya people"
    ],
    "testo_it": "La Corte Internazionale di Giustizia stabilisce che il Myanmar ha commesso un genocidio contro il popolo Rohingya."
-  },
-  {
-   "testo": "The video game Grand Theft Auto VI achieves US$3.79 billion in sales on its launch day, more than any other entertainment product in history.",
-   "contesto": [],
-   "categoria": "In primo piano",
-   "fonti": [
-    {
-     "nome": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI"
-    }
-   ],
-   "link": [
-    "Grand Theft Auto VI"
-   ],
-   "testo_it": "Il videogioco Grand Theft Auto VI raggiunge 3,79 miliardi di dollari di vendite il giorno del lancio, più di qualsiasi altro prodotto di intrattenimento nella storia."
   }
  ],
  "giorni": [
@@ -81,12 +85,71 @@
    "data": "2026-11-25",
    "voci": [
     {
-     "testo": "Bangladesh's Minimum Wage Board raises the monthly minimum wage for garment workers from ৳ 12,500 to ৳ 17,000 following a 4–2 vote, a decision rejected by labour unions demanding at least ৳ 18,000 amid nearly a month of labour unrest and hundreds of factory closures.",
+     "testo": "The Ras Tanura oil refinery in Saudi Arabia's Eastern Province is damaged in an attack by the Houthis.",
+     "contesto": [
+      "Middle Eastern crisis",
+      "Yemeni civil war",
+      "Houthi–Saudi conflict"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "NBC News",
+       "url": "https://www.nbcnews.com/world/saudi-arabia/yemen-houthi-rebels-attack-saudi-arabia-largest-oil-refinery-rcna611319"
+      }
+     ],
+     "link": [
+      "Ras Tanura",
+      "Oil refinery",
+      "Saudi Arabia",
+      "Eastern Province (Saudi Arabia)",
+      "Houthis"
+     ],
+     "testo_it": "La raffineria di petrolio Ras Tanura nella provincia orientale dell'Arabia Saudita è danneggiata in un attacco degli Houthi.",
+     "contesto_it": [
+      "Crisi del Medio Oriente",
+      "Guerra civile yemenita",
+      "Conflitto Houthi-saudita"
+     ]
+    },
+    {
+     "testo": "A Hamas security official, his wife, and two daughters, are killed in an Israeli airstrike on the Al-Shati refugee camp near Gaza City. Three more Palestinians are also killed and several injured in more Israeli airstrikes.",
+     "contesto": [
+      "Middle Eastern crisis",
+      "Gaza war, Gaza genocide"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children"
+      }
+     ],
+     "link": [
+      "Hamas",
+      "Israel",
+      "Airstrike",
+      "Al-Shati refugee camp",
+      "Gaza City",
+      "Palestinians"
+     ],
+     "testo_it": "Un funzionario della sicurezza di Hamas, sua moglie e due figlie, vengono uccisi in un attacco aereo israeliano contro il campo profughi di Al-Shati vicino a Gaza City. Altri tre palestinesi vengono uccisi e diversi feriti in altri attacchi aerei israeliani.",
+     "contesto_it": [
+      "Crisi del Medio Oriente",
+      "Guerra di Gaza, genocidio di Gaza"
+     ]
+    },
+    {
+     "testo": "Bangladesh's Minimum Wage Board raises the monthly minimum wage for garment workers from ৳12,500 to ৳17,000 following a 4–2 vote, a decision rejected by labour unions demanding at least ৳18,000 amid nearly a month of labour unrest and hundreds of factory closures.",
      "contesto": [
       "2026 Bangladesh garment workers protests"
      ],
      "categoria": "Business and economy",
      "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/bangladesh-garment-workers-win-wage-rise-after-weeks-protests"
+      },
       {
        "nome": "The Daily Star",
        "url": "https://www.thedailystar.net/news/bangladesh/news/new-rmg-pay-scale-minimum-wage-set-tk-17k-after-vote-4332751"
@@ -107,10 +170,9 @@
      ]
     },
     {
-     "testo": "At least 87 garment factories close across Gazipur, Savar, and Ashulia, after workers reject the newly announced minimum wage as insufficient, blocking the Dhaka–Mymensingh and Dhaka–Tangail highways and clashing with police firing tear gas and stun grenades.",
+     "testo": "At least 140 garment factories close across Gazipur, Savar, and Ashulia, after workers reject the newly announced minimum wage as insufficient, blocking the Dhaka–Mymensingh and Dhaka–Tangail highways and clashing with police firing tear gas and stun grenades.",
      "contesto": [
-      "2026 Bangladesh garment workers protests",
-      "Bangladesh's Minimum Wage Board raises the monthly minimum wage for garment workers from ৳ 12,500 to ৳ 17,000 following a 4–2 vote, a decision rejected by labour unions demanding at least ৳ 18,000 amid nearly a month of labour unrest and hundreds of factory closures."
+      "2026 Bangladesh garment workers protests"
      ],
      "categoria": "Business and economy",
      "fonti": [
@@ -135,10 +197,144 @@
       "Tear gas",
       "Stun grenade"
      ],
-     "testo_it": "Almeno 87 fabbriche di abbigliamento chiudono tra Gazipur, Savar e Ashulia, dopo che i lavoratori rifiutano il salario minimo appena annunciato come insufficiente, bloccando le autostrade Dhaka-Mymensingh e Dhaka-Tangail e scontrandosi con la polizia che spara gas lacrimogeni e granate stordenti.",
+     "testo_it": "Almeno 140 fabbriche di abbigliamento chiudono in Gazipur, Savar e Ashulia, dopo che i lavoratori rifiutano il salario minimo appena annunciato come insufficiente, bloccando le autostrade Dhaka-Mymensingh e Dhaka-Tangail e scontrandosi con la polizia che spara gas lacrimogeni e granate stordenti.",
      "contesto_it": [
-      "Proteste dei lavoratori del Bangladesh (2026)",
-      "La Commissione per il salario minimo del Bangladesh aumenta il salario minimo mensile per i lavoratori dell'abbigliamento da  12.500 a  17.000 a seguito di un voto 4-2, una decisione respinta dai sindacati che chiedono almeno  18.000 in mezzo a quasi un mese di disordini del lavoro e centinaia di chiusure di fabbriche."
+      "Proteste dei lavoratori del Bangladesh (2026)"
+     ]
+    },
+    {
+     "testo": "Thousands of workers across Greece stage a strike demanding higher wages, restored public-sector bonuses, and increased funding for education and healthcare, disrupting ferry, metro, and air services. Police report approximately 15,000 demonstrators in Athens.",
+     "contesto": [
+      "2026 European unrest"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "AFP via France 24",
+       "url": "https://www.france24.com/en/live-news/20261125-greece-cost-of-living-strike-hits-trains-and-planes"
+      },
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/greeks-strike-over-wages-public-services-2026-11-25/"
+      }
+     ],
+     "link": [
+      "Greece",
+      "Government of Greece",
+      "Bonus payment",
+      "Education in Greece",
+      "Healthcare in Greece",
+      "Athens Metro",
+      "Hellenic Police",
+      "Athens"
+     ],
+     "testo_it": "Migliaia di lavoratori in tutta la Grecia mettono in scena uno sciopero che richiede salari più alti, bonus del settore pubblico ripristinati e maggiori finanziamenti per l'istruzione e l'assistenza sanitaria, interrompendo traghetti, metropolitana e servizi aerei.",
+     "contesto_it": [
+      "Insurrezioni europee (2026)"
+     ]
+    },
+    {
+     "testo": "The European Union and United Kingdom impose fines totalling more than €570 million (US$626 million) on fragrance manufacturers Firmenich, Givaudan, and International Flavors & Fragrances for exchanging commercially sensitive information between 2019 and 2023.",
+     "contesto": [],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/es/node/3854796"
+      }
+     ],
+     "link": [
+      "European Union",
+      "United Kingdom",
+      "Euro",
+      "US$",
+      "Fragrance",
+      "Firmenich",
+      "Givaudan",
+      "International Flavors & Fragrances",
+      "Trade secret"
+     ],
+     "testo_it": "L'Unione europea e il Regno Unito impongono ammende per un totale di oltre 570 milioni di euro (626 milioni di dollari) ai produttori di fragranze Firmenich, Givaudan e International Flavors & Fragrances per lo scambio di informazioni commercialmente sensibili tra il 2019 e il 2023."
+    },
+    {
+     "testo": "The United States Army detonates nearly 5 tons of degrading lead azide at the Iowa Army Ammunition Plant in Middletown, Iowa, citing spontaneous explosion risks.",
+     "contesto": [
+      "Iowa lead azide detonation"
+     ],
+     "categoria": "Health and environment",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/us-army-detonates-toxic-explosives-iowa-despite-contamination-fears"
+      },
+      {
+       "nome": "CNN",
+       "url": "https://edition.cnn.com/2026/11/25/us/live-news/iowa-lead-azide-detonation"
+      }
+     ],
+     "link": [
+      "United States Army",
+      "Lead azide",
+      "Iowa Army Ammunition Plant",
+      "Middletown, Iowa",
+      "Iowa"
+     ],
+     "testo_it": "L'esercito degli Stati Uniti detona quasi 5 tonnellate di azide di piombo degradante presso lo Iowa Army Munition Plant a Middletown, Iowa, citando rischi di esplosione spontanea.",
+     "contesto_it": [
+      "Iowa piombo detonazione azide"
+     ]
+    },
+    {
+     "testo": "Solomon Islands prime minister Matthew Wale signs a treaty with Australian prime minister Anthony Albanese to designate Australia as the \"primary security partner\" after ending the 2022 security pact with China.",
+     "contesto": [
+      "Australia–Solomon Islands relations"
+     ],
+     "categoria": "International relations",
+     "fonti": [
+      {
+       "nome": "NBC News",
+       "url": "https://www.nbcnews.com/world/asia/solomon-islands-signs-treaty-australia-checks-chinas-influence-pacific-rcna611254"
+      }
+     ],
+     "link": [
+      "Solomon Islands",
+      "Prime Minister of Solomon Islands",
+      "Matthew Wale",
+      "Australia",
+      "Prime Minister of Australia",
+      "Anthony Albanese",
+      "Australian Defence Force",
+      "China"
+     ],
+     "testo_it": "Il primo ministro delle Isole Salomone Matthew Wale firma un trattato con il primo ministro australiano Anthony Albanese per designare l'Australia come “partner primario della sicurezza” dopo aver posto fine al patto di sicurezza del 2022 con la Cina.",
+     "contesto_it": [
+      "Relazioni Australia-Isole Salomone"
+     ]
+    },
+    {
+     "testo": "The Cambodian and Chinese militaries begin their largest joint exercise, Golden Dragon 2026, involving nearly 3,000 personnel across three locations in Cambodia, focusing on counterterrorism, anti-piracy operations, and humanitarian assistance.",
+     "contesto": [
+      "Cambodia–China relations"
+     ],
+     "categoria": "International relations",
+     "fonti": [
+      {
+       "nome": "AFP via France 24",
+       "url": "https://www.france24.com/en/live-news/20261125-china-cambodia-stage-joint-military-drills"
+      }
+     ],
+     "link": [
+      "Royal Cambodian Armed Forces",
+      "People's Liberation Army",
+      "Military exercise",
+      "Cambodia",
+      "Counterterrorism",
+      "Piracy",
+      "Humanitarian assistance"
+     ],
+     "testo_it": "Le forze armate cambogiane e cinesi iniziano la loro più grande esercitazione congiunta, Golden Dragon 2026, coinvolgendo quasi 3.000 persone in tre sedi in Cambogia, concentrandosi sull'antiterrorismo, sulle operazioni anti-pirateria e sull'assistenza umanitaria.",
+     "contesto_it": [
+      "Relazioni Cambogia-Cina"
      ]
     },
     {
@@ -166,25 +362,169 @@
      ]
     },
     {
-     "testo": "Beau Lamarre-Condon is found guilty of the 2024 murder of Australian television presenter Jesse Baird and his partner Luke Davies.",
+     "testo": "Salvadoran national Kilmar Abrego Garcia arrives in Madrid, Spain, after voluntarily leaving the United States following a legal dispute over his wrongful deportation to El Salvador in March 2025.",
+     "contesto": [
+      "Deportation of Kilmar Abrego Garcia"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "AFP via RFI",
+       "url": "https://www.rfi.fr/en/international-news/20261125-wrongly-deported-salvadoran-man-arrives-in-spain-from-us"
+      },
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/americas/salvadoran-migrant-kilmar-abrego-garcia-lands-spain-after-us-departure-deal-2026-11-25/"
+      }
+     ],
+     "link": [
+      "Salvadorans",
+      "Madrid",
+      "Spain",
+      "United States",
+      "Deportation in the second Trump administration",
+      "El Salvador"
+     ],
+     "testo_it": "Il cittadino salvadoregno Kilmar Abrego Garcia arriva a Madrid, in Spagna, dopo aver lasciato volontariamente gli Stati Uniti a seguito di una disputa legale sulla sua deportazione illecita in El Salvador nel marzo 2025.",
+     "contesto_it": [
+      "Deportazione di Kilmar Abrego Garcia"
+     ]
+    },
+    {
+     "testo": "A federal jury in Brooklyn, New York, United States, finds Huawei and three of its subsidiaries guilty on 10 of 12 counts, including bank fraud, wire fraud, money laundering, conspiracy to steal trade secrets, and violating the International Emergency Economic Powers Act by misleading banks about its business in Iran.",
      "contesto": [],
      "categoria": "Law and crime",
      "fonti": [
       {
-       "nome": "The Guardian",
-       "url": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-verdict-former-police-officer-jesse-baird-luke-davies-ntwnfb"
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/legal/litigation/chinas-huawei-convicted-us-criminal-trial-stemming-iran-business-2026-11-24/"
+      },
+      {
+       "nome": "Time",
+       "url": "https://time.com/article/2026/11/25/huawei-guilty-crimes-fraud-conspiracy-sanctions-us-china/"
       }
      ],
      "link": [
-      "Jesse Baird"
+      "Federal jury",
+      "Brooklyn",
+      "New York (state)",
+      "United States",
+      "Huawei",
+      "Bank fraud",
+      "Wire fraud",
+      "Money laundering",
+      "Trade secret",
+      "International Emergency Economic Powers Act",
+      "Iran"
      ],
-     "testo_it": "Beau Lamarre-Condon viene riconosciuto colpevole dell'omicidio del presentatore televisivo australiano Jesse Baird e del suo partner Luke Davies nel 2024."
+     "testo_it": "Una giuria federale a Brooklyn, New York, Stati Uniti, trova Huawei e tre delle sue sussidiarie colpevoli di 10 su 12 conteggi, tra cui frode bancaria, frode informatica, riciclaggio di denaro, cospirazione per rubare segreti commerciali e violazione dell'International Emergency Economic Powers Act fuorviando le banche sulle sue attività in Iran."
+    },
+    {
+     "testo": "The Federal Supreme Court rules that the federal government of Iraq can deploy troops to the country's borders and can oversee and audit the oil industry in the Kurdistan Region, a day after Iraqi prime minister Ali al-Zaidi announced he is placing the region's oilfields and border crossings under federal control to combat oil smuggling.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/25/iraqs-top-court-rules-government-can-take-over-kurdish-borders-oil-fields"
+      }
+     ],
+     "link": [
+      "Federal Supreme Court of Iraq",
+      "Federal government of Iraq",
+      "Iraqi Armed Forces",
+      "Petroleum industry in Iraq",
+      "Kurdistan Region",
+      "Prime Minister of Iraq",
+      "Ali al-Zaidi"
+     ],
+     "testo_it": "La Corte Suprema federale stabilisce che il governo federale dell'Iraq può schierare truppe ai confini del paese e può supervisionare e controllare l'industria petrolifera nella regione del Kurdistan, un giorno dopo che il primo ministro iracheno Ali al-Zaidi ha annunciato che sta mettendo i campi petroliferi e i valichi di frontiera della regione sotto il controllo federale per combattere il contrabbando di petrolio."
+    },
+    {
+     "testo": "Pakistani astronaut Muhammad Zeeshan Ali becomes the first Pakistani to reach orbit and the first foreign national to board China's Tiangong space station, arriving aboard the Shenzhou-24 spacecraft alongside two Chinese astronauts to conduct scientific experiments during a five-day mission.",
+     "contesto": [
+      "Shenzhou 24"
+     ],
+     "categoria": "Science and technology",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/china-space-station-receives-pakistani-astronaut-historic-mission"
+      },
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/science/chinas-shenzhou-24-space-flight-takes-off-with-pakistani-national-first-foreign-2026-11-25/"
+      }
+     ],
+     "link": [
+      "Pakistan",
+      "Muhammad Zeeshan Ali",
+      "List of space travelers by nationality",
+      "China",
+      "Tiangong space station",
+      "Chinese astronauts"
+     ],
+     "testo_it": "L'astronauta pakistano Muhammad Zeeshan Ali diventa il primo pakistano a raggiungere l'orbita e il primo cittadino straniero a salire a bordo della stazione spaziale cinese Tiangong, arrivando a bordo della navicella spaziale Shenzhou-24 insieme a due astronauti cinesi per condurre esperimenti scientifici durante una missione di cinque giorni.",
+     "contesto_it": [
+      "Shenzhou 24"
+     ]
     }
    ]
   },
   {
    "data": "2026-11-24",
    "voci": [
+    {
+     "testo": "The Saudi Civil Defense announces that 11 people are injured in a strike on the Public Investment Fund Tower in Riyadh.",
+     "contesto": [
+      "Middle Eastern crisis",
+      "Yemeni civil war",
+      "Houthi–Saudi conflict"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-tower-riyadh-finance-district-targeted-by-terrorist-2026-11-24/"
+      }
+     ],
+     "link": [
+      "Saudi Civil Defense",
+      "Public Investment Fund Tower",
+      "Riyadh"
+     ],
+     "testo_it": "La difesa civile saudita annuncia che 11 persone sono rimaste ferite in uno sciopero contro la Torre del Fondo di investimento pubblico a Riyadh.",
+     "contesto_it": [
+      "Crisi del Medio Oriente",
+      "Guerra civile yemenita",
+      "Conflitto Houthi-saudita"
+     ]
+    },
+    {
+     "testo": "Israel kills Hamas security official Naeem Abu Nahel in an airstrike in the Gaza Strip.",
+     "contesto": [
+      "Middle Eastern crisis",
+      "Gaza war"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "The Washington Post",
+       "url": "https://www.washingtonpost.com/world/2026/11/24/israel-kills-hamas-internal-security-chief-gaza/"
+      }
+     ],
+     "link": [
+      "Israel",
+      "Hamas",
+      "Airstrike",
+      "Gaza Strip"
+     ],
+     "testo_it": "Israele uccide il funzionario di sicurezza di Hamas Naeem Abu Nahel in un attacco aereo nella Striscia di Gaza.",
+     "contesto_it": [
+      "Crisi del Medio Oriente",
+      "Guerra di Gaza"
+     ]
+    },
     {
      "testo": "A Russian airstrike hits a five-story apartment building in Zaporizhzhia, Ukraine, killing two people and wounding 44 others.",
      "contesto": [
@@ -211,26 +551,30 @@
      ]
     },
     {
-     "testo": "Israel kills Hamas security official Naeem Abu Nahel in an airstrike in the Gaza Strip.",
+     "testo": "Jennifer Barreto of Puerto Rico is crowned Miss Universe in San Juan, Puerto Rico, becoming the sixth Puerto-Rican woman, the first mother and married woman to win the title.",
      "contesto": [
-      "Gaza war"
+      "Miss Universe 2026"
      ],
-     "categoria": "Armed conflicts and attacks",
+     "categoria": "Arts and culture",
      "fonti": [
       {
-       "nome": "The Washington Post",
-       "url": "https://www.washingtonpost.com/world/2026/11/24/israel-kills-hamas-internal-security-chief-gaza/"
+       "nome": "The Indian Express",
+       "url": "https://indianexpress.com/article/explained/explained-culture/miss-universe-2026-controversies-ownership-judging-five-problems-10977410/"
+      },
+      {
+       "nome": "People",
+       "url": "https://people.com/miss-universe-2026-winner-jennifer-barreto-12267491"
       }
      ],
      "link": [
-      "Israel",
-      "Hamas",
-      "Airstrike",
-      "Gaza Strip"
+      "Jennifer Barreto",
+      "Puerto Rico",
+      "Miss Universe",
+      "San Juan, Puerto Rico"
      ],
-     "testo_it": "Israele uccide il funzionario di sicurezza di Hamas Naeem Abu Nahel in un attacco aereo nella Striscia di Gaza.",
+     "testo_it": "Jennifer Barreto di Porto Rico è incoronata Miss Universo a San Juan, Puerto Rico, diventando la sesta donna portoricana, la prima madre e donna sposata a vincere il titolo.",
      "contesto_it": [
-      "Guerra di Gaza"
+      "Miss Universo 2026"
      ]
     },
     {
@@ -363,7 +707,7 @@
      ]
     },
     {
-     "testo": "Armed men in Cartagena, Colombia take 25 people hostage in a supermarket after a failed armored-car robbery.",
+     "testo": "Twenty people are rescued after a hostage-taking at a supermarket by armed men in Cartagena, Colombia, after a failed armored-car robbery. One assailant is killed by security forces, while the others are arrested.",
      "contesto": [],
      "categoria": "Law and crime",
      "fonti": [
@@ -373,13 +717,15 @@
       }
      ],
      "link": [
+      "Hostage",
       "Cartagena, Colombia",
-      "Supermarket"
+      "Colombia",
+      "Armored car (military)"
      ],
-     "testo_it": "Uomini armati a Cartagena, in Colombia, prendono 25 persone in ostaggio in un supermercato dopo un fallito furto di auto blindate."
+     "testo_it": "Venti persone vengono salvate dopo un ostaggio in un supermercato da uomini armati a Cartagena, in Colombia, dopo un fallito furto di auto blindate. Un assalitore viene ucciso dalle forze di sicurezza, mentre gli altri vengono arrestati."
     },
     {
-     "testo": "Former Bangladesh Prime Minister Sheikh Hasina announces she plans to return to the country on December 16, coinciding with Victory Day.",
+     "testo": "Former Bangladesh prime minister Sheikh Hasina announces she plans to return to the country from exile on December 16, coinciding with Victory Day.",
      "contesto": [
       "Aftermath of the July Uprising"
      ],
@@ -394,9 +740,10 @@
       "Prime Minister of Bangladesh",
       "Sheikh Hasina",
       "Bangladesh",
+      "Resignation of Sheikh Hasina",
       "Victory Day (Bangladesh)"
      ],
-     "testo_it": "L'ex primo ministro del Bangladesh Sheikh Hasina ha annunciato che prevede di tornare nel paese il 16 dicembre, in coincidenza con il Giorno della Vittoria.",
+     "testo_it": "L'ex primo ministro del Bangladesh Sheikh Hasina ha annunciato che prevede di tornare nel paese dall'esilio il 16 dicembre, in coincidenza con il Giorno della Vittoria.",
      "contesto_it": [
       "Dopo la rivolta di luglio"
      ]
@@ -437,6 +784,31 @@
    "data": "2026-11-23",
    "voci": [
     {
+     "testo": "An Israeli airstrike kills a UNRWA employee and injures three other people in the Jabalia refugee camp in the Gaza Strip.",
+     "contesto": [
+      "Gaza war, UNRWA and Israel",
+      "Jabalia refugee camp airstrikes"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "The Latin Times",
+       "url": "https://www.latintimes.com/unrwa-worker-killed-israeli-strike-gaza-water-well-601786"
+      }
+     ],
+     "link": [
+      "Israel",
+      "UNRWA",
+      "Jabalia refugee camp",
+      "Gaza Strip"
+     ],
+     "testo_it": "Un attacco aereo israeliano uccide un dipendente dell'UNRWA e ferisce altre tre persone nel campo profughi di Jabalia nella Striscia di Gaza.",
+     "contesto_it": [
+      "Guerra di Gaza, UNRWA e Israele",
+      "Attacchi aerei nel campo profughi di Jabalia"
+     ]
+    },
+    {
      "testo": "Ukraine launches a large-scale drone attack across western Russia, striking the Perm refinery in Perm Krai and Novoshakhtinsk refinery in Rostov Oblast.",
      "contesto": [
       "Russo-Ukrainian war",
@@ -469,7 +841,7 @@
      ]
     },
     {
-     "testo": "At least 21 people are injured after a car bomb explodes next to the Meta Department Government building in downtown Villavicencio, Colombia.",
+     "testo": "At least 21 people are injured after a car bomb explodes next to the Meta Department government building in downtown Villavicencio, Colombia.",
      "contesto": [
       "Colombian conflict"
      ],
@@ -486,7 +858,7 @@
       "Villavicencio",
       "Colombia"
      ],
-     "testo_it": "Almeno 21 persone sono rimaste ferite dopo l'esplosione di un'autobomba vicino all'edificio del governo del Dipartimento Meta nel centro di Villavicencio, in Colombia.",
+     "testo_it": "Almeno 21 persone sono rimaste ferite dopo l'esplosione di un'autobomba vicino all'edificio governativo del Dipartimento Meta nel centro di Villavicencio, in Colombia.",
      "contesto_it": [
       "Conflitto colombiano"
      ]
@@ -687,6 +1059,26 @@
      "contesto_it": [
       "Jensen Huang scandalo, attività di intelligence cinese all'estero"
      ]
+    },
+    {
+     "testo": "Nine people are killed and 17 more are missing as a river overflows in Bogor, West Java, Indonesia, hitting with floods an illegal gold mine.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "South China Morning Post",
+       "url": "https://www.scmp.com/news/asia/southeast-asia/article/3375778/3-dead-23-trapped-indonesia-after-illegal-gold-mine-floods"
+      }
+     ],
+     "link": [
+      "Bogor",
+      "West Java",
+      "Indonesia",
+      "Flood",
+      "Illegal mining",
+      "Gold mining"
+     ],
+     "testo_it": "Nove persone sono morte e altre 17 sono scomparse mentre un fiume trabocca a Bogor, West Java, Indonesia, colpendo con inondazioni una miniera d'oro illegale."
     },
     {
      "testo": "Seven people are killed and two others are injured after a truck loaded with stones overturns onto a minitruck in Bahawalpur District, Punjab, Pakistan.",
@@ -942,17 +1334,13 @@
    "data": "2026-11-22",
    "voci": [
     {
-     "testo": "Several people are killed and at least 10 others are injured after the Russian corvette Merkury is struck by a Ukrainian naval drone attack while docked at the Port of Benghazi, Libya. The Merkury later capsizes and sinks.",
+     "testo": "Ten people are injured after the Russian corvette Merkury is struck by a Ukrainian naval drone attack while docked at the Port of Benghazi, Libya. The Merkury later capsizes and sinks.",
      "contesto": [
       "Russo-Ukrainian war",
       "Naval warfare in the Russo-Ukrainian war, Ukrainian attacks on the Russian shadow fleet"
      ],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
-      {
-       "nome": "Al-Jazeera",
-       "url": "https://www.aljazeera.com/amp/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya"
-      },
       {
        "nome": "Reuters",
        "url": "https://www.reuters.com/world/middle-east/libyas-eastern-government-suspects-drone-attack-caused-explosion-russian-ship-2026-11-22/"
@@ -966,7 +1354,7 @@
       "Port of Benghazi",
       "Libya"
      ],
-     "testo_it": "Diverse persone vengono uccise e almeno altre 10 sono ferite dopo che la corvetta russa Merkury viene colpita da un attacco di droni navali ucraini mentre è attraccata al porto di Bengasi, in Libia.",
+     "testo_it": "Dieci persone sono rimaste ferite dopo che la corvetta russa Merkury è stata colpita da un attacco di droni navali ucraini mentre era attraccata al porto di Bengasi, in Libia.",
      "contesto_it": [
       "Guerra russo-ucraina",
       "Guerra navale nella guerra russo-ucraina, attacchi ucraini alla flotta ombra russa"
