@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-24T23:57:26Z",
+ "generato": "2026-11-25T08:46:27Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -78,6 +78,111 @@
  ],
  "giorni": [
   {
+   "data": "2026-11-25",
+   "voci": [
+    {
+     "testo": "Bangladesh's Minimum Wage Board raises the monthly minimum wage for garment workers from ৳ 12,500 to ৳ 17,000 following a 4–2 vote, a decision rejected by labour unions demanding at least ৳ 18,000 amid nearly a month of labour unrest and hundreds of factory closures.",
+     "contesto": [
+      "2026 Bangladesh garment workers protests"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "The Daily Star",
+       "url": "https://www.thedailystar.net/news/bangladesh/news/new-rmg-pay-scale-minimum-wage-set-tk-17k-after-vote-4332751"
+      }
+     ],
+     "link": [
+      "Bangladesh",
+      "Minimum Wage Board",
+      "Minimum wage",
+      "Textile industry in Bangladesh",
+      "Bangladeshi taka",
+      "Trade union",
+      "Strike action"
+     ],
+     "testo_it": "La Commissione per il salario minimo del Bangladesh aumenta il salario minimo mensile per i lavoratori dell'abbigliamento da  12.500 a  17.000 a seguito di un voto 4-2, una decisione respinta dai sindacati che chiedono almeno  18.000 in mezzo a quasi un mese di disordini del lavoro e centinaia di chiusure di fabbriche.",
+     "contesto_it": [
+      "Proteste dei lavoratori del Bangladesh (2026)"
+     ]
+    },
+    {
+     "testo": "At least 87 garment factories close across Gazipur, Savar, and Ashulia, after workers reject the newly announced minimum wage as insufficient, blocking the Dhaka–Mymensingh and Dhaka–Tangail highways and clashing with police firing tear gas and stun grenades.",
+     "contesto": [
+      "2026 Bangladesh garment workers protests",
+      "Bangladesh's Minimum Wage Board raises the monthly minimum wage for garment workers from ৳ 12,500 to ৳ 17,000 following a 4–2 vote, a decision rejected by labour unions demanding at least ৳ 18,000 amid nearly a month of labour unrest and hundreds of factory closures."
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "The Business Standard",
+       "url": "https://www.tbsnews.net/economy/rmg/police-fire-tear-gas-sound-grenades-garment-workers-block-dhaka-tangail-highway-1613231"
+      },
+      {
+       "nome": "The Daily Star",
+       "url": "https://www.thedailystar.net/news/news/87-garment-factories-shut-amid-protests-gazipur-savar-ashulia-4332861"
+      }
+     ],
+     "link": [
+      "Textile industry in Bangladesh",
+      "Gazipur District",
+      "Savar Upazila",
+      "Ashulia",
+      "Minimum wage",
+      "N3 (Bangladesh)",
+      "N4 (Bangladesh)",
+      "Bangladesh Police",
+      "Tear gas",
+      "Stun grenade"
+     ],
+     "testo_it": "Almeno 87 fabbriche di abbigliamento chiudono tra Gazipur, Savar e Ashulia, dopo che i lavoratori rifiutano il salario minimo appena annunciato come insufficiente, bloccando le autostrade Dhaka-Mymensingh e Dhaka-Tangail e scontrandosi con la polizia che spara gas lacrimogeni e granate stordenti.",
+     "contesto_it": [
+      "Proteste dei lavoratori del Bangladesh (2026)",
+      "La Commissione per il salario minimo del Bangladesh aumenta il salario minimo mensile per i lavoratori dell'abbigliamento da  12.500 a  17.000 a seguito di un voto 4-2, una decisione respinta dai sindacati che chiedono almeno  18.000 in mezzo a quasi un mese di disordini del lavoro e centinaia di chiusure di fabbriche."
+     ]
+    },
+    {
+     "testo": "Border Guard Bangladesh deploys 108 platoons across Dhaka and seven other districts, including 56 in Gopalganj, under instructions from the Ministry of Home Affairs to step up surveillance at key installations and industrial zones.",
+     "contesto": [
+      "Aftermath of the July Uprising, 2026 Bangladesh garment workers protests"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "The Daily Star",
+       "url": "https://www.thedailystar.net/news/news/bgb-deploys-108-platoons-eight-districts-4332856"
+      }
+     ],
+     "link": [
+      "Border Guard Bangladesh",
+      "Platoon",
+      "Dhaka",
+      "Gopalganj District, Bangladesh",
+      "Ministry of Home Affairs (Bangladesh)"
+     ],
+     "testo_it": "La Guardia di frontiera del Bangladesh distribuisce 108 plotoni in tutto Dhaka e in altri sette distretti, tra cui 56 a Gopalganj, su istruzioni del Ministero degli Affari Interni per intensificare la sorveglianza in impianti chiave e zone industriali.",
+     "contesto_it": [
+      "Dopo la rivolta di luglio, proteste dei lavoratori del Bangladesh (2026)"
+     ]
+    },
+    {
+     "testo": "Beau Lamarre-Condon is found guilty of the 2024 murder of Australian television presenter Jesse Baird and his partner Luke Davies.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "The Guardian",
+       "url": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-verdict-former-police-officer-jesse-baird-luke-davies-ntwnfb"
+      }
+     ],
+     "link": [
+      "Jesse Baird"
+     ],
+     "testo_it": "Beau Lamarre-Condon viene riconosciuto colpevole dell'omicidio del presentatore televisivo australiano Jesse Baird e del suo partner Luke Davies nel 2024."
+    }
+   ]
+  },
+  {
    "data": "2026-11-24",
    "voci": [
     {
@@ -106,7 +211,7 @@
      ]
     },
     {
-     "testo": "Israel claims to have killed Hamas security official Naeem Abu Nahel in a airstrike in the Gaza Strip.",
+     "testo": "Israel kills Hamas security official Naeem Abu Nahel in an airstrike in the Gaza Strip.",
      "contesto": [
       "Gaza war"
      ],
@@ -123,9 +228,37 @@
       "Airstrike",
       "Gaza Strip"
      ],
-     "testo_it": "Israele afferma di aver ucciso il funzionario di sicurezza di Hamas Naeem Abu Nahel in un attacco aereo nella Striscia di Gaza.",
+     "testo_it": "Israele uccide il funzionario di sicurezza di Hamas Naeem Abu Nahel in un attacco aereo nella Striscia di Gaza.",
      "contesto_it": [
       "Guerra di Gaza"
+     ]
+    },
+    {
+     "testo": "Police fire tear gas and stun grenades to disperse protesting garment workers across Gazipur, Savar, and Ashulia, Bangladesh, as production halts at 481 factories amid minimum wage disputes.",
+     "contesto": [
+      "2026 Bangladesh garment workers protests"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "The Business Standard",
+       "url": "https://www.tbsnews.net/economy/rmg/production-halted-481-garment-factories-amid-minimum-wage-negotiations-1612891"
+      }
+     ],
+     "link": [
+      "Bangladesh Police",
+      "Tear gas",
+      "Stun grenade",
+      "Textile industry in Bangladesh",
+      "Gazipur District",
+      "Savar Upazila",
+      "Ashulia",
+      "Bangladesh",
+      "Minimum wage"
+     ],
+     "testo_it": "La polizia spara gas lacrimogeni e granate stordenti per disperdere i lavoratori che protestano in Gazipur, Savar e Ashulia, Bangladesh, mentre la produzione si ferma a 481 fabbriche in mezzo alle dispute sul salario minimo.",
+     "contesto_it": [
+      "Proteste dei lavoratori del Bangladesh (2026)"
      ]
     },
     {
@@ -205,6 +338,47 @@
      ]
     },
     {
+     "testo": "Border Guard Bangladesh deploys 101 platoons across Dhaka and seven other districts, including two battalions in Gopalganj, following instructions from the home ministry to increase surveillance at key installations and industrial areas.",
+     "contesto": [
+      "Aftermath of the July Uprising, 2026 Bangladesh garment workers protests"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "The Daily Star",
+       "url": "https://www.thedailystar.net/news/news/bgb-deploys-101-platoons-dhaka-7-districts-4331806"
+      }
+     ],
+     "link": [
+      "Border Guard Bangladesh",
+      "Platoon",
+      "Dhaka",
+      "Battalion",
+      "Gopalganj District, Bangladesh",
+      "Ministry of Home Affairs (Bangladesh)"
+     ],
+     "testo_it": "La Guardia di frontiera del Bangladesh schiera 101 plotoni in tutto Dhaka e in altri sette distretti, tra cui due battaglioni a Gopalganj, seguendo le istruzioni del ministero di casa per aumentare la sorveglianza nelle installazioni chiave e nelle aree industriali.",
+     "contesto_it": [
+      "Dopo la rivolta di luglio, proteste dei lavoratori del Bangladesh (2026)"
+     ]
+    },
+    {
+     "testo": "Armed men in Cartagena, Colombia take 25 people hostage in a supermarket after a failed armored-car robbery.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/amp/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket"
+      }
+     ],
+     "link": [
+      "Cartagena, Colombia",
+      "Supermarket"
+     ],
+     "testo_it": "Uomini armati a Cartagena, in Colombia, prendono 25 persone in ostaggio in un supermercato dopo un fallito furto di auto blindate."
+    },
+    {
      "testo": "Former Bangladesh Prime Minister Sheikh Hasina announces she plans to return to the country on December 16, coinciding with Victory Day.",
      "contesto": [
       "Aftermath of the July Uprising"
@@ -228,7 +402,7 @@
      ]
     },
     {
-     "testo": "In association football, the Court of Arbitration for Sport rules in favor of Senegal against Morocco and reverses the Confederation of African Football's controversial decision to overturn Senegal's 1–0 victory in the 2025 Africa Cup of Nations final.",
+     "testo": "In association football, the Court of Arbitration for Sport rules in favor of the Senegalese Football Federation and against the Confederation of African Football, and reverses the latter's controversial decision to overturn Senegal's 1–0 victory against Morocco in the 2025 Africa Cup of Nations final, thereby restoring Senegal as the 2025 Africa Cup of Nations champions.",
      "contesto": [
       "2025 Africa Cup of Nations"
      ],
@@ -247,11 +421,12 @@
       "Association football",
       "Court of Arbitration for Sport",
       "Senegalese Football Federation",
-      "Royal Moroccan Football Federation",
       "Confederation of African Football",
+      "Senegal national football team",
+      "Morocco national football team",
       "2025 Africa Cup of Nations final"
      ],
-     "testo_it": "Nel calcio associativo, la Corte Arbitrale per lo Sport governa a favore del Senegal contro il Marocco e inverte la controversa decisione della Confederazione del Calcio Africano di rovesciare la vittoria del Senegal per 1-0 nella finale della Coppa delle Nazioni Africane 2025.",
+     "testo_it": "Nel calcio associativo, la Corte Arbitrale per lo Sport governa a favore della Federazione calcistica senegalese e contro la Confederazione del calcio africano, e inverte la controversa decisione di quest'ultima di rovesciare la vittoria del Senegal per 1-0 contro il Marocco nella finale della Coppa Africa delle Nazioni 2025, ripristinando così il Senegal come campione della Coppa Africa delle Nazioni 2025.",
      "contesto_it": [
       "Coppa d'Africa (2025)"
      ]
@@ -384,6 +559,29 @@
       "Jhenaidah District"
      ],
      "testo_it": "Almeno 15 persone sono rimaste ferite e 28 case e negozi sono stati vandalizzati durante gli scontri tra le fazioni rivali del Partito nazionalista del Bangladesh a Shailkupa Upazila, nel distretto di Jhenaidah, in Bangladesh.",
+     "contesto_it": [
+      "Aftermath del Bangladesh luglio Rivolta"
+     ]
+    },
+    {
+     "testo": "Border Guard Bangladesh deploys 98 platoons across Dhaka and seven other districts, following instructions from the home ministry to increase surveillance at key installations and industrial areas.",
+     "contesto": [
+      "Aftermath of the Bangladesh July Uprising"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "UNB via The Business Standard",
+       "url": "https://www.tbsnews.net/bangladesh/98-platoons-bgb-deployed-dhaka-7-other-districts-1611461"
+      }
+     ],
+     "link": [
+      "Border Guard Bangladesh",
+      "Platoon",
+      "Dhaka",
+      "Ministry of Home Affairs (Bangladesh)"
+     ],
+     "testo_it": "La Guardia di frontiera del Bangladesh distribuisce 98 plotoni in tutto Dhaka e in altri sette distretti, seguendo le istruzioni del ministero degli interni per aumentare la sorveglianza in installazioni chiave e aree industriali.",
      "contesto_it": [
       "Aftermath del Bangladesh luglio Rivolta"
      ]
@@ -2699,480 +2897,6 @@
       "Ana Brnabić"
      ],
      "testo_it": "Aleksandar Čupić viene eletto presidente dell'Assemblea Nazionale, diventando così il nuovo presidente ad interim della Serbia, succedendo ad Ana Brnabić."
-    }
-   ]
-  },
-  {
-   "data": "2026-11-18",
-   "voci": [
-    {
-     "testo": "The Crimean Bridge connecting Taman, Russia, and Kerch, Russian-occupied Crimea, is struck by Ukrainian forces for the third time in four days, prompting Russian authorities to close the bridge to all traffic.",
-     "contesto": [
-      "Russo-Ukrainian War",
-      "Crimea attacks",
-      "2026 Crimean Bridge explosions"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/russia-ukraine-war-bridge-crimea-drones-missiles-df4b867cf8f70e88843d8fefea5d643c"
-      },
-      {
-       "nome": "The Guardian",
-       "url": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine"
-      }
-     ],
-     "link": [
-      "Crimean Bridge",
-      "Taman, Russia",
-      "Russia",
-      "Kerch",
-      "Russian occupation of Crimea",
-      "Crimea",
-      "Ukraine",
-      "Armed Forces of Ukraine",
-      "Russia",
-      "Government of Russia"
-     ],
-     "testo_it": "Il ponte di Crimea che collega Taman, Russia, e Kerch, Crimea occupata dai russi, è colpito dalle forze ucraine per la terza volta in quattro giorni, spingendo le autorità russe a chiudere il ponte a tutto il traffico.",
-     "contesto_it": [
-      "Guerra russo-ucraina",
-      "Attacchi di Crimea",
-      "Esplosioni del ponte di Crimea (2026)"
-     ]
-    },
-    {
-     "testo": "Salvadoran forces destroy a house belonging to Jeff Larose, the leader of the Taliban gang that operates in Canaan, Haiti. The Gang Suppression Force says it was not involved.",
-     "contesto": [
-      "Haitian conflict",
-      "Salvadoran military intervention in Haiti"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/haiti-bukele-jeff-canaan-gangs-attack-home-4397ab6847be1d1dcc9c5bc600a4953f"
-      }
-     ],
-     "link": [
-      "El Salvador",
-      "Armed Forces of El Salvador",
-      "Canaan, Haiti",
-      "Haiti",
-      "Gang Suppression Force"
-     ],
-     "testo_it": "Le forze salvadoregne distruggono una casa appartenente a Jeff Larose, il leader della banda talebana che opera a Canaan, Haiti.",
-     "contesto_it": [
-      "Conflitto haitiano",
-      "Intervento militare salvadoregno ad Haiti"
-     ]
-    },
-    {
-     "testo": "Two Bangladesh Nationalist Party members are killed when suspected members of the banned Awami League attack a motorcycle procession in Narail District, Bangladesh.",
-     "contesto": [
-      "Aftermath of the July Uprising"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Daily Sun",
-       "url": "https://www.daily-sun.com/bangladesh/909934/two-killed-in-attack-on-bnp-procession-in-narail"
-      }
-     ],
-     "link": [
-      "Bangladesh Nationalist Party",
-      "Awami League",
-      "Narail District",
-      "Bangladesh"
-     ],
-     "testo_it": "Due membri del Partito Nazionalista del Bangladesh vengono uccisi quando sospetti membri della Lega Awami attaccano una processione di motociclette nel distretto di Narail, in Bangladesh.",
-     "contesto_it": [
-      "Dopo la rivolta di luglio"
-     ]
-    },
-    {
-     "testo": "A crowd led by Chatra Dal members storms and sets fire to the residence of former Awami League Member of Parliament Shamim Osman in Narayanganj District, while unidentified attackers loot and set fire to two houses belonging to former Minister of Fisheries and Livestock SM Rezaul Karim in Pirojpur District. Separately, arsonists burn the residence of former Minister of Foreign Affairs Dipu Moni in Chandpur, and a crowd in Sirajganj vandalises the local Awami League office and the residence of former MP Habibe Millat.",
-     "contesto": [
-      "Aftermath of the July Uprising"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Views Bangladesh",
-       "url": "https://viewsbangladesh.com/shamim-osmans-house-set-on-fire-in-narayanganj/"
-      },
-      {
-       "nome": "The Daily Star",
-       "url": "https://www.thedailystar.net/news/crime-justice/news/dipu-monis-flat-sujit-roy-nandis-village-home-set-fire-chandpur-4327896"
-      },
-      {
-       "nome": "The Daily Star",
-       "url": "https://www.thedailystar.net/news/crime-justice/news/two-houses-former-al-minister-rezaul-karim-set-fire-pirojpur-4327421"
-      }
-     ],
-     "link": [
-      "Bangladesh Jatiotabadi Chatra Dal",
-      "Jatiya Sangsad",
-      "Shamim Osman",
-      "Narayanganj District",
-      "Ministry of Fisheries and Livestock (Bangladesh)",
-      "SM Rezaul Karim",
-      "Pirojpur District",
-      "Arson",
-      "Ministry of Foreign Affairs (Bangladesh)",
-      "Dipu Moni",
-      "Chandpur, Bangladesh",
-      "Sirajganj",
-      "Vandalism",
-      "Habibe Millat"
-     ],
-     "testo_it": "Una folla guidata dai membri di Chatra Dal si precipita e dà fuoco alla residenza dell'ex membro della Lega Awami del Parlamento Shamim Osman nel distretto di Narayanganj, mentre gli aggressori non identificati saccheggiano e incendiano due case appartenenti all'ex ministro della pesca e del bestiame SM Rezaul Karim nel distretto di Pirojpur.",
-     "contesto_it": [
-      "Dopo la rivolta di luglio"
-     ]
-    },
-    {
-     "testo": "In Gopalganj District, armed members of the banned Awami League, Chhatra League, and Jubo League detonate crude bombs and set fire to a private clinic owned by BNP Member of Parliament K M Babar of Gopalganj-2, forcing patients to evacuate. Attackers also burn at least five BNP offices across Muksudpur and Kashiani and target two Grameen Bank branches.",
-     "contesto": [
-      "Aftermath of the July Uprising"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Dhaka Tribune",
-       "url": "https://www.dhakatribune.com/bangladesh/nation/425065/another-gopalganj-mp%E2%80%99s-home-torched-patients-flee"
-      }
-     ],
-     "link": [
-      "Gopalganj District, Bangladesh",
-      "Awami League",
-      "Bangladesh Chhatra League",
-      "Jubo League",
-      "Improvised explosive device",
-      "Clinic",
-      "Bangladesh Nationalist Party",
-      "Jatiya Sangsad",
-      "K M Babar",
-      "Gopalganj-2",
-      "Patient",
-      "Muksudpur Upazila",
-      "Kashiani Upazila",
-      "Grameen Bank"
-     ],
-     "testo_it": "Nel distretto di Gopalganj, i membri armati della Lega Awami, della Lega Chhatra e della Lega Jubo hanno fatto detonare bombe grezze e dato fuoco a una clinica privata di proprietà del membro del BNP del Parlamento K M Babar di Gopalganj-2, costringendo i pazienti ad evacuare. Gli aggressori bruciano anche almeno cinque uffici BNP in Muksudpur e Kashiani e prendono di mira due filiali della Grameen Bank.",
-     "contesto_it": [
-      "Dopo la rivolta di luglio"
-     ]
-    },
-    {
-     "testo": "The Israeli army launches its first operation in central Gaza Strip amid the displacement of families from the area, for the first time since the ceasefire agreement signed in October 2025 came into effect.",
-     "contesto": [
-      "Gaza war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "BBC News",
-       "url": "https://www.bbc.com/news/articles/cw8r7510degno"
-      }
-     ],
-     "link": [
-      "Israel",
-      "Israeli army",
-      "Gaza Strip",
-      "Gaza peace plan"
-     ],
-     "testo_it": "L'esercito israeliano lancia la sua prima operazione nella Striscia di Gaza centrale in mezzo allo sfollamento di famiglie dalla zona, per la prima volta da quando è entrato in vigore l'accordo di cessate il fuoco firmato nell'ottobre 2025.",
-     "contesto_it": [
-      "Guerra di Gaza"
-     ]
-    },
-    {
-     "testo": "A militant commander is killed by the Indian Armed Forces at a mosque in Kulgam district, Indian-administered Jammu and Kashmir, after escaping a shootout with troops two days earlier in a neighboring village, where his associate was killed.",
-     "contesto": [
-      "Insurgency in Jammu and Kashmir"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/kashmir-india-pakistan-fighting-militant-4c8bb73e494d85b769d85a8c98ea1baf"
-      }
-     ],
-     "link": [
-      "Indian Armed Forces",
-      "Mosque",
-      "Kulgam district",
-      "India",
-      "Jammu and Kashmir (union territory)",
-      "Shootout"
-     ],
-     "testo_it": "Un comandante militante viene ucciso dalle forze armate indiane in una moschea nel distretto di Kulgam, Jammu e Kashmir, dopo essere fuggito da una sparatoria con le truppe due giorni prima in un villaggio vicino, dove il suo socio è stato ucciso.",
-     "contesto_it": [
-      "Insurrezione in Jammu e Kashmir"
-     ]
-    },
-    {
-     "testo": "An operation against cartel de Jalisco Nueva Generacion cells in Zapopan, Jalisco left three gunmen killed and three arrested, including a ringleader. Authorities concluded the operation after seven hours of gunfight.",
-     "contesto": [
-      "Mexican drug war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Nmás",
-       "url": "https://www.nmas.com.mx/jalisco/seguridad/foro-tv-video-operativo-en-zapopan-deja-3-presuntos-delincuentes-muertos-y-3-detenidos-entre-ellos-el-topo/"
-      }
-     ],
-     "link": [
-      "Cartel de Jalisco Nueva Generacion",
-      "Zapopan",
-      "Jalisco"
-     ],
-     "testo_it": "Un'operazione contro le cellule del cartello de Jalisco Nueva Generacion a Zapopan, Jalisco ha lasciato tre uomini uccisi e tre arrestati, tra cui un capobanda. Le autorità hanno concluso l'operazione dopo sette ore di scontro a fuoco.",
-     "contesto_it": [
-      "Guerra alla droga in Messico"
-     ]
-    },
-    {
-     "testo": "At least 12 people are killed during separate attacks in the department of Yorito, Honduras, which the police attribute to organized crime groups.",
-     "contesto": [
-      "Crime in Honduras"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/americas/least-12-dead-organized-crime-attacks-honduras-police-spokesman-says-2026-11-18/"
-      }
-     ],
-     "link": [
-      "Departments of Honduras",
-      "Yorito",
-      "Honduras",
-      "National Police of Honduras"
-     ],
-     "testo_it": "Almeno 12 persone vengono uccise durante gli attacchi separati nel dipartimento di Yorito, in Honduras, che la polizia attribuisce ai gruppi criminali organizzati.",
-     "contesto_it": [
-      "Criminalità in Honduras"
-     ]
-    },
-    {
-     "testo": "Vincent van Gogh's 1890 painting Blossoming Chestnut Trees sells for US$190.4 million at Sotheby's in New York City, United States, setting a new auction record for Van Gogh and surpassing the $117.2 million paid for Orchard with Cypresses (1888) in 2022.",
-     "contesto": [],
-     "categoria": "Arts and culture",
-     "fonti": [
-      {
-       "nome": "AFP via NDTV",
-       "url": "https://www.ndtv.com/world-news/vincent-van-goghs-1890-painting-sells-for-190-4-million-12346802"
-      }
-     ],
-     "link": [
-      "Vincent van Gogh",
-      "Blossoming Chestnut Trees",
-      "US$",
-      "Sotheby's",
-      "New York City",
-      "United States",
-      "List of most expensive paintings",
-      "Orchard with Cypresses"
-     ],
-     "testo_it": "Il dipinto di Vincent van Gogh del 1890 Blossoming Chestnut Trees vende per US $ 190,4 milioni a Sotheby's a New York City, negli Stati Uniti, stabilendo un nuovo record d'asta per Van Gogh e superando i $ 117,2 milioni pagati per Orchard con Cypresses (1888) nel 2022."
-    },
-    {
-     "testo": "In Gazipur, Savar, and Ashulia, Bangladesh, thousands of garment workers demanding a monthly minimum wage increase from ৳12,500 (US$100) to ৳30,000 ($240) block the Dhaka–Mymensingh Highway and set fire to a police vehicle, causing police to fire tear gas and stun grenades in Gazipur and Ashulia as 55 factories close across the three areas, while police report around 300 arrests across 24 cases filed in Savar and Ashulia during the protests.",
-     "contesto": [
-      "2026 Bangladesh garment workers protests"
-     ],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "The Daily Star",
-       "url": "https://www.thedailystar.net/news/news/police-vehicle-torched-garment-workers-block-dhaka-mymensingh-highway-4326951"
-      }
-     ],
-     "link": [
-      "Gazipur",
-      "Savar Upazila",
-      "Ashulia",
-      "Bangladesh",
-      "Textile industry in Bangladesh",
-      "Minimum wage",
-      "Bangladeshi taka",
-      "US$",
-      "N3 (Bangladesh)",
-      "Bangladesh Police",
-      "Tear gas",
-      "Stun grenade",
-      "Factory",
-      "Arrest"
-     ],
-     "testo_it": "Mentre a Gazipur, Savar e Ashulia, in Bangladesh, migliaia di lavoratori dell'abbigliamento chiedono un aumento mensile del salario minimo da  12.500 (US $ 100) a  30.000 ($ 240) bloccano l'autostrada Dhaka-Mymensingh e danno fuoco a un veicolo della polizia, causando la polizia a sparare gas lacrimogeni e granate stordenti a Gazipur e Ashulia, mentre la polizia riferisce circa 300 arresti in 24 casi.",
-     "contesto_it": [
-      "Proteste dei lavoratori del Bangladesh (2026)"
-     ]
-    },
-    {
-     "testo": "In Kafrul, Dhaka, police fire around ten stun grenades against demonstrating garment workers following clashes with Bangladesh Nationalist Party activists who allegedly harassed female factory employees, causing workers to stage demonstrations and halt production at several nearby garment factories.",
-     "contesto": [
-      "2026 Bangladesh garment workers protests"
-     ],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "The Business Standard",
-       "url": "https://www.tbsnews.net/bangladesh/police-garment-workers-clash-kafrul-over-alleged-harassment-female-workers-1606131"
-      }
-     ],
-     "link": [
-      "Kafrul Thana",
-      "Dhaka",
-      "Bangladesh Nationalist Party",
-      "Harassment",
-      "Strike action",
-      "Clothing industry"
-     ],
-     "testo_it": "A Kafrul, Dhaka, la polizia spara circa dieci granate stordenti contro la dimostrazione dei lavoratori dell'abbigliamento in seguito agli scontri con gli attivisti del Partito nazionalista del Bangladesh che presumibilmente hanno molestato le dipendenti delle fabbriche femminili, inducendo i lavoratori a mettere in scena manifestazioni e fermare la produzione in diverse fabbriche di abbigliamento nelle vicinanze.",
-     "contesto_it": [
-      "Proteste dei lavoratori del Bangladesh (2026)"
-     ]
-    },
-    {
-     "testo": "United States secretary of defense Pete Hegseth formally delivers a Lockheed C-130 Hercules to Colombia during a visit to the country to discuss military cooperation, including against drug cartels.",
-     "contesto": [
-      "Operation Southern Spear",
-      "Colombia–United States relations"
-     ],
-     "categoria": "International relations",
-     "fonti": [
-      {
-       "nome": "The Hill",
-       "url": "https://thehill.com/policy/defense/6230698-hegseth-delivers-c130-colombia/"
-      }
-     ],
-     "link": [
-      "United States secretary of defense",
-      "Pete Hegseth",
-      "Lockheed C-130 Hercules",
-      "Colombia",
-      "Drug cartel"
-     ],
-     "testo_it": "Il segretario alla difesa degli Stati Uniti Pete Heggeth consegna formalmente un Lockheed C-130 Hercules in Colombia durante una visita nel paese per discutere della cooperazione militare, anche contro i cartelli della droga.",
-     "contesto_it": [
-      "Operazione Southern Spear",
-      "Relazioni Colombia-Stati Uniti"
-     ]
-    },
-    {
-     "testo": "United States secretary of defense Pete Hegseth and acting Venezuelan president Delcy Rodríguez sign a military cooperation agreement that includes joint training and intelligence sharing between the United States and Venezuelan armed forces.",
-     "contesto": [
-      "Operation Southern Spear",
-      "United States–Venezuela relations"
-     ],
-     "categoria": "International relations",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/americas/us-defense-secretary-hegseth-vows-boost-venezuela-military-cooperation-2026-11-18/"
-      }
-     ],
-     "link": [
-      "Acting (law)",
-      "President of Venezuela",
-      "Delcy Rodríguez",
-      "United States Armed Forces",
-      "Venezuelan Armed Forces"
-     ],
-     "testo_it": "Il segretario alla difesa degli Stati Uniti Pete Hegseth e il presidente venezuelano Delcy Rodríguez firmano un accordo di cooperazione militare che include l'addestramento congiunto e la condivisione dell'intelligence tra gli Stati Uniti e le forze armate venezuelane.",
-     "contesto_it": [
-      "Operazione Southern Spear",
-      "Relazioni Stati Uniti-Venezuela"
-     ]
-    },
-    {
-     "testo": "Arsonists set fire to the ancestral home of former chief adviser Muhammad Yunus in Panchlaish, Chattogram, Bangladesh.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "The Daily Star",
-       "url": "https://www.thedailystar.net/news/crime-justice/news/muhammad-yunuss-ancestral-home-set-fire-chattogram-4327776"
-      }
-     ],
-     "link": [
-      "Arson",
-      "Interim government of Muhammad Yunus",
-      "Muhammad Yunus",
-      "Panchlaish Thana",
-      "Chittagong",
-      "Bangladesh"
-     ],
-     "testo_it": "Gli arsonisti hanno dato fuoco alla casa ancestrale dell'ex consigliere capo Muhammad Yunus a Panchlaish, Chattogram, Bangladesh."
-    },
-    {
-     "testo": "NASA's space probe Voyager 1 reaches the distance of one light-day from Earth, being the first man-made object to reach that distance, after it launched in 1977.",
-     "contesto": [],
-     "categoria": "Science and technology",
-     "fonti": [
-      {
-       "nome": "CNN",
-       "url": "https://edition.cnn.com/2026/11/18/science/voyager-1-light-day"
-      }
-     ],
-     "link": [
-      "NASA",
-      "Space probe",
-      "Voyager 1",
-      "Light-second"
-     ],
-     "testo_it": "La sonda spaziale Voyager 1 della NASA raggiunge la distanza di un giorno luce dalla Terra, essendo il primo oggetto artificiale a raggiungere quella distanza, dopo il lancio nel 1977."
-    },
-    {
-     "testo": "PlayStation reports a major outage ahead of the release of Grand Theft Auto VI.",
-     "contesto": [],
-     "categoria": "Science and technology",
-     "fonti": [
-      {
-       "nome": "Axios",
-       "url": "https://www.axios.com/2026/11/18/gta-6-playstation-psn-servers"
-      }
-     ],
-     "link": [
-      "PlayStation",
-      "Downtime",
-      "Grand Theft Auto VI"
-     ],
-     "testo_it": "PlayStation segnala una grave interruzione in vista del rilascio di Grand Theft Auto VI."
-    },
-    {
-     "testo": "In Test cricket, Bangladeshi wicketkeeper Litton Das sets a world record for the most dismissals in a single Test innings, recording six catches and two stumpings against South Africa in Johannesburg.",
-     "contesto": [
-      "Bangladeshi cricket team in South Africa in 2026–27"
-     ],
-     "categoria": "Sports",
-     "fonti": [
-      {
-       "nome": "AFP via France 24",
-       "url": "https://www.france24.com/en/live-news/20261118-das-breaks-record-but-south-africa-take-command"
-      }
-     ],
-     "link": [
-      "Test cricket",
-      "Bangladesh national cricket team",
-      "Wicket-keeper",
-      "Litton Das",
-      "List of Test cricket records",
-      "Dismissal (cricket)",
-      "Innings",
-      "Stump (cricket)",
-      "South Africa national cricket team",
-      "Johannesburg"
-     ],
-     "testo_it": "In Test cricket, lo wicketkeeper del Bangladesh Litton Das stabilisce un record mondiale per il maggior numero di licenziamenti in un singolo test inning, registrando sei catture e due colpi contro il Sudafrica a Johannesburg.",
-     "contesto_it": [
-      "Squadra di cricket del Bangladesh in Sud Africa nel 2026-27"
-     ]
     }
    ]
   }
