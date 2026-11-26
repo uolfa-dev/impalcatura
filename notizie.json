@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-26T03:38:32Z",
+ "generato": "2026-11-26T17:01:20Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -29,6 +29,23 @@
    "testo_it": "Nel calcio associativo, la Corte Arbitrale per lo Sport ripristina il Senegal come vincitore della finale della Coppa Africa delle Nazioni 2025, ribaltando la decisione della Confederazione del calcio africano di dichiarare il Marocco come vincitore del torneo."
   },
   {
+   "testo": "Nvidia reinstates Jensen Huang as CEO after a scandal in which he was allegedly targeted by a Chinese spy and had extramarital affairs.",
+   "contesto": [],
+   "categoria": "In primo piano",
+   "fonti": [
+    {
+     "nome": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Jensen_Huang"
+    }
+   ],
+   "link": [
+    "Nvidia",
+    "Jensen Huang",
+    "Jensen Huang scandal"
+   ],
+   "testo_it": "Nvidia ripristina Jensen Huang come CEO dopo uno scandalo in cui è stato presumibilmente preso di mira da una spia cinese e ha avuto affari extraconiugali."
+  },
+  {
    "testo": "The joint ESA–JAXA mission BepiColombo enters orbit around Mercury.",
    "contesto": [],
    "categoria": "In primo piano",
@@ -47,45 +64,127 @@
    "testo_it": "La missione congiunta ESA-JAXA BepiColombo entra in orbita attorno a Mercurio."
   },
   {
-   "testo": "Sandagiin Byambatsogt becomes acting president of Mongolia after Ukhnaagiin Khürelsükh resigns amid corruption allegations.",
+   "testo": "Mathematician Levent Alpöge, working with the AI model Claude, announces a formal proof of the Riemann hypothesis.",
    "contesto": [],
    "categoria": "In primo piano",
    "fonti": [
     {
      "nome": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/Sandagiin_Byambatsogt"
+     "url": "https://en.wikipedia.org/wiki/Riemann_hypothesis"
     }
    ],
    "link": [
-    "Sandagiin Byambatsogt",
-    "President of Mongolia",
-    "Ukhnaagiin Khürelsükh"
+    "Levent Alpöge",
+    "Claude (AI)",
+    "Alpöge's proof of the Riemann hypothesis",
+    "Riemann hypothesis"
    ],
-   "testo_it": "Sandagiin Byambatsogt diventa presidente ad interim della Mongolia dopo che Ukhnaagiin Khürelsükh si è dimesso tra le accuse di corruzione."
-  },
-  {
-   "testo": "The International Court of Justice rules that Myanmar has committed genocide against the Rohingya people.",
-   "contesto": [],
-   "categoria": "In primo piano",
-   "fonti": [
-    {
-     "nome": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/Rohingya_genocide_case"
-    }
-   ],
-   "link": [
-    "International Court of Justice",
-    "Rohingya genocide case",
-    "Rohingya genocide",
-    "Rohingya people"
-   ],
-   "testo_it": "La Corte Internazionale di Giustizia stabilisce che il Myanmar ha commesso un genocidio contro il popolo Rohingya."
+   "testo_it": "Il matematico Levent Alpöge, lavorando con il modello di intelligenza artificiale Claude, annuncia una prova formale dell'ipotesi di Riemann."
   }
  ],
  "giorni": [
   {
    "data": "2026-11-26",
-   "voci": []
+   "voci": [
+    {
+     "testo": "Two Italian techincians working for Rheinmetall, are killed and two other people, are injured in a drone strike against a location in Kuwait. Iran has been blamed for the attack but denies responsibility.",
+     "contesto": [
+      "2026 Iran war",
+      "2026 Iranian strikes on Kuwait"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Rai News",
+       "url": "https://www.rainews.it/maratona/2026/11/yemen-scontri-tra-esercito-e-houthi-a-marib-e-al-jawf-64d93082-0760-48fa-b413-8620e40fdbf3.html"
+      }
+     ],
+     "link": [
+      "Italy",
+      "Rheinmetall",
+      "Drone warfare",
+      "Kuwait",
+      "Iran"
+     ],
+     "testo_it": "Due tecnici italiani che lavorano per Rheinmetall, vengono uccisi e altre due persone, sono feriti in un attacco drone contro una posizione in Kuwait. L'Iran è stato accusato per l'attacco, ma nega la responsabilità.",
+     "contesto_it": [
+      "Guerra in Iran (2026)",
+      "Scioperi iraniani sul Kuwait (2026)"
+     ]
+    },
+    {
+     "testo": "A clash between rival Bangladesh Nationalist Party factions in Munshiganj Sadar Upazila, Bangladesh, leaves one person dead and five injured by gunfire ahead of upcoming union parishad elections.",
+     "contesto": [],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "The Daily Star",
+       "url": "https://www.thedailystar.net/news/politics/news/one-killed-five-injured-bnp-factional-clash-munshiganj-4333826"
+      }
+     ],
+     "link": [
+      "Bangladesh Nationalist Party",
+      "Munshiganj Sadar Upazila",
+      "Bangladesh",
+      "Gunfire",
+      "Union councils of Bangladesh"
+     ],
+     "testo_it": "Uno scontro tra le fazioni rivali del Partito nazionalista del Bangladesh a Munshiganj Sadar Upazila, in Bangladesh, lascia una persona morta e cinque ferite da colpi di arma da fuoco in vista delle prossime elezioni della parrocchia sindacale."
+    },
+    {
+     "testo": "Spanish economist Pablo Hernández de Cos is elected as the new president of the European Central Bank and will succeed Christine Lagarde after her resignation.",
+     "contesto": [],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "Financial Times",
+       "url": "https://www.ft.com/content/88a0691a-6ce8-4c97-abf4-7aee0351fd51?syn-25a6b1a6=1"
+      }
+     ],
+     "link": [
+      "Pablo Hernández de Cos",
+      "President of the European Central Bank",
+      "Christine Lagarde"
+     ],
+     "testo_it": "L'economista spagnolo Pablo Hernández de Cos viene eletto nuovo presidente della Banca centrale europea e succederà a Christine Lagarde dopo le sue dimissioni."
+    },
+    {
+     "testo": "One crew member is killed and 16 more are rescued after the sinking of a Malta-flagged tanker near the waters of Ibiza, Spain.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "Internazionale",
+       "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/26/crew-member-dies-after-diesel-tanker-sinks-off-ibiza-spain-launches-pollution-plan"
+      }
+     ],
+     "link": [
+      "Sinking",
+      "Malta",
+      "Ibiza",
+      "Spain"
+     ],
+     "testo_it": "Un membro dell'equipaggio viene ucciso e altri 16 vengono salvati dopo l'affondamento di una petroliera battente bandiera maltese vicino alle acque di Ibiza, in Spagna."
+    },
+    {
+     "testo": "A shootout between minibus drivers after a quarrel on a street in Beirut, Lebanon, leaves two people killed and three more injured.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "L’Orient Today",
+       "url": "https://today.lorientlejour.com/article/1555723/minibus-drivers-exchange-gunfire-in-broad-daylight-on-a-south-beirut-street.html"
+      }
+     ],
+     "link": [
+      "Shootout",
+      "Minibus",
+      "Beirut",
+      "Lebanon"
+     ],
+     "testo_it": "Una sparatoria tra autisti di minibus dopo una lite in una strada di Beirut, in Libano, lascia due persone uccise e altre tre ferite."
+    }
+   ]
   },
   {
    "data": "2026-11-25",
@@ -122,7 +221,7 @@
      "testo": "A Hamas security official, his wife, and two daughters, are killed in an Israeli airstrike on the Al-Shati refugee camp near Gaza City. Seven more Palestinians are also killed and several injured in more Israeli airstrikes.",
      "contesto": [
       "Middle Eastern crisis",
-      "Gaza war, Gaza genocide"
+      "Gaza war"
      ],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
@@ -146,7 +245,7 @@
      "testo_it": "Un funzionario della sicurezza di Hamas, sua moglie e due figlie, vengono uccisi in un attacco aereo israeliano contro il campo profughi di Al-Shati vicino a Gaza City. Altri sette palestinesi vengono uccisi e diversi feriti in altri attacchi aerei israeliani.",
      "contesto_it": [
       "Crisi del Medio Oriente",
-      "Guerra di Gaza, genocidio di Gaza"
+      "Guerra di Gaza"
      ]
     },
     {
@@ -171,29 +270,6 @@
      "testo_it": "Un attentatore suicida dello Stato islamico si fa saltare in aria su una motocicletta in un posto di blocco a Hasakah, in Siria, uccidendo due forze di sicurezza e ferendone altre cinque.",
      "contesto_it": [
       "Dopo la guerra civile siriana"
-     ]
-    },
-    {
-     "testo": "The Macy’s Thanksgiving Day Parade in New York City is postponed to Saturday, November 28, 2026 due to thunderstorms. It is the first time since World War II that the parade was not held on the scheduled day, and the first since its inception in 1924 that it has been delayed rather than cancelled.",
-     "contesto": [
-      "Thanksgiving (United States)"
-     ],
-     "categoria": "Arts and culture",
-     "fonti": [
-      {
-       "nome": "NBC",
-       "url": "https://www.nbcnews.com/news/us-news/macys-thanksgiving-day-parade-weather-delay-rcna611355"
-      }
-     ],
-     "link": [
-      "Macy's Thanksgiving Day Parade",
-      "New York City",
-      "World War II",
-      "1924"
-     ],
-     "testo_it": "La parata del Giorno del Ringraziamento di Macy a New York City è rinviata a sabato 28 novembre 2026 a causa di temporali. È la prima volta dalla seconda guerra mondiale che la parata non si tiene il giorno previsto, e la prima dal suo inizio nel 1924 che è stata ritardata piuttosto che annullata.",
-     "contesto_it": [
-      "Thanksgiving (Stati Uniti)"
      ]
     },
     {
@@ -291,7 +367,7 @@
      ]
     },
     {
-     "testo": "The European Union and United Kingdom impose fines totalling more than €570 million (US$626 million) on fragrance manufacturers Firmenich, Givaudan, and International Flavors & Fragrances for exchanging commercially sensitive information between 2019 and 2023.",
+     "testo": "The European Union and United Kingdom impose fines totalling more than €570 million (US$626 million) on fragrance manufacturers Firmenich, Givaudan, and International Flavors & Fragrances for exchanging commercially sensitive information and cartel behavior between 2019 and 2023.",
      "contesto": [],
      "categoria": "Business and economy",
      "fonti": [
@@ -309,29 +385,30 @@
       "Firmenich",
       "Givaudan",
       "International Flavors & Fragrances",
-      "Trade secret"
+      "Trade secret",
+      "Cartel"
      ],
-     "testo_it": "L'Unione europea e il Regno Unito impongono ammende per un totale di oltre 570 milioni di euro (626 milioni di dollari) ai produttori di fragranze Firmenich, Givaudan e International Flavors & Fragrances per lo scambio di informazioni commercialmente sensibili tra il 2019 e il 2023."
+     "testo_it": "L'Unione europea e il Regno Unito impongono ammende per un totale di oltre 570 milioni di euro (626 milioni di dollari) ai produttori di fragranze Firmenich, Givaudan e International Flavors & Fragrances per lo scambio di informazioni commercialmente sensibili e il comportamento dei cartelli tra il 2019 e il 2023."
     },
     {
-     "testo": "Thirty-one people are killed and 25 more injured after the overturn and explosion of a fuel tanker on a highway in Cairo, Egypt.",
+     "testo": "Thirty-one people are killed and 21 more injured after the overturn and explosion of a fuel tanker on Ring Road in Cairo, Egypt.",
      "contesto": [
       "2026 Giza fuel tanker explosion"
      ],
      "categoria": "Disasters and accidents",
      "fonti": [
       {
-       "nome": "France24",
-       "url": "https://www.france24.com/en/live-news/20261125-egypt-says-30-dead-in-cairo-fire-after-fuel-truck-overturns"
+       "nome": "AP",
+       "url": "https://apnews.com/article/cairo-highway-fire-ring-road-89e4cd3d3d53016c9c35440b57c5ea1e"
       }
      ],
      "link": [
       "Tank truck",
-      "Highway",
+      "Ring Road (Cairo)",
       "Cairo",
       "Egypt"
      ],
-     "testo_it": "Trentuno persone vengono uccise e altre 25 ferite dopo il rovesciamento e l'esplosione di una petroliera su un'autostrada al Cairo, in Egitto.",
+     "testo_it": "Trentuno persone vengono uccise e altre 21 ferite dopo il rovesciamento e l'esplosione di una petroliera sulla Ring Road al Cairo, in Egitto.",
      "contesto_it": [
       "Esplosione della petroliera di carburante di Giza (2026)"
      ]
