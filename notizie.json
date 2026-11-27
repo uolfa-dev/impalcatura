@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-26T17:01:20Z",
+ "generato": "2026-11-27T01:47:08Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -84,19 +84,52 @@
  ],
  "giorni": [
   {
+   "data": "2026-11-27",
+   "voci": [
+    {
+     "testo": "The counting of special votes results in the National Party losing two electorate seats, including one overhang seat. The National—ACT—NZ First coalition government falls below a majority to 65 seats, placing the Opportunity Party into a kingmaker position.",
+     "contesto": [
+      "2026 New Zealand general election"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "RNZ",
+       "url": "https://www.rnz.co.nz/news/politics_election-2026/2820329/election-2026-final-results-coalition-loses-majority-another-election-possible"
+      }
+     ],
+     "link": [
+      "Special vote",
+      "New Zealand National Party",
+      "Overhang seat",
+      "ACT New Zealand",
+      "New Zealand First",
+      "Sixth National Government of New Zealand",
+      "Opportunity Party (New Zealand)",
+      "Kingmaker"
+     ],
+     "testo_it": "Il conteggio dei voti speciali ha portato il Partito Nazionale a perdere due seggi elettorali, tra cui un seggio a sbalzo. Il governo di coalizione nazionale – ACT – NZ First scende al di sotto della maggioranza a 65 seggi, ponendo il partito Opportunity in una posizione di re.",
+     "contesto_it": [
+      "Elezioni generali in Nuova Zelanda (2026)"
+     ]
+    }
+   ]
+  },
+  {
    "data": "2026-11-26",
    "voci": [
     {
-     "testo": "Two Italian techincians working for Rheinmetall, are killed and two other people, are injured in a drone strike against a location in Kuwait. Iran has been blamed for the attack but denies responsibility.",
+     "testo": "Two Italian technicians working for Rheinmetall are killed and two other people are injured in a drone strike against a location in Kuwait. Iran has been blamed for the attack but denies responsibility.",
      "contesto": [
+      "Middle Eastern crisis",
       "2026 Iran war",
       "2026 Iranian strikes on Kuwait"
      ],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
       {
-       "nome": "Rai News",
-       "url": "https://www.rainews.it/maratona/2026/11/yemen-scontri-tra-esercito-e-houthi-a-marib-e-al-jawf-64d93082-0760-48fa-b413-8620e40fdbf3.html"
+       "nome": "BBC News",
+       "url": "https://www.bbc.com/news/articles/c39w9y5dx4k5o"
       }
      ],
      "link": [
@@ -106,15 +139,52 @@
       "Kuwait",
       "Iran"
      ],
-     "testo_it": "Due tecnici italiani che lavorano per Rheinmetall, vengono uccisi e altre due persone, sono feriti in un attacco drone contro una posizione in Kuwait. L'Iran è stato accusato per l'attacco, ma nega la responsabilità.",
+     "testo_it": "Due tecnici italiani che lavorano per Rheinmetall vengono uccisi e altre due persone sono ferite in un attacco con droni contro una località in Kuwait. L'Iran è stato accusato dell'attacco ma nega la responsabilità.",
      "contesto_it": [
+      "Crisi del Medio Oriente",
       "Guerra in Iran (2026)",
       "Scioperi iraniani sul Kuwait (2026)"
      ]
     },
     {
+     "testo": "Saudi Arabia says it has destroyed 50 Houthi military targets, including weapons depots, ballistic missile and drone launch sites, and command centres, in airstrikes on Sanaa, Al Hudaydah, and Saada Governorates in Yemen.",
+     "contesto": [
+      "Middle Eastern crisis",
+      "Yemeni civil war",
+      "Houthi–Saudi conflict"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "AFP via AA",
+       "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-destroyed-50-houthi-military-targets-across-yemen/4139651"
+      },
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate"
+      }
+     ],
+     "link": [
+      "Saudi Arabia",
+      "Houthis",
+      "Ballistic missile",
+      "Sanaa",
+      "Al Hudaydah (governorate)",
+      "Saada Governorate",
+      "Yemen"
+     ],
+     "testo_it": "L'Arabia Saudita afferma di aver distrutto 50 obiettivi militari Houthi, tra cui depositi di armi, missili balistici e siti di lancio di droni e centri di comando, in attacchi aerei su Sanaa, Al Hudaydah e Governatorati di Saada nello Yemen.",
+     "contesto_it": [
+      "Crisi del Medio Oriente",
+      "Guerra civile yemenita",
+      "Conflitto Houthi-saudita"
+     ]
+    },
+    {
      "testo": "A clash between rival Bangladesh Nationalist Party factions in Munshiganj Sadar Upazila, Bangladesh, leaves one person dead and five injured by gunfire ahead of upcoming union parishad elections.",
-     "contesto": [],
+     "contesto": [
+      "Aftermath of the July Uprising"
+     ],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
       {
@@ -129,10 +199,43 @@
       "Gunfire",
       "Union councils of Bangladesh"
      ],
-     "testo_it": "Uno scontro tra le fazioni rivali del Partito nazionalista del Bangladesh a Munshiganj Sadar Upazila, in Bangladesh, lascia una persona morta e cinque ferite da colpi di arma da fuoco in vista delle prossime elezioni della parrocchia sindacale."
+     "testo_it": "Uno scontro tra le fazioni rivali del Partito nazionalista del Bangladesh a Munshiganj Sadar Upazila, in Bangladesh, lascia una persona morta e cinque ferite da colpi di arma da fuoco in vista delle prossime elezioni della parrocchia sindacale.",
+     "contesto_it": [
+      "Dopo la rivolta di luglio"
+     ]
     },
     {
-     "testo": "Spanish economist Pablo Hernández de Cos is elected as the new president of the European Central Bank and will succeed Christine Lagarde after her resignation.",
+     "testo": "Around 400 garment factories remain closed across Savar and Gazipur, Bangladesh, as workers rejected a newly announced ৳ 17,000 monthly minimum wage as insufficient block the Dhaka–Mymensingh and Dhaka–Tangail highways and clash with police firing tear gas and stun grenades.",
+     "contesto": [
+      "Aftermath of the July Uprising, 2026 Bangladesh garment workers protests"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "The Business Standard",
+       "url": "https://www.tbsnews.net/economy/rmg/rmg-workers-clash-police-despite-wage-announcement-400-factories-suspend-production"
+      }
+     ],
+     "link": [
+      "Textile industry in Bangladesh",
+      "Savar Upazila",
+      "Gazipur District",
+      "Bangladesh",
+      "Bangladeshi taka",
+      "Minimum wage",
+      "N3 (Bangladesh)",
+      "N4 (Bangladesh)",
+      "Bangladesh Police",
+      "Tear gas",
+      "Stun grenade"
+     ],
+     "testo_it": "Circa 400 fabbriche di abbigliamento rimangono chiuse tra Savar e Gazipur, in Bangladesh, mentre i lavoratori rifiutano un salario minimo di  17.000 appena annunciato come blocco insufficiente delle autostrade Dhaka-Mymensingh e Dhaka-Tangail e si scontrano con la polizia che spara gas lacrimogeni e granate stordenti.",
+     "contesto_it": [
+      "Dopo la rivolta di luglio, proteste dei lavoratori del Bangladesh (2026)"
+     ]
+    },
+    {
+     "testo": "Spanish economist Pablo Hernández de Cos is elected as the new president of the European Central Bank, succeeding French lawyer Christine Lagarde after her resignation.",
      "contesto": [],
      "categoria": "Business and economy",
      "fonti": [
@@ -142,20 +245,46 @@
       }
      ],
      "link": [
+      "Spain",
       "Pablo Hernández de Cos",
       "President of the European Central Bank",
+      "European Central Bank",
+      "France",
       "Christine Lagarde"
      ],
-     "testo_it": "L'economista spagnolo Pablo Hernández de Cos viene eletto nuovo presidente della Banca centrale europea e succederà a Christine Lagarde dopo le sue dimissioni."
+     "testo_it": "L'economista spagnolo Pablo Hernández de Cos viene eletto nuovo presidente della Banca centrale europea, succedendo all'avvocato francese Christine Lagarde dopo le sue dimissioni."
     },
     {
-     "testo": "One crew member is killed and 16 more are rescued after the sinking of a Malta-flagged tanker near the waters of Ibiza, Spain.",
+     "testo": "A business consortium led by U.S.-based asset management company Eldridge agrees to purchase international assets of Russian oil company Lukoil, including oil and gas fields, refineries, pipelines, and other infrastructure.",
+     "contesto": [],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/russia-ukraine-war-us-sanctions-oil-lukoil-8d5df1befb2ebb2a0ce4f6b259fcdf14"
+      }
+     ],
+     "link": [
+      "Consortium",
+      "Asset management",
+      "Eldridge Industries",
+      "Russia",
+      "Petroleum industry",
+      "Lukoil",
+      "Petroleum reservoir",
+      "Oil refinery",
+      "Pipeline"
+     ],
+     "testo_it": "Un consorzio commerciale guidato dalla società di gestione patrimoniale statunitense Eldridge accetta di acquistare beni internazionali della compagnia petrolifera russa Lukoil, inclusi giacimenti di petrolio e gas, raffinerie, oleodotti e altre infrastrutture."
+    },
+    {
+     "testo": "One crew member is killed and 16 more are rescued after the sinking of a Malta-flagged tanker off the coast of Ibiza, Spain.",
      "contesto": [],
      "categoria": "Disasters and accidents",
      "fonti": [
       {
-       "nome": "Internazionale",
-       "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/26/crew-member-dies-after-diesel-tanker-sinks-off-ibiza-spain-launches-pollution-plan"
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/business/energy/crew-member-dies-after-diesel-tanker-sinks-off-ibiza-spain-launches-pollution-2026-11-26/"
       }
      ],
      "link": [
@@ -164,10 +293,74 @@
       "Ibiza",
       "Spain"
      ],
-     "testo_it": "Un membro dell'equipaggio viene ucciso e altri 16 vengono salvati dopo l'affondamento di una petroliera battente bandiera maltese vicino alle acque di Ibiza, in Spagna."
+     "testo_it": "Un membro dell'equipaggio viene ucciso e altri 16 vengono salvati dopo l'affondamento di una petroliera battente bandiera maltese al largo delle coste di Ibiza, in Spagna."
     },
     {
-     "testo": "A shootout between minibus drivers after a quarrel on a street in Beirut, Lebanon, leaves two people killed and three more injured.",
+     "testo": "At least nine people are injured, including three critically, in an explosion and fire at an Bangchak Corporation oil facility in Bangkok, Thailand.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/thailand-bangkok-explosion-oil-facility-e8098146bfb994dffc14448b1027c5d1"
+      }
+     ],
+     "link": [
+      "Bangchak Corporation",
+      "Bangkok",
+      "Thailand"
+     ],
+     "testo_it": "Almeno nove persone sono rimaste ferite, di cui tre in modo critico, in un'esplosione e un incendio in un impianto petrolifero della Bangchak Corporation a Bangkok, in Thailandia."
+    },
+    {
+     "testo": "The Cambridge Crown Court in the United Kingdom finds 32-year-old Anthony Williams guilty of the attempted murders of 14 people in three separate incidents, including the stabbing of ten people on a LNER train in November 2025.",
+     "contesto": [
+      "2025 Cambridgeshire train stabbing"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/britain-train-stabbings-williams-guilty-attempted-murder-4d8ae19ba73ed8b556417abd910812cf"
+      }
+     ],
+     "link": [
+      "Cambridge Crown Court",
+      "United Kingdom",
+      "Attempted murder",
+      "Mass stabbing",
+      "London North Eastern Railway"
+     ],
+     "testo_it": "La Corte della Corona di Cambridge nel Regno Unito ritiene il 32enne Anthony Williams colpevole del tentato omicidio di 14 persone in tre incidenti separati, tra cui il accoltellamento di dieci persone su un treno LNER nel novembre 2025.",
+     "contesto_it": [
+      "Cambridgeshire treno accoltellamento (2025)"
+     ]
+    },
+    {
+     "testo": "Egyptian prosecutors arrest a driver whose speeding car allegedly collided with a tank truck on Cairo's Ring Road yesterday, causing a fire that killed 31 people and injured 21 others.",
+     "contesto": [
+      "2026 Giza fuel tanker explosion"
+     ],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/egypt-prosecutors-announce-arrest-man-over-deadly-truck-disaster"
+      }
+     ],
+     "link": [
+      "Egypt",
+      "Tank truck",
+      "Cairo",
+      "Ring Road (Cairo)"
+     ],
+     "testo_it": "I pubblici ministeri egiziani arrestano un autista la cui autovettura si sarebbe scontrata con un camion cisterna sulla Ring Road del Cairo ieri, causando un incendio che ha ucciso 31 persone e ferito altre 21.",
+     "contesto_it": [
+      "Esplosione della petroliera di carburante di Giza (2026)"
+     ]
+    },
+    {
+     "testo": "A shootout between minibus drivers after a quarrel on a street in Beirut, Lebanon, kills two people and injures three more.",
      "contesto": [],
      "categoria": "Law and crime",
      "fonti": [
@@ -182,7 +375,110 @@
       "Beirut",
       "Lebanon"
      ],
-     "testo_it": "Una sparatoria tra autisti di minibus dopo una lite in una strada di Beirut, in Libano, lascia due persone uccise e altre tre ferite."
+     "testo_it": "Una sparatoria tra autisti di minibus dopo una lite in una strada di Beirut, in Libano, uccide due persone e ne ferisce altre tre."
+    },
+    {
+     "testo": "The Serbian parliament sets the upcoming presidential election to December 27 after former president Aleksandar Vučić resigned in September.",
+     "contesto": [
+      "2026 Serbian presidential election"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/serbia-presidential-election-students-vucic-b069d30d098006f9d4ed21e6b82731c4"
+      }
+     ],
+     "link": [
+      "Serbia",
+      "National Assembly (Serbia)",
+      "President of Serbia",
+      "Aleksandar Vučić"
+     ],
+     "testo_it": "Il parlamento serbo fissa le prossime elezioni presidenziali il 27 dicembre dopo che l'ex presidente Aleksandar Vučić si è dimesso a settembre.",
+     "contesto_it": [
+      "Elezioni presidenziali in Serbia (2026)"
+     ]
+    },
+    {
+     "testo": "At least 18 golf courses across China announce closures, including ten in Beijing, with many citing government orders following earlier restrictions on golf associated with paramount leader Xi Jinping's anti-corruption campaign.",
+     "contesto": [
+      "Anti-corruption campaign under Xi Jinping"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "AFP via France 24",
+       "url": "https://www.france24.com/en/live-news/20261126-china-shuts-down-golf-courses-in-apparent-new-clampdown"
+      },
+      {
+       "nome": "The Daily Telegraph",
+       "url": "https://www.telegraph.co.uk/world-news/2026/11/26/china-golf-courses-ccp-western-elites-xi-jinping-corruption/"
+      }
+     ],
+     "link": [
+      "Golf in China",
+      "China",
+      "Beijing",
+      "State Council of China",
+      "Paramount leader",
+      "Xi Jinping",
+      "Corruption in China"
+     ],
+     "testo_it": "Almeno 18 campi da golf in tutta la Cina annunciano chiusure, tra cui dieci a Pechino, con molti citando ordini del governo a seguito di precedenti restrizioni sul golf associate alla campagna anti-corruzione del leader di primo piano Xi Jinping.",
+     "contesto_it": [
+      "Campagna anticorruzione sotto Xi Jinping"
+     ]
+    },
+    {
+     "testo": "The Bissau-Guinean military government postpones presidential and legislative elections from December 2026 to November 2028, citing inadequate resources and logistical preparations, extending its transition to civilian rule following the November 2025 coup.",
+     "contesto": [
+      "Next Guinea-Bissau general election"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/africa/guinea-bissau-delays-elections-extending-military-led-transition-year-after-coup-2026-11-26/"
+      }
+     ],
+     "link": [
+      "Guinea-Bissau",
+      "High Military Command for the Restoration of National Security and Public Order",
+      "President of Guinea-Bissau",
+      "National People's Assembly (Guinea-Bissau)",
+      "2025 Guinea-Bissau coup d'état"
+     ],
+     "testo_it": "Il governo militare di Bissau-Guinean rinvia le elezioni presidenziali e legislative dal dicembre 2026 al novembre 2028, citando risorse inadeguate e preparativi logistici, estendendo la sua transizione al dominio civile dopo il colpo di stato del novembre 2025.",
+     "contesto_it": [
+      "Elezioni generali in Guinea-Bissau"
+     ]
+    },
+    {
+     "testo": "The United States Federal Communications Commission authorizes SpaceX to deploy up to one million satellites for its Starmind space-based data center network, despite concerns about space debris and interference with astronomical objects.",
+     "contesto": [
+      "AI boom, Space policy of the United States"
+     ],
+     "categoria": "Science and technology",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/us-clears-spacex-launch-1-mn-orbital-data-center-satellites"
+      }
+     ],
+     "link": [
+      "United States",
+      "Federal Communications Commission",
+      "SpaceX",
+      "Starmind (satellite)",
+      "Space-based data center",
+      "Space debris",
+      "Astronomical object"
+     ],
+     "testo_it": "La Federal Communications Commission degli Stati Uniti autorizza SpaceX a schierare fino a un milione di satelliti per la sua rete di data center spaziale Starmind, nonostante le preoccupazioni sui detriti spaziali e le interferenze con gli oggetti astronomici.",
+     "contesto_it": [
+      "Boom AI, politica spaziale degli Stati Uniti"
+     ]
     }
    ]
   },
@@ -433,6 +729,23 @@
      "testo_it": "Sei persone muoiono nello schianto di un Cessna 210 Centurion che trasporta una famiglia da un viaggio di pesca vicino Horn Island, Mississippi, Stati Uniti."
     },
     {
+     "testo": "At least four people are killed, 14 people are injured, and 17 others remain trapped under rubble when a six-story building collapses in Karachi, Sindh, Pakistan.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/pakistan-construction-building-collapse-karachi-3b1555a055cfee2e3299edde37c821b9"
+      }
+     ],
+     "link": [
+      "Karachi",
+      "Sindh",
+      "Pakistan"
+     ],
+     "testo_it": "Almeno quattro persone vengono uccise, 14 sono ferite e altre 17 rimangono intrappolate sotto le macerie quando un edificio di sei piani crolla a Karachi, Sindh, in Pakistan."
+    },
+    {
      "testo": "The United States Army detonates nearly 5 tons of degrading lead azide at the Iowa Army Ammunition Plant in Middletown, Iowa, citing spontaneous explosion risks.",
      "contesto": [
       "Iowa lead azide detonation"
@@ -617,6 +930,45 @@
      "testo_it": "La Corte Suprema federale stabilisce che il governo federale dell'Iraq può schierare truppe ai confini del paese e può supervisionare e controllare l'industria petrolifera nella regione del Kurdistan, un giorno dopo che il primo ministro iracheno Ali al-Zaidi ha annunciato che sta mettendo i campi petroliferi e i valichi di frontiera della regione sotto il controllo federale per combattere il contrabbando di petrolio."
     },
     {
+     "testo": "Beau Lamarre-Condon is found guilty of murdering Australian television presenter Jesse Baird and his partner Luke Davies in 2024.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "The Guardian",
+       "url": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-verdict-former-police-officer-jesse-baird-luke-davies-ntwnfb"
+      }
+     ],
+     "link": [
+      "Murder in Australian law",
+      "Australia",
+      "Jesse Baird"
+     ],
+     "testo_it": "Beau Lamarre-Condon viene riconosciuto colpevole di aver ucciso il presentatore televisivo australiano Jesse Baird e il suo partner Luke Davies nel 2024."
+    },
+    {
+     "testo": "A magistrates' court in Mombasa, Kenya, finds jailed cult leader Paul Mackenzie, founder of the Good News International Church, of assault and cruelty to children, which will add to his existing sentence of 200 years in prison for mass murder.",
+     "contesto": [],
+     "categoria": "Law and crime",
+     "fonti": [
+      {
+       "nome": "AP",
+       "url": "https://apnews.com/article/kenya-cult-leader-paul-mackenzie-conviction-e4024cd1ff2e2ddce24b89ee0756b2c4"
+      }
+     ],
+     "link": [
+      "Magistrates' Court (Kenya)",
+      "Mombasa",
+      "Kenya",
+      "Paul Mackenzie",
+      "Good News International Ministries",
+      "Assault",
+      "Child abuse",
+      "Mass murder"
+     ],
+     "testo_it": "Un tribunale dei magistrati di Mombasa, in Kenya, trova il leader del culto imprigionato Paul Mackenzie, fondatore della Good News International Church, di aggressione e crudeltà verso i bambini, che si aggiungerà alla sua attuale condanna a 200 anni di carcere per omicidio di massa."
+    },
+    {
      "testo": "Pakistani astronaut Muhammad Zeeshan Ali becomes the first Pakistani to reach orbit and the first foreign national to board China's Tiangong space station, arriving aboard the Shenzhou-24 spacecraft alongside two Chinese astronauts to conduct scientific experiments during a five-day mission.",
      "contesto": [
       "Shenzhou 24"
@@ -729,7 +1081,7 @@
      ]
     },
     {
-     "testo": "Two Libyan naval officers dies of their wounds sustained in the Ukrainian naval drone attack against the Russian corvette Merkury in the Port of Benghazi, two days ago. Libya announces it will respond.",
+     "testo": "Two Libyan naval officers die of their wounds sustained in the Ukrainian naval drone attack against the Russian corvette Merkury in the Port of Benghazi, two days ago. Libya announces it will respond.",
      "contesto": [
       "Russo-Ukrainian war",
       "Naval warfare in the Russo-Ukrainian war, Ukrainian attacks on the Russian shadow fleet"
@@ -1218,7 +1570,7 @@
      ]
     },
     {
-     "testo": "Five people are killed and six others are injured during classe between farmers and herders in East Darfur, Sudan.",
+     "testo": "Five people are killed and six others are injured during clashes between farmers and herders in East Darfur, Sudan.",
      "contesto": [
       "Sudanese nomadic conflicts"
      ],
@@ -1234,7 +1586,7 @@
       "East Darfur",
       "Sudan"
      ],
-     "testo_it": "Cinque persone sono morte e altre sei sono rimaste ferite durante la lezione tra agricoltori e pastori nel Darfur orientale, in Sudan.",
+     "testo_it": "Cinque persone vengono uccise e altre sei ferite durante gli scontri tra agricoltori e pastori nel Darfur orientale, in Sudan.",
      "contesto_it": [
       "Conflitti nomadi sudanesi"
      ]
@@ -1268,7 +1620,7 @@
      ]
     },
     {
-     "testo": "Nine people are killed and 17 more are missing as a river overflows in Bogor, West Java, Indonesia, hitting with floods an illegal gold mine.",
+     "testo": "Nine people are killed and 17 more are missing as a river overflows in Bogor, West Java, Indonesia, hitting an illegal gold mine with floods.",
      "contesto": [],
      "categoria": "Disasters and accidents",
      "fonti": [
@@ -1281,11 +1633,11 @@
       "Bogor",
       "West Java",
       "Indonesia",
-      "Flood",
       "Illegal mining",
-      "Gold mining"
+      "Gold mining",
+      "Flood"
      ],
-     "testo_it": "Nove persone sono morte e altre 17 sono scomparse mentre un fiume trabocca a Bogor, West Java, Indonesia, colpendo con inondazioni una miniera d'oro illegale."
+     "testo_it": "Nove persone sono morte e altre 17 sono scomparse mentre un fiume trabocca a Bogor, West Java, Indonesia, colpendo una miniera d'oro illegale con inondazioni."
     },
     {
      "testo": "Seven people are killed and two others are injured after a truck loaded with stones overturns onto a minitruck in Bahawalpur District, Punjab, Pakistan.",
@@ -2450,347 +2802,6 @@
      "testo_it": "L'Agenzia Spaziale Europea annuncia che la navicella spaziale BepiColombo si è inserita in orbita attorno a Mercurio.",
      "contesto_it": [
       "Esplorazione di Mercurio"
-     ]
-    }
-   ]
-  },
-  {
-   "data": "2026-11-20",
-   "voci": [
-    {
-     "testo": "The Islamic Revolutionary Guard Corps Navy and the United Kingdom Maritime Trade Operations report that an oil tanker has been damaged and caught fire off Khasab, Oman, while attempting to transit the Strait of Hormuz.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "2026 Iran war",
-      "2026 Strait of Hormuz crisis"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://aje.news/yk6rbj?update=5171719"
-      }
-     ],
-     "link": [
-      "Islamic Revolutionary Guard Corps Navy",
-      "United Kingdom Maritime Trade Operations",
-      "Oil tanker",
-      "Khasab",
-      "Oman",
-      "Strait of Hormuz"
-     ],
-     "testo_it": "La Marina del Corpo delle Guardie Rivoluzionarie Islamiche e la United Kingdom Maritime Trade Operations riferiscono che una petroliera è stata danneggiata e ha preso fuoco al largo di Khasab, in Oman, mentre tentava di attraversare lo Stretto di Hormuz.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Guerra in Iran (2026)",
-      "Stretto di Hormuz (2026)"
-     ]
-    },
-    {
-     "testo": "The Saudi-led coalition launches airstrikes on Hodeidah, Yemen, targeting weapons smuggling used by the Houthis, and on targets in the Sanaa, Saada, and Taiz governorates.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "Yemeni civil war",
-      "Houthi–Saudi conflict"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/saudi-yemen-war-iran-iraq-november-20-2026-16c39c487a23b53b73c5eabb7f0fd57a"
-      },
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports"
-      }
-     ],
-     "link": [
-      "Saudi-led intervention in the Yemeni civil war",
-      "Airstrike",
-      "Hodeidah",
-      "Yemen",
-      "Houthis",
-      "Sanaa Governorate",
-      "Saada Governorate",
-      "Taiz Governorate",
-      "Governorates of Yemen"
-     ],
-     "testo_it": "La coalizione guidata dai sauditi lancia attacchi aerei su Hodeidah, Yemen, prendendo di mira il contrabbando di armi utilizzato dagli Houthi, e su obiettivi nei governatorati di Sanaa, Saada e Taiz.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Guerra civile yemenita",
-      "Conflitto Houthi-saudita"
-     ]
-    },
-    {
-     "testo": "Yemeni government forces say they have conducted operations in the Al-Jawf, Marib, and Taiz governorates that have killed or injured 193 Houthi fighters.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "Yemeni civil war",
-      "2026 Yemen offensives"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Arab News",
-       "url": "https://www.arabnews.com/middle-east/yemeni-army-reports-854-operations-against-houthi-forces-claims-193-killed-or-wounded-3013178"
-      }
-     ],
-     "link": [
-      "Presidential Leadership Council",
-      "Yemeni Armed Forces",
-      "Al-Jawf Governorate",
-      "Marib Governorate"
-     ],
-     "testo_it": "Le forze governative yemenite dicono di aver condotto operazioni nei governatorati di Al-Jawf, Marib e Taiz che hanno ucciso o ferito 193 combattenti Houthi.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Guerra civile yemenita",
-      "Yemen offensive (2026)"
-     ]
-    },
-    {
-     "testo": "A Russian Kh-101 cruise missile strikes a field near the village of Nowy Lipowiec in Lublin Voivodeship, Poland, around 60 miles from a Coalition of the Willing training excercise. Air raid alerts are issued in Lublin and Podkarpackie Voivodeship.",
-     "contesto": [
-      "Russo-Ukrainian war",
-      "Violations of non-combatant airspace during the Russo-Ukrainian war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AOL",
-       "url": "https://www.aol.co.uk/articles/suspected-russian-projectile-lands-poland-095529000.html"
-      }
-     ],
-     "link": [
-      "Russian Armed Forces",
-      "Kh-101",
-      "Cruise missile",
-      "Nowy Lipowiec",
-      "Lublin Voivodeship",
-      "Poland",
-      "Coalition of the willing (Russo-Ukrainian war)",
-      "Podkarpackie Voivodeship"
-     ],
-     "testo_it": "Un missile da crociera russo Kh-101 colpisce un campo vicino al villaggio di Nowy Lipowiec nel Voivodato di Lublino, in Polonia, a circa 60 miglia da una Coalizione dell'esercitazione Willing.",
-     "contesto_it": [
-      "Guerra russo-ucraina",
-      "Violazioni dello spazio aereo non combattente durante la guerra russo-ucraina"
-     ]
-    },
-    {
-     "testo": "Three Salvadoran soldiers are killed and another is injured when explosives they are handling detonate.",
-     "contesto": [
-      "Haitian conflict",
-      "Salvadoran military intervention in Haiti"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "La Prensa Gráfica",
-       "url": "https://www.laprensagrafica.com/elsalvador/dos-soldados-salvadorenos-muertos-en-haiti-tras-explosion-en-campamento-20261120-0033.html"
-      }
-     ],
-     "link": [
-      "El Salvador"
-     ],
-     "testo_it": "Tre soldati salvadoregni vengono uccisi e un altro viene ferito quando gli esplosivi che stanno maneggiando detonano.",
-     "contesto_it": [
-      "Conflitto haitiano",
-      "Intervento militare salvadoregno ad Haiti"
-     ]
-    },
-    {
-     "testo": "The governments of Haiti and El Salvador agree to build three new prisons to incarcerate Haitian gang members.",
-     "contesto": [
-      "Haitian conflict",
-      "Salvadoran military intervention in Haiti"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/el-salvador-haiti-troops-killed-injured-bukele-c3192c1276fd235b727666a05062db00"
-      }
-     ],
-     "link": [
-      "Haiti",
-      "El Salvador"
-     ],
-     "testo_it": "I governi di Haiti e El Salvador concordano di costruire tre nuove prigioni per incarcerare i membri delle bande haitiane.",
-     "contesto_it": [
-      "Conflitto haitiano",
-      "Intervento militare salvadoregno ad Haiti"
-     ]
-    },
-    {
-     "testo": "In Bangladesh, attackers vandalize, loot, and burn over fifty houses and several businesses belonging to banned Awami League members in Kalia Upazila, Narail District, including the residence of former MP Kabirul Haque Mukti, following the killings of two Bangladesh Nationalist Party leaders.",
-     "contesto": [
-      "Aftermath of the July Uprising"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "New Age",
-       "url": "https://www.newagebd.net/post/country/323452/over-50-houses-business-establishments-vandalised-torched-in-narail"
-      }
-     ],
-     "link": [
-      "Bangladesh",
-      "Vandalism",
-      "Looting",
-      "Arson",
-      "Awami League",
-      "Kalia Upazila",
-      "Narail District",
-      "Jatiya Sangsad",
-      "Kabirul Haque Mukti",
-      "Bangladesh Nationalist Party"
-     ],
-     "testo_it": "In Bangladesh, gli aggressori vandalizzano, saccheggiano e bruciano oltre cinquanta case e diverse aziende appartenenti ai membri della Lega Awami vietati a Kalia Upazila, nel distretto di Narail, inclusa la residenza dell'ex deputato Kabirul Haque Mukti, in seguito all'uccisione di due leader del Partito nazionalista del Bangladesh.",
-     "contesto_it": [
-      "Dopo la rivolta di luglio"
-     ]
-    },
-    {
-     "testo": "Mexican special forces arrest Fausto Isidro Meza Flores, leader of the drug cartel Los Mazatlecos and one of the United States Federal Bureau of Investigation's ten most-wanted fugitives, and two associates during an operation in Guasave, Sinaloa, triggering armed clashes with suspected cartel members.",
-     "contesto": [
-      "Mexican drug war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AFP via France 24",
-       "url": "https://www.france24.com/en/live-news/20261121-mexico-captures-drug-kingpin-on-fbi-s-most-wanted-list"
-      }
-     ],
-     "link": [
-      "Mexican special forces",
-      "Fausto Isidro Meza Flores",
-      "Drug cartel",
-      "Los Mazatlecos",
-      "United States",
-      "Federal Bureau of Investigation",
-      "FBI Ten Most Wanted Fugitives",
-      "Guasave",
-      "Sinaloa"
-     ],
-     "testo_it": "Le forze speciali messicane arrestano Fausto Isidro Meza Flores, leader del cartello della droga Los Mazatlecos e uno dei dieci fuggitivi più ricercati del Federal Bureau of Investigation degli Stati Uniti, e due associati durante un'operazione a Guasave, Sinaloa, scatenando scontri armati con sospetti membri del cartello.",
-     "contesto_it": [
-      "Guerra alla droga in Messico"
-     ]
-    },
-    {
-     "testo": "Twenty-four people are killed and 24 more are rescued after a ship carrying funeral goers capsizes in Bayelsa State, Nigeria.",
-     "contesto": [
-      "2026 Bayelsa boat disaster"
-     ],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "Arab News",
-       "url": "https://www.arabnews.com/world/24-dead-in-nigeria-when-boat-capsizes-while-carrying-people-to-a-funeral-3013419"
-      }
-     ],
-     "link": [
-      "Bayelsa State",
-      "Nigeria"
-     ],
-     "testo_it": "Ventiquattro persone sono state uccise e altre 24 sono state salvate dopo che una nave che trasportava i visitatori funebri si è rovesciata nello stato di Bayelsa, in Nigeria.",
-     "contesto_it": [
-      "Disastro di Bayelsa (2026)"
-     ]
-    },
-    {
-     "testo": "Former ship captain Francesco Schettino of the former Costa Concordia cruise ship is released from prison after nine years.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "Euronews",
-       "url": "https://www.euronews.com/2026/11/21/former-costa-concordia-cruise-ship-captain-released-from-prison-on-probation-after-nine-ye"
-      }
-     ],
-     "link": [
-      "Francesco Schettino",
-      "Costa Concordia disaster",
-      "Costa Concordia"
-     ],
-     "testo_it": "L'ex capitano Francesco Schettino dell'ex nave da crociera Costa Concordia viene scarcerato dopo nove anni."
-    },
-    {
-     "testo": "A general strike is held in Italy, with protests in multiple cities across the country.",
-     "contesto": [
-      "2026 European unrest",
-      "2026 Italian unrest"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "Rai News in Italian",
-       "url": "https://www.rainews.it/maratona/2026/11/sciopero-generale-sara-un-venerdi-difficile-stop-a-trasporti-scuola-e-sanita-9326c802-86d1-4e5e-9b05-46d7e34466f4.html"
-      }
-     ],
-     "link": [
-      "General strike",
-      "Italy"
-     ],
-     "testo_it": "Uno sciopero generale si tiene in Italia, con proteste in più città in tutto il paese.",
-     "contesto_it": [
-      "Insurrezioni europee (2026)",
-      "Insurrezione italiana (2026)"
-     ]
-    },
-    {
-     "testo": "Iraqi prime minister Ali al-Zaidi announces that an agreement has been reached with Kata'ib Hezbollah to establish a joint operations center and jointly station troops in Jurf al-Sakhar, south of Baghdad, after having threatened to send Iraqi security forces into the group's stronghold.",
-     "contesto": [
-      "Politics of Iraq"
-     ],
-     "categoria": "Politics and elections",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold"
-      },
-      {
-       "nome": "Al Jazeera",
-       "url": "https://aje.news/yk6rbj?update=5171924"
-      }
-     ],
-     "link": [
-      "Prime Minister of Iraq",
-      "Ali al-Zaidi",
-      "Kata'ib Hezbollah",
-      "Jurf al-Sakhar",
-      "Baghdad",
-      "Iraqi security forces"
-     ],
-     "testo_it": "Il primo ministro iracheno Ali al-Zaidi annuncia che è stato raggiunto un accordo con Kata'ib Hezbollah per stabilire un centro operativo congiunto e dispiegare congiuntamente le truppe a Jurf al-Sakhar, a sud di Baghdad, dopo aver minacciato di inviare le forze di sicurezza irachene nella roccaforte del gruppo.",
-     "contesto_it": [
-      "Politica dell'Iraq"
-     ]
-    },
-    {
-     "testo": "Anthropic employee and mathematician Levent Alpöge releases a claimed proof of the Riemann hypothesis, created with assistance from Claude.",
-     "contesto": [
-      "Mathematics and artificial intelligence"
-     ],
-     "categoria": "Science and technology",
-     "fonti": [
-      {
-       "nome": "BBC News",
-       "url": "https://www.bbc.com/news/articles/c6pqr2g7w059o"
-      }
-     ],
-     "link": [
-      "Anthropic",
-      "Levent Alpöge",
-      "Riemann hypothesis",
-      "Claude (AI)"
-     ],
-     "testo_it": "L'impiegato e matematico antropico Levent Alpöge rilascia una prova dell'ipotesi di Riemann, creata con l'aiuto di Claude.",
-     "contesto_it": [
-      "Matematica e intelligenza artificiale"
      ]
     }
    ]
