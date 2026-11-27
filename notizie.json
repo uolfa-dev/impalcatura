@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-27T12:37:46Z",
+ "generato": "2026-11-27T23:30:59Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -87,6 +87,101 @@
    "data": "2026-11-27",
    "voci": [
     {
+     "testo": "At least 20 people are injured, several with spear wounds, in an armed clash between the Bangladesh Nationalist Party and the Awami League over local dominance and control of brick kilns in Fatullah, Narayanganj District, Bangladesh, with police firing rubber bullets and tear gas to disperse them.",
+     "contesto": [
+      "Aftermath of the July Uprising"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "The Daily Star",
+       "url": "https://www.thedailystar.net/news/crime-justice/news/20-injured-fresh-clash-over-local-dominance-brick-kiln-business-narayanganj-4334601"
+      }
+     ],
+     "link": [
+      "Spear",
+      "Bangladesh Nationalist Party",
+      "Awami League",
+      "Brickworks",
+      "Fatullah",
+      "Narayanganj District",
+      "Bangladesh",
+      "Bangladesh Police",
+      "Rubber bullet",
+      "Tear gas"
+     ],
+     "testo_it": "Almeno 20 persone sono ferite, diverse con ferite di lancia, in uno scontro armato tra il Partito nazionalista del Bangladesh e la Lega Awami sul dominio locale e il controllo dei forni in mattoni a Fatullah, distretto di Narayanganj, Bangladesh, con la polizia che spara proiettili di gomma e gas lacrimogeni per disperderli.",
+     "contesto_it": [
+      "Dopo la rivolta di luglio"
+     ]
+    },
+    {
+     "testo": "Norwegian low-cost carrier Norse Atlantic Airways announces that its Norwegian operating subsidiary filed for bankruptcy after failing to secure short-term funding amid rising fuel costs, cancelling all flights and suspending ticket sales.",
+     "contesto": [
+      "2026 Iran war fuel crisis"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "CNBC",
+       "url": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html"
+      }
+     ],
+     "link": [
+      "Norway",
+      "Low-cost carrier",
+      "Norse Atlantic Airways",
+      "Operating subsidiary",
+      "Bankruptcy"
+     ],
+     "testo_it": "La compagnia aerea low cost norvegese Norse Atlantic Airways annuncia che la sua controllata operativa norvegese ha presentato istanza di fallimento dopo aver fallito nel garantire finanziamenti a breve termine tra l'aumento dei costi del carburante, l'annullamento di tutti i voli e la sospensione delle vendite dei biglietti.",
+     "contesto_it": [
+      "Crisi dei combustibili da guerra in Iran (2026)"
+     ]
+    },
+    {
+     "testo": "Indonesia's National Search and Rescue Agency terminates the search for 14 missing miners after flooding at an unauthorized gold mine in Bogor Regency, West Java, killed 13 people, citing risks of landslides and mine shaft collapses.",
+     "contesto": [],
+     "categoria": "Disasters and accidents",
+     "fonti": [
+      {
+       "nome": "AFP",
+       "url": "https://www.afp.com/en/indonesia-calls-search-missing-miners"
+      }
+     ],
+     "link": [
+      "Indonesia",
+      "National Search and Rescue Agency",
+      "Illegal mining",
+      "Bogor Regency",
+      "West Java",
+      "Mine shaft"
+     ],
+     "testo_it": "L'agenzia nazionale di ricerca e soccorso indonesiana interrompe la ricerca di 14 minatori scomparsi dopo l'inondazione in una miniera d'oro non autorizzata a Bogor Regency, West Java, uccidendo 13 persone, citando rischi di frane e crolli del pozzo minerario."
+    },
+    {
+     "testo": "The Mexican government files a formal complaint with the United States regarding the anonymous tip lines set up by the Drug Enforcement Administration to receive information about members of organized crime and officials allegedly linked to them.",
+     "contesto": [
+      "Mexico–United States relations, Mexican drug war"
+     ],
+     "categoria": "International relations",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/americas/mexico-files-complaint-with-us-over-dea-tip-line-alleged-drug-traffickers-2026-11-27/"
+      }
+     ],
+     "link": [
+      "Federal government of Mexico",
+      "Drug Enforcement Administration",
+      "Crime in Mexico"
+     ],
+     "testo_it": "Il governo messicano presenta una denuncia formale con gli Stati Uniti per quanto riguarda le linee guida anonime create dalla Drug Enforcement Administration per ricevere informazioni sui membri della criminalità organizzata e funzionari presumibilmente collegati a loro.",
+     "contesto_it": [
+      "Relazioni Messico-Stati Uniti d'America, guerra alla droga messicana"
+     ]
+    },
+    {
      "testo": "The counting of special votes results in the National Party losing two electorate seats, including one overhang seat. The National–ACT–NZ First coalition government falls below a majority to 65 seats, placing the Opportunity Party into a kingmaker position.",
      "contesto": [
       "2026 New Zealand general election"
@@ -115,6 +210,37 @@
      "testo_it": "Il conteggio dei voti speciali ha portato il Partito Nazionale a perdere due seggi elettorali, tra cui un seggio a sbalzo. Il governo della coalizione National-ACT-NZ First scende al di sotto della maggioranza a 65 seggi, ponendo il partito Opportunity in una posizione di re.",
      "contesto_it": [
       "Elezioni generali in Nuova Zelanda (2026)"
+     ]
+    },
+    {
+     "testo": "In figure skating, Ilia Malinin of the United States sets a men's short programme world record with 114.81 points at the NHK Trophy in Tokyo, Japan, surpassing compatriot Nathan Chen's previous record of 113.97 points set at the 2022 Winter Olympics.",
+     "contesto": [
+      "2026–27 ISU Grand Prix of Figure Skating",
+      "2026 NHK Trophy"
+     ],
+     "categoria": "Sports",
+     "fonti": [
+      {
+       "nome": "AFP via France 24",
+       "url": "https://www.france24.com/en/live-news/20261127-majestic-malinin-breaks-short-programme-world-record"
+      }
+     ],
+     "link": [
+      "Figure skating",
+      "Ilia Malinin",
+      "Figure skating in the United States",
+      "Short program (figure skating)",
+      "List of highest scores in figure skating",
+      "NHK Trophy",
+      "Tokyo",
+      "Japan",
+      "Nathan Chen",
+      "Figure skating at the 2022 Winter Olympics – Men's singles"
+     ],
+     "testo_it": "Nel pattinaggio di figura, Ilia Malinin degli Stati Uniti stabilisce un record mondiale di programmi brevi da uomo con 114,81 punti all'NHK Trophy di Tokyo, in Giappone, superando il precedente record del connazionale Nathan Chen di 113,97 punti stabilito alle Olimpiadi invernali del 2022.",
+     "contesto_it": [
+      "ISU Gran Premio di pattinaggio di figura (2026-27)",
+      "NHK Trophy (2026)"
      ]
     }
    ]
@@ -254,6 +380,28 @@
      "testo_it": "Uno scontro tra le fazioni rivali del Partito nazionalista del Bangladesh a Munshiganj Sadar Upazila, in Bangladesh, lascia una persona morta e cinque ferite da colpi di arma da fuoco in vista delle prossime elezioni della parrocchia sindacale.",
      "contesto_it": [
       "Dopo la rivolta di luglio"
+     ]
+    },
+    {
+     "testo": "A drone strike against a police station in Condoto, Chocó Department, leaves one officer killed and two more wounded, marking the second drone attack in an urban area in the last week.",
+     "contesto": [
+      "Colombian conflict"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Cambio Colombia",
+       "url": "https://cambiocolombia.com/conflicto-armado-en-colombia/articulo/2026/11/ataque-con-dron-en-condoto-choco-dejo-un-policia-muerto-y-dos-heridos-de-la-espriella-ordeno-perseguir-a-los-responsables"
+      }
+     ],
+     "link": [
+      "Drone warfare",
+      "Condoto",
+      "Chocó Department"
+     ],
+     "testo_it": "Un attacco di droni contro una stazione di polizia a Condato, nel dipartimento di Chocó, lascia un ufficiale ucciso e altri due feriti, segnando il secondo attacco di droni in un'area urbana nell'ultima settimana.",
+     "contesto_it": [
+      "Conflitto colombiano"
      ]
     },
     {
@@ -618,6 +766,49 @@
      "testo_it": "Un attentatore suicida dello Stato islamico si fa saltare in aria su una motocicletta in un posto di blocco a Hasakah, in Siria, uccidendo due forze di sicurezza e ferendone altre cinque.",
      "contesto_it": [
       "Dopo la guerra civile siriana"
+     ]
+    },
+    {
+     "testo": "An operation against a CJNG ringleader left seven gunmen killed and four detained in Jilotlán de los Dolores, Jalisco, México.",
+     "contesto": [
+      "Mexican drug war"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Revista Proceso",
+       "url": "https://www.proceso.com.mx/nacional/estados/2026/11/25/operativo-en-jilotlan-jalisco-deja-siete-muertos-y-cuatro-detenidos-384350.html"
+      }
+     ],
+     "link": [
+      "CJNG",
+      "Jilotlán de los Dolores",
+      "Jalisco"
+     ],
+     "testo_it": "Un'operazione contro un leader del CJNG ha lasciato sette uomini uccisi e quattro detenuti a Jilotlán de los Dolores, Jalisco, Messico.",
+     "contesto_it": [
+      "Guerra alla droga in Messico"
+     ]
+    },
+    {
+     "testo": "A car bomb blast near the city hall of Villavicencio, Meta Department, leaving at least 12 people wounded.",
+     "contesto": [
+      "Colombian conflict"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "El Universal",
+       "url": "https://www.eluniversal.com.mx/mundo/presidente-de-colombia-acusa-a-disidentes-de-las-farc-de-atentado-que-devasto-villavicencio-ataque-ensombrece-aniversario-de-paz/"
+      }
+     ],
+     "link": [
+      "Villavicencio",
+      "Meta Department"
+     ],
+     "testo_it": "Un'esplosione di autobomba vicino al municipio di Villavicencio, Dipartimento di Meta, lasciando almeno 12 feriti.",
+     "contesto_it": [
+      "Conflitto colombiano"
      ]
     },
     {
