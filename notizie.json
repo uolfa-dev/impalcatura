@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-27T01:47:08Z",
+ "generato": "2026-11-27T12:37:46Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -87,12 +87,16 @@
    "data": "2026-11-27",
    "voci": [
     {
-     "testo": "The counting of special votes results in the National Party losing two electorate seats, including one overhang seat. The National—ACT—NZ First coalition government falls below a majority to 65 seats, placing the Opportunity Party into a kingmaker position.",
+     "testo": "The counting of special votes results in the National Party losing two electorate seats, including one overhang seat. The National–ACT–NZ First coalition government falls below a majority to 65 seats, placing the Opportunity Party into a kingmaker position.",
      "contesto": [
       "2026 New Zealand general election"
      ],
      "categoria": "Politics and elections",
      "fonti": [
+      {
+       "nome": "BBC News",
+       "url": "https://www.bbc.com/news/articles/c670278qk879o"
+      },
       {
        "nome": "RNZ",
        "url": "https://www.rnz.co.nz/news/politics_election-2026/2820329/election-2026-final-results-coalition-loses-majority-another-election-possible"
@@ -108,7 +112,7 @@
       "Opportunity Party (New Zealand)",
       "Kingmaker"
      ],
-     "testo_it": "Il conteggio dei voti speciali ha portato il Partito Nazionale a perdere due seggi elettorali, tra cui un seggio a sbalzo. Il governo di coalizione nazionale – ACT – NZ First scende al di sotto della maggioranza a 65 seggi, ponendo il partito Opportunity in una posizione di re.",
+     "testo_it": "Il conteggio dei voti speciali ha portato il Partito Nazionale a perdere due seggi elettorali, tra cui un seggio a sbalzo. Il governo della coalizione National-ACT-NZ First scende al di sotto della maggioranza a 65 seggi, ponendo il partito Opportunity in una posizione di re.",
      "contesto_it": [
       "Elezioni generali in Nuova Zelanda (2026)"
      ]
@@ -178,6 +182,54 @@
       "Crisi del Medio Oriente",
       "Guerra civile yemenita",
       "Conflitto Houthi-saudita"
+     ]
+    },
+    {
+     "testo": "Thirteen members of the National Guard of Niger are killed and 20 more injured during an armed attack by unknown assailants against their compound in Sanam, Niger. Several gunmen are also killed in the ensuing shootout.",
+     "contesto": [
+      "War in the Sahel",
+      "Islamist insurgency in Niger"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack"
+      }
+     ],
+     "link": [
+      "National Guard of Niger",
+      "Compound (enclosure)",
+      "Sanam, Niger",
+      "Niger",
+      "Shootout"
+     ],
+     "testo_it": "Tredici membri della Guardia Nazionale del Niger vengono uccisi e altri 20 feriti durante un attacco armato da parte di sconosciuti assalitori contro il loro complesso a Sanam, in Niger. Diversi uomini armati vengono uccisi anche nella successiva sparatoria.",
+     "contesto_it": [
+      "La guerra nel Sahel",
+      "Insurrezione islamista in Niger"
+     ]
+    },
+    {
+     "testo": "Thirty people are killed and homes are burned by gunmen in Niger State, Nigeria.",
+     "contesto": [
+      "Herder–farmer conflicts in Nigeria"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Reuters",
+       "url": "https://www.reuters.com/world/africa/suspected-militants-kill-least-30-nigerias-niger-state-residents-say-2026-11-25/"
+      }
+     ],
+     "link": [
+      "Arson",
+      "Niger State",
+      "Nigeria"
+     ],
+     "testo_it": "Trenta persone vengono uccise e le case bruciate da uomini armati nello Stato del Niger, in Nigeria.",
+     "contesto_it": [
+      "Conflitti tra allevatori e allevatori in Nigeria"
      ]
     },
     {
@@ -431,7 +483,7 @@
      ]
     },
     {
-     "testo": "The Bissau-Guinean military government postpones presidential and legislative elections from December 2026 to November 2028, citing inadequate resources and logistical preparations, extending its transition to civilian rule following the November 2025 coup.",
+     "testo": "The Bissau-Guinean military government postpones presidential and legislative elections from December 2026 to November 2028, citing inadequate resources and logistical preparations, delaying its transition to civilian rule following the November 2025 coup.",
      "contesto": [
       "Next Guinea-Bissau general election"
      ],
@@ -449,7 +501,7 @@
       "National People's Assembly (Guinea-Bissau)",
       "2025 Guinea-Bissau coup d'état"
      ],
-     "testo_it": "Il governo militare di Bissau-Guinean rinvia le elezioni presidenziali e legislative dal dicembre 2026 al novembre 2028, citando risorse inadeguate e preparativi logistici, estendendo la sua transizione al dominio civile dopo il colpo di stato del novembre 2025.",
+     "testo_it": "Il governo militare di Bissau-Guinean rinvia le elezioni presidenziali e legislative dal dicembre 2026 al novembre 2028, citando risorse inadeguate e preparativi logistici, ritardando la transizione al governo civile dopo il colpo di stato del novembre 2025.",
      "contesto_it": [
       "Elezioni generali in Guinea-Bissau"
      ]
@@ -567,6 +619,26 @@
      "contesto_it": [
       "Dopo la guerra civile siriana"
      ]
+    },
+    {
+     "testo": "The 100th Macy's Thanksgiving Day Parade in New York City, New York, United States, is postponed to November 28 due to a severe coastal storm bringing heavy rain, coastal flooding, and wind gusts of up to 60 mph (97 km/h). It is the first weather-related postponement in the parade's history.",
+     "contesto": [],
+     "categoria": "Arts and culture",
+     "fonti": [
+      {
+       "nome": "Axios",
+       "url": "https://www.axios.com/2026/11/25/macys-thanksgiving-parade-2026-balloons-weather"
+      }
+     ],
+     "link": [
+      "Macy's Thanksgiving Day Parade",
+      "New York City",
+      "New York (state)",
+      "United States",
+      "Coastal storm",
+      "Coastal flooding"
+     ],
+     "testo_it": "Il 100 ° Macy's Thanksgiving Day Parade a New York City, New York, Stati Uniti, è rinviato al 28 novembre a causa di una grave tempesta costiera che porta forti piogge, inondazioni costiere e raffiche di vento fino a 60 mph (97 km / h)."
     },
     {
      "testo": "Bangladesh's Minimum Wage Board raises the monthly minimum wage for garment workers from ৳12,500 to ৳17,000 following a 4–2 vote, a decision rejected by labour unions demanding at least ৳18,000 amid nearly a month of labour unrest and hundreds of factory closures.",
@@ -947,7 +1019,7 @@
      "testo_it": "Beau Lamarre-Condon viene riconosciuto colpevole di aver ucciso il presentatore televisivo australiano Jesse Baird e il suo partner Luke Davies nel 2024."
     },
     {
-     "testo": "A magistrates' court in Mombasa, Kenya, finds jailed cult leader Paul Mackenzie, founder of the Good News International Church, of assault and cruelty to children, which will add to his existing sentence of 200 years in prison for mass murder.",
+     "testo": "A magistrates' court in Mombasa, Kenya, finds jailed cult leader Paul Mackenzie, founder of the Good News International Church, guilty of assault and cruelty to children, which will add to his existing sentence of 200 years in prison for mass murder.",
      "contesto": [],
      "categoria": "Law and crime",
      "fonti": [
@@ -960,13 +1032,13 @@
       "Magistrates' Court (Kenya)",
       "Mombasa",
       "Kenya",
-      "Paul Mackenzie",
+      "Paul Mackenzie (cult leader)",
       "Good News International Ministries",
       "Assault",
       "Child abuse",
       "Mass murder"
      ],
-     "testo_it": "Un tribunale dei magistrati di Mombasa, in Kenya, trova il leader del culto imprigionato Paul Mackenzie, fondatore della Good News International Church, di aggressione e crudeltà verso i bambini, che si aggiungerà alla sua attuale condanna a 200 anni di carcere per omicidio di massa."
+     "testo_it": "Un tribunale dei magistrati di Mombasa, in Kenya, trova il leader del culto imprigionato Paul Mackenzie, fondatore della Good News International Church, colpevole di aggressione e crudeltà nei confronti dei bambini, che si aggiungerà alla sua attuale condanna a 200 anni di carcere per omicidio di massa."
     },
     {
      "testo": "Pakistani astronaut Muhammad Zeeshan Ali becomes the first Pakistani to reach orbit and the first foreign national to board China's Tiangong space station, arriving aboard the Shenzhou-24 spacecraft alongside two Chinese astronauts to conduct scientific experiments during a five-day mission.",
@@ -1106,6 +1178,26 @@
      "contesto_it": [
       "Guerra russo-ucraina",
       "Guerra navale nella guerra russo-ucraina, attacchi ucraini alla flotta ombra russa"
+     ]
+    },
+    {
+     "testo": "Eleven soldiers are killed and five more injured during an attack by Boko Haram gunmen against a military patrol in Baroua, Diffa Region, Niger.",
+     "contesto": [
+      "War in the Sahel",
+      "Islamist insurgency in Niger"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [],
+     "link": [
+      "Niger Armed Forces",
+      "Boko Haram",
+      "Diffa Region",
+      "Niger"
+     ],
+     "testo_it": "Undici soldati vengono uccisi e altri cinque feriti durante un attacco di Boko Haram contro una pattuglia militare a Baroua, nella regione di Diffa, in Niger.",
+     "contesto_it": [
+      "La guerra nel Sahel",
+      "Insurrezione islamista in Niger"
      ]
     },
     {
