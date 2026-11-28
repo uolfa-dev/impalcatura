@@ -1,6 +1,6 @@
 {
  "versione": 1,
- "generato": "2026-11-27T23:30:59Z",
+ "generato": "2026-11-28T07:58:18Z",
  "fonte": "https://en.wikipedia.org/wiki/Portal:Current_events",
  "traduzione": {
   "modello": "Helsinki-NLP/opus-mt-tc-big-en-it",
@@ -84,6 +84,46 @@
  ],
  "giorni": [
   {
+   "data": "2026-11-28",
+   "voci": [
+    {
+     "testo": "Residents of the Australian state of Victoria vote to elect 88 seats of the Legislative Assembly and 40 seats of the Legislative Council. Incumbent premier Ben Carroll seeks to win a fourth consecutive Labor government over the Liberal–National Coalition, led by opposition leader Jess Wilson.",
+     "contesto": [
+      "2026 Victorian state election"
+     ],
+     "categoria": "Politics and elections",
+     "fonti": [
+      {
+       "nome": "ABC News Australia",
+       "url": "https://www.abc.net.au/news/2026-11-28/victorian-election-live-updates-voting-results-seat-count/107418038"
+      },
+      {
+       "nome": "The Guardian",
+       "url": "https://www.theguardian.com/australia-news/2026/nov/28/victorian-election-2026-when-is-it-how-to-vote-date-where-victoria-state-polls-candidates-voting-near-count-ntwnfb"
+      }
+     ],
+     "link": [
+      "Australia",
+      "States and territories of Australia",
+      "Victoria (state)",
+      "Victorian Legislative Assembly",
+      "2026 Victorian Legislative Council election",
+      "Victorian Legislative Council",
+      "Premier of Victoria",
+      "Ben Carroll",
+      "Victorian Labor Party",
+      "Liberal–National Coalition (Victoria)",
+      "Leader of the Opposition (Victoria)",
+      "Jess Wilson"
+     ],
+     "testo_it": "I residenti dello stato australiano di Victoria votano per eleggere 88 seggi dell'Assemblea legislativa e 40 seggi del Consiglio legislativo. Il premier in carica Ben Carroll cerca di vincere un quarto governo laburista consecutivo sulla coalizione liberale-nazionale, guidato dal leader dell'opposizione Jess Wilson.",
+     "contesto_it": [
+      "Elezioni statali vittoriane (2026)"
+     ]
+    }
+   ]
+  },
+  {
    "data": "2026-11-27",
    "voci": [
     {
@@ -116,6 +156,31 @@
      ]
     },
     {
+     "testo": "At least five people are injured in clashes between the Awami League and the Bangladesh Nationalist Party in Kalkini Upazila, Madaripur District, Bangladesh, during which more than 50 crude bombs are detonated.",
+     "contesto": [
+      "Aftermath of the July Uprising"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "The Business Standard",
+       "url": "https://www.tbsnews.net/bangladesh/least-5-injured-clashes-between-banned-al-bnp-activists-kalkini-over-50-crude-bombs"
+      }
+     ],
+     "link": [
+      "Awami League",
+      "Bangladesh Nationalist Party",
+      "Kalkini Upazila",
+      "Madaripur District",
+      "Bangladesh",
+      "Improvised explosive device"
+     ],
+     "testo_it": "Almeno cinque persone sono rimaste ferite negli scontri tra la Lega Awami e il Partito nazionalista del Bangladesh a Kalkini Upazila, nel distretto di Madaripur, in Bangladesh, durante i quali sono esplose più di 50 bombe grezze.",
+     "contesto_it": [
+      "Dopo la rivolta di luglio"
+     ]
+    },
+    {
      "testo": "Norwegian low-cost carrier Norse Atlantic Airways announces that its Norwegian operating subsidiary filed for bankruptcy after failing to secure short-term funding amid rising fuel costs, cancelling all flights and suspending ticket sales.",
      "contesto": [
       "2026 Iran war fuel crisis"
@@ -138,6 +203,24 @@
      "contesto_it": [
       "Crisi dei combustibili da guerra in Iran (2026)"
      ]
+    },
+    {
+     "testo": "France’s economy is contracted for two consecutive quarters and enters into a recession.",
+     "contesto": [],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "AOL",
+       "url": "https://www.aol.com/articles/france-falls-recession-143511000.html"
+      }
+     ],
+     "link": [
+      "France",
+      "Economy of France",
+      "Economic collapse",
+      "Recession"
+     ],
+     "testo_it": "L'economia francese è contratta per due trimestri consecutivi ed entra in recessione."
     },
     {
      "testo": "Indonesia's National Search and Rescue Agency terminates the search for 14 missing miners after flooding at an unauthorized gold mine in Bogor Regency, West Java, killed 13 people, citing risks of landslides and mine shaft collapses.",
@@ -277,6 +360,34 @@
      ]
     },
     {
+     "testo": "United States Central Command forces fire at and disable the Palau-flagged merchant vessel Pacific Archer in the Gulf of Oman for attempting to breach the blockade of Iranian ports.",
+     "contesto": [
+      "Middle Eastern crisis",
+      "2026 Iran war",
+      "Naval blockade of Iran"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade"
+      }
+     ],
+     "link": [
+      "United States Central Command",
+      "Palau",
+      "Flag state",
+      "Merchant vessel",
+      "Gulf of Oman"
+     ],
+     "testo_it": "Le forze del Comando Centrale degli Stati Uniti sparano e disattivano la nave mercantile Pacific Archer nel Golfo di Oman per aver tentato di violare il blocco dei porti iraniani.",
+     "contesto_it": [
+      "Crisi del Medio Oriente",
+      "Guerra in Iran (2026)",
+      "Blocco navale dell'Iran"
+     ]
+    },
+    {
      "testo": "Saudi Arabia says it has destroyed 50 Houthi military targets, including weapons depots, ballistic missile and drone launch sites, and command centres, in airstrikes on Sanaa, Al Hudaydah, and Saada Governorates in Yemen.",
      "contesto": [
       "Middle Eastern crisis",
@@ -390,7 +501,7 @@
      "categoria": "Armed conflicts and attacks",
      "fonti": [
       {
-       "nome": "Cambio Colombia",
+       "nome": "Cambio Colombia in Spanish",
        "url": "https://cambiocolombia.com/conflicto-armado-en-colombia/articulo/2026/11/ataque-con-dron-en-condoto-choco-dejo-un-policia-muerto-y-dos-heridos-de-la-espriella-ordeno-perseguir-a-los-responsables"
       }
      ],
@@ -578,7 +689,7 @@
      "testo_it": "Una sparatoria tra autisti di minibus dopo una lite in una strada di Beirut, in Libano, uccide due persone e ne ferisce altre tre."
     },
     {
-     "testo": "The Serbian parliament sets the upcoming presidential election to December 27 after former president Aleksandar Vučić resigned in September.",
+     "testo": "The Serbian parliament schedules the upcoming presidential election for December 27 after former president Aleksandar Vučić resigned in September.",
      "contesto": [
       "2026 Serbian presidential election"
      ],
@@ -595,7 +706,7 @@
       "President of Serbia",
       "Aleksandar Vučić"
      ],
-     "testo_it": "Il parlamento serbo fissa le prossime elezioni presidenziali il 27 dicembre dopo che l'ex presidente Aleksandar Vučić si è dimesso a settembre.",
+     "testo_it": "Il parlamento serbo pianifica le prossime elezioni presidenziali per il 27 dicembre dopo le dimissioni dell'ex presidente Aleksandar Vučić a settembre.",
      "contesto_it": [
       "Elezioni presidenziali in Serbia (2026)"
      ]
@@ -714,7 +825,7 @@
      ]
     },
     {
-     "testo": "A Hamas security official, his wife, and two daughters, are killed in an Israeli airstrike on the Al-Shati refugee camp near Gaza City. Seven more Palestinians are also killed and several injured in more Israeli airstrikes.",
+     "testo": "A Hamas security official, his wife, and two daughters, are killed in an Israeli airstrike on the Al-Shati refugee camp near Gaza City. Seven more Palestinians are also killed and several injured in other Israeli airstrikes.",
      "contesto": [
       "Middle Eastern crisis",
       "Gaza war"
@@ -769,46 +880,48 @@
      ]
     },
     {
-     "testo": "An operation against a CJNG ringleader left seven gunmen killed and four detained in Jilotlán de los Dolores, Jalisco, México.",
-     "contesto": [
-      "Mexican drug war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Revista Proceso",
-       "url": "https://www.proceso.com.mx/nacional/estados/2026/11/25/operativo-en-jilotlan-jalisco-deja-siete-muertos-y-cuatro-detenidos-384350.html"
-      }
-     ],
-     "link": [
-      "CJNG",
-      "Jilotlán de los Dolores",
-      "Jalisco"
-     ],
-     "testo_it": "Un'operazione contro un leader del CJNG ha lasciato sette uomini uccisi e quattro detenuti a Jilotlán de los Dolores, Jalisco, Messico.",
-     "contesto_it": [
-      "Guerra alla droga in Messico"
-     ]
-    },
-    {
-     "testo": "A car bomb blast near the city hall of Villavicencio, Meta Department, leaving at least 12 people wounded.",
+     "testo": "A car bomb blast near the city hall of Villavicencio, Meta Department, Colombia, wounds 12 people.",
      "contesto": [
       "Colombian conflict"
      ],
      "categoria": "Armed conflicts and attacks",
      "fonti": [
       {
-       "nome": "El Universal",
+       "nome": "El Universal in Spanish",
        "url": "https://www.eluniversal.com.mx/mundo/presidente-de-colombia-acusa-a-disidentes-de-las-farc-de-atentado-que-devasto-villavicencio-ataque-ensombrece-aniversario-de-paz/"
       }
      ],
      "link": [
       "Villavicencio",
-      "Meta Department"
+      "Meta Department",
+      "Colombia"
      ],
-     "testo_it": "Un'esplosione di autobomba vicino al municipio di Villavicencio, Dipartimento di Meta, lasciando almeno 12 feriti.",
+     "testo_it": "Un'esplosione di autobomba vicino al municipio di Villavicencio, Dipartimento di Meta, Colombia, ferisce 12 persone.",
      "contesto_it": [
       "Conflitto colombiano"
+     ]
+    },
+    {
+     "testo": "An operation against a Jalisco New Generation Cartel ringleader leaves seven gunmen killed and four detained in Jilotlán de los Dolores, Jalisco, México.",
+     "contesto": [
+      "Mexican drug war"
+     ],
+     "categoria": "Armed conflicts and attacks",
+     "fonti": [
+      {
+       "nome": "Proceso in Spanish",
+       "url": "https://www.proceso.com.mx/nacional/estados/2026/11/25/operativo-en-jilotlan-jalisco-deja-siete-muertos-y-cuatro-detenidos-384350.html"
+      }
+     ],
+     "link": [
+      "Jalisco New Generation Cartel",
+      "Jilotlán de los Dolores",
+      "Jalisco",
+      "Mexico"
+     ],
+     "testo_it": "Un'operazione contro un boss del cartello di nuova generazione di Jalisco lascia sette uomini armati uccisi e quattro detenuti a Jilotlán de los Dolores, Jalisco, Messico.",
+     "contesto_it": [
+      "Guerra alla droga in Messico"
      ]
     },
     {
@@ -923,6 +1036,37 @@
      "testo_it": "Migliaia di lavoratori in tutta la Grecia mettono in scena uno sciopero che richiede salari più alti, bonus del settore pubblico ripristinati e maggiori finanziamenti per l'istruzione e l'assistenza sanitaria, interrompendo traghetti, metropolitana e servizi aerei.",
      "contesto_it": [
       "Insurrezioni europee (2026)"
+     ]
+    },
+    {
+     "testo": "American chipmaker Nvidia directs its manufacturing partners to pause shipments of servers containing its chips to Indonesia, Malaysia, Singapore, and Thailand, following increased U.S. export control aimed at preventing China from accessing advanced AI hardware.",
+     "contesto": [
+      "Jensen Huang scandal, Chinese intelligence activity abroad, Artificial intelligence industry in China"
+     ],
+     "categoria": "Business and economy",
+     "fonti": [
+      {
+       "nome": "Financial Times",
+       "url": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1"
+      }
+     ],
+     "link": [
+      "Semiconductor industry",
+      "Nvidia",
+      "Nvidia DGX",
+      "List of Nvidia graphics processing units",
+      "Indonesia",
+      "Malaysia",
+      "Singapore",
+      "Thailand",
+      "Export control",
+      "China",
+      "AI",
+      "Hardware for artificial intelligence"
+     ],
+     "testo_it": "Il chipmaker americano Nvidia indirizza i suoi partner di produzione a mettere in pausa le spedizioni di server contenenti i suoi chip in Indonesia, Malesia, Singapore e Thailandia, a seguito di un aumento del controllo delle esportazioni degli Stati Uniti volto a impedire alla Cina di accedere all'hardware avanzato dell'intelligenza artificiale.",
+     "contesto_it": [
+      "Jensen Huang scandalo, attività di intelligence cinese all'estero, industria dell'intelligenza artificiale in Cina"
      ]
     },
     {
@@ -2656,435 +2800,6 @@
      "testo_it": "Nelle corse motociclistiche, il pilota spagnolo Marc Márquez di Ducati Corse si assicura il suo ottavo Campionato del Mondo MotoGP dopo aver concluso ottavo al Gran Premio del Portogallo, eguagliando il record di Giacomo Agostini per i titoli mondiali di corse motociclistiche più importanti.",
      "contesto_it": [
       "Campionato del Mondo MotoGP (2026)"
-     ]
-    }
-   ]
-  },
-  {
-   "data": "2026-11-21",
-   "voci": [
-    {
-     "testo": "Three Palestinians are killed by an Israeli drone strike on a food-carrying vehicle in Gaza City, while another is killed by gunfire in Jabalia.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "Gaza war",
-      "Gaza genocide, Gaza humanitarian crisis"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AFP via France 24",
-       "url": "https://www.france24.com/en/live-news/20261121-gaza-civil-defence-says-israeli-fire-kills-four"
-      },
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/middle-east/israeli-strike-kills-three-vehicle-distributing-aid-gaza-witnesses-say-2026-11-21/"
-      },
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck"
-      }
-     ],
-     "link": [
-      "Palestinians",
-      "Israel",
-      "Drone warfare",
-      "Humanitarian aid during the Gaza war",
-      "Gaza City",
-      "Jabalia"
-     ],
-     "testo_it": "Tre palestinesi vengono uccisi da un attacco di droni israeliani su un veicolo che trasporta cibo a Gaza City, mentre un altro viene ucciso da colpi di arma da fuoco a Jabalia.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Guerra di Gaza",
-      "Genocidio di Gaza, crisi umanitaria di Gaza"
-     ]
-    },
-    {
-     "testo": "Saudi forces intercept three ballistic missiles fired at Riyadh, Saudi Arabia, by the Houthis.",
-     "contesto": [
-      "Middle Eastern crisis",
-      "Yemeni civil war",
-      "Houthi–Saudi conflict"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh"
-      }
-     ],
-     "link": [
-      "Saudi Arabian Armed Forces",
-      "Ballistic missile",
-      "Riyadh",
-      "Saudi Arabia",
-      "Houthis"
-     ],
-     "testo_it": "Le forze saudite intercettano tre missili balistici lanciati contro Riyadh, in Arabia Saudita, dagli Houthi.",
-     "contesto_it": [
-      "Crisi del Medio Oriente",
-      "Guerra civile yemenita",
-      "Conflitto Houthi-saudita"
-     ]
-    },
-    {
-     "testo": "A bombing against a FARC dissidents camp in a rural area of Mapiripán, Meta Department, kills five guerrilla fighters.",
-     "contesto": [
-      "War on drugs",
-      "Colombian conflict"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "CW+ noticias",
-       "url": "https://cwmas.com.co/nacion/2026/11/21/operacion-ninfa-mapiripan-meta/"
-      }
-     ],
-     "link": [
-      "FARC dissidents",
-      "Mapiripán",
-      "Meta Department",
-      "Guerrilla warfare"
-     ],
-     "testo_it": "Un bombardamento contro un campo di dissidenti delle FARC in una zona rurale di Mapiripán, Dipartimento Meta, uccide cinque guerriglieri.",
-     "contesto_it": [
-      "Guerra alla droga",
-      "Conflitto colombiano"
-     ]
-    },
-    {
-     "testo": "Four soldiers and 16 gunmen are killed in a shootout amid a federal operation by the Mexican Army in Guasave, Sinaloa, leading to the arrest of a cartel leader.",
-     "contesto": [
-      "War on drugs",
-      "Mexican drug war"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "Meganoticias",
-       "url": "https://www.meganoticias.mx/cdmx/noticia/suman-20-muertos-por-enfrentamientos-en-guasave/791118"
-      }
-     ],
-     "link": [
-      "Shootout",
-      "Mexican Army",
-      "Guasave",
-      "Sinaloa"
-     ],
-     "testo_it": "Quattro soldati e 16 uomini armati vengono uccisi in una sparatoria in mezzo a un'operazione federale dell'esercito messicano a Guasave, Sinaloa, che porta all'arresto di un leader del cartello.",
-     "contesto_it": [
-      "Guerra alla droga",
-      "Guerra alla droga in Messico"
-     ]
-    },
-    {
-     "testo": "The Finnish defence ministry imposes temporary airspace and maritime restrictions after a drone struck a Russian cargo vessel in international waters of the Gulf of Finland, causing a fire.",
-     "contesto": [
-      "Russo-Ukrainian war",
-      "2026 drone incursions into the Baltic states and Finland"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "AFP",
-       "url": "https://www.afp.com/en/russian-cargo-ship-hit-drone-baltic-finland-says"
-      }
-     ],
-     "link": [
-      "Finland",
-      "Ministry of Defence (Finland)",
-      "Airspace",
-      "Unmanned aerial vehicle",
-      "Russia",
-      "International waters",
-      "Gulf of Finland"
-     ],
-     "testo_it": "Il ministero della Difesa finlandese impone restrizioni temporanee dello spazio aereo e marittime dopo che un drone ha colpito una nave da carico russa nelle acque internazionali del Golfo di Finlandia, causando un incendio.",
-     "contesto_it": [
-      "Guerra russo-ucraina",
-      "2026 incursioni di droni nei paesi baltici e in Finlandia"
-     ]
-    },
-    {
-     "testo": "Clashes between Bangladesh Nationalist Party supporters and banned Awami League activists in Bera Upazila, Pabna District, injure several people following an arson attack at the abandoned home of former Deputy Speaker Shamsul Hoque Tuku and retaliatory vandalism, with police firing rubber bullets and tear gas to disperse the crowd.",
-     "contesto": [
-      "Aftermath of the July Uprising"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "UNB",
-       "url": "https://unb.com.bd/category/Bangladesh/bnp-al-activists-clash-repeatedly-in-pabnas-bera-several-injured/200931"
-      }
-     ],
-     "link": [
-      "Bangladesh Nationalist Party",
-      "Awami League",
-      "Bera Upazila",
-      "Pabna District",
-      "Arson",
-      "Deputy Speaker of the Jatiya Sangsad",
-      "Shamsul Hoque Tuku",
-      "Vandalism",
-      "Bangladesh Police",
-      "Rubber bullet",
-      "Tear gas"
-     ],
-     "testo_it": "Scontri tra sostenitori del Partito nazionalista del Bangladesh e attivisti della Lega Awami a Bera Upazila, nel distretto di Pabna, feriscono diverse persone a seguito di un attacco incendiario nella casa abbandonata dell'ex vice presidente Shamsul Hoque Tuku e vandalismo di rappresaglia, con la polizia che spara proiettili di gomma e gas lacrimogeni per disperdere la folla.",
-     "contesto_it": [
-      "Dopo la rivolta di luglio"
-     ]
-    },
-    {
-     "testo": "Between five and eleven people, including an infant, are killed, five others are injured and several others are abducted in a bandit attack in Borgu, Niger State, Nigeria.",
-     "contesto": [
-      "Nigerian bandit conflict"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "The Punch",
-       "url": "https://punchng.com/bandits-kill-niger-village-head-five-others/"
-      },
-      {
-       "nome": "AFP via Citizen Digital",
-       "url": "https://citizen.digital/article/armed-gangs-attack-centraligerian-village-killing-11-n394344"
-      }
-     ],
-     "link": [
-      "Borgu (local government area)",
-      "Niger State",
-      "Nigeria"
-     ],
-     "testo_it": "Tra le cinque e le undici persone, tra cui un bambino, vengono uccise, altre cinque sono ferite e molte altre vengono rapite in un attacco bandito a Borgu, nello Stato del Niger, in Nigeria.",
-     "contesto_it": [
-      "Conflitto bandito nigeriano"
-     ]
-    },
-    {
-     "testo": "Between 35 and 74 Fulani herdsmen are killed in a vigilante attack in two villages of Borgu in retaliation for the earlier bandit raid.",
-     "contesto": [
-      "Nigerian bandit conflict"
-     ],
-     "categoria": "Armed conflicts and attacks",
-     "fonti": [
-      {
-       "nome": "The Rio Times",
-       "url": "https://www.riotimesonline.com/nigeria-niger-state-reprisals-fulani-killed-2026/"
-      }
-     ],
-     "link": [
-      "Fulani herdsmen"
-     ],
-     "testo_it": "Tra i 35 e i 74 pastori Fulani vengono uccisi in un attacco di vigilantes in due villaggi di Borgu in rappresaglia per il precedente raid di banditi.",
-     "contesto_it": [
-      "Conflitto bandito nigeriano"
-     ]
-    },
-    {
-     "testo": "At least 80 garment factories in Savar and Ashulia, Bangladesh, declare general holidays after workers stage sit-ins and work stoppages over minimum wage demands, while police announce that 96 people, including five labour leaders, have been arrested in connection with the 4 November clashes on the Dhaka–Aricha Highway.",
-     "contesto": [
-      "2026 Bangladesh garment workers protests"
-     ],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "The Business Standard",
-       "url": "https://www.tbsnews.net/economy/rmg/labour-unrest-least-12-factories-declare-holiday-amid-work-abstention-savar-1609261"
-      },
-      {
-       "nome": "The Daily Star",
-       "url": "https://www.thedailystar.net/news/news/50-factories-savar-ashulia-declare-holidays-amid-wage-protests-4329371"
-      }
-     ],
-     "link": [
-      "Textile industry in Bangladesh",
-      "Savar Upazila",
-      "Ashulia",
-      "Bangladesh",
-      "Sit-in",
-      "Strike action",
-      "Minimum wage",
-      "Bangladesh Police",
-      "Trade union",
-      "N5 (Bangladesh)"
-     ],
-     "testo_it": "Almeno 80 fabbriche di abbigliamento a Savar e Ashulia, in Bangladesh, dichiarano le vacanze generali dopo che i lavoratori mettono in scena sit-in e interruzioni del lavoro per richieste di salario minimo, mentre la polizia annuncia che 96 persone, tra cui cinque leader sindacali, sono state arrestate in relazione agli scontri del 4 novembre sulla Dhaka-Aricha Highway.",
-     "contesto_it": [
-      "Proteste dei lavoratori del Bangladesh (2026)"
-     ]
-    },
-    {
-     "testo": "Laid-off garment workers in Rupganj, Narayanganj District, block roads by felling trees and burning tires over unpaid wages.",
-     "contesto": [
-      "2026 Bangladesh garment workers protests"
-     ],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "The Business Standard",
-       "url": "https://www.tbsnews.net/bangladesh/garment-workers-block-road-over-unpaid-wages-narayanganj-1609671"
-      }
-     ],
-     "link": [
-      "Rupganj Upazila",
-      "Narayanganj District",
-      "Felling",
-      "Tire fire",
-      "Wage theft"
-     ],
-     "testo_it": "I laid-off lavoratori dell'abbigliamento a Rupganj, distretto di Narayanganj, bloccano le strade abbattendo alberi e bruciando pneumatici per i salari non pagati.",
-     "contesto_it": [
-      "Proteste dei lavoratori del Bangladesh (2026)"
-     ]
-    },
-    {
-     "testo": "Border Guard Bangladesh deploys 90 platoons across seven districts, with four more on standby, amid ongoing political violence and strike action.",
-     "contesto": [
-      "2026 Bangladesh garment workers protests"
-     ],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "Dhaka Tribune",
-       "url": "https://www.dhakatribune.com/bangladesh/425296/90-bgb-platoons-deployed-in-seven-districts"
-      }
-     ],
-     "link": [
-      "Border Guard Bangladesh",
-      "Platoon",
-      "Districts of Bangladesh",
-      "Political violence",
-      "Strike action"
-     ],
-     "testo_it": "La Guardia di frontiera del Bangladesh distribuisce 90 plotoni in sette distretti, con altri quattro in standby, tra violenze politiche in corso e azioni di sciopero.",
-     "contesto_it": [
-      "Proteste dei lavoratori del Bangladesh (2026)"
-     ]
-    },
-    {
-     "testo": "The Japanese trade ministry announces that Saudi Arabia agreed to triple the volume of crude oil stored in Japan to 24 million barrels, under Japan's joint stockpiling system with Saudi Arabia, Kuwait, and the United Arab Emirates.",
-     "contesto": [
-      "Japan–Saudi Arabia relations"
-     ],
-     "categoria": "Business and economy",
-     "fonti": [
-      {
-       "nome": "Japan Today",
-       "url": "https://japantoday.com/category/business/saudi-arabia-agrees-to-triple-crude-stored-in-japan-amid-mideast-tensions"
-      }
-     ],
-     "link": [
-      "Ministry of Economy, Trade and Industry",
-      "Crude oil",
-      "Japan",
-      "Barrel (unit)",
-      "Global strategic petroleum reserves",
-      "Kuwait",
-      "United Arab Emirates"
-     ],
-     "testo_it": "Il ministero del commercio giapponese annuncia che l'Arabia Saudita ha accettato di triplicare il volume di greggio immagazzinato in Giappone a 24 milioni di barili, nell'ambito del sistema di stoccaggio congiunto del Giappone con l'Arabia Saudita, il Kuwait e gli Emirati Arabi Uniti.",
-     "contesto_it": [
-      "Relazioni Giappone-Arabia Saudita"
-     ]
-    },
-    {
-     "testo": "A fire at a confectionery factory in Serang Regency, Banten, Indonesia, kills at least 24 people, leaves 30 others missing, and injures five.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/world/asia-pacific/indonesia-says-24-killed-factory-blaze-rescuers-search-dozens-missing-2026-11-23/"
-      }
-     ],
-     "link": [
-      "Confectionery",
-      "Serang Regency",
-      "Banten",
-      "Indonesia"
-     ],
-     "testo_it": "Un incendio in una fabbrica di dolciumi a Serang Regency, Banten, in Indonesia, uccide almeno 24 persone, lascia 30 altri dispersi e ne ferisce cinque."
-    },
-    {
-     "testo": "Four people are killed and 35 others are injured in a fire at a power station in Basra, Iraq.",
-     "contesto": [],
-     "categoria": "Disasters and accidents",
-     "fonti": [
-      {
-       "nome": "Reuters",
-       "url": "https://www.reuters.com/business/energy/iraq-fire-basra-power-station-kills-least-four-injures-30-2026-11-21/"
-      }
-     ],
-     "link": [
-      "Basra",
-      "Iraq"
-     ],
-     "testo_it": "Quattro persone sono morte e altre 35 sono rimaste ferite in un incendio in una centrale elettrica a Bassora, in Iraq."
-    },
-    {
-     "testo": "Indonesia and the European Union sign trade and investment agreements that will lift 98.5% of tariffs on EU goods.",
-     "contesto": [
-      "Indonesia–European Union trade relations"
-     ],
-     "categoria": "International relations",
-     "fonti": [
-      {
-       "nome": "Euronews",
-       "url": "https://www.euronews.com/2026/11/21/european-union-and-indonesia-sign-free-trade-deal-after-decade-of-talks"
-      }
-     ],
-     "link": [
-      "Indonesia",
-      "European Union",
-      "Tariff",
-      "Economy of the European Union"
-     ],
-     "testo_it": "L'Indonesia e l'Unione europea firmano accordi commerciali e di investimento che solleveranno il 98,5% delle tariffe sulle merci dell'UE.",
-     "contesto_it": [
-      "Relazioni commerciali Indonesia-Unione europea"
-     ]
-    },
-    {
-     "testo": "Three people are killed and another person is injured in a shootout at a baby shower in Parma, Ohio, United States. The dead include one of the shooters, while a second person is arrested for killing the presumed main perpetrator.",
-     "contesto": [],
-     "categoria": "Law and crime",
-     "fonti": [
-      {
-       "nome": "Associated Press via NBC News",
-       "url": "https://www.nbcnews.com/news/us-news/parma-ohio-baby-shower-shooting-rcna610722"
-      }
-     ],
-     "link": [
-      "Shootout",
-      "Baby shower",
-      "Parma, Ohio",
-      "Ohio",
-      "United States"
-     ],
-     "testo_it": "Tre persone vengono uccise e un'altra persona viene ferita in una sparatoria a Parma, Ohio, Stati Uniti. I morti includono uno dei tiratori, mentre una seconda persona viene arrestata per aver ucciso il presunto colpevole principale."
-    },
-    {
-     "testo": "The European Space Agency announces that the BepiColombo spacecraft inserted itself into orbit around Mercury.",
-     "contesto": [
-      "Exploration of Mercury"
-     ],
-     "categoria": "Science and technology",
-     "fonti": [
-      {
-       "nome": "AP",
-       "url": "https://apnews.com/article/mercury-bepicolombo-space-planet-esa-0c80bbf2039ed4f6ee4a34426b3594a0"
-      }
-     ],
-     "link": [
-      "European Space Agency",
-      "BepiColombo",
-      "Mercury (planet)"
-     ],
-     "testo_it": "L'Agenzia Spaziale Europea annuncia che la navicella spaziale BepiColombo si è inserita in orbita attorno a Mercurio.",
-     "contesto_it": [
-      "Esplorazione di Mercurio"
      ]
     }
    ]
